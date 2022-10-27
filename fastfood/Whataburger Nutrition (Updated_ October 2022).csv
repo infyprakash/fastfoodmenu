@@ -1,0 +1,178 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,A.1. Thick & Hearty Burger,,1050,64,65,55
+1,A.1. Thick & Hearty Burger Jr.,,540,35,30,27
+2,A.1. Thick & Hearty Burger Jr. Whatameal,,1230,55,161,33
+3,A.1. Thick & Hearty Burger Whatameal,,1740,84,195,61
+4,Avocado Bacon Burger,,810,51,51,36
+5,Avocado Bacon Burger Whatameal,,1530,72,186,41
+6,Bacon & Cheese Whataburger,,800,44,61,40
+7,Bacon & Cheese Whataburger Meal,,1350,57,176,44
+8,Chop House Cheddar Burger,,1160,75,59,60
+9,Chop House Cheddar Burger Jr.,,600,40,27,30
+10,Chop House Cheddar Burger Jr. Meal,,1290,60,160,36
+11,Chop House Cheddar Burger Meal,,1840,95,190,66
+12,Double Meat Whataburger,,880,51,61,48
+13,Double Meat Whataburger Jr.,,430,25,28,23
+14,Double Meat Whataburger Jr.Meal,,880,38,115,26
+15,Double Meat Whataburger Jr.with Cheese,,470,28,29,25
+16,Double Meat Whataburger Meal,,1570,71,192,54
+17,Green Chile Double,,1010,62,68,54
+18,Green Chile Double Jr Whatameal,,1210,53,163,32
+19,Green Chile Double Jr.,,520,33,33,27
+20,Green Chile Double Meal,,1700,82,199,60
+21,Jalapeno & Cheese Whataburger,,730,39,61,35
+22,Jalapeno & Cheese Whataburger Meal,,1420,59,192,41
+23,Justaburger,,290,15,25,13
+24,Monterey Melt,,1140,75,59,55
+25,Monterey Melt Jr.,,620,42,32,29
+26,Monterey Melt Jr. Whatameal,,1310,62,163,35
+27,Monterey Melt Whatameal,,1830,95,190,61
+28,Triple Meat Whataburger,,1130,70,61,66
+29,Triple Meat Whataburger Meal,,1820,90,192,71
+30,Whataburger,,640,32,61,30
+31,Whataburger Jr.,,300,15,28,14
+32,Whataburger Jr. Meal,,760,28,115,18
+33,Whataburger Jr.with Bacon & Cheese,,400,23,29,19
+34,Whataburger Meal,,1330,52,192,36
+35,Whataburger Patty Melt,,1100,75,54,50
+36,Whataburger Patty Melt Meal,,1790,95,184,56
+37,Whataburger Patty Melt Single,,790,51,54,30
+38,Whataburger Patty Melt Single Meal,,1420,66,184,32
+39,Whatacatch Sandwich,,450,25,44,16
+40,Biscuit,,300,17,32,5
+41,Biscuit and Gravy,,510,30,48,9
+42,Biscuit and Jelly,,340,17,41,5
+43,Biscuit Sandwich with Bacon,,500,32,34,16
+44,Biscuit Sandwich with Bacon Meal,,670,41,94,18
+45,Biscuit Sandwich with Sausage,,690,49,34,26
+46,Biscuit Sandwich with Sausage Meal,,890,61,94,28
+47,Biscuit with Bacon,,350,20,32,8
+48,Biscuit with Sausage,,540,37,32,18
+49,Breakfast On A Bun with Bacon,,320,18,26,15
+50,Breakfast On A Bun with Bacon Meal,,550,32,86,19
+51,Breakfast On A Bun with Sausage,,510,35,26,25
+52,Breakfast On A Bun with Sausage Meal,,710,47,86,27
+53,Breakfast Platter with Bacon,,640,41,34,29
+54,Breakfast Platter with Bacon Meal,,840,54,94,31
+55,Breakfast Platter with Sausage,,830,59,34,38
+56,Breakfast Platter with Sausage Meal,,1030,71,94,40
+57,Egg and Cheese Biscuit,,450,28,34,13
+58,Egg Sandwich,,310,18,26,12
+59,Hash Brown Sticks,,200,12,60,2
+60,Jalapeno Cheddar Biscuit,,370,25,31,8
+61,Jalapeno Cheddar Biscuit Sandwich,,490,33,32,16
+62,Jalapeno Cheddar Biscuit Sandwich Meal,,700,45,93,16
+63,Jalapeno Cheddar Biscuit Sandwich with Bacon,,490,33,31,16
+64,Jalapeno Cheddar Biscuit Sandwich with Bacon Meal,,740,48,93,18
+65,Jalapeno Cheddar Biscuit Sandwich with Sausage,,640,47,31,24
+66,Jalapeno Cheddar Biscuit Sandwich with Sausage Meal,,890,62,93,26
+67,Jalapeno Cheddar Biscuit with Bacon,,400,26,31,11
+68,Jalapeno Cheddar Biscuit with Gravy,,500,31,44,10
+69,Jalapeno Cheddar Biscuit with Sausage,,540,39,31,18
+70,Pancake Platter with Bacon,,910,23,196,20
+71,Pancake Platter with Sausage,,1100,41,196,29
+72,Pancakes,,660,7,135,15
+73,Taquito with Bacon & Egg,,380,20,28,17
+74,Taquito with Bacon Egg & Cheese,,420,24,28,19
+75,Taquito with Bacon Egg & Cheese Meal,,620,36,88,21
+76,Taquito with Cheese,,370,20,28,16
+77,Taquito with Cheese Meal,,570,32,88,18
+78,Taquito with Potato Egg and Cheese,,470,26,58,17
+79,Taquito with Potato Egg and Cheese Meal,,670,39,118,19
+80,"Taquito with Potato, No Cheese",,430,24,57,15
+81,Taquito with Sausage Egg & Cheese Meal,,650,40,89,21
+82,Taquito with Sausage Egg and Cheese,,450,27,28,19
+83,"Taquito with Sausage, No Cheese",,400,25,27,17
+84,"Taquito, No Cheese",,330,18,27,14
+85,Buffalo Ranch Chicken Strip Sandwich,,970,48,92,41
+86,Buffalo Ranch Chicken Strip Sandwich Jr,,640,32,58,28
+87,Chicken Fajita Taco,,420,18,47,29
+88,Chicken Fajita Taco Meal,,1050,31,178,35
+89,Grilled Chicken Melt,,460,22,45,32
+90,Grilled Chicken Melt Meal,,1150,42,176,28
+91,Grilled Chicken Sandwich,,510,19,69,36
+92,Grilled Chicken Sandwich Meal,,850,19,160,36
+93,Honey BBQ Chicken Strip Sandwich,,1070,56,97,43
+94,Honey BBQ Chicken Strip Sandwich Jr.,,600,31,55,26
+95,Honey BBQ Chicken Strip Sandwich Jr. Meal,,1260,51,176,32
+96,Honey BBQ Chicken Strip Sandwich Meal,,1760,76,228,49
+97,Honey Butter Chicken Biscuit,,590,36,50,15
+98,Honey Butter Chicken Biscuit Meal,,790,48,111,17
+99,Whatachick'n Bites 6 Piece,,390,19,31,22
+100,Whatachick'n Bites 9 Piece,,540,27,42,33
+101,Whatachick'n Bites 6 pcs Meal,,1260,47,187,32
+102,Whatachick'n Bites 9 pcs Meal,,1460,60,197,43
+103,Whatachick'n Sandwich,,570,27,64,27
+104,Whatachick'n Sandwich Meal,,1260,46,195,32
+105,Whatachick'n Strips 3 piece,,610,34,42,30
+106,Whatachick'n Strips 3 piece Meal,,1530,68,197,39
+107,Chocolate Chunk Cookie,,230,11,31,2
+108,Cinnamon Roll,,390,9,71,7
+109,Hot Apple Pie,,270,14,34,3
+110,Hot Lemon Pie,,230,12,35,3
+111,Sugar Cookie,,210,9,31,2
+112,Barq's Root Beer,,330,0,90,0
+113,Caffeine-free Diet Coke,,0,0,1,0
+114,Cherry Coke,,310,0,83,0
+115,Chocolate Milk Low Fat 1%,,180,3,32,8
+116,Coca-Cola Classic,,300,0,83,0
+117,Coffee,Large,10,1,2,0
+118,,Medium,5,0,1,0
+119,,Small,0,0,1,0
+120,Decaf Coffee,Large,10,1,2,0
+121,,Medium,10,0,2,0
+122,,Small,5,0,1,0
+123,Diet Coke,,0,0,1,0
+124,Diet Dr Pepper,,0,0,0,0
+125,Dr Pepper,,280,0,77,0
+126,Fanta Orange,,320,0,83,0
+127,Fanta Strawberry,,340,0,90,0
+128,Milk Low Fat 1%,,110,3,13,9
+129,Minute Maid Light Lemonade,,15,0,1,0
+130,Powerade Fruit Punch,,190,0,49,0
+131,Simply Orange- Orange Juice,,190,0,45,3
+132,Sprite,,290,0,77,0
+133,Sweet Tea,Kids,160,0,39,0
+134,,Large,460,0,114,0
+135,,Medium,330,0,82,0
+136,,Small,200,0,50,0
+137,Unsweetened Tea,Kids,0,0,0,0
+138,,Large,0,0,0,0
+139,,Medium,0,0,0,0
+140,,Small,0,0,0,0
+141,Grilled Cheese,,540,29,50,18
+142,Grilled Cheese Meal,,760,31,89,28
+143,Kids Meal Justaburger,,510,18,64,23
+144,Whatachick'n Bites 4 pcs Meal,,500,17,63,25
+145,Whatachick'n Strips 2 pcs Meal,,650,27,70,30
+146,Chocolate Malt,16 oz,470,12,83,10
+147,,20 oz,670,16,123,13
+148,,32 oz,940,24,165,20
+149,Chocolate Shake,16 oz,450,12,77,10
+150,,20 oz,630,16,111,14
+151,,32 oz,910,25,154,21
+152,Strawberry Malt,16 oz,470,12,83,9
+153,,20 oz,670,15,123,12
+154,,32 oz,940,23,166,19
+155,Strawberry Shake,16 oz,460,12,77,10
+156,,20 oz,630,16,111,13
+157,,32 oz,910,24,155,19
+158,Vanilla Malt,16 oz,440,13,71,10
+159,,20 oz,590,17,99,13
+160,,32 oz,880,25,143,20
+161,Vanilla Shake,16 oz,420,13,66,11
+162,,20 oz,560,17,87,14
+163,,32 oz,850,26,132,21
+164,Apple & Cranberry Chicken Salad w/ Crispy Chicken,,510,24,50,25
+165,Apple & Cranberry Chicken Salad w/ Grilled Chicken,,460,17,55,34
+166,Apple & Cranberry Salad,,260,9,36,9
+167,Apple Slices,,30,0,7,0
+168,Chicken Garden Salad w/ Crispy Chicken,,420,24,29,26
+169,Chicken Garden Salad w/ Grilled Chicken,,360,17,34,35
+170,French Fries,Large,520,27,63,8
+171,,Medium,390,20,47,6
+172,,Small,260,13,31,4
+173,Fruit Chews,,80,0,19,1
+174,Garden Salad,,170,9,15,10
+175,Onion Rings,Large,590,38,56,8
+176,,Medium,400,25,37,5

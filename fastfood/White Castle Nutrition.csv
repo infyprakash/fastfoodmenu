@@ -1,0 +1,313 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,The Original Slider®,,140,6,13,7
+1,,New York / New Jersey only,140,6,15,7
+2,Double Original Slider®,,240,12,21,12
+3,,New York / New Jersey only,250,12,23,12
+4,Cheese,,160,9,14,8
+5,,New York / New Jersey only,170,9,15,8
+6,Double Cheese,,300,17,21,15
+7,,New York / New Jersey only,300,17,24,15
+8,Cheddar Cheese,,170,9,14,9
+9,,New York / New Jersey only,180,9,16,9
+10,Jalapeño Cheese,,170,9,14,8
+11,,New York / New Jersey only,170,9,15,8
+12,Bacon Cheese,,220,14,13,11
+13,,New York / New Jersey only,220,14,15,11
+14,Fish,,340,24,18,11
+15,Surf & Turf,,540,38,27,22
+16,"Impossible Slider - Chicago, NY & NJ only - limited time offering",,300,17,18,18
+17,Veggie,w/Sweet Thai Sauce,160,5,23,6
+18,,w/Ranch,270,18,21,5
+19,,w/Honey Mustard,170,5,25,5
+20,Chicken Ring,,200,10,16,10
+21,Chicken Breast,,220,10,20,11
+22,Chicken & Waffles,Crispy,350,18,36,9
+23,,Savory Grilled,340,18,30,14
+24,Savory Grilled Chicken,,180,7,13,15
+25,Bacon & Cheddar Grilled Chicken,,270,15,14,20
+26,Bacon & Cheddar Crispy Chicken,,290,16,21,14
+27,French Fries,Kids,250,16,24,2
+28,,Small,330,21,32,3
+29,,Medium,600,39,57,6
+30,,Sack (serves 3),770,49,76,8
+31,French Fries (New York / New Jersey only),My size,260,16,25,4
+32,,Small,350,21,34,5
+33,,Medium,630,39,60,9
+34,,Sack (serves 3),810,49,81,12
+35,Cheese Fries,,400,27,35,4
+36,,New York / New Jersey only,410,28,35,4
+37,Loaded Fries,,460,38,20,4
+38,,New York / New Jersey only,460,38,20,4
+39,Onion Chips,Small,480,36,33,4
+40,,Medium,930,65,73,8
+41,,Sack (serves 3),1350,101,92,11
+42,Onion Rings,Small,480,33,40,6
+43,,Sack (serves 3),890,61,74,11
+44,Onion Rings (New York / New Jersey only),Small,340,22,33,2
+45,,Sack (serves 3),640,41,62,4
+46,Mozzarella Cheese Sticks,3 sticks,460,33,26,12
+47,,5 sticks,760,55,40,21
+48,,10 sticks (serves 3),1490,111,77,41
+49,Cheese Curds - Limited Time Offering,Small,660,55,12,28
+50,,Medium,1220,103,22,51
+51,,Sack (serves 3),1980,167,36,83
+52,Clam Strips,Small,210,17,5,8
+53,,Medium,410,34,9,16
+54,,Sack (serves 3),620,51,14,24
+55,Fish Nibblers®,Small,320,16,28,16
+56,,Medium,590,29,51,30
+57,,Sack (serves 3),1100,53,95,55
+58,Chicken Rings,3 pc,160,10,6,9
+59,,6 pc,320,20,12,18
+60,,9 pc,470,31,18,26
+61,,20 pc (serves 3),1050,68,41,58
+62,Pouch,,40,0,10,0
+63,Breakfast Slider,w/Egg & Cheese,160,7,13,9
+64,,w/Egg & Jalapeno Cheese,160,8,13,10
+65,,w/Egg & Cheddar Cheese,160,8,13,10
+66,,"w/Sausage, Egg & Cheese",310,22,13,15
+67,,"w/Sausage, Egg & Jalapeno Cheese",310,22,13,15
+68,,"w/Sausage, Egg & Cheddar Cheese",320,22,14,15
+69,,"w/Bacon, Egg & Cheese",210,12,13,12
+70,,"w/Bacon, Egg & Jalapeno Cheese",220,13,13,13
+71,,"w/Bacon, Egg & Cheddar Cheese",220,13,13,13
+72,,"w/Bologna, Egg & Cheese",310,19,15,15
+73,,"w/Bologna, Egg & Jalapeno Cheese",310,20,15,16
+74,,"w/Bologna, Egg & Cheddar Cheese",310,20,15,16
+75,Original Slider,w/Egg & Cheese,220,13,13,13
+76,,w/Egg & Jalapeno Cheese,230,13,14,14
+77,,w/Egg & Cheddar Cheese,230,14,15,14
+78,Breakfast Toast Sandwich,"w/Egg, Cheese",230,9,29,11
+79,,"w/Egg, Jalapeno Cheese",240,9,29,11
+80,,"w/Egg, Cheddar Cheese",240,9,29,12
+81,,"w/Sausage, Egg, Cheese",380,23,29,16
+82,,"w/Sausage, Egg, Jalapeno Cheese",390,23,29,16
+83,,"w/Sausage, Egg, Cheddar Cheese",390,24,30,17
+84,,"w/Bacon, Egg, Cheese",340,19,29,17
+85,,"w/Bacon, Egg, Jalapeno Cheese",350,19,29,17
+86,,"w/Bacon, Egg, Cheddar Cheese",350,19,29,18
+87,,"w/Bologna, Egg, Cheese",380,20,31,17
+88,,"w/Bologna, Egg, Jalapeno Cheese",390,20,31,17
+89,,"w/Bologna, Egg, Cheddar Cheese",390,20,31,18
+90,Waffle Breakfast Slider,"w/Egg, Cheese",290,17,27,9
+91,,"w/Egg, Jalapeno Cheese",300,17,27,9
+92,,"w/Egg, Cheddar Cheese",300,17,27,10
+93,,"w/Sausage, Egg, Cheese",440,31,27,14
+94,,"w/Sausage, Egg, Jalapeno Cheese",450,31,27,14
+95,,"w/Sausage, Egg, Cheddar Cheese",450,32,28,15
+96,,"w/Bacon, Egg, Cheese",350,22,27,12
+97,,"w/Bacon, Egg, Jalapeno Cheese",350,22,27,12
+98,,"w/Bacon, Egg, Cheddar Cheese",350,22,27,13
+99,,"w/Bologna, Egg, Cheese",440,29,29,15
+100,,"w/Bologna, Egg, Jalapeno Cheese",450,29,29,15
+101,,"w/Bologna, Egg, Cheddar Cheese",450,29,29,16
+102,Cinnamon Donuts,,150,8,22,2
+103,Chocolate Covered Donuts,,160,9,21,2
+104,Glazed Donuts,,160,9,21,2
+105,Powdered Sugar Donuts,,150,8,22,2
+106,Plain Donuts,,150,8,22,2
+107,Hash Round Nibblers®,Small,360,28,25,2
+108,,Medium,600,46,42,4
+109,,Sack,1440,110,101,10
+110,Hash Round Nibblers® (New York / New Jersey only),Small,340,25,23,2
+111,,Medium,560,42,39,4
+112,,Sack,1330,101,92,9
+113,Two Waffles w/Syrup,,280,10,46,2
+114,Fudge Dipped Brownie,,250,12,33,2
+115,Fudge Dipped Cheesecake,,180,10,21,3
+116,Gooey Butter Cake,,220,10,32,3
+117,Coffee,Small,5,0,0,0
+118,,Medium,5,0,0,1
+119,,Large,5,0,0,1
+120,Decaf Coffee,Small,0,0,0,0
+121,Hot Tea,Medium,0,0,0,0
+122,Hot Chocolate,Medium,240,50,41,2
+123,Hot Chocolate - Columbus only,Medium,300,90,46,1
+124,Iced Tea - Southern Sweet,Small,180,0,47,0
+125,,Medium,260,0,67,0
+126,,Large,340,0,89,0
+127,,Gallon,1100,0,286,0
+128,"Iced Tea - Southern Sweet (Columbus, New York, New Jersey only)",Small,240,0,62,0
+129,,Medium,340,0,88,0
+130,,Large,450,0,118,0
+131,,Gallon,1450,0,376,0
+132,Iced Tea - Unsweetened,Small,5,0,1,0
+133,,Medium,5,0,1,0
+134,,Large,5,0,2,0
+135,,Gallon,40,0,11,0
+136,Crave Cooler Coke®,Small,110,0,29,0
+137,,Medium,140,0,39,0
+138,,Large,190,0,51,0
+139,Crave Cooler Fanta Wild Cherry®,Small,110,0,29,0
+140,,Medium,140,0,39,0
+141,,Large,190,0,51,0
+142,Chocolate Shake - Chicago only,Small,550,10,106,12
+143,,Medium,780,14,152,16
+144,,Large,1050,19,202,22
+145,Vanilla Shake - Chicago only,Small,470,8,85,12
+146,,Medium,670,12,122,17
+147,,Large,900,16,163,23
+148,Strawberry Shake - Chicago only,Small,540,8,103,12
+149,,Medium,780,12,148,17
+150,,Large,1030,16,197,23
+151,Chocolate Shake - Cincinnati only,Kids,310,8,53,7
+152,,Small,650,17,111,14
+153,,Medium,930,24,160,20
+154,,Large,1230,32,213,27
+155,Vanilla Shake - Cincinnati only,Kids,300,8,52,7
+156,,Small,630,16,109,14
+157,,Medium,910,23,156,20
+158,,Large,1210,30,208,27
+159,Strawberry Shake - Cincinnati only,Kids,300,8,52,7
+160,,Small,630,16,109,14
+161,,Medium,910,23,156,20
+162,,Large,1210,30,208,27
+163,Chocolate Shake - Columbus only,Small,500,12,88,13
+164,,Medium,710,18,126,19
+165,,Large,950,23,167,25
+166,Vanilla Shake - Columbus only,Small,410,11,67,13
+167,,Medium,590,16,98,19
+168,,Large,780,21,128,25
+169,Strawberry Shake - Columbus only,Small,480,11,85,13
+170,,Medium,690,16,122,19
+171,,Large,920,21,162,25
+172,Chocolate Shake - Detroit only,Small,440,12,68,12
+173,,Medium,620,17,96,17
+174,,Large,830,23,129,23
+175,Vanilla Shake - Detroit only,Small,430,12,67,12
+176,,Medium,600,16,93,166
+177,,Large,830,23,128,23
+178,Chocolate Shake - Indianapolis only,Kids,230,7,42,6
+179,,Small,490,15,88,12
+180,,Medium,690,22,126,17
+181,,Large,920,29,168,23
+182,Chocolate Shake - Louisville only,Small,690,22,117,14
+183,,Medium,1050,33,179,21
+184,,Large,1440,46,236,29
+185,Vanilla Shake - Louisville only,Small,600,21,92,14
+186,,Medium,910,32,141,21
+187,,Large,1260,44,193,29
+188,Strawberry Shake - Louisville only,Small,670,21,110,14
+189,,Medium,1030,32,168,21
+190,,Large,1210,44,231,29
+191,Chocolate Shake - Nashville only,Small,570,13,101,13
+192,,Medium,820,19,145,19
+193,,Large,1090,25,193,25
+194,Vanilla Shake - Nashville only,Small,660,13,124,13
+195,,Medium,950,19,176,19
+196,,Large,1260,25,236,25
+197,Chocolate Shake - Minneapolis only,Small,510,9,102,5
+198,,Medium,770,14,155,7
+199,,Large,970,18,194,9
+200,Vanilla Shake - Minneapolis only,Small,500,9,99,5
+201,,Medium,760,14,151,7
+202,,Large,950,17,189,9
+203,Chocolate Shake - New Jersey only,Small,480,14,79,16
+204,,Medium,680,20,113,23
+205,,Large,910,27,151,30
+206,Vanilla Shake - New Jersey only,Small,480,14,71,16
+207,,Medium,680,20,102,23
+208,,Large,910,27,136,30
+209,Chocolate Shake - New York only,Small,480,14,79,16
+210,,Medium,680,20,113,23
+211,,Large,910,27,151,30
+212,Vanilla Shake - New York only,Small,480,14,71,16
+213,,Medium,680,20,102,23
+214,,Large,910,27,136,30
+215,Chocolate Shake - St. Louis only,Small,490,11,87,11
+216,,Medium,700,16,124,16
+217,,Large,980,23,174,23
+218,Vanilla Shake - St. Louis only,Small,450,9,83,8
+219,,Medium,690,14,126,12
+220,,Large,910,19,167,15
+221,Strawberry Banana - 16oz.,,360,0.5,88,5
+222,Peach - 16oz.,,310,0.5,70,4
+223,Strawberry Lemonade - 16oz.,,370,0.5,88,4
+224,Orange Juice,,140,0,33,2
+225,White,,110,2.5,13,8
+226,Chocolate,,160,2.5,27,8
+227,BOTTLED WATER,,0,0,0,0
+228,100% APPLE JUICE BOX,,100,0,24,0
+229,POWERADE® MOUNTAIN BERRY BLAST,,130,0,35,0
+230,POWERADE® FRUIT PUNCH,,130,0,36,0
+231,MONSTER ENERGY®,,210,0,54,0
+232,VITAMIN WATER® XXX,,100,0,28,0
+233,VITAMIN WATER® POWER-C,,100,0,27,0
+234,BARQ'S® RED CREAM SODA,,280,0,75,0
+235,MINUTE MAID® APPLE JUICE,,210,0,52,0
+236,Coca-Cola® Classic,Kid's,120,0,34,0
+237,,Small,260,0,71,0
+238,,Medium,370,0,101,0
+239,,Large,500,0,135,0
+240,Sprite®,Kid's,120,0,33,0
+241,,Small,260,0,68,0
+242,,Medium,360,0,98,0
+243,,Large,490,0,130,0
+244,Diet Coke®,Kid's,0,0,0,0
+245,,Small,0,0,0,0
+246,,Medium,0,0,0,0
+247,,Large,0,0,0,0
+248,Caffeine-Free Diet Coke®,Kid's,0,0,0,0
+249,,Small,0,0,0,0
+250,,Medium,0,0,0,0
+251,,Large,0,0,0,0
+252,Hi-C® Orange Lavaburst,Kid's,140,0,38,0
+253,,Small,290,0,79,0
+254,,Medium,420,0,113,0
+255,,Large,560,0,150,0
+256,,Gallon,1780,0,480,0
+257,Hi-C® Flashing Fruit Punch,Kid's,130,0,35,0
+258,,Small,270,0,74,0
+259,,Medium,390,0,105,0
+260,,Large,520,0,140,0
+261,,Gallon,1660,0,448,0
+262,Barq's® Root Beer,Kid's,140,0,38,0
+263,,Small,290,0,78,0
+264,,Medium,420,0,113,0
+265,,Large,560,0,150,0
+266,Barq's® Red Cream Soda,Kid's,140,0,39,0
+267,,Small,300,0,81,0
+268,,Medium,430,0,116,0
+269,,Large,580,0,155,0
+270,Big Red® Soda,Kid's,130,0,31,0
+271,,Small,260,0,66,0
+272,,Medium,380,0,94,0
+273,,Large,500,0,125,0
+274,Cherry Coca-Cola®,Kid's,130,0,35,0
+275,,Small,270,0,74,0
+276,,Medium,390,0,105,0
+277,,Large,520,0,140,0
+278,Pibb Xtra®,Kid's,120,0,33,0
+279,,Small,260,0,68,0
+280,,Medium,360,0,98,0
+281,,Large,490,0,130,0
+282,Fanta® Grape,Kid's,150,0,41,0
+283,,Small,320,0,87,0
+284,,Medium,460,0,124,0
+285,,Large,610,0,165,0
+286,Fanta® Orange,Kid's,140,0,44,0
+287,,Small,290,0,92,0
+288,,Medium,420,0,131,0
+289,,Large,560,0,175,0
+290,Fanta® Strawberry,Kid's,150,0,41,0
+291,,Small,320,0,87,0
+292,,Medium,450,0,124,0
+293,,Large,600,0,165,0
+294,Coke Zero®,Kid's,0,0,0,0
+295,,Small,0,0,0,0
+296,,Medium,0,0,0,0
+297,,Large,0,0,0,0
+298,Mello Yello®,Kid's,130,0,36,0
+299,,Small,280,0,76,0
+300,,Medium,400,0,109,0
+301,,Large,530,0,145,0
+302,Minute Maid® Lemonade,Kid's,120,0,31,0
+303,,Small,250,0,70,0
+304,,Medium,350,0,92,0
+305,,Large,470,0,123,0
+306,,Gallon,1510,0,423,0
+307,Minute Maid® Lemonade Lite,Kid's,5,0,1,0
+308,,Small,10,0,3,0
+309,,Medium,20,0,4,0
+310,,Large,25,0,5,0
+311,,Gallon,80,0,15,0

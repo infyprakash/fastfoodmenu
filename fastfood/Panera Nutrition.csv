@@ -1,0 +1,342 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Cheese Pastry,,410,23,43,8
+1,Cherry Pastry,,460,22,58,7
+2,Chocolate Pastry,,420,24,46,7
+3,Pecan Braid,,470,26,52,8
+4,Asiago Cheese Bagel,,330,6,55,13
+5,Blueberry Bagel,,340,1.5,69,10
+6,Cherry Vanilla Bagel,,360,5,69,10
+7,Chocolate Chip Bagel,,380,3,68,11
+8,Cinnamon Crunch Bagel,,430,7,82,10
+9,Cinnamon Swirl & Raisin Bagel,,320,2,66,10
+10,Everything Bagel,,300,2,58,10
+11,French Toast Bagel,,350,4,67,10
+12,Plain Bagel,,290,1.5,58,10
+13,Pumpkin Pie Bagel,,390,5,74,10
+14,Sesame Bagel,,300,3,58,10
+15,Sprouted Grain Bagel Flat,,240,1.5,48,8
+16,Whole Grain Bagel,,330,2.5,67,13
+17,Bottled Water,,0,0,0,0
+18,Joia Grapefruit Soda,,110,0,36,0
+19,San Pellegrino Orange,,140,0,34,0
+20,Spindrift Lemon Seltzer,,0,0,1,0
+21,Spindrift Raspberry Lime Seltzer,,10,0,2,0
+22,Greek Yogurt with Mixed Berries,,300,10,40,13
+23,Seasonal Fruit Cup,,60,0,17,1
+24,"Steel Cut Oatmeal with Almonds, Quinoa & Honey",,300,7,52,8
+25,Steel Cut Oatmeal with Apple Chips & Pecans,,370,15,53,6
+26,Steel Cut Oatmeal with Strawberries & Pecans,,340,14,51,6
+27,"Avocado, Egg White & Spinach Breakfast Power Sandwich",,410,14,52,12
+28,"Bacon, Egg & Cheese on Asiago Cheese Bagel",,580,25,56,31
+29,"Bacon, Egg & Cheese on Ciabatta",,490,22,44,25
+30,Egg & Cheese on Ciabatta,,390,15,43,19
+31,"Ham, Egg & Cheese Breakfast Power Sandwich",,340,15,30,23
+32,Mediterranean Egg White on Ciabatta,,410,15,47,21
+33,"Sausage, Egg & Cheese on Ciabatta",,550,29,44,28
+34,Steak & Egg on Everything Bagel,,540,18,59,23
+35,"Turkey Sausage, Egg White & Spinach Breakfast Power Sandwich",,410,12,50,17
+36,Cinnamon Crumb Coffee Cake,,470,25,53,6
+37,Double Fudge Brownie,,520,22,80,6
+38,Dark Roast Coffee,Large,25,0,5,2
+39,,Medium,20,0,4,1
+40,,Small,15,0,3,1
+41,Hazelnut Coffee,Large,25,0,4,2
+42,,Medium,20,0,3,1
+43,,Small,15,0,2,1
+44,Light Roast Coffee,Large,25,0,4,2
+45,,Medium,20,0,3,1
+46,,Small,15,0,2,1
+47,Panera Decaf Coffee,Large,20,0,3,2
+48,,Medium,15,0,2,1
+49,,Small,10,0,2,1
+50,Candy Cookie,,420,19,58,5
+51,Chocolate Chipper Cookie,,380,19,51,4
+52,Coconut Macaroon,,140,7,17,1
+53,Kitchen Sink Cookie,,800,43,98,8
+54,Lemon Drop Cookie,,440,20,61,5
+55,Mitten Cookie,,450,23,60,4
+56,Oatmeal Raisin Cookie with Berries,,340,13,54,4
+57,Petite Chocolate Chipper,,100,4.5,13,1
+58,Pumpkin Cookie,,460,22,64,4
+59,Raspberry Almond Thumbprint Cookie,,230,14,25,2
+60,Triple Chocolate Cookie with Walnuts,,320,13,53,5
+61,Plain Cream Cheese,,190,18,2,3
+62,Plain Cream Cheese Tub,,100,10,1,2
+63,Reduced-Fat Chive & Onion Cream Cheese,,130,11,3,5
+64,Reduced-Fat Chive & Onion Cream Cheese Tub,,70,6,2,3
+65,Reduced-Fat Honey Walnut Cream Cheese,,150,11,8,5
+66,Reduced-Fat Honey Walnut Cream Cheese Tub,,80,6,4,2
+67,Reduced-Fat Plain Cream Cheese,,130,12,2,5
+68,Reduced-Fat Plain Cream Cheese Tub,,70,6,1,3
+69,Reduced-Fat Roasted Vegetable Medley Cream Cheese,,110,10,3,4
+70,Reduced-Fat Roasted Vegetable Medley Cream Cheese Tub,,60,5,2,2
+71,Reduced-Fat Wild Blueberry Cream Cheese,,150,10,11,4
+72,Reduced-Fat Wild Blueberry Cream Cheese Tub,,80,5,6,2
+73,Asian Sesame Vinaigrette,Half Salad Portion,45,4,2,0
+74,,Whole Salad Portion,90,8,4,0
+75,Caesar Dressing,Half Salad Portion,80,8,1,0
+76,,Whole Salad Portion,170,18,2,1
+77,Chile Lime Rojo Ranch,Half Salad Portion,35,3,1,1
+78,,Whole Salad Portion,70,6,3,2
+79,Greek Dressing,Half Salad Portion,120,13,0,0
+80,,Whole Salad Portion,230,25,1,0
+81,Green Goddess Dressing,Half Salad Portion,60,5,2,1
+82,,Whole Salad Portion,120,11,3,2
+83,Low Fat Thai Chili Vinaigrette,Half Salad Portion,25,1,4,0
+84,,Whole Salad Portion,50,1.5,8,1
+85,Reduced Fat Balsamic Vinaigrette,Half Salad Portion,60,5,5,0
+86,,Whole Salad Portion,130,10,9,0
+87,White Balsamic Apple Flavored Vinaigrette,Half Salad Portion,80,6,6,0
+88,,Whole Salad Portion,160,12,11,0
+89,Caffe Latte,,130,5,14,9
+90,Caffe Mocha,,380,11,57,12
+91,Cappuccino,,130,5,14,9
+92,Caramel Latte,,400,15,55,12
+93,Chai Tea Latte,,240,4.5,42,7
+94,Espresso,,5,0,1,0
+95,Signature Hot Chocolate,,510,13,85,12
+96,Skinny Caffe Mocha,,250,1,49,11
+97,Roasted Turkey Cranberry Flatbread (1),,310,12,36,11
+98,Roasted Turkey Cranberry Flatbread (2),,630,24,71,22
+99,Tomato Mozzarella Flatbread (1),,350,18,35,6
+100,Tomato Mozzarella Flatbread (2),,690,36,71,11
+101,Frozen Caramel,,560,23,82,7
+102,Frozen Mocha,,530,19,84,7
+103,Green Passion Smoothie,,200,0,51,2
+104,Mango Smoothie,,290,5,50,11
+105,Strawberry Banana Smoothie,,250,3,42,6
+106,Strawberry Smoothie,,280,5,47,11
+107,Superfruit Smoothie with Greek yogurt,,230,5,33,11
+108,Asian Sesame Salad with Chicken,Half,200,10,14,13
+109,,Whole,410,20,27,25
+110,Caesar Salad with Chicken,Half,220,14,8,15
+111,,Whole,450,27,17,30
+112,Caesar Salad,Half,160,13,7,5
+113,,Whole,320,25,14,10
+114,Fuji Apple Salad with Chicken,Half,280,17,18,14
+115,,Whole,570,34,36,29
+116,Greek Salad,Half,200,18,7,4
+117,,Whole,400,36,13,5
+118,Spicy Thai Salad with Chicken,Half,260,11,21,12
+119,,Whole,510,22,41,25
+120,Agave Lemonade,Large,220,0,59,0
+121,,Medium,140,0,37,0
+122,Blood Orange Lemonade,Large,260,0,68,1
+123,,Medium,160,0,43,0
+124,Brewed Iced Tea,Large,0,0,0,0
+125,,Medium,0,0,0,0
+126,Iced Caffe Latte,,170,6,17,11
+127,Iced Caffe Mocha,,410,12,60,14
+128,Iced Caramel Latte,,430,16,58,14
+129,Iced Chai Tea Latte,,190,3.5,34,6
+130,Iced Coffee,Large,20,0,4,1
+131,,Medium,10,0,2,1
+132,Passion Papaya Green Tea,Large,200,0,48,0
+133,,Medium,130,0,30,0
+134,Prickly Pear Hibiscus Fresca,Large,150,0,37,2
+135,,Medium,100,0,24,1
+136,Kids Organic Apple Juice,,120,0,29,0
+137,Organic Chocolate Milk,,150,2.5,23,8
+138,Organic White Milk,,110,2.5,13,8
+139,Premium Orange Juice,,160,0,37,3
+140,Purity Organic Strawberry Paradise Juice,,260,0,66,0
+141,Apple Crunch Muffin,,450,12,80,7
+142,Blueberry Muffin with Fresh Blueberries,,460,18,69,6
+143,Chocolate Chip Muffie,,320,14,46,4
+144,Cranberry Orange Muffin,,480,19,71,6
+145,Pumpkin Muffie,,290,11,45,3
+146,Pumpkin Muffin,,580,22,90,7
+147,Kids Baked Potato Soup,,220,13,22,6
+148,Kids Bistro French Onion Soup,,190,8,21,8
+149,Kids Blueberry Squeezable Yogurt,,50,1,9,2
+150,Kids Broccoli Cheddar Soup,,230,13,19,9
+151,Kids Caesar Salad,,160,13,7,5
+152,Kids Cream of Chicken & Wild Rice Soup,,180,10,18,6
+153,Kids Greek Salad,,200,18,7,4
+154,Kids Grilled Cheese on Classic White Bread,,450,18,52,8
+155,Kids Ham Sandwich on Whole Grain Bread,,290,10,21,14
+156,Kids Low-Fat Chicken Noodle Soup,,110,3,13,10
+157,Kids Mac & Cheese,,470,30,36,17
+158,Kids New England Clam Chowder,,370,25,27,9
+159,Kids Peanut Butter & Jelly on Whole Grain Bread,,370,16,49,11
+160,Kids Seasonal Greens Salad,,90,6,10,2
+161,Kids Strawberry Squeezable Yogurt,,50,1,8,2
+162,Kids Turkey Chili,,170,8,21,11
+163,Kids Turkey Sandwich on Whole Grain Bread,,280,9,29,15
+164,Kids Vegetarian Autumn Squash Soup,,230,11,29,5
+165,Kids Vegetarian Creamy Tomato Soup,,200,9,25,4
+166,Frontega Chicken Panini on Focaccia,Half,380,12,42,24
+167,,Whole,750,24,85,48
+168,Steak & White Cheddar Panini on Hoagie Roll,Half,470,24,40,19
+169,,Whole,940,48,79,37
+170,French Croissant,,310,18,32,6
+171,Pastry Ring,,260,13,32,3
+172,Bacon Turkey Bravo Sandwich on Tomato Basil,Half,320,12,29,19
+173,,Whole,630,25,57,38
+174,Chipotle Chicken Avocado Melt on Black Pepper Focaccia,Half,390,21,28,16
+175,,Whole,770,43,56,32
+176,Classic Grilled Cheese on Classic White Bread,Half,320,13,37,7
+177,,Whole,640,26,73,14
+178,Frontega Chicken Panini on Focaccia,Half,380,12,42,24
+179,,Whole,750,24,85,48
+180,Ham & Swiss Sandwich on Whole Grain,Half,370,16,34,17
+181,,Whole,730,32,68,33
+182,Mediterranean Veggie Sandwich on Tomato Basil,Half,220,6,32,9
+183,,Whole,440,13,65,18
+184,Napa Almond Chicken Salad Sandwich on Sesame Semolina,Half,350,13,45,8
+185,,Whole,700,26,90,16
+186,Roasted Turkey & Avocado BLT on Sourdough,Half,320,17,25,14
+187,,Whole,650,34,50,29
+188,"Roasted Turkey, Apple & Cheddar on Cranberry Walnut Miche",Half,360,16,31,16
+189,,Whole,710,32,62,32
+190,Steak & Arugula on Sourdough,Half,250,9,25,12
+191,,Whole,500,19,51,24
+192,Steak & White Cheddar Panini on Hoagie Roll,Half,470,24,40,19
+193,,Whole,940,48,79,37
+194,The Italian on Hoagie Roll,Half,440,23,38,19
+195,,Whole,880,47,75,38
+196,Tuna Salad Sandwich on Black Pepper Focaccia,Half,330,17,29,9
+197,,Whole,660,35,57,18
+198,Turkey Breast Sandwich on Whole Grain,Half,280,9,32,11
+199,,Whole,560,18,65,23
+200,Caramel Apple Thumbprint Scone,,490,20,73,7
+201,Cinnamon Crunch Scone,,550,23,79,8
+202,Mini Scones Variety Pack,,"1,490",59,217,24
+203,Orange Mini Scone,,180,7,27,3
+204,Orange Scone,,540,20,80,9
+205,Wild Blueberry Mini Scone,,150,6,21,3
+206,Wild Blueberry Scone,,460,19,64,8
+207,Side Apple,,80,0,21,0
+208,Side Banana,,90,0,23,1
+209,Side French Baguette,,180,1,36,6
+210,Side Panera Kettle Chips,,150,8,17,2
+211,Side Pickle Spear,,5,0,1,0
+212,Side Soft Dinner Roll,,190,3.5,32,6
+213,Side Sprouted Whole Grain Roll,,170,1,33,6
+214,Caffeine Free Diet Pepsi,Large,0,0,0,0
+215,,Medium,0,0,0,0
+216,Diet Mountain Dew,Large,15,0,1,0
+217,,Medium,10,0,1,0
+218,Diet Pepsi,Large,0,0,0,0
+219,,Medium,0,0,0,0
+220,Dr. Pepper,Large,380,0,104,0
+221,,Medium,240,0,65,0
+222,Lipton Brisk Raspberry Tea,Large,200,0,52,0
+223,,Medium,130,0,33,0
+224,Mist Twist,Large,410,0,108,0
+225,,Medium,260,0,68,0
+226,Mountain Dew,Large,430,0,117,0
+227,,Medium,270,0,73,0
+228,Pepsi,Large,410,0,110,0
+229,,Medium,250,0,69,0
+230,Tropical Fruit Punch,Large,440,0,120,0
+231,,Medium,280,0,75,0
+232,Four Cheese Souffle,,410,28,38,15
+233,Spinach & Artichoke Souffle,,520,33,39,18
+234,Spinach & Bacon Souffle,,550,35,37,20
+235,Baked Potato Soup,Bowl,330,20,33,9
+236,,Bread Bowl,890,18,152,33
+237,,Cup,220,13,22,6
+238,Bistro French Onion Soup,Bowl,310,13,35,12
+239,,Bread Bowl,860,13,151,35
+240,,Cup,190,8,21,8
+241,Broccoli Cheddar Soup,Bowl,360,21,30,14
+242,,Bread Bowl,900,18,149,35
+243,,Cup,230,13,19,9
+244,Cream of Chicken & Wild Rice Soup,Bowl,260,16,27,10
+245,,Bread Bowl,840,15,148,33
+246,,Cup,180,10,18,16
+247,Low-Fat Chicken Noodle Soup,Bowl,160,5,19,14
+248,,Bread Bowl,780,8,143,36
+249,,Cup,110,3,13,10
+250,New England Clam Chowder,Bowl,570,39,42,14
+251,,Bread Bowl,"1,040",30,157,36
+252,,Cup,370,25,27,9
+253,Turkey Chili,Bowl,260,13,32,17
+254,,Bread Bowl,840,13,151,11
+255,,Cup,170,8,21,11
+256,Vegetarian Autumn Squash Soup,Bowl,340,17,44,8
+257,,Bread Bowl,890,15,160,32
+258,,Cup,230,11,29,5
+259,Vegetarian Creamy Tomato Soup,Bowl,280,13,36,6
+260,,Bread Bowl,860,12,155,31
+261,,Cup,200,9,25,4
+262,Asiago Cheese Loaf,,150,4,23,7
+263,Cinnamon Raisin Swirl Loaf,,190,6,31,5
+264,Classic White Loaf,,150,2,28,5
+265,Classic White Miche,,150,2,27,5
+266,Honey Wheat Loaf,,140,3,24,4
+267,Sourdough Bread Bowl,,660,3,132,23
+268,Sourdough Loaf,,140,0.5,28,5
+269,Sourdough XL Loaf,,140,0.5,28,5
+270,Tomato Basil XL Loaf,,150,1,28,6
+271,Bear Claw,,540,31,59,9
+272,Cinnamon Roll,,670,25,100,13
+273,Cobblestone,,560,12,102,11
+274,Pecan Roll,,720,46,69,11
+275,Southwest Chicken Tortilla Broth Bowl,,480,16,50,19
+276,Four Cheese Souffle,,410,28,38,15
+277,Spinach & Artichoke Souffle,,520,33,39,18
+278,Spinach & Bacon Souffle,,550,35,37,20
+279,BBQ Chicken Flatbread (1),,380,16,41,12
+280,BBQ Chicken Flatbread (2),,760,33,82,23
+281,Roasted Turkey Cranberry Flatbread (1),,310,12,36,11
+282,Roasted Turkey Cranberry Flatbread (2),,630,24,71,22
+283,Tomato Mozzarella Flatbread (1),,350,18,35,6
+284,Tomato Mozzarella Flatbread (2),,690,36,71,11
+285,Asiago Cheese Focaccia Loaf,,150,3,24,6
+286,Asiago Cheese Loaf,,150,4,23,7
+287,Ciabatta Loaf,,150,1.5,27,5
+288,Cinnamon Raisin Swirl Loaf,,190,6,31,5
+289,Classic White Loaf,,150,2,28,5
+290,Classic White Miche,,150,2,27,5
+291,Country Loaf,,130,0.5,26,5
+292,Cranberry Walnut Miche Loaf,,140,2.5,25,6
+293,French Baguette,,150,0.5,29,5
+294,Hoagie Roll,,380,4.5,70,12
+295,Holiday Bread,,170,4.5,30,4
+296,Honey Wheat Loaf,,140,3,24,4
+297,Rye Pan Loaf,,130,0.5,24,6
+298,Sea Salt Focaccia Loaf,,160,2,30,6
+299,Sesame Semolina Miche,,140,1,30,5
+300,Soft Dinner Roll,,190,3.5,32,6
+301,Sourdough Bread Bowl,,660,3,132,23
+302,Sourdough Loaf,,140,0.5,28,5
+303,Sourdough XL Loaf,,140,0.5,28,5
+304,Sprouted Grain Roll,,170,1,33,6
+305,Tomato Basil XL Loaf,,150,1,28,6
+306,Whole Grain Loaf,,130,1,26,6
+307,Chicken Tortellini Alfredo,,750,39,68,31
+308,"Mac & Cheese, Bread Bowl",,"1,140",35,166,43
+309,Mac & Cheese,Large,950,61,71,33
+310,,Small,470,30,36,17
+311,Ancient Grain & Arugula Salad with Chicken,Half,200,7,19,12
+312,,Whole,400,14,38,25
+313,Asian Sesame Salad with Chicken,Half,200,10,14,13
+314,,Whole,410,20,27,25
+315,Caesar Salad with Chicken,Half,220,14,8,15
+316,,Whole,450,27,17,30
+317,Caesar Salad,Half,160,13,7,5
+318,,Whole,320,25,14,10
+319,Chinese Citrus Cashew Salad with Chicken,Half,270,14,23,12
+320,,Whole,540,27,45,25
+321,Fuji Apple Salad with Chicken,Half,280,17,18,14
+322,,Whole,570,34,36,29
+323,Greek Salad,Half,200,18,7,4
+324,,Whole,400,36,13,5
+325,Green Goddess Cobb Salad with Chicken,Half,280,17,12,18
+326,,Whole,550,33,24,36
+327,Modern Greek Salad with Quinoa,Half,260,20,14,6
+328,,Whole,530,41,29,11
+329,Seasonal Greens Salad,Half,90,6,10,2
+330,,Whole,180,11,20,4
+331,Southwest Chile Lime Ranch Salad with Chicken,Half,320,17,27,12
+332,,Whole,650,34,54,24
+333,Spicy Thai Salad with Chicken,Half,260,11,21,12
+334,,Whole,510,22,41,25
+335,Green Passion Smoothie,,200,0,51,2
+336,Mango Smoothie,,290,5,50,11
+337,Peach & Blueberry Smoothie with Almond Milk,,180,1,43,2
+338,Strawberry Banana Smoothie,,250,3,42,6
+339,Strawberry Smoothie,,280,5,47,11
+340,Superfruit Smoothie with Greek yogurt,,230,5,33,11

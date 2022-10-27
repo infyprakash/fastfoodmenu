@@ -1,0 +1,378 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Peanut Buster® Parfait,,710,30,98,16
+1,Banana Split,,530,13,99,9
+2,Oreo® Brownie EarthQuake® Treat,,750,27,152,10
+3,Turtle Waffle Bowl Sundae,Plain,730,28,112,11
+4,,Dipped,820,34,119,11
+5,Choc. Cov. Strawberry Waffle Bowl S.,Plain,710,32,97,9
+6,,Dipped,790,38,104,10
+7,Fudge Brownie Temptation Waffle Bowl S.,Plain,860,41,117,13
+8,,Dipped,940,47,124,13
+9,Chocolate Coated Waffle Cone w/ Soft Serve,,540,21,80,10
+10,Plain Waffle Cone with Soft Serve,,420,12,70,9
+11,"Sundae, Caramel",Small,300,7,53,6
+12,,Medium,430,11,75,9
+13,,Large,610,15,109,12
+14,"Sundae, Cherry",Small,240,6,42,5
+15,,Medium,350,10,58,8
+16,,Large,500,13,85,11
+17,"Sundae, Chocolate",Small,280,7,50,6
+18,,Medium,400,10,71,8
+19,,Large,570,13,103,11
+20,"Sundae, Hot Fudge",Small,300,10,48,6
+21,,Medium,440,15,67,9
+22,,Large,620,20,98,12
+23,"Sundae, Marshmallow",Small,290,6,52,5
+24,,Medium,410,10,74,8
+25,,Large,590,13,107,11
+26,"Sundae, Pineapple",Small,240,6,40,5
+27,,Medium,340,10,54,8
+28,,Large,490,13,81,11
+29,"Sundae, Raspberry",Small,270,6,47,6
+30,,Medium,380,10,66,8
+31,,Large,550,13,96,11
+32,"Sundae, Strawberry",Small,240,6,41,5
+33,,Medium,350,10,57,8
+34,,Large,500,13,85,11
+35,Vanilla Cone,Kids,170,4.5,28,4
+36,,Small,240,7,38,6
+37,,Medium,340,9,55,8
+38,,Large,470,13,78,12
+39,Chocolate Cone,Kids,180,5,29,4
+40,,Small,240,7,39,6
+41,,Medium,350,10,56,8
+42,,Large,490,14,79,12
+43,"Dipped Cone, Chocolate",Kids,220,9,31,4
+44,,Small,330,15,44,6
+45,,Medium,480,21,63,8
+46,,Large,660,29,88,12
+47,"DQ Cake, 10”",1/12 slice,430,15,63,9
+48,"DQ Cake, 8”",1/8 slice,420,15,63,9
+49,DQ Heart Cake,1/10 slice,240,8,36,5
+50,DQ Log Cake,1/8 slice,340,13,52,6
+51,DQ Sheet Cake,1/24 slice,320,12,49,6
+52,"Oreo® Blizzard® Cake, 10”",1/12 slice,560,23,81,9
+53,"Oreo Blizzard Cake, 8”",1/8 slice,560,24,79,9
+54,Reese® PB Cups® Blizz. Cake 10”,1/12 slice,590,27,78,11
+55,Reese PB Cups Blizz. Cake 8”,1/8 slice,580,27,77,10
+56,"Chocolate Xtreme Blizz. Cake, 10”",1/12 slice,600,27,82,10
+57,"Chocolate Xtreme Blizz. Cake, 8”",1/8 slice,590,27,81,9
+58,Mocha Torte,,450,21,60,7
+59,Raspberry Torte,,420,18,61,6
+60,Turtle Torte,,480,15,79,7
+61,Treatzza Pizza® PB Fudge,1/8 slice,220,10,28,4
+62,Treatzza Pizza Skor® Blizzard Cake,1/8 slice,180,7,27,4
+63,Treatzza Pizza Smarties® Blizz. Cake,1/8 slice,190,7,29,3
+64,Treatzza Pizza Strawb Banana Blizz. Cake,1/8 slice,170,6,28,3
+65,Chocolate Xtreme Blizzard Cupcake,,240,9,24,3
+66,Oreo® Blizzard Cupcake,,200,10,27,3
+67,Strawberry CheeseQuake® Blizzard Cupcake,,230,12,28,3
+68,"Arctic Rush, All Flavours",Small,220,0,54,0
+69,,Medium,280,0,69,0
+70,,Large,370,0,92,0
+71,"Arctic Rush Freeze, All Flavours",Small,380,9,66,7
+72,,Medium,610,14,108,12
+73,,Large,840,24,137,19
+74,"Arctic Rush Float, All Flavours",Small,320,5,64,4
+75,,Medium,400,7,80,5
+76,,Large,530,9,106,7
+77,Lemonade Chiller,Small,260,0,66,0
+78,,Medium,390,0,102,0
+79,,Large,620,0,161,0
+80,Strawberry Chiller,Small,310,0,78,0
+81,,Medium,440,0,114,0
+82,,Large,720,0,186,0
+83,Raspberry Chiller,Small,340,0.1,86,0
+84,,Medium,480,0.2,122,0
+85,,Large,780,0.2,202,0
+86,Pepsi®,Kids,150,0,42,0
+87,,Small,200,0,56,0
+88,,Medium,260,0,74,0
+89,,Large,400,0,112,0
+90,Diet Pepsi,Kids,0,0,0,0
+91,,Small,0,0,0,0
+92,,Medium,0,0,0,0
+93,,Large,0,0,0,0
+94,7-UP®,Kids,150,0,39,0
+95,,Small,200,0,52,0
+96,,Medium,260,0,68,0
+97,,Large,400,0,104,0
+98,Lipton Brisk Iced Tea®,Kids,110,0,27,0
+99,,Small,140,0,36,0
+100,,Medium,180,0,47,0
+101,,Large,220,0,58,0
+102,Minute Maid®,Kids,180,0,48,0
+103,,Small,240,0,64,0
+104,,Medium,310,0,84,0
+105,,Large,470,0,128,0
+106,Coca-Cola®,Kids,150,0,40,0
+107,,Small,210,0,53,0
+108,,Medium,270,0,70,0
+109,,Large,410,0,107,0
+110,Diet Coca-Cola®,Kids,0,0,0,0
+111,,Small,0,0,0,0
+112,,Medium,0,0,0,0
+113,,Large,0,0,0,0
+114,Barq’s®,Kids,170,0,45,0
+115,,Small,220,0,60,0
+116,,Medium,290,0,79,0
+117,,Large,440,0,120,0
+118,Sprite®,Kids,160,0,40,0
+119,,Small,210,0,54,0
+120,,Medium,280,0,70,0
+121,,Large,420,0,107,0
+122,Nestea®,Kids,100,0,27,0
+123,,Small,130,0,36,0
+124,,Medium,170,0,47,0
+125,,Large,260,0,72,0
+126,Bottled Water,,0,0,0,0
+127,Coffee,12 oz.,0,0,0,0
+128,"Milk, 2%",8 oz,120,5,12,8
+129,Orange Juice,8 oz,170,0,41,0
+130,Cappuccino MooLatté,Small,460,15,73,8
+131,,Medium,580,19,93,10
+132,,Large,720,22,120,13
+133,Caramel MooLatté,Small,530,15,90,8
+134,,Medium,660,18,113,10
+135,,Large,840,22,149,13
+136,French Vanilla MooLatté,Small,510,15,87,8
+137,,Medium,640,18,109,10
+138,,Large,800,21,141,12
+139,Mocha MooLatté,Small,510,18,82,8
+140,,Medium,700,26,107,11
+141,,Large,840,30,134,13
+142,Strawberry Banana,Small,250,0.5,61,3
+143,,Medium,350,1,83,4
+144,,Large,440,1,104,6
+145,Mango Pineapple,Small,260,0.4,63,3
+146,,Medium,340,0.5,83,4
+147,,Large,430,1,103,5
+148,Tripleberry®,Small,300,0.5,73,3
+149,,Medium,400,0.5,96,4
+150,,Large,490,1,118,5
+151,Piña Colada,Small,240,0.3,57,2
+152,,Medium,330,0.3,79,3
+153,,Large,420,0.4,101,3
+154,Berry-Pom,Small,290,0.4,71,2
+155,,Medium,390,0.5,93,4
+156,,Large,480,0.5,114,5
+157,Orange,Small,260,0.3,63,3
+158,,Medium,370,0.4,87,5
+159,,Large,470,0.5,112,6
+160,Strawberry,Small,230,0.5,54,3
+161,,Medium,310,1,72,4
+162,,Large,390,1,91,5
+163,Strawberry Banana,Small,160,0.3,40,1
+164,,Medium,200,0.4,51,1
+165,,Large,240,0.5,62,1
+166,Mango Pineapple,Small,170,0.1,45,0.4
+167,,Medium,210,0.2,55,0.5
+168,,Large,260,0.2,68,1
+169,Tripleberry®,Small,160,0.1,41,0.3
+170,,Medium,210,0.2,55,0.4
+171,,Large,270,0.2,69,0.4
+172,Piña Colada,Small,170,0,41,0
+173,,Medium,200,0,50,0
+174,,Large,280,0,69,0
+175,Berry-Pom,Small,160,0.1,40,0.2
+176,,Medium,210,0.1,53,0.3
+177,,Large,260,0.2,66,0.3
+178,Orange,Small,140,0,35,0
+179,,Medium,170,0,41,0
+180,,Large,230,0,56,0
+181,Strawberry,Small,170,0.2,42,0.4
+182,,Medium,200,0.3,51,1
+183,,Large,260,0.4,66,1
+184,Strawberry Banana,Small,330,4.5,73,2
+185,,Medium,460,7,100,2
+186,,Large,680,9,149,3
+187,Mango Pineapple,Small,250,0.2,62,0
+188,,Medium,330,0.3,83,0.5
+189,,Large,490,0.4,125,0.5
+190,Tripleberry®,Small,360,4.5,79,1
+191,,Medium,490,7,108,2
+192,,Large,710,9,158,3
+193,Piña Colada,Small,380,4.5,84,1
+194,,Medium,510,7,112,2
+195,,Large,760,9,168,2
+196,Berry-Pom,Small,260,0.2,66,0
+197,,Medium,350,0.2,88,0
+198,,Large,530,0.4,132,0.5
+199,Orange,Small,210,0.1,53,0.5
+200,,Medium,280,0.1,69,1
+201,,Large,430,0.2,106,1
+202,Strawberry,Small,230,0.3,58,0
+203,,Medium,310,0.4,77,0.5
+204,,Large,460,0.5,116,1
+205,Vitamin C,,20,---,5,---
+206,Antioxidant,,20,---,5,---
+207,Energy,,20,---,5,---
+208,Fibre,,20,0.1,9,---
+209,Banana Drink,Small,25,0,1,0
+210,,Medium,40,0.2,11,1
+211,,Large,60,0.2,14,1
+212,Protein,,35,0.2,2,7
+213,1/4 lb. Bacon Cheese GrillBurger™,,600,35,38,33
+214,1/4 lb. FlameThrower® GrillBurger,,720,50,35,33
+215,1/4 lb. Mushroom Swiss GrillBurger,,550,33,38,26
+216,1/2 lb. GrillBurger with Cheese,,700,39,42,46
+217,1/4 lb. GrillBurger with Cheese,,510,27,42,26
+218,Original Cheeseburger,,370,18,31,21
+219,Original Double Cheeseburger,,580,34,31,37
+220,DQ Ultimate ® Burger,,720,46,32,45
+221,Chicken Strip Basket ™,4pc w/Gravy,810,40,78,35
+222,,6pc w/ Gravy,1050,53,92,50
+223,Chicken Quesadilla Basket,,930,48,86,40
+224,Veggie Quesadilla Basket,,860,47,85,27
+225,Iron Grilled Turkey Sandwich,,540,28,43,30
+226,Iron Grilled Supreme BLT Sandwich,,630,36,41,27
+227,Iron Grilled Cheese Sandwich,,360,13,41,16
+228,Crispy Chicken Sandwich,,530,28,50,23
+229,Grilled Chicken Sandwich,,360,16,30,25
+230,Crispy Chicken Salad,,450,24,28,31
+231,Grilled Chicken Salad,,330,15,14,36
+232,Side Salad,,25,0,5,1
+233,Crispy Chicken Wrap,,360,21,29,13
+234,Grilled Chicken Wrap,,290,15,22,15
+235,Crispy FlameThrower Chicken Wrap,,370,22,29,13
+236,Grilled FlameThrower Chicken Wrap,,300,16,22,16
+237,3 Chicken Strips,,350,20,22,22
+238,Chili Cheese Dog,,340,20,24,15
+239,Hot Dog,,260,15,22,11
+240,Hot Dog Kids’ Meal,,260,15,22,11
+241,Cheeseburger Kids’ Meal,,370,18,31,21
+242,Hamburger Kids’ Meal,,320,14,31,19
+243,2 Chicken Strips Kids’ Meal,,230,13,14,15
+244,Iron Grilled Cheese Sandwich Kids’ Meal,,360,13,41,16
+245,Turkey Wrap,,260,12,25,12
+246,Kids’ Fries,,260,11,38,3
+247,Applesauce,,90,0.2,23,0.2
+248,Banana,,110,0.4,29,1
+249,Kids’ Strawberry Banana Smoothie,,190,0.4,47,1
+250,French Fries,Kids',260,11,38,3
+251,,Regular,290,12,43,3
+252,,Large,480,20,70,5
+253,Onion Rings,,260,14,32,4
+254,Poutine,Large,1280,67,131,37
+255,,Small,610,32,60,18
+256,Banana Cream Pie Blizzard,Mini,410,14,63,8
+257,,Small,610,20,98,11
+258,,Medium,800,24,133,13
+259,,Large,1100,32,188,19
+260,Choco Cherry Love Blizzard,Mini,320,11,50,7
+261,,Small,560,22,83,11
+262,,Medium,850,35,122,15
+263,,Large,1230,51,175,21
+264,Chocolate Xtreme Blizzard,Mini,410,17,59,8
+265,,Small,640,27,90,12
+266,,Medium,820,35,116,15
+267,,Large,1140,50,161,21
+268,Cookie Dough Blizzard,Mini,420,16,64,8
+269,,Small,720,27,107,12
+270,,Medium,1040,40,155,17
+271,,Large,1340,52,200,21
+272,CrispyCrunch ® Blizzard,Mini,360,12,55,8
+273,,Small,500,17,76,11
+274,,Medium,810,29,121,16
+275,,Large,1070,39,160,21
+276,Double Fudge Cookie Dough Blizzard,Mini,450,18,66,8
+277,,Small,760,31,110,13
+278,,Medium,1020,41,148,16
+279,,Large,1190,46,177,20
+280,French Silk Pie Blizzard,Mini,450,20,61,8
+281,,Small,700,31,96,12
+282,,Medium,850,38,116,14
+283,,Large,1190,53,163,20
+284,Georgia Mud Fudge ® Blizzard,Mini,420,19,56,9
+285,,Small,660,33,83,13
+286,,Medium,860,44,106,16
+287,,Large,1190,62,148,22
+288,Hawaiian Blizzard,Mini,300,9,49,7
+289,,Small,440,14,70,9
+290,,Medium,600,19,98,12
+291,,Large,830,25,137,16
+292,Kit Kat ® Blizzard,Mini,360,12,56,8
+293,,Small,630,21,98,13
+294,,Medium,860,30,131,18
+295,,Large,1130,38,176,23
+296,Mint Oreo® Blizzard,Mini,410,14,64,8
+297,,Small,670,23,105,12
+298,,Medium,860,30,137,14
+299,,Large,1240,43,196,21
+300,Oreo ® Cookies Blizzard,Mini,380,13,59,8
+301,,Small,620,22,95,12
+302,,Medium,800,29,121,14
+303,,Large,1160,42,176,21
+304,Oreo ® CheeseQuake ® Blizzard,Mini,380,14,56,8
+305,,Small,570,22,81,11
+306,,Medium,780,31,110,15
+307,,Large,1080,43,152,21
+308,Reese ® Peanut Butter Cups ® Blizzard,Mini,360,14,53,9
+309,,Small,590,23,83,14
+310,,Medium,760,31,107,18
+311,,Large,1020,42,144,24
+312,Rolo ® Blizzard,Mini,380,13,59,8
+313,,Small,650,23,98,12
+314,,Medium,990,37,148,16
+315,,Large,1350,52,202,21
+316,Skor® Blizzard,Mini,390,15,56,7
+317,,Small,610,25,87,11
+318,,Medium,880,37,124,15
+319,,Large,1180,49,165,20
+320,Smarties ® Blizzard,Mini,380,12,61,8
+321,,Small,660,21,106,13
+322,,Medium,850,28,135,16
+323,,Large,1160,37,187,22
+324,Strawberry CheeseQuake ® Blizzard,Mini,330,11,49,7
+325,,Small,530,18,78,12
+326,,Medium,700,24,104,15
+327,,Large,930,32,140,20
+328,Turtle Pecan Cluster Blizzard,Mini,410,18,55,8
+329,,Small,680,30,92,13
+330,,Medium,960,47,123,16
+331,,Large,1330,66,168,22
+332,Banana Slices,,25,0,7,0
+333,Caramel Topping,,90,0.5,21,0.5
+334,Cheesecake Pieces,,100,6,10,2
+335,Brownie Pieces,,120,6,17,2
+336,Choco Chunks,,150,10,17,1
+337,Cookie Dough Pieces,,130,6,19,1
+338,Chocolate Topping,,70,0.2,18,0
+339,Cocoa Fudge,,140,10,16,1
+340,Coconut Flakes,,170,13,13,1
+341,CrispyCrunch Pieces,,130,5,20,1
+342,Kit Kat Pieces,,150,8,18,2
+343,Hot Fudge Topping,,100,3.5,15,0
+344,Oreo Cookie Pieces,,140,6,20,1
+345,Peanuts,,160,14,5,8
+346,Pecan Pieces,,200,21,4,3
+347,Reese Peanut Butter Cups Pieces,,140,9,16,3
+348,Rolo Pieces,,140,8,17,1
+349,Skor Pieces,,160,9,18,1
+350,Smarties Pieces,,130,4,23,1
+351,Strawberry Topping,,35,0,9,0.1
+352,Whipped Topping,,45,3.5,3,0
+353,"Shake, Caramel",Small,570,19,89,13
+354,,Medium,780,23,126,16
+355,,Large,1010,28,168,22
+356,"Shake, Cherry",Small,520,18,77,12
+357,,Medium,660,21,103,15
+358,,Large,840,26,133,20
+359,"Shake, Chocolate",Small,550,18,86,13
+360,,Medium,730,22,120,16
+361,,Large,950,26,159,21
+362,"Shake, Coffee",Small,520,20,72,13
+363,,Medium,640,24,91,16
+364,,Large,810,29,116,21
+365,"Shake, Hot Fudge",Small,580,22,83,13
+366,,Medium,780,28,115,17
+367,,Large,1020,36,152,22
+368,"Shake, Raspberry",Small,540,18,82,12
+369,,Medium,710,21,114,15
+370,,Large,910,26,149,20
+371,"Shake, Strawberry",Small,520,18,77,12
+372,,Medium,660,21,102,15
+373,,Large,840,26,132,20
+374,"Shake, Vanilla",Small,540,18,83,12
+375,,Medium,690,22,107,16
+376,,Large,890,28,140,21

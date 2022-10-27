@@ -1,0 +1,153 @@
+,Food,Size,Calories,Fat,Carbs,Protein
+0,Dave's Single®,,570,34,39,30g
+1,Dave's Double®,,810,51,39,49g
+2,Dave's Triple®,,1090,72,40,71g
+3,Baconator®,,940,62,38,59g
+4,Son of Baconator®,,630,39,37,34g
+5,Jr. Bacon Cheeseburger,,380,22,26,19g
+6,Jr. Cheeseburger Deluxe,,330,19,27,16g
+7,Jr. Hamburger,,240,10,25,14g
+8,Jr. Cheeseburger,,280,13,25,16g
+9,Double Stack™,,390,21,25,25g
+10,Homestyle Asiago Ranch Chicken Club,,670,34,53,38g
+11,Spicy Chicken Sandwich,,510,21,51,30g
+12,Homestyle Chicken Sandwich,,520,22,52,29g
+13,Grilled Chicken Sandwich,,360,8,38,35g
+14,Crispy Chicken Sandwich,,330,16,33,14g
+15,Spicy Chicken Wrap,,370,20,30,18g
+16,Grilled Chicken Wrap,,270,10,24,20g
+17,Crispy Chicken BLT,,420,23,35,20g
+18,Chicken Nuggets,4-piece,170,11,10,9g
+19,,6-piece,250,16,14,13g
+20,,10-piece,420,27,24,22g
+21,Taco Salad,Full,660,32,63,32g
+22,,Half,470,23,49,19g
+23,Power Mediterranean Chicken Salad,Full,480,16,42,43g
+24,,Half,250,9,23,22g
+25,BBQ Ranch Chicken Salad,Full,590,30,42,42g
+26,,Half,310,15,25,21g
+27,Apple Pecan Chicken Salad,Full,560,24,52,38g
+28,,Half,340,17,29,20g
+29,Spicy Chicken Caesar Salad,Full,720,43,41,43g
+30,,Half,410,24,29,23g
+31,Value Natural-Cut Fries,,230,10,30,3g
+32,Classic Chocolate Frosty®,,340,9,56,10g
+33,Chili,,170,5,16,15g
+34,Spicy Chicken Nuggets,4-piece,190,12,11,9g
+35,,6-piece,280,17,17,14g
+36,Value Coca-Cola®,,160,0,44,0g
+37,Garden Side Salad,,210,13,18,4g
+38,Caesar Side Salad,,250,18,18,7g
+39,Double Stack™,,390,21,25,25g
+40,Bacon Ranch Fries,,600,39,46,18g
+41,Bacon Sriracha Fries,,590,38,47,14g
+42,Baconator® Fries,,490,28,46,14g
+43,Garden Side Salad,,260,18,19,7g
+44,Sour Cream and Chive Baked Potato,,310,2.5,63,8g
+45,Broccoli Cheese Baked Potato,,430,11,70,15g
+46,Bacon Cheese Baked Potato,,480,17,66,17g
+47,Large Chili,,250,7,23,23g
+48,Natural-Cut Fries,Kids,230,10,30,3g
+49,,Value,230,10,30,3g
+50,,Regular,320,15,43,5g
+51,,Medium,420,19,56,6g
+52,,Large,530,24,70,7g
+53,Apple Slices,,35,0,9,0g
+54,Honest® Tropical Green Tea,Small,60,0,44,0g
+55,,Medium,120,0,30,0g
+56,,Large,130,0,33,0g
+57,Orange Mango FRUITEA CHILLERS®,Small,170,0,44,0g
+58,,Medium,300,0,76,0g
+59,,Large,320,0,83,0g
+60,Coca-Cola®,Kids' Meal,120,0,33,0g
+61,,Regular,200,0,54,0g
+62,,Medium,320,0,87,0g
+63,,Large,400,0,109,0g
+64,Diet Coke®,Kids' Meal,0,0,0,0g
+65,,Value,0,0,0,0g
+66,,Regular,0,0,0,0g
+67,,Medium,0,0,0,0g
+68,,Large,0,0,1,0g
+69,Sprite®,Kids' Meal,120,0,32,0g
+70,,Value,160,0,42,0g
+71,,Regular,200,0,53,0g
+72,,Medium,310,0,84,0g
+73,,Large,390,0,105,0g
+74,Brewed Unsweetened Iced Tea,Value,0,0,1,0g
+75,,Regular,0,0,1,0g
+76,,Medium,0,0,1,0g
+77,,Large,5,0,2,0g
+78,Nestlé® Pure Life® Bottled Water,,0,0,0,0g
+79,All-Natural Lemonade,Regular,190,0,50,0g
+80,,Value,170,0,43,0g
+81,,Medium,330,0,86,0g
+82,,Large,380,0,100,0g
+83,Strawberry Lemonade,Value (12oz),210,0,55,0g
+84,,Regular,230,0,58,0g
+85,,Medium,380,0,98,0g
+86,,Large,460,0,118,0g
+87,Strawberry Tea,Kids,30,0,8,0g
+88,,Regular,45,0,11,0g
+89,,Medium,60,0,16,0g
+90,,Large,90,0,22,0g
+91,Original RedHead Roasters Coffee,Large,5,0,0,1g
+92,,Small,0,0,0,0g
+93,Brewed Decaffeinated Coffee,Small,0,0,0,0g
+94,,Large,0,0,0,0g
+95,Vanilla Iced Coffee,Regular,170,6,28,2g
+96,,Medium,250,8,42,3g
+97,Caramel Iced Coffee,Regular,160,6,26,2g
+98,,Medium,240,8,40,3g
+99,Mocha Iced Coffee,Regular,170,6,28,2g
+100,,Medium,210,8,32,3g
+101,Skinny Vanilla Iced Coffee,Regular,70,5,6,2g
+102,,Medium,100,8,14,3g
+103,Hot Tea,,0,0,1,0g
+104,Hi-C® Flashin' Fruit Punch®,Kids' Meal,130,0,35,0g
+105,,Value,170,0,46,0g
+106,,Regular,210,0,58,0g
+107,,Medium,340,0,92,0g
+108,,Large,420,0,115,0g
+109,Barq's® Root Beer,Kids' Meal,130,0,37,0g
+110,,Value,180,0,49,0g
+111,,Regular,220,0,61,0g
+112,,Medium,360,0,98,0g
+113,,Large,450,0,122,0g
+114,Fanta® Orange,Kids' Meal,130,0,35,0g
+115,,Value,170,0,47,0g
+116,,Regular,210,0,59,0g
+117,,Medium,340,0,94,0g
+118,,Large,430,0,117,0g
+119,Coke Zero Sugar,Kids' Meal,0,0,0,0g
+120,,Value,0,0,0,0g
+121,,Regular,0,0,0,0g
+122,,Medium,0,0,1,0g
+123,,Large,0,0,1,0g
+124,Dr Pepper®,Kids' Meal,90,0,26,0g
+125,,Value,100,0,26,0g
+126,,Regular,120,0,33,0g
+127,,Medium,190,0,53,0g
+128,,Large,240,0,66,0g
+129,Hot Cocoa,,120,2,24,1g
+130,Jr. Vanilla Frosty®,,190,4.5,32,5g
+131,Jr. Classic Chocolate Frosty®,,200,5,33,6g
+132,Kids' Cheeseburger,,270,13,25,15g
+133,Chicken Tenders,2-piece,200,10,13,15g
+134,Kids' Hamburger,,240,9,24,13g
+135,1% Chocolate Milk,,150,2.5,26,7g
+136,1% White Milk,,90,2,10,7g
+137,Classic Chocolate Frosty®,Medium,460,12,76,13g
+138,,Large,580,15,96,16g
+139,Vanilla Frosty®,Regular,340,8,56,9g
+140,,Medium,460,12,77,12g
+141,,Large,570,15,97,15g
+142,Artisan Egg Sandwich,,360,19,29,20g
+143,Mornin' Melt® Panini,,520,33,33,31g
+144,Honey Butter Chicken Biscuit,,500,26,48,19g
+145,Steel Cut Oatmeal,,340,11,57,5g
+146,Sausage & Egg Burrito,,390,29,14,17g
+147,Sausage Biscuit,,480,33,35,12g
+148,Seasoned Home-Style Potatoes,,230,8,35,3g
+149,Oatmeal Bar,,290,10,47,4g
+150,Fresh Baked Biscuit,,590,41,36,20g
+151,Small Orange Juice,,130,0,30,2g

@@ -1,0 +1,1213 @@
+,Food,Size,Calories,Fat,Carbs,Protein
+0,Backyard BBQ Chicken,78g,180,6g,25g,7g
+1,Buffalo Chicken,77.3g,170,5g,22g,7g
+2,Cheese,65.6g,150,6g,17g,6g
+3,Chicken-Bacon Parmesan,74g,170,8g,17g,8g
+4,Four Pepper Pepperoni,70.7g,150,6g,17g,6g
+5,Hawaiian Chicken,76g,150,5g,18g,7g
+6,Meat Lover's®,81.3g,210,12g,17g,8g
+7,Pepperoni,63g,150,7g,17g,6g
+8,Pepperoni Lover's®,71.3g,180,9g,17g,7g
+9,Primo Meats,78.9g,200,12g,17g,8g
+10,Supreme,76.9g,170,9g,17g,7g
+11,Ultimate Cheese Lover's®,66.3g,170,8g,17g,7g
+12,Veggie Lover's®,73g,140,5g,18g,5g
+13,Backyard BBQ Chicken,65g,160,6g,20g,7g
+14,Buffalo Chicken,64.6g,140,5g,18g,6g
+15,Cheese,60.2g,140,6g,16g,6g
+16,Chicken-Bacon Parmesan,66.2g,150,7g,15g,7g
+17,Four Pepper Pepperoni,66.7g,140,6g,16g,5g
+18,Hawaiian Chicken,69.7g,140,5g,16g,7g
+19,Meat Lover's®,72.2g,180,10g,15g,7g
+20,Pepperoni,58.2g,140,7g,15g,6g
+21,Pepperoni Lover's®,65.9g,170,9g,16g,7g
+22,Primo Meats,70.2g,180,10g,15g,7g
+23,Supreme,70.8g,160,8g,16g,6g
+24,Ultimate Cheese Lover's®,59.5g,150,7g,15g,6g
+25,Veggie Lover's®,69.4g,130,5g,16g,5g
+26,Backyard BBQ Chicken,63g,140,4g,20g,6g
+27,Buffalo Chicken,62.6g,130,3.5g,19g,6g
+28,Cheese,58.9g,130,5g,16g,6g
+29,Chicken-Bacon Parmesan,64.2g,140,6g,16g,7g
+30,Four Pepper Pepperoni,65g,120,4g,16g,5g
+31,Hawaiian Chicken,68.3g,130,4g,17g,6g
+32,Meat Lover's®,70.9g,180,9g,16g,7g
+33,Pepperoni,56.9g,130,5g,16g,5g
+34,Pepperoni Lover's®,64.6g,160,7g,16g,7g
+35,Primo Meats,68.9g,170,9g,16g,7g
+36,Supreme,69.4g,150,6g,17g,6g
+37,Ultimate Cheese Lover's®,57.5g,140,6g,16g,6g
+38,Veggie Lover's®,68.4g,120,4g,17g,5g
+39,Backyard BBQ Chicken,53.3g,130,4g,17g,6g
+40,Buffalo Chicken,52.9g,110,3g,16g,5g
+41,Cheese,50.8g,110,4g,14g,5g
+42,Chicken-Bacon Parmesan,58.4g,130,6g,13g,7g
+43,Four Pepper Pepperoni,60.3g,110,3.5g,14g,5g
+44,Hawaiian Chicken,61.7g,110,3g,14g,6g
+45,Meat Lover's®,63.3g,160,8g,14g,7g
+46,Pepperoni,49.3g,110,5g,13g,5g
+47,Pepperoni Lover's®,57g,140,7g,14g,6g
+48,Primo Meats,60.9g,150,8g,13g,6g
+49,Supreme,63.3g,130,6g,14g,5g
+50,Ultimate Cheese Lover's®,50.4g,130,6g,13g,6g
+51,Veggie Lover's®,63.8g,100,3.5g,14g,4g
+52,Backyard BBQ Chicken,1 pizza,1180,36g,164g,51g
+53,Buffalo Chicken,1 pizza,1070,31g,150g,47g
+54,Cheese,1 pizza,1030,38g,127g,44g
+55,Chicken-Bacon Parmesan,1 pizza,1070,41g,125g,51g
+56,Four Pepper Pepperoni,1 pizza,1000,36g,129g,41g
+57,Hawaiian Chicken,1 pizza,1010,31g,132g,50g
+58,Margherita,1 pizza,1010,36g,128g,43g
+59,Meat Eater,1 pizza,1320,60g,132g,64g
+60,Meat Lover's®,1 pizza,1390,73g,127g,57g
+61,Pepperoni,1 pizza,1010,39g,125g,41g
+62,Pepperoni Lover's®,1 pizza,1210,55g,127g,52g
+63,Primo Meats,1 pizza,1370,71g,125g,56g
+64,Supreme,1 pizza,1160,51g,129g,47g
+65,Ultimate Cheese Lover's®,1 pizza,1060,43g,125g,45g
+66,Veggie Lover's®,1 pizza,960,32g,131g,38g
+67,Backyard BBQ Chicken,1 pizza,1050,34g,140g,46g
+68,Buffalo Chicken,1 pizza,920,27g,126g,43g
+69,Cheese,1 pizza,900,35g,107g,39g
+70,Chicken-Bacon Parmesan,1 pizza,990,43g,102g,48g
+71,Four Pepper Pepperoni,1 pizza,880,32g,109g,36g
+72,Hawaiian Chicken,1 pizza,880,28g,113g,45g
+73,Margherita,1 pizza,880,33g,109g,38g
+74,Meat Eater,1 pizza,1190,56g,111g,59g
+75,Meat Lover's®,1 pizza,1270,71g,106g,53g
+76,Pepperoni,1 pizza,940,41g,105g,38g
+77,Pepperoni Lover's®,1 pizza,1130,57g,107g,49g
+78,Primo Meats,1 pizza,1230,68g,104g,52g
+79,Supreme,1 pizza,1030,47g,110g,42g
+80,Ultimate Cheese Lover's®,1 pizza,970,44g,102g,41g
+81,Veggie Lover's®,1 pizza,830,29g,112g,34g
+82,Backyard BBQ Chicken,111.3g,270,11g,33g,11g
+83,Buffalo Chicken,110.7g,250,9g,31g,11g
+84,Cheese,107.8g,260,12g,28g,11g
+85,Chicken-Bacon Parmesan,115.9g,280,13g,27g,13g
+86,Four Pepper Pepperoni,118.5g,250,11g,28g,10g
+87,Hawaiian Chicken,120.6g,250,10g,29g,11g
+88,Meat Lover's®,124.4g,320,18g,28g,13g
+89,Pepperoni,103.1g,260,13g,27g,10g
+90,Pepperoni Lover's®,119.7g,320,17g,28g,13g
+91,Primo Meats,120.5g,320,18g,28g,13g
+92,Supreme,123.3g,280,14g,28g,11g
+93,Ultimate Cheese Lover's®,108.8g,280,14g,27g,12g
+94,Veggie Lover's®,122.9g,240,10g,29g,9g
+95,Backyard BBQ Chicken,97.7g,220,7g,31g,10g
+96,Buffalo Chicken,97.1g,200,6g,28g,9g
+97,Cheese,92.8g,210,8g,26g,9g
+98,Chicken-Bacon Parmesan,102.3g,230,9g,25g,11g
+99,Four Pepper Pepperoni,105.1g,200,7g,26g,9g
+100,Hawaiian Chicken,108.1g,210,7g,27g,10g
+101,Meat Lover's®,111.9g,280,15g,25g,12g
+102,Pepperoni,90.6g,220,10g,25g,9g
+103,Pepperoni Lover's®,104.6g,270,13g,26g,11g
+104,Primo Meats,107.9g,280,15g,25g,11g
+105,Supreme,110.8g,240,11g,26g,10g
+106,Ultimate Cheese Lover's®,92.6g,230,10g,25g,10g
+107,Veggie Lover's®,110.4g,200,7g,26g,8g
+108,Backyard BBQ Chicken,86g,210,7g,27g,9g
+109,Buffalo Chicken,85.3g,180,5g,25g,9g
+110,Cheese,82.4g,180,7g,22g,8g
+111,Chicken-Bacon Parmesan,95g,220,10g,21g,11g
+112,Four Pepper Pepperoni,100.8g,180,7g,23g,8g
+113,Hawaiian Chicken,101.4g,180,5g,24g,9g
+114,Meat Lover's®,102.6g,260,14g,22g,11g
+115,Pepperoni,81.9g,200,9g,22g,8g
+116,Pepperoni Lover's®,95.9g,250,13g,22g,11g
+117,Primo Meats,97.5g,250,13g,22g,11g
+118,Supreme,105.5g,210,9g,23g,9g
+119,Ultimate Cheese Lover's®,82g,210,10g,21g,10g
+120,Veggie Lover's®,109.2g,170,6g,24g,7g
+121,Backyard BBQ Chicken,153.4g,390,17g,43g,17g
+122,Buffalo Chicken,152.6g,360,15g,40g,16g
+123,Cheese,150.8g,380,19g,37g,16g
+124,Chicken-Bacon Parmesan,160.2g,390,20g,35g,18g
+125,Four Pepper Pepperoni,163.6g,360,18g,37g,14g
+126,Hawaiian Chicken,168.8g,360,16g,38g,17g
+127,Meat Lover's®,175.1g,470,28g,36g,19g
+128,Pepperoni,143.6g,380,20g,36g,15g
+129,Pepperoni Lover's®,167.6g,460,26g,37g,19g
+130,Primo Meats,169.7g,470,28g,36g,19g
+131,Supreme,172.7g,410,22g,37g,16g
+132,Ultimate Cheese Lover's®,150.4g,410,22g,36g,17g
+133,Veggie Lover's®,171.3g,340,16g,38g,13g
+134,Backyard BBQ Chicken,132.3g,300,10g,40g,14g
+135,Buffalo Chicken,131.5g,270,8g,37g,13g
+136,Cheese,127.2g,290,11g,34g,13g
+137,Chicken-Bacon Parmesan,139.1g,310,13g,33g,15g
+138,Four Pepper Pepperoni,143.1g,280,10g,34g,12g
+139,Hawaiian Chicken,148.8g,280,9g,35g,14g
+140,Meat Lover's®,155.1g,390,21g,34g,17g
+141,Pepperoni,123.6g,300,13g,33g,12g
+142,Pepperoni Lover's®,144g,370,19g,34g,16g
+143,Primo Meats,149.7g,390,21g,34g,16g
+144,Supreme,152.8g,330,15g,35g,13g
+145,Ultimate Cheese Lover's®,125.7g,310,14g,33g,14g
+146,Veggie Lover's®,151.3g,260,9g,35g,11g
+147,Backyard BBQ Chicken,115g,280,9g,35g,13g
+148,Buffalo Chicken,114.1g,240,7g,32g,12g
+149,Cheese,111.3g,250,10g,29g,12g
+150,Chicken-Bacon Parmesan,127.9g,290,13g,28g,15g
+151,Four Pepper Pepperoni,133.2g,250,10g,30g,11g
+152,Hawaiian Chicken,136.1g,240,8g,31g,13g
+153,Meat Lover's®,140.2g,360,20g,29g,16g
+154,Pepperoni,109.4g,270,13g,29g,12g
+155,Pepperoni Lover's®,129.8g,340,18g,29g,15g
+156,Primo Meats,133.8g,350,19g,29g,15g
+157,Supreme,141.3g,290,14g,30g,12g
+158,Ultimate Cheese Lover's®,111.6g,290,14g,28g,13g
+159,Veggie Lover's®,143.2g,230,8g,31g,10g
+160,Backyard BBQ Chicken,145.4g,340,13g,41g,16g
+161,Buffalo Chicken,144.7g,310,11g,38g,15g
+162,Cheese,137g,310,13g,35g,14g
+163,Chicken-Bacon Parmesan,151.8g,340,16g,34g,17g
+164,Four Pepper Pepperoni,154.5g,320,13g,35g,14g
+165,Hawaiian Chicken,160.2g,310,11g,37g,16g
+166,Meat Lover's®,169g,430,24g,35g,18g
+167,Pepperoni,138g,340,16g,35g,14g
+168,Pepperoni Lover's®,152.7g,390,20g,35g,17g
+169,Primo Meats,162.8g,420,23g,35g,18g
+170,Supreme,164.7g,360,18g,36g,15g
+171,Ultimate Cheese Lover's®,135.5g,340,16g,34g,15g
+172,Veggie Lover's®,161.3g,300,12g,36g,13g
+173,Cheese - Udi's®,50.6g,110,4.5g,15g,4g
+174,Meat Lover's®,62.7g,160,9g,15g,6g
+175,Pepperoni,50g,120,6g,14g,4g
+176,Pepperoni Lover's®,57.7g,150,8g,15g,6g
+177,Supreme - Udi's®,63g,130,6g,15g,4g
+178,Veggie Lover's®,63.5g,110,4g,15g,3g
+179,Backyard BBQ Chicken,106.9g,260,9g,34g,11g
+180,Buffalo Chicken,106.3g,240,8g,32g,10g
+181,Cheese,101.7g,240,10g,29g,10g
+182,Chicken-Bacon Parmesan,111.2g,260,12g,28g,12g
+183,Four Pepper Pepperoni,112.8g,240,9g,29g,9g
+184,Hawaiian Chicken,115.5g,230,8g,30g,11g
+185,Meat Lover's®,120g,310,16g,29g,12g
+186,Pepperoni,99.3g,250,11g,28g,10g
+187,Pepperoni Lover's®,113.1g,300,15g,29g,12g
+188,Primo Meats,115.3g,300,16g,28g,12g
+189,Supreme,117.8g,270,12g,29g,10g
+190,Ultimate Cheese Lover's®,102.7g,270,12g,28g,11g
+191,Veggie Lover's®,116.2g,220,8g,29g,8g
+192,Backyard BBQ Chicken,248.2g,570,19g,76g,25g
+193,Buffalo Chicken,249.9g,520,15g,72g,23g
+194,Cheese,245.6g,540,20g,65g,25g
+195,Cheesy Margherita,243g,480,15g,65g,21g
+196,Chicken Bacon Ranch,258.6g,610,28g,64g,25g
+197,Chicken-Bacon Parmesan,267.9g,590,25g,64g,28g
+198,Four Pepper Pepperoni,288.1g,520,18g,68g,22g
+199,Hawaiian Chicken,282.4g,520,16g,69g,25g
+200,Hawaiian Luau,258.8g,530,19g,68g,23g
+201,Italian Meat Trio,258.2g,620,29g,65g,26g
+202,Meat Lover's®,275.3g,670,32g,65g,29g
+203,Meatball Carbonara,264g,600,26g,65g,26g
+204,Pepperoni,229.9g,530,20g,64g,23g
+205,Pepperoni Lover's®,264g,630,28g,66g,29g
+206,Primo Meats,268.8g,660,32g,65g,28g
+207,Super Supreme,337g,660,31g,69g,28g
+208,Supreme,294.7g,570,23g,67g,25g
+209,Veggie Lover's®,312.9g,510,17g,69g,22g
+210,American Chicken Club *Local Specialty*,79g,180,9g,18g,7g
+211,BBQ Beef,71.1g,160,7g,19g,7g
+212,BBQ Chicken (w/ cheddar cheese),,150,6g,18g,7g
+213,BBQ Chicken *Local Specialty*,80.6g,180,6g,25g,8g
+214,BBQ Lover's *Local Specialty*,77.1g,200,8g,25g,7g
+215,BLT *Local Specialty*,69.4g,170,9g,17g,6g
+216,Bacon Cheeseburger (w/ cheddar cheese),,200,11g,17g,8g
+217,Badger Special *Local Specialty*,73.5g,170,9g,17g,7g
+218,Fiesta Taco (Beef),83g,190,9g,21g,7g
+219,Fiesta Taco (Chicken),84.1g,170,7g,21g,7g
+220,Garden Chicken *Local Specialty*,79.6g,160,6g,18g,7g
+221,Garden Fresh *Local Specialty*,81.9g,150,6g,18g,6g
+222,Hawaiian *Local Specialty*,69.5g,140,5g,18g,6g
+223,Hawaiian Luau,66.4g,150,6g,18g,6g
+224,Italian Classic,,190,11g,17g,7g
+225,Ohio's Best *Local Specialty*,83.3g,180,9g,18g,7g
+226,Super Supreme,90g,210,12g,18g,8g
+227,Taco Pizza *Local Specialty*,79.4g,170,7g,18g,7g
+228,American Chicken Club *Local Specialty*,72.9g,170,9g,16g,7g
+229,BBQ Beef,66.3g,150,7g,17g,7g
+230,BBQ Chicken *Local Specialty*,65.9g,150,5g,19g,7g
+231,BBQ Lover's *Local Specialty*,63.7g,170,7g,19g,6g
+232,BLT *Local Specialty*,65.2g,160,8g,15g,6g
+233,Bacon Cheeseburger (w/ cheddar cheese),,200,11g,17g,8g
+234,Badger Special *Local Specialty*,73.5g,170,17g,17g,7g
+235,Fiesta Taco (Beef),83g,190,9g,21g,7g
+236,Fiesta Taco (Chicken),84.1g,170,7g,21g,7g
+237,Garden Chicken *Local Specialty*,79.6g,160,6g,18g,7g
+238,Garden Fresh *Local Specialty*,81.9g,150,6g,18g,6g
+239,Hawaiian *Local Specialty*,69.5g,140,5g,18g,6g
+240,Hawaiian Luau,66.4g,150,6g,18g,6g
+241,Italian Classic,,190,11g,17g,7g
+242,Ohio's Best *Local Specialty*,83.3g,180,9g,18g,7g
+243,Super Supreme,90g,210,12g,18g,8g
+244,Taco Pizza *Local Specialty*,79.4g,170,7g,18g,7g
+245,American Chicken Club *Local Specialty*,72.9g,170,9g,16g,7g
+246,BBQ Beef,66.3g,150,7g,17g,7g
+247,BBQ Chicken *Local Specialty*,65.9g,150,5g,19g,7g
+248,BBQ Lover's *Local Specialty*,63.7g,170,7g,19g,6g
+249,BLT *Local Specialty*,65.2g,160,8g,15g,6g
+250,Badger Special *Local Specialty*,67.1g,160,8g,16g,6g
+251,Fiesta Taco (Beef),77.4g,180,8g,19g,6g
+252,Fiesta Taco (Chicken),78.5g,160,7g,19g,7g
+253,Garden Chicken *Local Specialty*,69.8g,140,6g,16g,6g
+254,Garden Fresh *Local Specialty*,77.9g,130,5g,17g,5g
+255,Hawaiian *Local Specialty*,65.2g,130,5g,16g,6g
+256,Hawaiian Luau,62.2g,140,6g,16g,5g
+257,Ohio's Best *Local Specialty*,77.5g,160,8g,16g,6g
+258,Super Supreme,81.6g,180,10g,16g,7g
+259,Taco Pizza *Local Specialty*,75.2g,160,7g,17g,7g
+260,American Chicken Club *Local Specialty*,70.9g,160,7g,17g,6g
+261,BBQ Beef,65g,140,5g,18g,6g
+262,BBQ Chicken *Local Specialty*,63.9g,140,3.5g,20g,7g
+263,BBQ Lover's *Local Specialty*,61.8g,160,6g,20g,6g
+264,BLT *Local Specialty*,63.2g,150,7g,16g,5g
+265,Badger Special *Local Specialty*,65.1g,140,6g,16g,6g
+266,Fiesta Taco (Beef),75.4g,170,7g,20g,6g
+267,Fiesta Taco (Chicken),76.5g,150,5g,20g,6g
+268,Garden Chicken *Local Specialty*,67.8g,130,4g,17g,6g
+269,Garden Fresh *Local Specialty*,75.9g,120,4g,17g,5g
+270,Hawaiian *Local Specialty*,62.6g,120,3.5g,17g,5g
+271,Hawaiian Luau,60.9g,130,4.5g,17g,5g
+272,Ohio's Best *Local Specialty*,75.8g,150,6g,17g,6g
+273,Super Supreme,80.6g,170,9g,17g,7g
+274,Taco Pizza *Local Specialty*,73.2g,140,6g,17g,6g
+275,American Chicken Club *Local Specialty*,65.3g,140,7g,14g,6g
+276,BBQ Beef,56.9g,120,4.5g,15g,6g
+277,BBQ Chicken *Local Specialty*,53.3g,120,3g,17g,6g
+278,BBQ Lover's *Local Specialty*,51.5g,140,6g,17g,5g
+279,BLT *Local Specialty*,53.8g,130,7g,13g,5g
+280,Badger Special *Local Specialty*,58.6g,130,6g,14g,6g
+281,Fiesta Taco (Beef),66.2g,150,6g,17g,5g
+282,Fiesta Taco (Chicken),67.3g,130,4.5g,17g,6g
+283,Garden Chicken *Local Specialty*,61.3g,110,3.5g,14g,5g
+284,Garden Fresh *Local Specialty*,69.4g,100,3.5g,15g,4g
+285,Hawaiian *Local Specialty*,58.1g,100,3g,15g,5g
+286,Hawaiian Luau,54.1g,110,4g,14g,5g
+287,Italian Trio,57.8g,130,6g,14g,5g
+288,Ohio's Best *Local Specialty*,71.8g,130,6g,14g,5g
+289,Super Supreme,75.1g,150,8g,14g,6g
+290,Taco Pizza *Local Specialty*,64g,130,5g,14g,6g
+291,American Chicken Club *Local Specialty*,126.3g,310,16g,29g,11g
+292,BBQ Beef,119.2g,280,13g,31g,12g
+293,BBQ Chicken *Local Specialty*,113g,270,10g,33g,13g
+294,BBQ Lover's *Local Specialty*,110.5g,290,13g,33g,11g
+295,BLT *Local Specialty*,117.6g,300,16g,27g,10g
+296,Badger Special *Local Specialty*,115.1g,270,13g,28g,11g
+297,Fiesta Taco (Beef),139.2g,310,15g,35g,11g
+298,Fiesta Taco (Chicken),140.3g,290,12g,35g,11g
+299,Garden Chicken *Local Specialty*,119.6g,250,10g,29g,11g
+300,Garden Fresh *Local Specialty*,130.8g,240,10g,29g,9g
+301,Hawaiian *Local Specialty*,116.3g,240,9g,30g,10g
+302,Hawaiian Luau,110g,250,10g,29g,10g
+303,Ohio's Best *Local Specialty*,135.8g,290,14g,29g,11g
+304,Super Supreme,141.9g,320,17g,29g,13g
+305,Taco Pizza *Local Specialty*,145.6g,310,15g,32g,13g
+306,American Chicken Club *Local Specialty*,112.7g,260,13g,26g,10g
+307,BBQ Beef,106.7g,240,10g,28g,11g
+308,BBQ Chicken *Local Specialty*,99.4g,220,6g,30g,11g
+309,BBQ Lover's *Local Specialty*,96.9g,250,9g,30g,10g
+310,BLT *Local Specialty*,103.9g,250,12g,25g,9g
+311,Badger Special *Local Specialty*,101.4g,230,10g,25g,10g
+312,Fiesta Taco (Beef),128.1g,270,11g,32g,10g
+313,Fiesta Taco (Chicken),129.1g,250,9g,32g,10g
+314,Garden Chicken *Local Specialty*,106g,200,7g,26g,10g
+315,Garden Fresh *Local Specialty*,117.2g,190,6g,27g,8g
+316,Hawaiian *Local Specialty*,102.6g,200,6g,27g,9g
+317,Hawaiian Luau,97.5g,210,7g,26g,9g
+318,Ohio's Best *Local Specialty*,122.2g,240,11g,26g,10g
+319,Super Supreme,129.4g,280,14g,27g,12g
+320,Taco Pizza *Local Specialty*,132g,260,11g,29g,12g
+321,American Chicken Club *Local Specialty*,108.2g,250,12g,23g,9g
+322,BBQ Beef,96.2g,220,8g,25g,10g
+323,BBQ Chicken *Local Specialty*,85.2g,200,5g,27g,10g
+324,BBQ Lover's *Local Specialty*,83.8g,230,9g,27g,9g
+325,BLT *Local Specialty*,93.1g,230,12g,21g,8g
+326,Badger Special *Local Specialty*,94.4g,210,9g,23g,9g
+327,Fiesta Taco (Beef),117.6g,250,11g,29g,9g
+328,Fiesta Taco (Chicken),118.6g,230,8g,29g,10g
+329,Garden Chicken *Local Specialty*,99g,180,6g,23g,9g
+330,Garden Fresh *Local Specialty*,110.2g,170,6g,24g,7g
+331,Hawaiian *Local Specialty*,99.2g,180,5g,25g,8g
+332,Hawaiian Luau,90.5g,190,7g,23g,8g
+333,Ohio's Best *Local Specialty*,122g,220,10g,24g,9g
+334,Super Supreme,125.8g,260,13g,24g,11g
+335,Taco Pizza *Local Specialty*,121.5g,240,11g,26g,11g
+336,American Chicken Club *Local Specialty*,177.3g,450,25g,38g,17g
+337,BBQ Beef,168.5g,420,20g,41g,18g
+338,BBQ Chicken *Local Specialty*,155g,380,16g,42g,18g
+339,BBQ Lover's *Local Specialty*,152.9g,420,21g,42g,16g
+340,BLT *Local Specialty*,164.1g,430,25g,35g,15g
+341,Badger Special *Local Specialty*,160.5g,400,21g,37g,16g
+342,Fiesta Taco (Beef),189g,430,22g,44g,15g
+343,Fiesta Taco (Chicken),190.4g,400,18g,44g,16g
+344,Garden Chicken *Local Specialty*,165.8g,360,16g,38g,16g
+345,Garden Fresh *Local Specialty*,180.2g,350,16g,38g,14g
+346,Hawaiian *Local Specialty*,162g,350,15g,39g,15g
+347,Hawaiian Luau,153.7g,360,17g,37g,15g
+348,Ohio's Best *Local Specialty*,190g,420,23g,38g,16g
+349,Super Supreme,199.5g,470,27g,38g,19g
+350,Taco Pizza *Local Specialty*,200.3g,450,23g,41g,19g
+351,American Chicken Club *Local Specialty*,156.1g,360,18g,35g,14g
+352,BBQ Beef,148.5g,340,14g,38g,15g
+353,BBQ Chicken *Local Specialty*,133.9g,300,8g,40g,15g
+354,BBQ Lover's *Local Specialty*,131.8g,330,13g,39g,14g
+355,BLT *Local Specialty*,142.9g,350,18g,33g,12g
+356,Badger Special *Local Specialty*,139.4g,310,14g,34g,13g
+357,Fiesta Taco (Beef),171.5g,360,15g,41g,13g
+358,Fiesta Taco (Chicken),172.9g,330,12g,41g,14g
+359,Garden Chicken *Local Specialty*,144.6g,270,9g,35g,13g
+360,Garden Fresh *Local Specialty*,159.1g,260,9g,36g,11g
+361,Hawaiian *Local Specialty*,140.8g,270,8g,36g,12g
+362,Hawaiian Luau,133.6g,280,10g,35g,12g
+363,Ohio's Best *Local Specialty*,168.9g,330,15g,35g,14g
+364,Super Supreme,179.5g,390,20g,35g,16g
+365,Taco Pizza *Local Specialty*,179.1g,360,16g,39g,16g
+366,American Chicken Club *Local Specialty*,145.5g,340,18g,31g,13g
+367,BBQ Beef,132.6g,300,12g,33g,14g
+368,BBQ Chicken *Local Specialty*,114.4g,260,8g,34g,14g
+369,BBQ Lover's *Local Specialty*,113.2g,310,13g,34g,13g
+370,BLT *Local Specialty*,126.3g,320,18g,28g,11g
+371,Badger Special *Local Specialty*,126.6g,280,13g,29g,12g
+372,Fiesta Taco (Beef),155.1g,330,15g,36g,12g
+373,Fiesta Taco (Chicken),156.6g,300,11g,36g,13g
+374,Garden Chicken *Local Specialty*,131.8g,240,8g,30g,12g
+375,Garden Fresh *Local Specialty*,146.3g,230,8g,31g,10g
+376,Hawaiian *Local Specialty*,131.4g,240,8g,32g,12g
+377,Hawaiian Luau,120.6g,250,9g,31g,11g
+378,Ohio's Best *Local Specialty*,162g,310,15g,31g,13g
+379,Super Supreme,169.5g,350,19g,19g,15g
+380,Taco Pizza *Local Specialty*,162.8g,330,15g,34g,15g
+381,American Chicken Club *Local Specialty*,169.3g,410,22g,36g,16g
+382,BBQ Beef,162.9g,380,17g,39g,17g
+383,BBQ Chicken *Local Specialty*,149.4g,340,12g,41g,17g
+384,BBQ Lover's *Local Specialty*,145.6g,370,16g,41g,16g
+385,BLT *Local Specialty*,156.8g,390,22g,34g,14g
+386,Badger Special *Local Specialty*,155.7g,360,18g,35g,16g
+387,Fiesta Taco (Beef),189.7g,420,20g,43g,16g
+388,Fiesta Taco (Chicken),191.1g,390,16g,43g,17g
+389,Garden Chicken *Local Specialty*,159.5g,320,13g,37g,15g
+390,Garden Fresh *Local Specialty*,166.5g,310,12g,37g,13g
+391,Hawaiian *Local Specialty*,154.4g,310,12g,37g,14g
+392,Hawaiian Luau,146.4g,320,13g,36g,14g
+393,Ohio's Best *Local Specialty*,180.1g,380,19g,36g,15g
+394,Super Supreme,190.6g,420,23g,36g,18g
+395,Taco Pizza *Local Specialty*,192.9g,410,19g,40g,18g
+396,American Chicken Club *Local Specialty*,121.1g,300,15g,29g,11g
+397,BBQ Beef,115.6g,270,11g,31g,12g
+398,BBQ Chicken *Local Specialty*,109.5g,260,8g,34g,12g
+399,BBQ Lover's *Local Specialty*,106.3g,280,12g,34g,10g
+400,BLT *Local Specialty*,112.6g,280,15g,28g,9g
+401,Badger Special *Local Specialty*,110.7g,260,12g,29g,10g
+402,Fiesta Taco (Beef),136.9g,310,14g,35g,10g
+403,Fiesta Taco (Chicken),137.9g,290,11g,35g,11g
+404,Garden Chicken *Local Specialty*,115.3g,240,9g,29g,10g
+405,Garden Fresh *Local Specialty*,126.4g,230,9g,30g,9g
+406,Hawaiian *Local Specialty*,111.1g,230,8g,30g,10g
+407,Hawaiian Luau,105g,240,9g,29g,9g
+408,Ohio's Best *Local Specialty*,128.9g,270,13g,30g,10g
+409,Super Supreme,135.5g,310,16g,30g,12g
+410,Taco Pizza *Local Specialty*,140.8g,300,14g,32g,13g
+411,Hawaiian Luau,258.8g,530,19g,68g,23g
+412,Super Supreme,337g,660,31g,69g,28g
+413,Cavatini Meat Lover's w/ Garlic Bread,,890,36g,112g,31g
+414,Cavatini Meat Sauce w/ Garlic Bread,,1020,43g,115g,41g
+415,Cavatini Supreme w/ Garlic Bread,,780,25g,113g,27g
+416,Cavatini Veggie Lover's w/ Garlic Bread,,630,10g,113g,21g
+417,Chicken Milano Bake w/ Garlic Bread,,890,52g,64g,42g
+418,Creamy Chicken Alfredo Bake w/ Garlic Bread,,900,53g,62g,43g
+419,Meaty Marinara Bake w/ Garlic Bread,,710,38g,60g,32g
+420,Meaty Marinara Bake with Roasted Vegetables w/ Garlic Bread,,750,40g,64g,33g
+421,Sausage Italiano Bake w/ Garlic Bread,,830,49g,62g,37g
+422,Sausage Italiano Bake with Roasted Vegetables w/ Garlic Bread,,870,51g,65g,37g
+423,Sauteed Bacon Carbonara w/ Garlic Bread,,1220,75g,97g,39g
+424,Sauteed Chicken Alfredo w/ Garlic Bread,,1170,64g,105g,43g
+425,Sauteed Chicken Florentine w/ Garlic Bread,,1140,64g,99g,41g
+426,Sauteed Pomodoro Pasta w/ Garlic Bread *Local Specialty*,,770,31g,89g,31g
+427,Sauteed Sausage and Pepper Rustica with Garlic Bread,,1020,48g,119g,32g
+428,Sauteed Spaghetti with Alfredo w/ Garlic Bread,,1100,62g,104g,31g
+429,Sauteed Spaghetti with Marinara w/ Garlic Bread,,860,34g,114g,25g
+430,Sauteed Spaghetti with Meat Sauce w/ Garlic Bread,,980,43g,118g,33g
+431,Spaghetti with Marinara Sauce and Meatballs w/ Garlic Bread,,980,35g,123g,42g
+432,Spaghetti with Marinara Sauce w/ Garlic Bread,,670,12g,115g,22g
+433,"Spaghetti with Marinara Sauce, Meatballs, and Mushrooms w/ Garlic Bread",,990,35g,125g,43g
+434,Spaghetti with Meat Sauce and Meatballs w/ Garlic Bread,,1350,66g,128g,59g
+435,Spaghetti with Meat Sauce w/ Garlic Bread,,1030,43g,120g,39g
+436,"Spaghetti with Meat Sauce, Meatballs, and Mushrooms w/ Garlic Bread",,1360,66g,130g,60g
+437,Kid's Bone Out Wings (Garlic Parmesan) w/ Straight-Cut Fries,,880,51g,86g,19g
+438,Kid's Bone Out Wings (Naked) w/ Straight-Cut Fries,,730,36g,85g,17g
+439,Kid's Meatless Spaghetti w/ Garlic Bread,,430,12g,66g,14g
+440,Kid's Meatless Spaghetti w/ Meatballs w/ Garlic Bread,,640,27g,71g,27g
+441,Kid's Spaghetti w/ Meat Sauce w/ Garlic Bread,,610,28g,68g,22g
+442,Kid's Spaghetti w/ Meat Sauce w/ Meatballs w/ Garlic Bread,,820,43g,73g,36g
+443,Kids Sauteed Spaghetti with Marinara w/ Garlic Bread,,560,28g,64g,14g
+444,Kids Sauteed Spaghetti with Meat Sauce w/ Garlic Bread,,620,33g,64g,18g
+445,Asian Salad w/o Dressing,Entree,330,15g,24g,30g
+446,Athenian Salad w/o Dressing,Entree,560,29g,40g,36g
+447,BLT Salad w/o Dressing,Entree,400,26g,26g,17g
+448,Buffalo Chicken Salad *Local Specialty* w/o Dressing,Entree,730,34g,75g,36g
+449,Chicken Caesar Salad w/o Dressing,Entree,470,25g,27g,35g
+450,Chicken Garden Salad w/o Dressing,Entree,390,17g,34g,30g
+451,Chopped Salad *Local Specialty* w/o Dressing,Entree,230,11g,8g,24g
+452,Classic Caesar Salad w/o Dressing,Shared,180,7g,24g,7g
+453,Classic Caesar Salad w/o Dressing,Side/Small,110,4.5g,12g,5g
+454,Crispy Chicken *Local Specialty* w/o Dressing - Entree,Entree,740,40g,58g,39g
+455,Crispy Cobb Salad *Local Specialty* w/o Dressing,Entree,700,45g,40g,36g
+456,Garden Salad w/o Dressing,Shared,210,7g,31g,7g
+457,,Side/Small,120,4.5g,17g,5g
+458,Grilled Chicken Caesar *Local Specialty* w/o Dressing,Entree,360,14g,27g,33g
+459,Grilled Chicken Garden *Local Specialty* w/o Dressing,Entree,460,23g,31g,36g
+460,Harvest Salad w/o Dressing,Entree,470,19g,48g,31g
+461,Hawaii Caesar Salad *Local Specialty* w/o Dressing,Entree,60,2.5g,6g,4g
+462,Hawaii Chicken Caesar Salad *Local Specialty* w/o Dressing,Entree,140,4.5g,8g,19g
+463,Hawaii Garden Salad *Local Specialty* w/o Dressing,Entree,50,0.5g,11g,4g
+464,,Side,15,0g,3g,1g
+465,Italian Garden Salad *Local Specialty* w/o Dressing,Entree,270,19g,12g,14g
+466,WingStreet® Buffalo Chicken Salad w/o Dressing,Entree,750,32g,84g,34g
+467,WingStreet® Crispy Chicken Caesar Salad w/o Dressing,Entree,1030,73g,58g,37g
+468,Zesty Italian Salad w/o Dressing,Entree,370,22g,30g,16g
+469,,Shared,370,22g,30g,16g
+470,Blue Cheese Marzetti Dressing Packet,1.5 oz packet,200,21g,2g,1g
+471,Buttermilk Ranch Marzetti Dressing Packet,1.5 oz packet,200,22g,2g,0g
+472,Fat Free Ranch Marzetti Dressing Packet,1.5 oz packet,35,0g,8g,0g
+473,Honey French Marzetti Dressing Packet,1.5 oz packet,190,15g,13g,0g
+474,Light Italian Marzetti Dressing Packet,1.5 oz packet,15,1g,2g,0g
+475,Marzetti Royal Caesar Dressing Packet,1.5 oz packet,180,18g,2g,1g
+476,Marzetti Thousand Island Dressing Packet,1.5 oz packet,210,21g,6g,0g
+477,Balsamic Vinaigrette Dressing,Entree/Shared,220,21g,7g,0g
+478,,Side/Small,110,10g,4g,0g
+479,Blue Cheese Dressing,Entree/Shared,450,48g,3g,2g
+480,,Side/Small,220,24g,1g,< 1g
+481,Creamy Caesar Dressing,Entree/Shared,360,37g,5g,1g
+482,,Side/Small,180,19g,3g,< 1g
+483,Creamy Italian Dressing,Entree/Shared,350,37g,4g,0g
+484,,Side/Small,170,18g,2g,0g
+485,French Dressing,Entree/Shared,330,23g,29g,0g
+486,,Side/Small,160,12g,15g,0g
+487,General Tso's Dressing,Entree/Shared,90,0g,21g,0g
+488,Light Italian Vinaigrette Dressing,Entree/Shared,150,11g,11g,0g
+489,,Side/Small,80,6g,6g,0g
+490,Light Ranch Dressing,Entree/Shared,150,15g,3g,1g
+491,,Side/Small,80,7g,1g,< 1g
+492,Ranch Dressing,Entree/Shared,230,23g,4g,2g
+493,,Side/Small,110,11g,2g,< 1g
+494,Romano Dressing,Entree/Shared,330,33g,6g,2g
+495,Sun-Dried Tomato Basil Dressing,Entree/Shared,330,31g,10g,2g
+496,Thousand Island Dressing,Entree/Shared,270,24g,14g,< 1g
+497,,Side/Small,140,12g,7g,0g
+498,Black Forest Ham & Cheese Diablo Sandwich,w/ Potato Chips,860,39g,89g,38g
+499,,w/ Straight-Cut Fries,1170,53g,133g,39g
+500,Black Forest Ham & Cheese Sandwich *Local Specialty*,w/ Potato Chips,920,41g,89g,47g
+501,,w/ Straight-Cut Fries,1240,55g,133g,49g
+502,Black Forest Ham & Cheese Sandwich,w/ Potato Chips,850,39g,88g,37g
+503,,w/ Straight-Cut Fries,1170,53g,132g,39g
+504,Meatball Sub Sandwich,w/ Potato Chips,1090,56g,100g,50g
+505,,w/ Straight-Cut Fries,1410,70g,144g,51g
+506,P'zone - Meat W/ Mainara Sauce,,1200,,,
+507,P'zone - Pepperoni W/ Mainara Sauce,,1030,,,
+508,P'zone - Supremo W/ Mainara Sauce,,1050,,,
+509,Roasted Turkey & Provolone Sandwich,w/ Potato Chips,850,39g,90g,38g
+510,,w/ Straight-Cut Fries,1160,53g,134g,40g
+511,Roasted Turkey & Provolone Sandwich with Bacon,w/ Potato Chips,920,45g,90g,41g
+512,,w/ Straight-Cut Fries,1240,59g,134g,43g
+513,Steak & Cheese Hoagie,w/ Potato Chips,940,42g,89g,53g
+514,,w/ Straight-Cut Fries,1260,56g,133g,55g
+515,Supremo Sandwich *Local Specialty*,w/ Potato Chips,1060,53g,87g,55g
+516,,w/ Straight-Cut Fries,1370,67g,131g,57g
+517,Supremo Sandwich,w/ Potato Chips,970,50g,86g,44g
+518,,w/ Straight-Cut Fries,1290,64g,130g,46g
+519,WingStreet® Buffalo Chicken Sandwich,w/ Straight-Cut Fries,1550,75g,179g,41g
+520,WingStreet® Chicken Parmesan Sandwich w/ Breadstick Dipping Sauce,w/ Straight-Cut Fries,1790,99g,171g,54g
+521,WingStreet® Honey BBQ Sandwich,w/ Straight-Cut Fries,1720,78g,210g,44g
+522,WingStreet® Honey BBQ with Bacon Sandwich,w/ Straight-Cut Fries,1890,94g,210g,51g
+523,Naked,Bone Out Wing 26.8g,80,4g,6g,5g
+524,,Traditional 31.2g,80,4.5g,0g,9g
+525,Buffalo Burnin' Hot,Bone Out Wing,90,4g,9g,5g
+526,,Traditional,100,4.5g,5g,9g
+527,Buffalo Medium,Bone Out Wing,90,4g,9g,5g
+528,,Traditional,100,4.5g,5g,9g
+529,Buffalo Mild,Bone Out Wing,90,4g,10g,5g
+530,,Traditional,100,4.5g,5g,9g
+531,Cajun Rub,Bone Out Wing,80,4g,6g,5g
+532,,Traditional,80,4.5g,< 1g,9g
+533,Garlic Parmesan,Bone Out Wing,130,9g,6g,5g
+534,,Traditional,140,11g,< 1g,10g
+535,Hawaiian Teriyaki,Bone Out Wing,90,4g,9g,5g
+536,,Traditional,100,4.5g,4g,10g
+537,Honey BBQ,Bone Out Wing,110,4g,13g,5g
+538,,Traditional,120,4.5g,10g,9g
+539,Lemon Pepper Rub,Bone Out Wing,80,4g,6g,5g
+540,,Traditional,80,4.5g,< 1g,9g
+541,Ranch Rub,Bone Out Wing,80,4g,6g,5g
+542,,Traditional,80,4.5g,< 1g,9g
+543,Smoky Garlic,Bone Out Wing,110,6g,9g,5g
+544,,Traditional,120,7g,5g,9g
+545,Spicy Garlic,Bone Out Wing,110,6g,8g,5g
+546,,Traditional,120,8g,3g,9g
+547,Buffalo Burnin' Hot Sauce,per 1 Bone Out Wing,15,0g,3g,0g
+548,,per 1 Traditional Wing,20,0g,5g,0g
+549,Buffalo Medium Sauce,per 1 Bone Out Wing,15,0g,3g,0g
+550,,per 1 Traditional Wing,20,0g,4g,0g
+551,Buffalo Mild Sauce,per 1 Bone Out Wing,15,0g,3g,0g
+552,,per 1 Traditional Wing,20,0g,5g,0g
+553,Cajun-Style Rub,per 1 Bone Out Wing,0,0g,0g,0g
+554,,per 1 Traditional Wing,0,0g,0g,0g
+555,Garlic Parmesan Sauce,per 1 Bone Out Wing,45,5g,0g,0g
+556,,per 1 Traditional Wing,60,7g,0g,0g
+557,Hawaiian Teriyaki Sauce,per 1 Bone Out Wing,15,0g,3g,0g
+558,,per 1 Traditional Wing,15,0g,4g,0g
+559,Honey BBQ Sauce,per 1 Bone Out Wing,30,0g,7g,0g
+560,,per 1 Traditional Wing,40,0g,10g,0g
+561,Lemon Pepper Rub,per 1 Bone Out Wing,0,0g,0g,0g
+562,,per 1 Traditional Wing,0,0g,0g,0g
+563,Smoky Garlic Sauce,per 1 Bone Out Wing,30,2g,3g,0g
+564,,per 1 Traditional Wing,40,2.5g,5g,0g
+565,Spicy Garlic Sauce,per 1 Bone Out Wing,30,2.5g,2g,0g
+566,,per 1 Traditional Wing,40,3g,2g,0g
+567,Bacon Cheddar Fries w/ Ranch Dipping Cup,,1420,99g,104g,29g
+568,Bacon Cheesesticks (each),,190,9g,20g,8g
+569,Baked Bone-Out Wing (1),,60,2g,4g,5g
+570,Baked Cream Cheese Stuffed Jalpeno (1),,100,5g,10g,2g
+571,Baked Mozzarella Cheese Stick (1),,80,4.5g,6g,3g
+572,Baked Onion Rings w/ Ketchup,,560,25g,78g,8g
+573,Baked Quepapas w/ Ranch Dipping Cup,,650,44g,51g,13g
+574,Bakery-Style Breadsticks *Local Specialty* (each),,150,5g,22g,5g
+575,Breadstick Appetizer Sampler *Local Specialty*,,930,38g,118g,30g
+576,Breadsticks (each),,140,4.5g,19g,4g
+577,Breadsticks w/ Cheese,,150,4.5g,20g,7g
+578,Breadsticks with Extra Cheese (each),,210,10g,21g,10g
+579,Bruschetta (1 piece),,280,19g,20g,8g
+580,Buffalo Chicken Nachos,,1110,50g,132g,37g
+581,Cheesy Dip 'N Chips,,660,36g,78g,9g
+582,Fried Mozzarella Cheese Stick (1),,80,5g,7g,2g
+583,Fried Nacho Straight-Cut Fries,,1320,77g,133g,24g
+584,Fried Onion Rings w/ Ketchup,,860,50g,93g,10g
+585,Fried Quepapas w/ Ranch Dipping Cup,,690,46g,55g,13g
+586,Garlic Bread (1 piece),Regular,140,8g,15g,3g
+587,,w/ Cheese,210,13g,16g,7g
+588,Garlic Cheesesticks (each),,180,7g,21g,7g
+589,Lay's Classic Potato Chips,,150,10g,15g,2g
+590,Old Fashioned Breadsticks *Local Specialty*,1/10 Large (each),200,6g,27g,9g
+591,,1/8 Medium (each),180,5g,26g,8g
+592,"Sampler Platter *Local Specialty* w/ Marinara, Ranch and Honey Mustard Cups",Full Order,2400,153g,204g,53g
+593,,Half Order,1430,95g,114g,28g
+594,Saucy BBQ Wing (1),,60,3.5g,2g,5g
+595,Saucy Buffalo Wing (1),,60,3.5g,1g,5g
+596,Stuffed Garlic Knot (1),,80,2.5g,10g,3g
+597,Stuffed Pizza Roller (1),,230,10g,27g,9g
+598,Twisty Cheese Stick (each),,430,14g,59g,14g
+599,WingStreet Straight-Cut Fries w/ Ketchup,,500,24g,67g,4g
+600,,w/ Cajun Style Seasoning,510,24g,69g,4g
+601,,w/ Lemon Pepper Seasoning,510,24g,69g,4g
+602,Barbeque Dipping Sauce,3 oz / 85g,210,0g,51g,< 1g
+603,Blue Cheese Dipping Sauce,1.5 oz / 43g,220,23g,2g,1g
+604,Breadstick Dipping Sauce,3 oz / 85g,45,0g,9g,1g
+605,Buffalo Dipping Sauce,3 oz / 85g,140,0g,35g,0g
+606,Buffalo Ranch Dipping Sauce,3 oz,290,30g,3g,1g
+607,Cheese Dipping Sauce,3 oz,250,20g,11g,6g
+608,Extra Pizza BBQ Dipping Sauce,51.7g,120,1g,31g,1g
+609,Extra Pizza Buffalo Dipping Sauce,50ggrams,80,1g,21g,1g
+610,Garlic Dipping Sauce Cup,1.5 oz,100,10g,3g,0g
+611,Heinz Dip and Squeeze Ketchup,1 packet,30,0g,8g,0g
+612,Honey Mustard Dipping Cup,1.5 oz,200,18g,11g,< 1g
+613,Marinara Dipping Cup,2 oz,30,0g,6g,< 1g
+614,Nacho Cheese Sauce Souffle Cup,2 oz,90,6g,7g,< 1g
+615,,3 oz,130,10g,10g,1g
+616,Ranch Dipping Sauce,1.5 oz,210,22g,2g,0g
+617,Ranch Dressing Souffle Cup,2 oz,180,18g,3g,2g
+618,Broccoli & Cheese Soup w/ Club Crackers,Bowl,530,37g,35g,15g
+619,,Cup,280,19g,20g,8g
+620,Creamy Tomato Basil Soup w/ Club Crackers,Bowl,390,23g,37g,9g
+621,,Cup,210,12g,21g,5g
+622,Loaded Baked Potato Soup w/ Club Crackers,Bowl,600,40g,41g,21g
+623,,Cup,320,21g,23g,11g
+624,Diet Pepsi®,2 L,0,0g,0g,0g
+625,,20 fl oz,0,0g,0g,0g
+626,Mist Twst®,2 L,840,0g,218g,0g
+627,,20 fl oz,240,0g,65g,0g
+628,Mountain Dew®,2 L,950,0g,257g,0g
+629,,20 fl oz,290,0g,77g,0g
+630,Pepsi®,2 L,840,0g,229g,0g
+631,,20 fl oz,250,0g,69g,0g
+632,Cinnamon Stick (1 small piece),47g,80,2.5g,13g,2g
+633,Cinnamon Sticks White Icing Dipping Cup,57g,180,0g,44g,0g
+634,Dessert Pizza (medium),Apple (1 slice),250,4g,50g,4g
+635,,Blueberry (1 slice),230,4g,46g,4g
+636,,Cherry (1 slice),240,4g,47g,4g
+637,HERSHEY'S® Hot Chocolate Brownie,1 square,290,11g,45g,3g
+638,HERSHEY'S® Toasted S'Mores Cookie,1 slice,240,10g,33g,3g
+639,HERSHEY'S® Triple Chocolate Brownie,1/6th square,380,16g,56g,5g
+640,HERSHEY'S® Triple Chocolate Brownie,1/9 square,260,11g,37g,3g
+641,Hot Cinnamon Apple Pie,Regular,170,9g,22g,< 1g
+642,,Apple Pie Caramel Sauce,270,1.5g,63g,< 1g
+643,"Individual (4"") HERSHEY'S¨ Chocolate Chip Cookie",,300,14g,45g,3g
+644,Individual Chocolate Chip Cookie (1.25 oz) *Local Specialty*,,170,8g,23g,2g
+645,New York Style Cheesecake,Regular,840,57g,69g,14g
+646,,w/ Apple Sauce,990,57g,108g,14g
+647,,w/ Blueberry Sauce,960,57g,100g,14g
+648,,w/ Caramel Sauce,930,57g,90g,14g
+649,,w/ Cherry Sauce,970,57g,101g,15g
+650,The Ultimate HERSHEY'S® Chocolate Chip Cookie,1/6 slice,260,12g,35g,3g
+651,,1/8 slice,200,9g,26g,2g
+652,"Bacon, Egg & Cheese Biscuit",,410,26g,28g,15g
+653,Breakfast Pizza,whole pizza,1250,61g,124g,53g
+654,Egg & Cheese Biscuit,,370,22g,28g,12g
+655,Hashbrowns,,190,9g,27g,2g
+656,Sausage Biscuit,,400,28g,25g,12g
+657,"Sausage, Egg & Cheese Biscuit",,550,40g,28g,20g
+658,Beer,Light 12 fl oz,100,0g,6g,1g
+659,,Regular 12 fl oz,150,0g,13g,2g
+660,Bud Light,12 fl oz,110,0g,7g,< 1g
+661,Budweiser,12 fl oz,150,0g,11g,1g
+662,Busch Light,12 fl oz,100,0g,3g,< 1g
+663,Coors,Regular 12 fl oz,150,0g,11g,1g
+664,,Lite 12 fl oz,100,0g,5g,< 1g
+665,Corona Extra,12 fl oz,150,0g,14g,1g
+666,Dessert/Sweet Wine,6 fl oz,280,0g,24g,0g
+667,Domestic Beer,12 fl oz,150,0g,13g,2g
+668,Dos Equis Lager,12 fl oz,150,0g,12g,0g
+669,Heineken,12 fl oz,150,0g,12g,0g
+670,Michelob Ultra,12 fl oz,100,0g,3g,< 1g
+671,Miller,Regular 12 fl oz,140,0g,13g,1g
+672,,Lite 12 fl oz,100,0g,3g,< 1g
+673,Premium Beer,12 fl oz,150,0g,13g,2g
+674,Red Wine,6 fl oz,150,0g,5g,0g
+675,Shiner,12 fl oz,150,0g,13g,2g
+676,Sparkling Wine,6 fl oz,160,0g,5g,0g
+677,Tecate,12 fl oz,150,0g,13g,2g
+678,White Wine,6 fl oz,150,0g,5g,0g
+679,Yuengling,12 fl oz,140,0g,12g,1g
+680,Ziegenbock,12 fl oz,150,0g,11g,< 1g
+681,Cheese,54.6g,140,11g,3g,9g
+682,Cheese,28.9g,80,6g,1g,5g
+683,Cheese,36.1g,100,7g,2g,6g
+684,Cheese,19.8g,50,4g,< 1g,3g
+685,Cheese,24.7g,70,5g,1g,4g
+686,Cheese,19.8g,50,4g,< 1g,3g
+687,Cheese,12.8g,35,2.5g,< 1g,2g
+688,Cheese,19.8g,50,4g,< 1g,3g
+689,Cheese,11.5g,30,2.5g,< 1g,2g
+690,Cheese,92.1g,240,18g,4g,16g
+691,Feta Cheese,19.8g,50,4g,< 1g,3g
+692,Provolone Cheese,45.4g,160,12g,0g,11g
+693,"Hand Tossed Crust (18"") (with flour)",128.6g,310,4g,58g,10g
+694,Udi's® Gluten-Free Crust,19.7g,60,1g,12g,1g
+695,Hand Tossed Crust,65.6g,160,2g,30g,5g
+696,Original Pan™ Crust,79.5g,220,8g,32g,7g
+697,Original Stuffed Crust,88.9g,220,7g,31g,9g
+698,Thin 'N Crispy® Crust,46.1g,130,1g,24g,4g
+699,Ultimate Cheesy Crust (Limited Time),98.2g,270,10g,31g,13g
+700,Hand Tossed Crust,49.6g,120,1.5g,22g,4g
+701,Original Pan™ Crust,58.3g,150,4g,25g,4g
+702,Thin 'N Crispy® Crust,35.4g,100,1g,19g,3g
+703,Pan Crust (Personal),37.4g,100,2.5g,15g,3g
+704,Rectangular Crust,59.7g,160,4g,26g,5g
+705,Hand Tossed Crust,31.9g,80,1g,14g,3g
+706,Original Pan™ Crust,33.9g,90,2.5g,14g,3g
+707,Thin 'N Crispy® Crust,21.3g,60,0.5g,11g,2g
+708,Hand Tossed Crust,255.1g,610,8g,115g,20g
+709,Thin 'N Crispy® Crust,170.1g,460,4.5g,90g,15g
+710,Buttery Blend Crust Flavor,1.6g,10,1g,0g,0g
+711,Garlic Buttery Blend Crust Flavor,1.5g,10,1g,0g,0g
+712,Hut Favorite Crust Flavor,1.5g,15,1g,0g,0g
+713,Parmesan/Parsley,1.1g,0,0g,0g,0g
+714,Toasted Parmesan Crust Flavor,5.7g,20,1.5g,0g,2g
+715,Buttery Blend Crust Flavor,1.2g,5,1g,0g,0g
+716,Garlic Buttery Blend Crust Flavor,1.1g,5,0.5g,0g,0g
+717,Hut Favorite Crust Flavor,1.1g,10,1g,0g,0g
+718,Toasted Parmesan Crust Flavor,2.8g,10,0.5g,0g,< 1g
+719,Buttery Blend Crust Flavor,1.2g,5,1g,0g,0g
+720,Garlic Buttery Blend Crust Flavor,1.1g,5,0.5g,0g,0g
+721,Hut Favorite Crust Flavor,1.1g,10,1g,0g,0g
+722,Toasted Parmesan Crust Flavor,2.8g,10,0.5g,0g,< 1g
+723,Buttery Blend Crust Flavor,1.2g,5,1g,0g,0g
+724,Garlic Buttery Blend Crust Flavor,1.1g,5,0.5g,0g,0g
+725,Hut Favorite Crust Flavor,1.1g,10,1g,0g,0g
+726,Toasted Parmesan Crust Flavor,2.8g,10,0.5g,0g,< 1g
+727,Buttery Blend Crust Flavor,2.4g,15,1.5g,0g,0g
+728,Garlic Buttery Blend Crust Flavor,1.3g,10,0.5g,0g,0g
+729,Hut Favorite Crust Flavor,1.3g,15,1g,0g,0g
+730,Toasted Parmesan Crust Flavor,2.8g,10,0.5g,0g,< 1g
+731,Buttery Blend Crust Flavor,1.2g,5,1g,0g,0g
+732,Garlic Buttery Blend Crust Flavor,1.1g,5,0.5g,0g,0g
+733,Hut Favorite Crust Flavor,1.1g,10,1g,0g,0g
+734,Toasted Parmesan Crust Flavor,2.8g,10,0.5g,0g,< 1g
+735,Buttery Blend Crust Flavor,1.2g,5,1g,0g,0g
+736,Garlic Buttery Blend Crust Flavor,0.7g,0,0g,0g,0g
+737,Hut Favorite Crust Flavor,0.7g,5,0.5g,0g,0g
+738,Toasted Parmesan Crust Flavor,1.4g,5,0g,0g,0g
+739,Garlic Buttery Blend Crust Flavor,5.4g,30,3g,1g,0g
+740,Toasted Parmesan Crust Flavor,11.3g,45,3g,< 1g,4g
+741,Barbeque Drizzle,10.2g,25,0g,6g,0g
+742,Buffalo Drizzle,9g,15,0g,4g,0g
+743,Sweet Chili Drizzle,11.4g,25,0g,6g,0g
+744,Barbeque Drizzle,6.3g,15,0g,4g,0g
+745,Buffalo Drizzle,6.1g,10,0g,3g,0g
+746,Mayonnaise,10.6g,80,8g,< 1g,0g
+747,Barbeque Drizzle,6.3g,15,0g,4g,0g
+748,Buffalo Drizzle,6.1g,10,0g,3g,0g
+749,Mayonnaise,7.1g,60,6g,< 1g,0g
+750,Barbeque Drizzle,12.7g,30,0g,8g,0g
+751,Buffalo Drizzle,12.3g,20,0g,5g,0g
+752,Mayonnaise,3.5g,30,3g,0g,0g
+753,Barbeque Drizzle,6.3g,15,0g,4g,0g
+754,Buffalo Drizzle,6.1g,10,0g,3g,0g
+755,Mayonnaise,7.1g,60,6g,< 1g,0g
+756,Barbeque Drizzle,6.3g,15,0g,4g,0g
+757,Buffalo Drizzle,6.1g,10,0g,3g,0g
+758,Mayonnaise,3.5g,30,3g,0g,0g
+759,Barbeque Drizzle,50.7g,120,0g,30g,0g
+760,Buffalo Drizzle,49g,80,0g,20g,0g
+761,BBQ Beef,35.8g,90,5g,5g,5g
+762,Bean Pizza Sauce,32.6g,45,2.5g,5g,1g
+763,Cheddar for Fiesta Taco Pizzas,7.3g,30,2g,< 1g,2g
+764,Chopped Garlic,5.3g,10,0g,2g,0g
+765,Lettuce,16.9g,0,0g,< 1g,0g
+766,Parmesan Oregano Seasoning,0.8g,0,0g,0g,0g
+767,Sauerkraut,42.5g,10,0g,2g,0g
+768,Sliced Roma Tomatoes,28.1g,5,0g,1g,0g
+769,Taco Tortilla Chips,6.7g,35,2g,4g,0g
+770,BBQ Beef,23.9g,60,3.5g,3g,3g
+771,Bean Pizza Sauce,24.5g,35,2g,4g,1g
+772,Cheddar for Fiesta Taco Pizzas,5g,20,1.5g,0g,1g
+773,Chopped Garlic,3.5g,5,0g,1g,0g
+774,Lettuce,12.7g,0,0g,0g,0g
+775,Parmesan Oregano Seasoning,0.7g,0,0g,0g,0g
+776,Sauerkraut,28.3g,5,0g,1g,0g
+777,Sliced Roma Tomatoes,20.6g,0,0g,< 1g,0g
+778,Taco Tortilla Chips,6.7g,35,2g,4g,0g
+779,BBQ Beef,11.9g,30,1.5g,2g,2g
+780,Bean Pizza Sauce,9.8g,15,0.5g,1g,0g
+781,Cheddar for Fiesta Taco Pizzas,3.2g,10,1g,0g,< 1g
+782,Chopped Garlic,1.8g,0,0g,< 1g,0g
+783,Lettuce,8.4g,0,0g,0g,0g
+784,Sauerkraut,14.2g,0,0g,< 1g,0g
+785,Sliced Roma Tomatoes,11.3g,0,0g,0g,0g
+786,Taco Tortilla Chips,4.3g,25,1g,3g,0g
+787,BBQ Beef,23.9g,60,3.5g,3g,3g
+788,Bean Pizza Sauce,24.5g,35,2g,4g,1g
+789,Cheddar for Fiesta Taco Pizzas,5g,20,1.5g,0g,1g
+790,Chopped Garlic,3.5g,5,0g,1g,0g
+791,Lettuce,12.7g,0,0g,0g,0g
+792,Sauerkraut,28.3g,5,0g,1g,0g
+793,Sliced Roma Tomatoes,20.6g,0,0g,< 1g,0g
+794,Taco Tortilla Chips,6.7g,35,2g,4g,0g
+795,BBQ Beef,11.9g,30,1.5g,2g,2g
+796,Bean Pizza Sauce,9.8g,15,0.5g,1g,0g
+797,Cheddar for Fiesta Taco Pizzas,2.9g,10,1g,0g,< 1g
+798,Chopped Garlic,3.2g,0,0g,1g,0g
+799,Lettuce,8.4g,0,0g,0g,0g
+800,Sauerkraut,14.2g,0,0g,< 1g,0g
+801,Sliced Roma Tomatoes,15g,0,0g,< 1g,0g
+802,Taco Tortilla Chips,4.6g,25,1g,3g,0g
+803,Barbeque Pizza Sauce,12.3g,30,0g,7g,0g
+804,Buffalo Pizza Sauce,14g,25,0g,6g,0g
+805,Creamy Garlic Parmesan Pizza Sauce,27.7g,50,5g,2g,1g
+806,Kraft Buttermilk Ranch,24.1g,90,9g,2g,0g
+807,Premium Crushed Tomato Pizza Sauce,35g,15,0g,3g,< 1g
+808,Classic Marinara Pizza Sauce,13.5g,5,0g,2g,0g
+809,Barbeque Pizza Sauce,7.3g,20,0g,4g,0g
+810,Buffalo Pizza Sauce,6.9g,10,0g,3g,0g
+811,Classic Marinara Pizza Sauce,17.1g,10,0g,2g,0g
+812,Creamy Garlic Parmesan Pizza Sauce,13.9g,25,2.5g,< 1g,< 1g
+813,Premium Crushed Tomato Pizza Sauce,16.9g,10,0g,2g,0g
+814,Barbeque Pizza Sauce,7.3g,20,0g,4g,0g
+815,Buffalo Pizza Sauce,6.9g,10,0g,3g,0g
+816,Classic Marinara Pizza Sauce,17.1g,10,0g,2g,0g
+817,Creamy Garlic Parmesan Pizza Sauce,13.9g,25,2.5g,< 1g,< 1g
+818,Premium Crushed Tomato Pizza Sauce,16.9g,10,0g,2g,0g
+819,Barbeque Pizza Sauce,7.3g,20,0g,4g,0g
+820,Buffalo Pizza Sauce,6.9g,10,0g,3g,0g
+821,Classic Marinara Pizza Sauce,17.1g,10,0g,2g,0g
+822,Creamy Garlic Parmesan Pizza Sauce,13.9g,25,2.5g,< 1g,< 1g
+823,Premium Crushed Tomato Pizza Sauce,16.9g,10,0g,2g,0g
+824,Barbeque Pizza Sauce,7.3g,20,0g,4g,0g
+825,Buffalo Pizza Sauce,6.9g,10,0g,3g,0g
+826,Classic Marinara Pizza Sauce,21.9g,10,0g,3g,0g
+827,Creamy Garlic Parmesan Pizza Sauce,19.3g,40,3.5g,1g,< 1g
+828,Premium Crushed Tomato Pizza Sauce,21.3g,10,0g,2g,0g
+829,Barbeque Pizza Sauce,4.9g,10,0g,3g,0g
+830,Buffalo Pizza Sauce,4.6g,10,0g,2g,0g
+831,Classic Marinara Pizza Sauce,12.2g,5,0g,1g,0g
+832,Creamy Garlic Parmesan Pizza Sauce,10.4g,20,2g,< 1g,0g
+833,Premium Crushed Tomato Pizza Sauce,13.1g,5,0g,1g,0g
+834,Barbeque Pizza Sauce,4.9g,10,0g,3g,0g
+835,Buffalo Pizza Sauce,4.6g,10,0g,2g,0g
+836,Classic Marinara Pizza Sauce,12.2g,5,0g,1g,0g
+837,Creamy Garlic Parmesan Pizza Sauce,10.4g,20,2g,< 1g,0g
+838,Premium Crushed Tomato Pizza Sauce,13.1g,5,0g,1g,0g
+839,Barbeque Pizza Sauce,4.9g,10,0g,3g,0g
+840,Buffalo Pizza Sauce,4.6g,10,0g,2g,0g
+841,Classic Marinara Pizza Sauce,17.1g,10,0g,2g,0g
+842,Creamy Garlic Parmesan Pizza Sauce,13.9g,25,2.5g,< 1g,< 1g
+843,Premium Crushed Tomato Pizza Sauce,16.9g,10,0g,2g,0g
+844,Barbeque Pizza Sauce,2.3g,5,0g,1g,0g
+845,Buffalo Pizza Sauce,2.1g,0,0g,< 1g,0g
+846,Classic Marinara Pizza Sauce,9g,0,0g,1g,0g
+847,Creamy Garlic Parmesan Pizza Sauce,6.9g,15,1g,0g,0g
+848,Premium Crushed Tomato Pizza Sauce,9.4g,0,0g,< 1g,0g
+849,Barbeque Pizza Sauce,4.9g,10,0g,3g,0g
+850,Buffalo Pizza Sauce,4.6g,10,0g,2g,0g
+851,Classic Marinara Pizza Sauce,12.2g,5,0g,1g,0g
+852,Creamy Garlic Parmesan Pizza Sauce,10.4g,20,2g,< 1g,0g
+853,Premium Crushed Tomato Pizza Sauce,13.1g,5,0g,1g,0g
+854,Barbeque Pizza Sauce,17.6g,45,0g,11g,0g
+855,Buffalo Pizza Sauce,16.4g,30,0g,7g,0g
+856,Classic Marinara Pizza Sauce,36g,20,0g,4g,0g
+857,Creamy Garlic Parmesan Pizza Sauce,27.5g,50,4.5g,2g,1g
+858,Premium Crushed Tomato Pizza Sauce,37.7g,20,0g,4g,< 1g
+859,Barbeque Pizza Sauce,17.6g,45,0g,11g,0g
+860,Buffalo Pizza Sauce,16.4g,30,0g,7g,0g
+861,Classic Marinara Pizza Sauce,72g,35,0g,9g,0g
+862,Creamy Garlic Parmesan Pizza Sauce,55g,110,9g,3g,2g
+863,Premium Crushed Tomato Pizza Sauce,75.4g,35,0g,7g,1g
+864,Barbeque Pizza Sauce,2.2g,5,0g,1g,0g
+865,Buffalo Pizza Sauce,2.1g,0,0g,< 1g,0g
+866,Classic Marinara Pizza Sauce,9g,0,0g,1g,0g
+867,Creamy Garlic Parmesan Pizza Sauce,6.9g,15,1g,0g,0g
+868,Premium Crushed Tomato Pizza Sauce,9.4g,0,0g,< 1g,0g
+869,Barbeque Pizza Sauce,2.2g,5,0g,1g,0g
+870,Buffalo Pizza Sauce,2.1g,0,0g,< 1g,0g
+871,Classic Marinara Pizza Sauce,9g,0,0g,1g,0g
+872,Creamy Garlic Parmesan Pizza Sauce,6.9g,15,1g,0g,0g
+873,Premium Crushed Tomato Pizza Sauce,9.4g,0,0g,< 1g,0g
+874,Barbeque Pizza Sauce,2.2g,5,0g,1g,0g
+875,Buffalo Pizza Sauce,2.1g,0,0g,< 1g,0g
+876,Classic Marinara Pizza Sauce,12.2g,5,0g,1g,0g
+877,Creamy Garlic Parmesan Pizza Sauce,10.4g,20,2g,< 1g,0g
+878,Premium Crushed Tomato Pizza Sauce,13.1g,5,0g,1g,0g
+879,Applewood Smoked Bacon,18.4g,80,7g,0g,3g
+880,Beef,30.1g,110,10g,< 1g,4g
+881,Classic Meatball,34.3g,80,6g,2g,5g
+882,Diced Roma Tomatoes,41.4g,5,0g,2g,0g
+883,Fresh Green Bell Peppers,41.4g,10,0g,2g,0g
+884,Fresh Mushrooms,41.4g,10,0g,1g,0g
+885,Fresh Red Onions,41.4g,15,0g,4g,0g
+886,Grilled Chicken,34.4g,40,1g,< 1g,7g
+887,Italian Sausage,32.4g,110,11g,0g,4g
+888,Mediterranean Black Olives,35.4g,40,4g,2g,0g
+889,Pepperoni,11.7g,60,5g,0g,2g
+890,Peruvian Cherry Peppers,25.7g,15,0g,4g,< 1g
+891,Premium Salami,18.1g,70,6g,0g,4g
+892,Roasted Spinach,8.3g,10,1g,0g,0g
+893,Seasoned Pork,30.4g,100,9g,0g,4g
+894,Sliced Banana Peppers,21.3g,0,0g,0g,0g
+895,Sliced Jalapeno Peppers,35.4g,10,0g,2g,0g
+896,Slow-Roasted Ham,13.3g,15,0.5g,0g,2g
+897,Sweet Pineapple,41.4g,30,0g,7g,0g
+898,Applewood Smoked Bacon,3.8g,15,1.5g,0g,< 1g
+899,Beef,10.4g,40,3.5g,0g,1g
+900,Diced Roma Tomatoes,8.2g,0,0g,0g,0g
+901,Fresh Green Bell Peppers,8.2g,0,0g,0g,0g
+902,Fresh Mushrooms,8.2g,0,0g,0g,0g
+903,Fresh Red Onions,8.2g,0,0g,< 1g,0g
+904,Green Chile Peppers,7g,0,0g,< 1g,0g
+905,Green Olives,7g,10,1g,0g,0g
+906,Grilled Chicken,11.9g,15,0g,0g,2g
+907,Italian Sausage,11.2g,40,3.5g,0g,1g
+908,Mediterranean Black Olives,7g,10,1g,0g,0g
+909,Pepperoni,5.2g,25,2.5g,0g,1g
+910,Peruvian Cherry Peppers,5.1g,0,0g,< 1g,0g
+911,Premium Salami,2.6g,10,1g,0g,< 1g
+912,Roasted Spinach,3.1g,0,0g,0g,0g
+913,Seasoned Pork,10.8g,35,3.5g,0g,1g
+914,Sliced Banana Peppers,4.2g,0,0g,0g,0g
+915,Sliced Jalapeno Peppers,7g,0,0g,0g,0g
+916,Slow-Roasted Ham,5.4g,5,0g,0g,< 1g
+917,Sweet Pineapple,8.2g,5,0g,1g,0g
+918,Applewood Smoked Bacon,9g,35,3.5g,0g,2g
+919,Beef,22.6g,80,8g,0g,3g
+920,Classic Meatball,25.7g,60,4g,2g,4g
+921,Diced Roma Tomatoes,16.9g,0,0g,< 1g,0g
+922,Fresh Green Bell Peppers,16.9g,0,0g,< 1g,0g
+923,Fresh Mushrooms,16.9g,0,0g,< 1g,< 1g
+924,Fresh Red Onions,16.9g,0,0g,2g,0g
+925,Green Chile Peppers,14.5g,5,0g,1g,0g
+926,Green Olives,14.5g,20,2g,< 1g,0g
+927,Grilled Chicken,25.8g,30,1g,0g,5g
+928,Italian Sausage,24.3g,90,8g,0g,3g
+929,Mediterranean Black Olives,14.5g,15,1.5g,< 1g,0g
+930,Pepperoni,10.9g,50,5g,0g,2g
+931,Peruvian Cherry Peppers,10.5g,5,0g,2g,0g
+932,Premium Salami,9g,35,3g,0g,2g
+933,Roasted Spinach,6.2g,10,1g,0g,0g
+934,Seasoned Pork,22.8g,80,7g,0g,3g
+935,Sliced Banana Peppers,8.7g,0,0g,0g,0g
+936,Sliced Jalapeno Peppers,14.5g,0,0g,< 1g,0g
+937,Slow-Roasted Ham,12.4g,15,0g,0g,2g
+938,Sweet Pineapple,16.9g,10,0g,3g,0g
+939,Applewood Smoked Bacon,9g,35,3.5g,0g,2g
+940,Beef,22.6g,80,8g,0g,3g
+941,Classic Meatball,25.7g,60,4g,2g,4g
+942,Diced Roma Tomatoes,16.9g,0,0g,< 1g,0g
+943,Fresh Green Bell Peppers,16.9g,0,0g,< 1g,0g
+944,Fresh Mushrooms,16.9g,0,0g,< 1g,< 1g
+945,Fresh Red Onions,16.9g,5,0g,2g,0g
+946,Green Chile Peppers,14.5g,5,0g,1g,0g
+947,Green Olives,13g,20,2g,0g,0g
+948,Grilled Chicken,25.8g,30,1g,0g,5g
+949,Italian Sausage,24.3g,90,8g,0g,3g
+950,Mediterranean Black Olives,14.5g,15,1.5g,< 1g,0g
+951,Pepperoni,10.9g,50,5g,0g,2g
+952,Peruvian Cherry Peppers,9.4g,5,0g,1g,0g
+953,Premium Salami,9g,35,3g,0g,2g
+954,Roasted Spinach,6.2g,10,1g,0g,0g
+955,Seasoned Pork,22.8g,80,7g,0g,3g
+956,Sliced Banana Peppers,8.7g,0,0g,0g,0g
+957,Sliced Jalapeno Peppers,14.5g,0,0g,< 1g,0g
+958,Slow-Roasted Ham,12.4g,15,0g,0g,2g
+959,Sweet Pineapple,16.9g,10,0g,3g,0g
+960,Applewood Smoked Bacon,8g,35,3g,0g,1g
+961,Beef,22.6g,80,8g,0g,3g
+962,Classic Meatball,25.7g,60,4g,2g,4g
+963,Diced Roma Tomatoes,15g,0,0g,< 1g,0g
+964,Fresh Green Bell Peppers,15g,0,0g,< 1g,0g
+965,Fresh Mushrooms,15g,0,0g,0g,0g
+966,Fresh Red Onions,15g,5,0g,1g,0g
+967,Green Chile Peppers,12.8g,5,0g,1g,0g
+968,Green Olives,12.8g,20,2g,0g,0g
+969,Grilled Chicken,25.8g,30,1g,0g,5g
+970,Italian Sausage,24.3g,90,8g,0g,3g
+971,Mediterranean Black Olives,12.8g,15,1.5g,< 1g,0g
+972,Pepperoni,10.9g,50,5g,0g,2g
+973,Peruvian Cherry Peppers,9.3g,5,0g,1g,0g
+974,Premium Salami,9g,35,3g,0g,2g
+975,Roasted Spinach,6.2g,10,1g,0g,0g
+976,Seasoned Pork,22.8g,80,7g,0g,3g
+977,Sliced Banana Peppers,7.7g,0,0g,0g,0g
+978,Sliced Jalapeno Peppers,12.8g,0,0g,< 1g,0g
+979,Slow-Roasted Ham,12.4g,15,0g,0g,2g
+980,Sweet Pineapple,15g,10,0g,2g,0g
+981,Applewood Smoked Bacon,10.8g,45,4g,0g,2g
+982,Beef,22.6g,80,8g,0g,3g
+983,Classic Meatball,25.7g,60,4g,2g,4g
+984,Diced Roma Tomatoes,20.3g,0,0g,< 1g,0g
+985,Fresh Green Bell Peppers,20.3g,0,0g,< 1g,0g
+986,Fresh Mushrooms,20.3g,0,0g,< 1g,< 1g
+987,Fresh Red Onions,20.3g,10,0g,2g,0g
+988,Green Chile Peppers,17.4g,5,0g,2g,0g
+989,Green Olives,17.4g,25,2.5g,< 1g,0g
+990,Grilled Chicken,25.8g,30,1g,0g,5g
+991,Italian Sausage,24.3g,90,8g,0g,3g
+992,Mediterranean Black Olives,17.4g,20,2g,0g,1g
+993,Pepperoni,12.6g,60,6g,0g,2g
+994,Peruvian Cherry Peppers,12.6g,10,0g,2g,0g
+995,Premium Salami,9g,35,3g,0g,2g
+996,Roasted Spinach,6.2g,10,1g,0g,0g
+997,Seasoned Pork,22.8g,80,7g,0g,3g
+998,Sliced Banana Peppers,10.4g,0,0g,0g,0g
+999,Sliced Jalapeno Peppers,17.4g,0,0g,< 1g,0g
+1000,Slow-Roasted Ham,14.3g,15,0.5g,0g,2g
+1001,Sweet Pineapple,20.3g,15,0g,3g,0g
+1002,Applewood Smoked Bacon,6.4g,25,2.5g,0g,1g
+1003,Beef,16.3g,60,6g,0g,2g
+1004,Classic Meatball,18.1g,40,3g,1g,3g
+1005,Diced Roma Tomatoes,12.1g,0,0g,0g,0g
+1006,Fresh Green Bell Peppers,12.1g,0,0g,< 1g,0g
+1007,Fresh Mushrooms,12.1g,0,0g,0g,0g
+1008,Fresh Red Onions,12.1g,0,0g,1g,0g
+1009,Green Chile Peppers,10.4g,0,0g,< 1g,0g
+1010,Green Olives,10.4g,15,1.5g,0g,0g
+1011,Grilled Chicken,18.8g,20,0.5g,0g,4g
+1012,Italian Sausage,16.9g,60,6g,0g,2g
+1013,Mediterranean Black Olives,10.4g,10,1g,< 1g,0g
+1014,Pepperoni,7.8g,40,3.5g,0g,2g
+1015,Peruvian Cherry Peppers,7.5g,0,0g,1g,0g
+1016,Premium Salami,7.1g,25,2.5g,0g,1g
+1017,Roasted Spinach,6.2g,10,1g,0g,0g
+1018,Seasoned Pork,16.4g,50,5g,0g,2g
+1019,Sliced Banana Peppers,6.2g,0,0g,0g,0g
+1020,Sliced Jalapeno Peppers,10.4g,0,0g,0g,0g
+1021,Slow-Roasted Ham,8.9g,10,0g,0g,1g
+1022,Sweet Pineapple,12.1g,10,0g,2g,0g
+1023,Applewood Smoked Bacon,6.4g,25,2.5g,0g,1g
+1024,Beef,16.3g,60,6g,0g,2g
+1025,Classic Meatball,18.1g,40,3g,1g,3g
+1026,Diced Roma Tomatoes,12.1g,0,0g,0g,0g
+1027,Fresh Green Bell Peppers,12.1g,0,0g,< 1g,0g
+1028,Fresh Mushrooms,12.1g,0,0g,0g,0g
+1029,Fresh Red Onions,12.1g,0,0g,1g,0g
+1030,Green Chile Peppers,10.3g,0,0g,< 1g,0g
+1031,Green Olives,9.8g,15,1.5g,0g,0g
+1032,Grilled Chicken,18.8g,20,0.5g,0g,4g
+1033,Italian Sausage,16.9g,60,6g,0g,2g
+1034,Mediterranean Black Olives,10.3g,10,1g,< 1g,0g
+1035,Pepperoni,7.8g,40,3.5g,0g,2g
+1036,Peruvian Cherry Peppers,7.1g,0,0g,1g,0g
+1037,Premium Salami,7.1g,25,2.5g,0g,1g
+1038,Roasted Spinach,6.2g,10,1g,0g,0g
+1039,Seasoned Pork,16.4g,50,5g,0g,2g
+1040,Sliced Banana Peppers,6.2g,0,0g,0g,0g
+1041,Sliced Jalapeno Peppers,10.3g,0,0g,0g,0g
+1042,Slow-Roasted Ham,8.9g,10,0g,0g,1g
+1043,Sweet Pineapple,12.1g,10,0g,2g,0g
+1044,Applewood Smoked Bacon,8.6g,35,3g,0g,2g
+1045,Beef,16.3g,60,6g,0g,2g
+1046,Classic Meatball,18.1g,40,3g,1g,3g
+1047,Diced Roma Tomatoes,16.1g,0,0g,< 1g,0g
+1048,Fresh Green Bell Peppers,16.1g,0,0g,< 1g,0g
+1049,Fresh Mushrooms,16.1g,0,0g,< 1g,0g
+1050,Fresh Red Onions,16.1g,5,0g,2g,0g
+1051,Green Chile Peppers,13.8g,5,0g,1g,0g
+1052,Green Olives,13.8g,20,2g,< 1g,0g
+1053,Grilled Chicken,18.8g,20,0.5g,0g,4g
+1054,Italian Sausage,16.9g,60,6g,0g,2g
+1055,Mediterranean Black Olives,13.8g,15,1.5g,< 1g,0g
+1056,Pepperoni,9.5g,45,4g,0g,2g
+1057,Peruvian Cherry Peppers,10g,5,0g,1g,0g
+1058,Premium Salami,7.1g,25,2.5g,0g,1g
+1059,Roasted Spinach,6.2g,10,1g,0g,0g
+1060,Seasoned Pork,16.4g,50,5g,0g,2g
+1061,Sliced Banana Peppers,8.3g,0,0g,0g,0g
+1062,Sliced Jalapeno Peppers,13.8g,0,0g,< 1g,0g
+1063,Slow-Roasted Ham,10.8g,10,0g,0g,2g
+1064,Sweet Pineapple,16.1g,10,0g,3g,0g
+1065,Applewood Smoked Bacon,3.2g,15,1g,0g,< 1g
+1066,Beef,13.4g,50,4.5g,0g,2g
+1067,Classic Meatball,14.8g,35,2.5g,< 1g,2g
+1068,Diced Roma Tomatoes,6g,0,0g,0g,0g
+1069,Fresh Green Bell Peppers,6g,0,0g,0g,0g
+1070,Fresh Mushrooms,6g,0,0g,0g,0g
+1071,Fresh Red Onions,6g,0,0g,< 1g,0g
+1072,Green Chile Peppers,5.2g,0,0g,0g,0g
+1073,Green Olives,5.2g,10,1g,0g,0g
+1074,Grilled Chicken,15.4g,15,0g,0g,3g
+1075,Italian Sausage,14.5g,50,5g,0g,2g
+1076,Mediterranean Black Olives,5.2g,5,0.5g,0g,0g
+1077,Pepperoni,3.8g,20,1.5g,0g,< 1g
+1078,Peruvian Cherry Peppers,3.8g,0,0g,< 1g,0g
+1079,Premium Salami,2.6g,10,1g,0g,< 1g
+1080,Roasted Spinach,6.2g,10,1g,0g,0g
+1081,Seasoned Pork,13.6g,45,4g,0g,2g
+1082,Sliced Banana Peppers,3.1g,0,0g,0g,0g
+1083,Sliced Jalapeno Peppers,5.2g,0,0g,0g,0g
+1084,Slow-Roasted Ham,4.3g,0,0g,0g,< 1g
+1085,Sweet Pineapple,6g,0,0g,< 1g,0g
+1086,Applewood Smoked Bacon,5.7g,25,2g,0g,1g
+1087,Beef,16.3g,60,6g,0g,2g
+1088,Classic Meatball,18.1g,40,3g,1g,3g
+1089,Diced Roma Tomatoes,10.7g,0,0g,0g,0g
+1090,Fresh Green Bell Peppers,10.7g,0,0g,0g,0g
+1091,Fresh Mushrooms,10.7g,0,0g,0g,0g
+1092,Fresh Red Onions,10.7g,0,0g,1g,0g
+1093,Green Chile Peppers,9.2g,0,0g,< 1g,0g
+1094,Green Olives,9.2g,15,1.5g,0g,0g
+1095,Grilled Chicken,18.8g,20,0.5g,0g,4g
+1096,Italian Sausage,16.9g,60,6g,0g,2g
+1097,Mediterranean Black Olives,9.2g,10,1g,< 1g,0g
+1098,Pepperoni,7.6g,35,3.5g,0g,1g
+1099,Peruvian Cherry Peppers,6.7g,0,0g,< 1g,0g
+1100,Premium Salami,5.2g,20,1.5g,0g,1g
+1101,Roasted Spinach,6.2g,10,1g,0g,0g
+1102,Seasoned Pork,16.4g,50,5g,0g,2g
+1103,Sliced Banana Peppers,5.5g,0,0g,0g,0g
+1104,Sliced Jalapeno Peppers,9.2g,0,0g,0g,0g
+1105,Slow-Roasted Ham,8.6g,10,0g,0g,1g
+1106,Sweet Pineapple,10.7g,5,0g,2g,0g
+1107,Applewood Smoked Bacon,28.5g,120,11g,0g,5g
+1108,Beef,83.1g,310,29g,2g,11g
+1109,Classic Meatball,94.4g,210,15g,6g,13g
+1110,Diced Roma Tomatoes,47.3g,10,0g,2g,0g
+1111,Fresh Green Bell Peppers,47.3g,10,0g,2g,0g
+1112,Fresh Mushrooms,47.3g,10,0g,2g,1g
+1113,Fresh Red Onions,47.3g,20,0g,4g,< 1g
+1114,Green Chile Peppers,40.5g,15,0g,4g,< 1g
+1115,Green Olives,40.5g,60,6g,2g,0g
+1116,Grilled Chicken,95.5g,110,3g,2g,19g
+1117,Italian Sausage,89.3g,320,29g,< 1g,12g
+1118,Mediterranean Black Olives,40.5g,45,4.5g,3g,0g
+1119,Pepperoni,22.8g,110,10g,0g,4g
+1120,Peruvian Cherry Peppers,29.3g,20,0g,4g,< 1g
+1121,Premium Salami,20.6g,80,7g,0g,4g
+1122,Roasted Spinach,24.1g,35,3.5g,< 1g,< 1g
+1123,Seasoned Pork,86.2g,290,26g,1g,11g
+1124,Sliced Banana Peppers,24.3g,0,0g,0g,0g
+1125,Sliced Jalapeno Peppers,40.5g,10,0g,2g,0g
+1126,Slow-Roasted Ham,25.9g,30,1g,< 1g,4g
+1127,Sweet Pineapple,47.3g,30,0g,8g,0g
+1128,Applewood Smoked Bacon,34.9g,140,13g,0g,6g
+1129,Beef,83.1g,310,29g,2g,11g
+1130,Classic Meatball,94.4g,210,15g,6g,13g
+1131,Diced Roma Tomatoes,65.7g,10,0g,3g,< 1g
+1132,Fresh Green Bell Peppers,65.7g,15,0g,3g,< 1g
+1133,Fresh Mushrooms,65.7g,15,0g,2g,2g
+1134,Fresh Red Onions,65.7g,25,0g,6g,< 1g
+1135,Green Chile Peppers,56.1g,20,0g,5g,1g
+1136,Green Olives,56.1g,80,9g,2g,< 1g
+1137,Grilled Chicken,95.5g,110,3g,2g,19g
+1138,Italian Sausage,89.3g,320,29g,< 1g,12g
+1139,Mediterranean Black Olives,56.2g,60,6g,4g,0g
+1140,Pepperoni,34.2g,160,15g,0g,7g
+1141,Peruvian Cherry Peppers,40.8g,25,0g,6g,< 1g
+1142,Premium Salami,20.6g,80,7g,0g,4g
+1143,Roasted Spinach,24.1g,35,3.5g,< 1g,< 1g
+1144,Seasoned Pork,86.2g,290,26g,1g,11g
+1145,Sliced Banana Peppers,33.7g,5,0g,0g,0g
+1146,Sliced Jalapeno Peppers,56.2g,15,0g,3g,0g
+1147,Slow-Roasted Ham,38.8g,40,1.5g,< 1g,6g
+1148,Sweet Pineapple,65.7g,45,0g,11g,0g
+1149,Applewood Smoked Bacon,3.6g,15,1.5g,0g,< 1g
+1150,Beef,10.4g,40,3.5g,0g,1g
+1151,Classic Meatball,11.8g,25,2g,< 1g,2g
+1152,Diced Roma Tomatoes,5.9g,0,0g,0g,0g
+1153,Fresh Green Bell Peppers,5.9g,0,0g,0g,0g
+1154,Fresh Mushrooms,5.9g,0,0g,0g,0g
+1155,Fresh Red Onions,5.9g,0,0g,< 1g,0g
+1156,Green Chile Peppers,5.1g,0,0g,0g,0g
+1157,Green Olives,5.1g,5,1g,0g,0g
+1158,Grilled Chicken,11.9g,15,0g,0g,2g
+1159,Italian Sausage,11.2g,40,3.5g,0g,1g
+1160,Mediterranean Black Olives,5.1g,5,0.5g,0g,0g
+1161,Pepperoni,3.8g,20,1.5g,0g,< 1g
+1162,Peruvian Cherry Peppers,3.7g,0,0g,< 1g,0g
+1163,Premium Salami,2.6g,10,1g,0g,< 1g
+1164,Roasted Spinach,3.1g,0,0g,0g,0g
+1165,Seasoned Pork,10.8g,35,3.5g,0g,1g
+1166,Sliced Banana Peppers,3g,0,0g,0g,0g
+1167,Sliced Jalapeno Peppers,5.1g,0,0g,0g,0g
+1168,Slow-Roasted Ham,4.3g,0,0g,0g,< 1g
+1169,Sweet Pineapple,5.9g,0,0g,< 1g,0g
+1170,Applewood Smoked Bacon,3.6g,15,1.5g,0g,< 1g
+1171,Beef,10.4g,40,3.5g,0g,1g
+1172,Classic Meatball,11.8g,25,2g,< 1g,2g
+1173,Diced Roma Tomatoes,5.9g,0,0g,0g,0g
+1174,Fresh Green Bell Peppers,5.9g,0,0g,0g,0g
+1175,Fresh Mushrooms,5.9g,0,0g,0g,0g
+1176,Fresh Red Onions,5.9g,0,0g,< 1g,0g
+1177,Green Chile Peppers,5.1g,0,0g,0g,0g
+1178,Green Olives,5.1g,5,1g,0g,0g
+1179,Grilled Chicken,11.9g,15,0g,0g,2g
+1180,Italian Sausage,11.2g,40,3.5g,0g,1g
+1181,Mediterranean Black Olives,5.1g,5,0.5g,0g,0g
+1182,Pepperoni,4.3g,20,2g,0g,< 1g
+1183,Peruvian Cherry Peppers,3.7g,0,0g,< 1g,0g
+1184,Premium Salami,2.6g,10,1g,0g,< 1g
+1185,Roasted Spinach,3.1g,0,0g,0g,0g
+1186,Seasoned Pork,10.8g,35,3.5g,0g,1g
+1187,Sliced Banana Peppers,3g,0,0g,0g,0g
+1188,Sliced Jalapeno Peppers,5.1g,0,0g,0g,0g
+1189,Slow-Roasted Ham,4.8g,5,0g,0g,< 1g
+1190,Sweet Pineapple,5.9g,0,0g,< 1g,0g
+1191,Applewood Smoked Bacon,4.4g,20,1.5g,0g,< 1g
+1192,Beef,10.4g,40,3.5g,0g,1g
+1193,Classic Meatball,11.8g,25,2g,< 1g,2g
+1194,Diced Roma Tomatoes,8.2g,0,0g,0g,0g
+1195,Fresh Green Bell Peppers,8.2g,0,0g,0g,0g
+1196,Fresh Mushrooms,8.2g,0,0g,0g,0g
+1197,Fresh Red Onions,8.2g,0,0g,< 1g,0g
+1198,Green Chile Peppers,7g,0,0g,< 1g,0g
+1199,Green Olives,7g,10,1g,0g,0g
+1200,Grilled Chicken,11.9g,15,0g,0g,2g
+1201,Italian Sausage,11.2g,40,3.5g,0g,1g
+1202,Mediterranean Black Olives,7g,10,1g,0g,0g
+1203,Pepperoni,4.3g,20,2g,0g,< 1g
+1204,Peruvian Cherry Peppers,5.1g,0,0g,< 1g,0g
+1205,Premium Salami,2.6g,10,1g,0g,< 1g
+1206,Roasted Spinach,3.1g,0,0g,0g,0g
+1207,Seasoned Pork,10.8g,35,3.5g,0g,1g
+1208,Sliced Banana Peppers,4.2g,0,0g,0g,0g
+1209,Sliced Jalapeno Peppers,7g,0,0g,0g,0g
+1210,Slow-Roasted Ham,4.8g,5,0g,0g,< 1g
+1211,Sweet Pineapple,8.2g,5,0g,1g,0g

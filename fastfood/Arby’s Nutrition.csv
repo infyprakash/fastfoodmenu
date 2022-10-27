@@ -1,0 +1,146 @@
+,Food,Size,Calories,Fat,Carbs,Protein
+0,Texas Brisket Sandwich,,620,29,53,37
+1,Miami Cuban Sandwich,,510,20,45,38
+2,Double Stack Reuben Sandwich,,810,37,64,55
+3,Crispy Fish Sandwich,,570,25,65,20
+4,Crispy Fish Flatbread,,590,25,70,20
+5,Nashville Hot Fish Sandwich,,540,23,63,21
+6,Nashville Hot Fish Flatbread,,630,30,71,21
+7,KING’S HAWAIIAN Fish Deluxe,,690,34,74,25
+8,KING’S HAWAIIAN Nashville Hot Fish Deluxe,,670,31,73,26
+9,Buffalo Chicken Tenders,3 pieces,400,21,30,24
+10,,5 pieces,670,34,51,39
+11,Mint Chocolate Shake-Snack,12 oz,310,8,54,8
+12,Mint Chocolate Shake w/ Andes® Candy Piece,16 oz,620,22,97,13
+13,,24 oz,830,27,133,19
+14,,32 oz,1050,36,167,24
+15,Oreo® Bites,,330,21,32,4
+16,Smokehouse Brisket,,600,35,42,33
+17,Turkey Gyro,,470,20,48,25
+18,Roast Beef Gyro,,550,29,48,24
+19,Loaded Italian,,680,40,49,32
+20,Reuben,,680,31,62,37
+21,Classic Roast Beef,,360,14,37,23
+22,Double Roast Beef,,510,24,38,38
+23,Half Pound Roast Beef,,610,30,38,48
+24,Classic Beef ‘n Cheddar,,450,20,45,23
+25,Double Beef ‘n Cheddar,,630,32,48,39
+26,Half Pound Beef ‘n Cheddar,,740,39,48,49
+27,Arby’s Sauce® Adds,,15,0,3,0
+28,Horsey Sauce® Adds,,60,5,3,0
+29,Classic French Dip & Swiss/Au Jus,,540,22,51,34
+30,Half Pound French Dip & Swiss/Au Jus,,740,35,52,55
+31,Three Cheese,,650,36,44,42
+32,Fire-Roasted Philly,,640,32,46,42
+33,Grand Turkey Club,,480,24,37,30
+34,Roast Turkey Ranch & Bacon Sandwich,,800,34,79,45
+35,Roast Turkey Ranch & Bacon Wrap,,620,34,39,37
+36,Roast Turkey & Swiss Sandwich,,710,28,79,38
+37,Roast Turkey & Swiss Wrap,,520,27,39,30
+38,Buttermilk Crispy Chicken,,560,27,52,28
+39,Buttermilk Chicken Bacon & Swiss,,660,33,55,38
+40,Buttermilk Chicken Cordon Bleu,,700,36,52,41
+41,Buttermilk Buffalo Chicken,,550,26,52,28
+42,Prime-Cut™ Chicken Tenders,3 pieces,360,17,28,23
+43,,5 pieces,600,28,47,39
+44,Tangy Barbeque Sauce Adds,,40,0,9,0
+45,Buffalo Dipping Sauce Adds,,10,1,2,0
+46,Honey Mustard Dipping Sauce Adds,,140,13,5,0
+47,Ranch Dipping Sauce Adds,,100,11,2,1
+48,Chopped Farmhouse Salad – Crispy Chicken,,430,24,26,28
+49,Chopped Farmhouse Salad – Roast Turkey,,230,13,8,22
+50,Chopped Side Salad,,70,5,4,5
+51,Light Italian Dressing,,20,1,2,20
+52,Dijon Honey Mustard Dressing,,180,16,8,0
+53,Balsamic Vinaigrette Dressing,,130,12,4,0
+54,Buttermilk Ranch Dressing,,210,22,2,0
+55,Pizza Slider,,300,17,23,13
+56,Buffalo Chicken Slider,,290,13,31,12
+57,Chicken Tender ‘n Cheese Slider,,290,12,30,15
+58,Ham ‘n Cheese Slider,,230,9,22,13
+59,Jalapeño Roast Beef ‘n Cheese Slider,,240,11,21,14
+60,Roast Beef ‘n Cheese Slider,,240,11,21,14
+61,Turkey ‘n Cheese Slider,,200,7,21,14
+62,Loaded Curly Fries,,700,46,57,14
+63,Curly Fries,Snack,250,13,29,3
+64,,Small,410,22,49,5
+65,,Medium,550,29,65,6
+66,,Large,650,35,77,8
+67,Ketchup Adds,,10,0,3,0
+68,Potato Cakes,2 pieces,250,14,23,2
+69,,3 pieces,370,21,35,3
+70,,4 pieces,490,28,46,4
+71,Steakhouse Onion Rings,5 pieces,420,21,52,6
+72,Mozzarella Sticks,4 pieces,440,23,37,19
+73,,6 pieces,650,35,56,29
+74,Marinara Sauce Adds,,20,0,4,1
+75,Jalapeno Bites®,5 pieces,290,17,31,5
+76,,8 pieces,470,27,50,8
+77,Bronco Berry Sauce®* Adds,,60,0,15,0
+78,Ultimate Chocolate Shake,Snack,320,9,57,8
+79,,Small,550,18,89,13
+80,,Medium,760,24,126,18
+81,,Large,970,31,158,24
+82,Jamocha Handcrafted Shake,Snack,310,8,55,8
+83,,Small,540,17,87,13
+84,,Medium,750,23,124,18
+85,,Large,950,30,156,23
+86,Vanilla Handcrafted Shake,Snack,250,8,40,8
+87,,Small,450,17,67,12
+88,,Medium,630,23,95,18
+89,,Large,820,30,124,23
+90,Salted Caramel & Chocolate Cookie,,430,18,63,4
+91,Triple Chocolate Cookie,,450,21,60,5
+92,Apple Turnover,,430,18,65,4
+93,Cherry Turnover,,390,13,65,4
+94,Prime-Cut™ Chicken Tenders,2 pieces,240,11,19,16
+95,Tree Top® Applesauce,,45,0,13,0
+96,Curly Fries,Kids,250,13,29,3
+97,Nestle® Pure Life® Bottled Water,,0,0,0,0
+98,Brewed Iced Tea,Small Cup,5,0,1,0
+99,Pepsi®,Small Cup,180,0,49,0
+100,Diet Pepsi®,Small Cup,0,0,0,0
+101,Mtn Dew®,Small Cup,200,0,54,0
+102,Mist Twst,Small Cup,190,0,50,0
+103,Dr Pepper®,Small Cup,180,0,48,0
+104,CapriSun®,Fruit Juice,80,0,21,0
+105,Shamrock Farms® Lowfat White Milk,,90,2,10,7
+106,Shamrock Farms® Lowfat Chocolate Milk,,150,2.5,26,7
+107,Sausage Biscuit,,500,33,36,12
+108,Bacon Biscuit,,340,17,36,10
+109,Ham Biscuit,,340,16,37,13
+110,Chicken Biscuit,,390,18,44,13
+111,"Bacon, Egg & Cheese",Sourdough,490,23,46,23
+112,,Croissant,440,27,29,18
+113,,Biscuit,480,29,38,18
+114,,Wrap,500,27,42,20
+115,"Sausage, Egg & Cheese",Sourdough,640,39,47,25
+116,,Croissant,590,44,30,20
+117,,Biscuit,640,45,39,20
+118,,Wrap,630,41,42,20
+119,"Ham, Egg & Cheese",Sourdough,470,19,47,26
+120,,Croissant,420,23,30,21
+121,,Biscuit,470,25,39,21
+122,,Wrap,440,22,42,17
+123,Ham & Swiss Croissant,,340,17,29,16
+124,Bacon & Cheese Croissant,,330,19,27,13
+125,Sausage & Cheese Croissant,,490,35,28,15
+126,French Toast Sticks,,350,10,57,7
+127,Sausage Gravy,Biscuit,480,28,48,9
+128,,Biscuit-Double,970,56,96,18
+129,Bacon & Egg w/Biscuit Platter,,590,32,49,23
+130,Sausage & Egg w/Biscuit Platter,,720,46,50,22
+131,Ham & Egg w/Biscuit Platter,,570,29,50,23
+132,Coffee,12 oz,0,0,0,0
+133,,16 oz,5,0,0,0
+134,Orange Juice,,140,0,33,2
+135,Arby-Q®,,400,11,58,18
+136,Super Roast Beef,,440,19,43,23
+137,Arby’s Melt,,330,12,39,18
+138,Ham & Swiss Melt,,300,8,37,18
+139,Homestyle Fries,Kids,240,11,33,3
+140,,Small,350,16,49,4
+141,,Medium,480,21,67,5
+142,,Large,600,26,84,7
+143,Cheddar Cheese Sauce Add,,50,3.5,4,1
+144,Spicy Three Pepper® Sauce Adds,,25,1,3,0

@@ -1,0 +1,442 @@
+,Food,Size,Calories,Fat,Carbs,Protein,Price
+0,"Stuffed Mushrooms
+",,510,380,19,15,See Price
+1,"Greek Salad
+",,740,610,19,14,See Price
+2,"Loaded Bake Potato TOTS
+",,1030,700,53,25,See Price
+3,"Little House Salad
+",,260,210,10,2,See Price
+4,"Chicken Samosas
+",,480,250,29,26,See Price
+5,"Fresh Kale Salad
+",,1360,1080,43,23,See Price
+6,"Fried Zucchini
+",,480,250,29,26,See Price
+7,"Crispy Fried Cheese
+",,1080,690,50,52,See Price
+8,"Edamame
+",,100,25,11,8,See Price
+9,"Dynamite Shrimp
+",,570,390,24,19,See Price
+10,"Crispy Crab Bites
+",,410,270,19,15,See Price
+11,"Roadside Sliders
+",,800,320,70,200,See Price
+12,"Quesadilla
+",,1030,630,61,44,See Price
+13,"Hot Spinach And Cheese Dip
+",,1770,1180,117,29,See Price
+14,"Tex Mex Eggrolls
+",,930,480,72,43,See Price
+15,"Fried Calamari
+",,1520,950,98,44,See Price
+16,"Buffalo Blasts
+",,1670,840,10,78,See Price
+17,"Warm Crab & Artichoke Dip
+",,1170,780,68,25,See Price
+18,"Sweet Corn Tamale Cakes
+",,1340,790,119,16,See Price
+19,"Eggroll Sampler
+",,1340,720,112,44,See Price
+20,"Thai Lettuce Wraps
+",,830,370,110,15,See Price
+21,"Fire-Roasted Fresh Artichoke
+",,1170,780,84,10,See Price
+22,"Factory Nachos
+",,2670,1720,173,63,See Price
+23,"Buffalo Wings
+",,1120,620,16,109,See Price
+24,"Buffalo Chicken Strips
+",,1090,430,87,76,See Price
+25,"Tossed Green Salad
+",,140,50,19,5,See Price
+26,"Caesar Salad
+",,860,670,30,15,See Price
+27,"Caesar Salad With Chicken
+",,1090,740,30,54,See Price
+28,"French Country Salad
+",,500,360,28,9,See Price
+29,"Factory Chopped Salad
+",,790,520,35,35,See Price
+30,"Cheese Flatbread
+",,1000,450,86,49,See Price
+31,"Margherita Flatbread
+",,760,270,85,34,See Price
+32,"Pepperoni Flatbread
+",,1110,550,96,53,See Price
+33,"The Everything Flatbread
+",,1160,570,92,55,See Price
+34,"Old Fashioned Burger
+",,990,540,64,46,See Price
+35,"Factory Turkey Burger
+",,1110,680,58,52,See Price
+36,"Classic Burger
+",,1340,780,69,66,See Price
+37,"Smokehouse B.B.Q. Burger
+",,1580,880,106,68,See Price
+38,"Mushroom Burger
+",,1470,910,72,65,See Price
+39,"Americana Cheeseburger
+",,1400,830,79,60,See Price
+40,"Macaroni And Cheese Burger
+",,1340,760,81,60,See Price
+41,"Bacon-Bacon Cheeseburger
+",,1590,970,76,78,See Price
+42,"Veggie Burger
+",,1160,510,136,27,See Price
+43,"Spicy Crispy Chicken Sandwich
+",,1010,520,60,63,See Price
+44,"Grilled Turkey Burger
+",,560,270,45,29,See Price
+45,"Avocado Toast
+",,820,360,105,17,See Price
+46,"California Guacamole Salad
+",,890,590,69,14,See Price
+47,"Vegan Cobb Salad
+",,1080,800,58,16,See Price
+48,"Almond-Crusted Salmon Salad
+",,1040,660,62,36,See Price
+49,"Avocado
+",,160,130,8,2,See Price
+50,"Grilled Chicken
+",,220,70,0,39,See Price
+51,"Grilled Shrimp
+",,90,10,2,18,See Price
+52,"Grilled Salmon
+",,220,110,2,26,See Price
+53,"Chargrilled Steak
+",,200,70,0,34,See Price
+54,"Renee’s Special
+",,790,390,69,32,See Price
+55,"Chicken Bellagio
+",,1790,900,135,88,See Price
+56,"White Chicken Chili
+",,590,140,33,79,See Price
+57,"Chicken Enchiladas
+",,1910,990,130,101,See Price
+58,"Cajun Chicken “Littles”
+",,2130,980,177,110,See Price
+59,"Shepherd’s Pie
+",,1520,800,97,81,See Price
+60,"Baja Chicken Tacos
+",,1250,470,123,72,See Price
+61,"Fish Tacos
+",,1030,380,121,44,See Price
+62,"Grilled Steak Tacos
+",,1060,440,124,31,See Price
+63,"Factory Burrito Grande
+",,2150,1160,160,92,See Price
+64,"Famous Factory Meatloaf
+",,1800,930,132,85,See Price
+65,"Parmesan-Herb Crusted Chicken
+",,1330,690,57,104,See Price
+66,"Chicken & Biscuits
+",,1610,790,127,84,See Price
+67,"Crusted Chicken Romano
+",,1660,860,138,90,See Price
+68,"Orange Chicken
+",,1690,530,218,74,See Price
+69,"Crispy Chicken Costoletta
+",,1760,1050,102,76,See Price
+70,"Chicken Piccata
+",,1470,750,103,78,See Price
+71,"Spicy Cashew Chicken
+",,1820,480,244,94,See Price
+72,"Teriyaki Chicken
+",,1550,410,192,97,See Price
+73,"Chicken Marsala And Mushrooms
+",,1510,640,130,87,See Price
+74,"Bang-Bang Chicken And Shrimp
+",,1410,520,147,76,See Price
+75,"Tomato Basil Pasta
+",,1580,840,127,63,See Price
+76,"Fettuccini Alfredo
+",,2040,1250,145,53,See Price
+77,"Spaghetti And Meatballs
+",,1920,1000,179,66,See Price
+78,"Four Cheese Pasta
+",,1280,680,132,49,See Price
+79,"Four Cheese Pasta With Chicken
+",,1550,820,132,82,See Price
+80,"Pasta Carbonara
+",,2070,1290,141,51,See Price
+81,"Pasta Carbonara With Chicken
+",,2340,1420,141,85,See Price
+82,"Evelyn’s Favorite Pasta
+",,1690,1000,144,34,See Price
+83,"Louisiana Chicken Pasta
+",,2120,1120,168,83,See Price
+84,"Pasta Da Vinci
+",,1560,750,129,72,See Price
+85,"Pasta With Shrimp And Sausage
+",,1780,960,158,70,See Price
+86,"Farfalle With Chicken And Roasted Garlic
+",,2060,1110,153,88,See Price
+87,"Spicy Chicken Chipotle Pasta
+",,1290,610,123,48,See Price
+88,"Bistro Shrimp Pasta
+",,1370,740,118,40,See Price
+89,"Shrimp With Angel Hair
+",,1040,490,108,39,See Price
+90,"Cajun Jambalaya Pasta
+",,1560,520,135,125,See Price
+91,"Fish & Chips
+",,1860,1090,133,53,See Price
+92,"Fried Shrimp Platter
+",,1920,940,191,50,See Price
+93,"Shrimp Scampi
+",,1350,690,123,45,See Price
+94,"Shrimp And Chicken Gumbo
+",,1450,740,93,85,See Price
+95,"Jamaican Black Pepper Shrimp
+",,1260,250,186,67,See Price
+96,"Thai Glazed Salmon
+",,1040,280,121,70,See Price
+97,"Fresh Grilled Salmon
+",,1240,720,66,63,See Price
+98,"Herb Crusted Filet Of Salmon
+",,1310,800,64,63,See Price
+99,"Miso Salmon
+",,1340,610,120,64,See Price
+100,"Shrimp Scampi And Steak Diane
+",,1780,1140,87,72,See Price
+101,"Chicken Madeira And Steak Diane
+",,1550,880,79,88,See Price
+102,"Steak Diane And Herb Crusted Salmon
+",,1710,1090,74,81,See Price
+103,"Steak Diane
+",,1150,580,67,76,See Price
+104,"Hibachi Steak
+",,1380,770,97,57,See Price
+105,"Grilled Rib-Eye Steak
+",,1230,720,55,74,See Price
+106,"Filet Mignon
+",,860,350,54,73,See Price
+107,"French Fries
+",,1060,410,152,11,See Price
+108,"Sweet Potato Fries
+",,1010,470,25,7,See Price
+109,"Mashed Potatoes
+",,450,230,49,5,See Price
+110,"Macaroni & Cheese
+",,1550,980,92,50,See Price
+111,"Green Beans
+",,150,100,9,3,See Price
+112,"Corn Succotash
+",,300,140,31,9,See Price
+113,"Sauteed Spinach
+",,250,180,12,9,See Price
+114,"Grilled Asparagus
+",,130,70,8,6,See Price
+115,"Caesar Salad
+",,1270,1000,41,21,See Price
+116,"Caesar Salad With Chicken
+",,1500,1070,41,60,See Price
+117,"Sheila’s Chicken And Avocado Salad
+",,1830,1090,132,64,See Price
+118,"Chinese Chicken Salad
+",,1740,960,141,59,See Price
+119,"Luau Salad
+",,1360,750,101,53,See Price
+120,"Barbeque Ranch Chicken Salad
+",,2150,1230,161,66,See Price
+121,"Santa Fe Salad
+",,1730,1020,106,76,See Price
+122,"Cobb Salad
+",,1540,1110,35,74,See Price
+123,"Seared Tuna Tataki Salad
+",,490,260,17,42,See Price
+124,"Renee’s Special
+",,790,390,69,32,See Price
+125,"Chicken Salad Sandwich
+",,1140,630,76,50,See Price
+126,"The Club
+",,1210,540,111,56,See Price
+127,Grilled Chicken And Avocado Club,,1080,690,15,82,See Price
+128,"Cuban Sandwich
+",,1190,640,64,71,See Price
+129,"Chicken Parmesan Sandwich
+",,1960,1180,99,107,See Price
+130,"Southwest Chicken Sandwich
+",,1160,600,87,55,See Price
+131,"California Cheesesteak
+",,1470,710,130,61,See Price
+132,"Original
+",,830,530,63,12,See Price
+133,"Fresh Strawberry
+",,1000,620,82,12,See Price
+134,"Chocolate Hazelnut Crunch Cheesecake
+",,1390,870,118,15,See Price
+135,"Salted Caramel Cheesecake
+",,1240,660,130,15,See Price
+136,"Toasted Marshmallow S’Mores Galore
+",,1550,970,141,14,See Price
+137,"Dream Extreme Cheesecake
+",,1620,890,177,17,See Price
+138,"Lemon Meringue Cheesecake
+",,1170,660,117,13,See Price
+139,"Adam’s Peanut Butter Cup Fudge Ripple
+",,1280,740,121,19,See Price
+140,"Godiva® Chocolate Cheesecake
+",,1400,950,110,15,See Price
+141,"Ultimate Red Velvet Cake Cheesecake
+",,1580,1050,125,14,See Price
+142,"Reese’s® Peanut Butter Chocolate Cake Cheesecake
+",,1530,850,157,23,See Price
+143,"30th Anniversary Chocolate Cake Cheesecake
+",,1310,770,127,16,See Price
+144,"Dulce De Leche Caramel Cheesecake
+",,1390,920,106,15,See Price
+145,"White Chocolate Raspberry Truffle
+",,1220,800,92,13,See Price
+146,"Mango Key Lime Cheesecake
+",,1280,750,128,13,See Price
+147,"White Chocolate Caramel Macadamia Nut Cheesecake
+",,1560,1000,131,13,See Price
+148,"Lemon Raspberry Cream Cheesecake
+",,1060,660,87,11,See Price
+149,"Tiramisu Cheesecake
+",,960,620,76,11,See Price
+150,"Chocolate Mousse Cheesecake
+",,1220,850,85,13,See Price
+151,"Vanilla Bean Cheesecake
+",,1170,790,84,11,See Price
+152,"Chocolate Tuxedo Cream® Cheesecake
+",,1250,810,109,11,See Price
+153,"Hershey’s® Chocolate Bar Cheesecake
+",,1380,800,140,15,See Price
+154,"Chocolate Chip Cookie-Dough Cheesecake
+",,1420,910,116,16,See Price
+155,"Key Lime Cheesecake
+",,1160,780,92,13,See Price
+156,"Low Carb Cheesecake
+",,610,500,42,13,See Price
+157,"Low Carb Cheesecake With Strawberries
+",,620,500,44,13,See Price
+158,"Caramel Pecan Turtle Cheesecake
+",,1330,810,126,16,See Price
+159,"A La Mode 
+",,400,220,36,8,See Price
+160,"Linda’s Fudge Cake
+",,1450,590,233,13,See Price
+161,Carrot Cake,,1720,1100,146,15,See Price
+162,"Lemoncello Cream Torte
+",,1150,630,119,10,See Price
+163,"Black-Out Cake
+",,1560,770,195,21,See Price
+164,"Warm Apple Crisp
+",,1530,300,309,10,See Price
+165,"Tiramisu
+",,1270,850,91,13,See Price
+166,"Chocolate Tower Truffle Cake
+",,1770,1000,192,20,See Price
+167,"Fresh Strawberry Shortcake
+",,1340,690,143,25,See Price
+168,"Bowl Of Fresh Strawberries
+",,250,130,26,3,See Price
+169,"Hot Fudge Sundae
+",,1280,770,116,20,See Price
+170,"Godiva® Chocolate Brownie Sundae
+",,1750,1060,168,25,See Price
+171,"Bowl of Vanilla Ice Cream
+",,750,460,60,13,See Price
+172,"Chocolate, Vanilla Or Strawberry
+",,1260,600,143,22,See Price
+173,"Oreo Milkshake
+",,1630,810,182,26,See Price
+174,"Strawberry Fruit Smoothie
+",,320,25,74,2,See Price
+175,"Peach Smoothie
+",,330,0,82,2,See Price
+176,"Tropical Smoothie
+",,370,25,88,1,See Price
+177,"Frozen Iced Mango
+",,370,20,88,2,See Price
+178,Cafe,,430,420,48,11,See Price
+179,Cappuccino,,100,25,11,7,See Price
+180,"Cafe Mocha
+",,630,420,48,11,See Price
+181,"Double Espresso
+",,5,0,1,0,See Price
+182,"Caramel Royale Macchiato
+",,660,310,79,9,See Price
+183,"Factory Hot Chocolate
+",,820,490,77,12,See Price
+184,"Freshly Brewed Coffee
+",,5,0,1,0,See Price
+185,"Cold Brew Iced Coffee
+",,5,0,0,0,See Price
+186,"Certified Organic Black And Herb Teas
+",,0,0,0,0,See Price
+187,"Freshly Brewed Black, Green or Tropical Iced Teas
+",,0,0,0,0,See Price
+188,"Strawberry
+",,330,0,0,1,See Price
+189,"
+Raspberry",,320,0,85,1,See Price
+190,"Cucumber
+",,340,0,90,1,See Price
+191,"Arnold Palmer
+",,160,0,42,0,See Price
+192,"Soft Drinks
+",,100,0,27,0,See Price
+193,"Fiji Natural Artesian Water
+",,0,0,0,0,See Price
+194,"San Pellegrino Water
+",,0,0,0,0,See Price
+195,"Fresh Orange Juice
+",,170,5,39,3,See Price
+196,"Greek Salad
+",,740,610,19,14,See Price
+197,"Little House Salad
+",,260,210,10,2,See Price
+198,"Edamame
+",,100,25,11,8,See Price
+199,"Chicken Samosas
+",,480,250,29,26,See Price
+200,"Skinnylicious® Grilled Artichoke
+",,450,190,56,7,See Price
+201,"Crispy Crab Bites
+",,410,270,19,15,See Price
+202,"Chicken Pot Stickers
+",,420,120,61,44,See Price
+203,"Fresh Basil, Tomato And Cheese
+",,850,340,84,42,See Price
+204,"Tossed Green Salad
+",,140,50,19,5,See Price
+205,"French Country Salad
+",,500,360,28,9,See Price
+206,"Skinnylicious® Caesar Salad
+",,570,420,26,12,See Price
+207,Skinnylicious Caesar Salad With Chicken,,800,490,26,51,See Price
+208,"Skinnylicious® Factory Chopped Salad
+",,530,270,34,35,See Price
+209,"Skinnylicious® Asian Chicken Salad
+",,590,210,53,44,See Price
+210,"Mexican Tortilla Salad
+",,570,220,59,30,See Price
+211,"Seared Tuna Tataki Salad
+",,490,260,17,42,See Price
+212,"Skinnylicious® Hamburger
+",,570,270,41,35,See Price
+213,"Skinnylicious® Grilled Turkey Burger
+",,560,270,45,29,See Price
+214,"Skinnylicious® Turkey & Avocado Sandwich
+",,550,230,43,38,See Price
+215,"SkinnyLicious® Chicken Soft Tacos
+",,510,140,63,32,See Price
+216,"SkinnyLicious® Shrimp Soft Tacos
+",,510,130,66,31,See Price
+217,"Skinnylicious® Chicken Pasta
+",,590,140,76,46,See Price
+218,"White Chicken Chili
+",,590,140,33,79,See Price
+219,"Tuscan Chicken
+",,590,190,19,81,See Price
+220,"Lemon-Garlic Shrimp
+",,520,170,51,33,See Price
+221,"Skinnylicious® Grilled Salmon
+",,570,310,21,44,See Price
+222,"Grilled Steak Medallions
+",,440,170,24,45,See Price

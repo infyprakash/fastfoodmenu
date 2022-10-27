@@ -1,0 +1,337 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,Boneless Buffalo Wings,with Hot Sauce,860,50,43,58
+1,,with Mild Sauce,760,42,37,60
+2,,Bleu Cheese Dressing (2 oz),280,30,4,2
+3,Cactus Blossom®,,1700,89,202,27
+4,,Cajun Horseradish Sauce (3 oz),270,26,9,less than 1
+5,Cheese Fries,,1240,65,127,39
+6,,with Chili,1460,80,136,49
+7,Firecracker Shrimp (14 pieces),,1100,88,58,23
+8,Fried Pickles,,550,38,48,6
+9,,Cajun Horseradish Sauce (3 oz),270,26,9,less than 1
+10,,Ranch Dressing (3 oz),430,47,5,less than 1
+11,Grilled Shrimp,,240,8,25,17
+12,,Garlic Butter (1 oz),170,18,less than 1,0
+13,Killer Ribs - includes Steak Fries,,910,53,60,49
+14,Rattlesnake Bites,,560,36,34,25
+15,,Cajun Horseradish Sauce (3 oz),270,26,9,less than 1
+16,,Ranch Dressing (3 oz),430,47,5,less than 1
+17,Tater Skins,,1020,29,107,37
+18,,Sour Cream (2 oz),110,11,2,1
+19,Twisted Mozzarella,,650,36,58,25
+20,,Marinara Sauce (3 oz),35,2,4,1
+21,Boneless Buffalo Wings,with Hot Sauce,430,25,21,29
+22,,with Mild Sauce,380,21,19,30
+23,Rattlesnake Bites,,280,18,17,13
+24,Tater Skins,,510,24,53,18
+25,Texas Red Chili (Cup),,290,16,16,21
+26,,Saltine Crackers (1 packet),25,0,5,0
+27,Texas Red Chili (Bowl),,490,27,27,35
+28,,Saltine Crackers (2 packets),50,1,9,less than 1
+29,Loaded Potato Soup (Cup),,150,10,15,2
+30,,Saltine Crackers (1 packet),25,0,5,0
+31,Loaded Potato Soup (Bowl),,260,16,25,3
+32,,Saltine Crackers (2 packets),25,1,9,less than 1
+33,California Chicken Salad,,740,41,20,78
+34,Chicken Caesar Salad - dressing included,,1050,81,22,63
+35,Chicken Critter® Salad,,690,41,27,56
+36,Grilled Chicken Salad,,810,45,20,85
+37,Grilled Salmon Salad,,800,53,18,66
+38,Grilled Shrimp Caesar Salad - dressing included,,970,80,24,42
+39,Salmon Caesar Salad - dressing included,,1150,104,22,35
+40,Steakhouse Filet Salad - dressing included,,910,57,38,68
+41,,Dressing - Bleu Cheese (3 oz),420,45,5,3
+42,,Dressing - Caesar (3 oz),460,48,6,3
+43,,Dressing - Honey French (3 oz),220,8,36,0
+44,,Dressing - Honey Lime (3 oz),240,7,45,0
+45,,Dressing - Honey Mustard (3 oz),470,47,16,less than 1
+46,,Dressing - Italian (3 oz),400,36,17,less than 1
+47,,Dressing - Low Fat Ranch (3 oz),330,30,3,3
+48,,Dressing - Parmesan Peppercorn (3 oz),320,32,6,5
+49,,Dressing - Ranch (3 oz),430,47,5,less than 1
+50,,Dressing - Thousand Island (3 oz),400,39,14,less than 1
+51,Caesar Salad - dressing included,,420,39,11,8
+52,House Salad,,230,16,9,13
+53,,Dressing - Bleu Cheese (2 oz),280,30,4,2
+54,,Dressing - Caesar (2 oz),310,32,4,2
+55,,Dressing - Honey French (2 oz),140,6,24,0
+56,,Dressing - Honey Lime (2 oz),160,5,30,0
+57,,Dressing - Honey Mustard (2 oz),320,32,11,less than 1
+58,,Dressing - Italian (2 oz),270,24,11,0
+59,,Dressing - Low Fat Ranch (2 oz),220,20,2,2
+60,,Dressing - Parmesan Peppercorn (2 oz),220,22,4,3
+61,,Dressing - Ranch (2 oz),290,31,4,less than 1
+62,,Dressing - Thousand Island (2 oz),270,26,10,less than 1
+63,Bone-In Ribeye (20 oz),,1480,101,20,143
+64,Dallas Filet,6 oz,270,10,6,45
+65,,8 oz,360,13,8,60
+66,Filet Medallions (9 oz) - includes Seasoned Rice,,760,30,56,74
+67,,Peppercorn Brown Sauce (4 oz),160,14,7,less than 1
+68,,Portobello Mushroom Sauce (4 oz),70,5,6,2
+69,Ft. Worth Ribeye,10 oz,800,60,2,65
+70,,12 oz,960,72,2,78
+71,,16 oz,1280,96,3,103
+72,New York/Kansas City Strip,8 oz,420,22,less than 1,57
+73,,12 oz,640,33,1,85
+74,Porterhouse T-Bone (23 oz),,1040,54,1,139
+75,Prime Rib,10 oz,780,59,2,62
+76,,12 oz,940,71,2,75
+77,,16 oz,1250,95,2,99
+78,,Au Jus (3 oz),40,2,4,less than 1
+79,Road Kill,,720,53,7,54
+80,Steak Kabob - includes Seasoned Rice,,1000,51,85,50
+81,USDA Choice Sirloin,6 oz,250,6,3,46
+82,,8 oz,340,88,5,61
+83,,11 oz,460,11,6,84
+84,,16 oz,670,16,9,122
+85,Sautéed Mushrooms (3.5 oz),,60,5,3,2
+86,Sautéed Onions (3 oz),,90,7,6,less than 1
+87,Jack Cheese (1 oz),,100,8,0,7
+88,Brown Gravy (2 oz),,70,6,3,less than 1
+89,Grilled Shrimp,,240,8,25,17
+90,,Garlic Butter (1 oz),170,18,less than 1,0
+91,Hatch Green Chiles,,80,7,2,0
+92,Hatch Green Chile Sauce,,130,1,15,7
+93,Sautéed Mushrooms (5 oz),,90,7,4,3
+94,Sautéed Onions (5 oz),,150,11,10,less than 1
+95,Jack Cheese (2 oz),,200,16,0,14
+96,Brown Gravy (2 oz),,70,6,3,less than 1
+97,Grilled Shrimp,,240,8,25,17
+98,,Garlic Butter (1 oz),170,18,less than 1,0
+99,Hatch Green Chiles,,120,11,3,0
+100,Hatch Green Chile Sauce,,190,1.5,22,10
+101,Ribs,Half Slab,900,63,9,72
+102,,Full Slab,1450,102,15,116
+103,Chicken Critters®,with Ribs,820,51,21,70
+104,,with Sirloin 6 oz,520,18,19,72
+105,Filet 6 oz with Grilled Shrimp,,510,18,31,62
+106,,Garlic Butter (1 oz),170,18,less than 1,0
+107,Filet 6 oz with Ribs,,820,49,12,90
+108,Filet Medallions with Grilled Shrimp - includes Seasoned Rice,,1000,38,81,90
+109,,Garlic Butter (1 oz),170,18,less than 1,0
+110,,Peppercorn Brown Sauce (4 oz),160,14,7,less than 1
+111,,Portobello Mushroom Sauce (4 oz),70,5,6,2
+112,Grilled BBQ Chicken with Ribs,,810,43,16,91
+113,Grilled BBQ Chicken with Sirloin 6 oz,,510,10,13,92
+114,Ribeye 10 oz with Grilled Shrimp,,1040,68,35,81
+115,,Garlic Butter (1 oz),170,18,less than 1,0
+116,Ribeye 10 oz with Ribs,,1350,99,16,109
+117,Ribeye 12 oz with Grilled Shrimp,,1200,80,37,94
+118,,Garlic Butter (1 oz),170,18,less than 1,0
+119,Ribeye 12 oz with Ribs,,1510,111,18,122
+120,Sirloin 6 oz with Grilled Shrimp,,490,14,28,63
+121,,Garlic Butter (1 oz),170,18,less than 1,0
+122,Sirloin 6 oz with Ribs,,800,45,9,90
+123,Sirloin 8 oz with Grilled Shrimp,,570,16,30,78
+124,,Garlic Butter (1 oz),170,18,less than 1,0
+125,Sirloin 8 oz with Ribs,,890,47,10,105
+126,BBQ Roasted Half Chicken,,650,31,33,55
+127,California Grilled Chicken,,490,22,23,55
+128,Chicken Critters®,,480,21,26,45
+129,,BBQ Sauce (2 oz),80,0,18,0
+130,,Honey Mustard Dressing (2 oz),320,32,11,less than 1
+131,,Ranch Dressing (2 oz),290,31,4,less than 1
+132,Country Fried Chicken,,750,43,43,47
+133,Grilled BBQ Chicken,,260,3.5,10,46
+134,Oven Roasted Half Chicken,,540,31,7,55
+135,Portobello Mushroom Chicken,,430,19,6,59
+136,San Antonio Chicken,,1540,95,85,89
+137,Sierra Chicken Pasta,,910,44,79,53
+138,Smothered Chicken,topped with Cream Gravy,400,18,11,50
+139,,topped with Jack Cheese,420,19,7,55
+140,Beef Tips,with Mashed Potatoes,990,63,50,56
+141,,with Seasoned Rice,990,54,66,57
+142,Country Fried Sirloin,,1100,71,68,50
+143,Grilled Pork Chops,Single,290,12,4,41
+144,,Double,580,25,7,82
+145,,Peppercorn Brown Sauce (3 oz),120,11,5,less than 1
+146,Pulled Pork Dinner,,860,40,50,80
+147,,North Carolina only,810,38,37,81
+148,,South Carolina only,820,37,47,78
+149,Fish and Chips - includes Steak Fries,,1180,42,136,61
+150,,Tartar Sauce (3 oz),390,38,14,0
+151,Fried Catfish,3 pieces,530,33,29,30
+152,,4 pieces,710,44,39,40
+153,,Creole Mustard Sauce (3 oz),520,57,5,0
+154,Grilled Salmon,5 oz,320,24,less than 1,27
+155,,8oz,480,33,1,45
+156,,Tartar Sauce (2 oz),260,26,9,0
+157,Grilled Shrimp - includes Seasoned Rice,,500,18,50,32
+158,,Garlic Butter (1 oz),170,18,less than 1,0
+159,Roadhouse Fish Fry - includes Steak Fries,,1140,42,125,59
+160,,Tartar Sauce (3 oz),390,38,14,0
+161,All-American Cheeseburger,,1010,68,50,52
+162,Bacon Cheeseburger,,1150,78,50,62
+163,Smokehouse Burger,,1200,80,62,60
+164,Add Sliced Avocado,,80,7,4,1
+165,BBQ Chicken Sandwich,,720,31,56,57
+166,Mushroom Jack Chicken Sandwich,,820,42,48,65
+167,Pulled Pork Sandwich,,1010,54,63,70
+168,,North Carolina only,970,52,53,71
+169,,South Carolina only,970,51,61,68
+170,All-Beef Hot Dog,,370,24,25,12
+171,,with Chili,440,29,28,15
+172,Grilled Chicken,,160,2.5,less than 1,34
+173,Jr. Chicken Tenders,,360,16,24,31
+174,Kraft® Macaroni and Cheese,,300,9,25,10
+175,Lil' Dillo Steak Bites,,170,4,2,31
+176,Mini-Cheeseburgers,,610,33,48,29
+177,Andy's Steak (6 oz),,250,6,3,46
+178,Chicken Critters® Basket,,340,15,19,32
+179,,BBQ Sauce (2 oz),80,0,18,0
+180,,Honey Mustard Dressing (2 oz),320,32,11,less than 1
+181,,Ranch Dressing (2 oz),290,31,4,less than 1
+182,Ranger Rib Basket,,550,39,6,44
+183,Big Ol' Brownie,,1230,42,205,9
+184,Granny's Apple Classic,,1260,62,170,10
+185,Strawberry Cheesecake,,780,45,81,38
+186,Apple Sauce,,150,0,37,0
+187,Baked Potato,,380,13,60,7
+188,,Butter - Whipped (1 oz),100,11,0,0
+189,,Sour Cream (1 oz),60,6,1,0
+190,"Baked Potato - Loaded (cheddar cheese, bacon bits and sour cream)",,650,39,61,17
+191,Buttered Corn,,210,9,32,5
+192,Caesar Salad - includes dressing,,420,39,11,8
+193,Coleslaw,,330,31,14,1
+194,Fresh Vegetables,,190,15,12,4
+195,Green Beans,,100,3,13,6
+196,"House Salad - without dressing (see ""Side Salads"")",,230,16,9,13
+197,Loaded Potato Soup (Cup),,150,10,15,2
+198,,Saltine Crackers (1 packet),25,0,5,0
+199,Mashed Potatoes,,220,15,19,3
+200,,Brown Gravy (2 oz),70,6,3,less than 1
+201,,Cream Gravy (2 oz),90,7,5,2
+202,,"Loaded (cheddar cheese, bacon bits and sour cream)",150,40,20,13
+203,Sautéed Mushrooms,,360,7,4,3
+204,Sautéed Onions,,510,11,10,less than 1
+205,Seasoned Rice,,350,16,47,6
+206,Steak Fries,,360,14,54,5
+207,,Loaded (cheddar cheese and bacon bits),510,25,54,15
+208,Sweet Potato,,350,9,62,6
+209,,Butter - Honey Cinnamon (1 oz),100,10,2,0
+210,,Loaded (mini-marshmallows and caramel sauce),770,28,126,7
+211,Texas Red Chili (Cup),,290,16,16,21
+212,,Saltine Crackers (1 packet),25,0,5,0
+213,Shrimp Sidekick,,240,8,25,17
+214,,Garlic Butter (1 oz),170,18,less than 1,0
+215,Rib Sidekick,,560,39,6,44
+216,Fresh Baked Bread (1 piece),,120,1,24,4
+217,,Butter - Honey Cinnamon (1 oz),100,10,2,0
+218,,Butter - Whipped (1 oz),100,11,0,0
+219,Peanuts (1 oz),,160,12,7,7
+220,Texas Roadhouse® Steak Sauce (1 Tbsp),,25,0,6,0
+221,Boneless Buffalo Wings Party Pack,,2900,126,192,248
+222,,Mild Sauce (8 oz),840,91,4,less than 1
+223,,Hot Sauce (8 oz),490,52,7,less than 1
+224,Pulled Pork Party Pack,,4990,261,12,653
+225,,BBQ Sauce (8 oz),320,0,72,0
+226,,BBQ Sauce (8 oz) - North Carolina only,140,0,28,0
+227,,BBQ Sauce (8 oz) - South Carolina only,300,3.5,67,4
+228,Rib Party Pack,,6620,467,69,530
+229,,BBQ Sauce (8 oz),320,0,72,0
+230,Caesar Salad Bowl,,630,37,40,39
+231,Chicken Caesar Salad Bowl,,1070,45,42,132
+232,Chicken Critter Salad Bowl,,2140,136,67,168
+233,Grilled Chicken Salad Bowl,,2140,124,51,211
+234,House Salad Bowl,,1140,80,43,67
+235,,Dressing - Bleu Cheese (8 oz),1120,120,16,8
+236,,Dressing - Caesar (8 oz),1230,128,15,8
+237,,Dressing - Honey Mustard (8 oz),1280,128,44,1
+238,,Dressing - Italian (8 oz),1070,96,46,1
+239,,Dressing - Low Fat Ranch (8 oz),880,80,8,8
+240,,Dressing - Parmesan Peppercorn (8 oz),860,86,16,12
+241,,Dressing - Ranch (8 oz),1160,125,14,2
+242,,Dressing - Thousand Island (8 oz),1080,104,40,1
+243,Buttered Corn (32 oz),,1100,48,171,25
+244,Fresh Baked Bread (12 pieces),,1440,12,288,48
+245,Green Beans (32 oz),,420,25,40,16
+246,Mashed Potatoes (32 oz),,1420,97,123,18
+247,Seasoned Rice (32 oz),,1440,63,189,22
+248,Texas Red Chili (32 oz),,1106,72,58,53
+249,,Cheddar Cheese (8 oz),910,75,3,57
+250,,Diced Red Onion (3 oz),25,0,6,less than 1
+251,,Saltine Crackers (4 packs),110,0,19,1
+252,Boneless Buffalo Wings,with Mild Sauce & Steak Fries,1120,56,91,65
+253,,with Hot Sauce & Steak Fries,1210,64,97,64
+254,,Bleu Cheese Dressing (2 oz),280,30,4,2
+255,Chicken Critters® & Steak Fries,,700,29,73,38
+256,,BBQ Sauce (2 oz),80,0,18,0
+257,,Honey Mustard Dressing (2 oz),320,32,11,less than 1
+258,,Ranch Dressing (2 oz),290,31,4,less than 1
+259,Sirloin Salad - dressing not included,,820,45,21,84
+260,BBQ Roasted Half Chicken with Ribs,,1200,69,39,99
+261,BBQ Roasted Half Chicken with Sirloin 6 oz,,900,37,36,101
+262,California Chicken Sandwich,,710,27,60,62
+263,Chips & Chili Queso Dip,,540,28,62,10
+264,Dallas Filet,5 oz,230,8,5,38
+265,,10 oz,460,16,10,76
+266,Double Chocolate Brownie,,780,26,132,4
+267,Filet 5 oz with Ribs,,610,32,21,61
+268,Filet Medallions (6 oz) - with Seasoned Rice,,630,25,53,51
+269,Jr. Chicken Critters,,200,9,11,19
+270,Milkshake,Chocolate,690,25,103,12
+271,,Oreo®,650,30,81,13
+272,,Strawberry,600,25,81,12
+273,,Vanilla,520,25,61,12
+274,San Antonio Chicken Cobb Salad,,760,42,28,73
+275,San Antonio Cobb Salad - without chicken,,540,38,27,27
+276,Steakhouse Filet Salad,,820,54,36,50
+277,Coca-Cola®,Regular,130,0,36,0
+278,,Kids,80,0,22,0
+279,Diet Coke®,Regular,0,0,0,0
+280,,Kids,0,0,0,0
+281,Hi-C® Fruit Punch,Regular,140,0,38,0
+282,,Kids,80,0,23,0
+283,Hi-C® Orange,Regular,150,0,41,0
+284,,Kids,90,0,24,0
+285,Minute Maid®,Regular,130,0,36,0
+286,,Kids,80,0,21,0
+287,Sprite®,Regular,130,0,35,0
+288,,Kids,80,0,21,0
+289,Blue Crush Lemonade,Regular,150,0,40,0
+290,,Kids,90,0,23,0
+291,Red Raspberry Lemonade,Regular,150,0,40,0
+292,,Kids,90,0,23,0
+293,Wild Strawberry Lemonade,Regular,150,0,40,0
+294,,Kids,90,0,23,0
+295,Original Sweet,,110,0,28,0
+296,Original Unsweet,,0,0,0,0
+297,Peach Sweet,,140,0,35,0
+298,Peach Unsweet,,45,0,11,0
+299,Raspberry Sweet,,130,0,35,0
+300,Raspberry Unsweet,,40,0,10,0
+301,Coffee,Decaffeinated,5,0,1,0
+302,,Regular,5,0,1,0
+303,Dasani® Bottled Water,,0,0,0,0
+304,Juice,Apple,80,0,21,0
+305,,Orange,90,0,20,1
+306,Milk,Chocolate,150,2.5,26,7
+307,,Regular,90,2,10,7
+308,Original Margarita,Frozen (10 oz),230,0,35,0
+309,,Frozen (18 oz),430,0,66,0
+310,,Rocks (10 oz),170,0,16,0
+311,,Rocks (18 oz),280,0,26,0
+312,Hurricane Margarita,Frozen (18 oz),460,0,73,less than 1
+313,,Rocks (18 oz),260,0,37,less than 1
+314,Jamaican Cowboy Margarita,Frozen (18 oz),440,0,59,less than 1
+315,,Rocks (18 oz),240,0,22,less than 1
+316,Peach Margarita,Frozen (18 oz),480,0,76,0
+317,Raspberry Margarita,Frozen (18 oz),470,0,83,0
+318,Roadhouse Roadie Margarita,Frozen (18 oz),340,0,80,0
+319,,Rocks (18 oz),220,0,49,0
+320,Sangria Margarita,Frozen (18 oz),440,0,66,0
+321,,Rocks (18 oz),260,0,28,0
+322,Skinny Lime Margarita,Rocks (18 oz),190,1.5,14,less than 1
+323,,Frozen (18 oz),470,0,85,0
+324,1800® Kicker,,60,0,0,0
+325,Margaritaville® Gold Kicker,,60,0,0,0
+326,Patrón® Kicker,,60,0,3,0
+327,Armadillo Punch,,130,0,17,0
+328,Cowgirl Quencher,,220,0,24,less than 1
+329,Kenny's Cooler,,290,0,40,0
+330,,Island Kicker,45,0,0,0
+331,Sangria Red,,280,0,53,less than 1
+332,Texas Peach Fuzz,,160,0,15,less than 1
+333,"Blush wine (6 oz/glass, 4 glasses per bottle)",,130,0,10,0
+334,"Red wine (6 oz/glass, 4 glasses per bottle)",,150,0,5,0
+335,"White wine (6 oz/glass, 4 glasses per bottle)",,150,0,5,0

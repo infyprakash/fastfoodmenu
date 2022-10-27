@@ -1,0 +1,223 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,BLT Sandwich,,360,14,44,10
+1,Chicken Salad Sandwich,,330,9,45,20
+2,Ham & Swiss Sandwich,,370,11,46,24
+3,"Turkey, Bacon Club Sandwich",,400,11,52,26
+4,"Bacon, Tomato & Cheese Panini",,600,30,62,26
+5,Grilled Cheese Panini,,490,18,60,24
+6,Tuscan Chicken Panini,,560,21,62,34
+7,BBQ Chicken Wrap Snacker,,190,4.5,25,12
+8,Chicken Ranch Wrap Snacker,,190,6,22,12
+9,Chicken Salad Wrap Snacker,,190,7,22,10
+10,Breakfast Sandwiches,"Biscuit, Bacon, Egg, Cheese",410,22,34,19
+11,,"Biscuit, Bacon, Egg White, Cheese",360,17,33,18
+12,,"Biscuit, Sausage, Egg, Cheese",490,31,34,20
+13,,"Biscuit, Sausage, Egg White, Cheese",430,26,32,19
+14,,"Biscuit, Egg, Cheese",350,17,34,15
+15,,"Biscuit, Egg White, Cheese",300,12,32,14
+16,,"English Muffin, Bacon, Egg, Cheese",330,15,30,17
+17,,"English Muffin, Bacon, Egg White, Cheese",280,10,29,17
+18,,"English Muffin, Sausage, Egg, Cheese",410,24,30,19
+19,,"English Muffin, Sausage, Egg White, Cheese",360,19,29,18
+20,,"English Muffin, Egg, Cheese",270,10,30,13
+21,,"English Muffin, Egg White, Cheese",220,5,29,13
+22,Breakfast Panini,"Multigrain Flatbread, Bacon, Egg, Cheese",330,17,28,18
+23,,"Multigrain Flatbread, Bacon, Egg White, Cheese",280,12,27,17
+24,,"Multigrain Flatbread, Sausage, Egg, Cheese",410,26,28,19
+25,,"Multigrain Flatbread, Sausage, Egg White, Cheese",350,21,26,18
+26,Grilled Breakfast Wraps,"Sausage, Egg, Cheese",390,26,24,17
+27,,"Bacon, Egg, Cheese",310,17,24,15
+28,,"Egg, Cheese",250,12,24,12
+29,Other,Hash Brown,120,7,16,1
+30,,Oatmeal - Maple,220,2.5,49,5
+31,,Oatmeal - Mixed Berries,210,3,44,6
+32,,Bagel BELT® (Plain Bagel),500,17,65,23
+33,,Sausage Bagel BELT™ (Plain Bagel),570,26,65,24
+34,,Sausage and Biscuit,350,22,29,11
+35,Coffee,Black,0,0,0,0
+36,,"1 Cream, 1 Sugar",70,3.5,9,1
+37,,Decaffeinated,0,0,0,0
+38,Tea,Black,0,0,0,0
+39,,"1 Cream, 1 Sugar",40,0.4,8,1
+40,Hot Chocolate,,240,6,45,2
+41,,White,260,9,42,1
+42,Apple Cider,,210,0,52,0
+43,Latte,,80,0.2,12,8
+44,,Flavoured,100,0.2,19,7
+45,,Chocolate,180,6,24,6
+46,,Tea,50,0.1,7,5
+47,Cappuccino,,60,0.2,10,6
+48,,French Vanilla,250,8,41,4
+49,,English Toffee,240,7,41,4
+50,Café Mocha,,190,8,29,1
+51,Americano,,4,0,1,0.3
+52,Iced Capp™,(Cream),250,11,33,2
+53,,(Milk),150,1.5,32,3
+54,,(Chocolate Milk),160,0.5,36,3
+55,Flavoured Iced Capp™,(Cream),250,11,34,2
+56,Iced Coffee,(Cream),110,6,12,1
+57,,(Milk),70,1,12,2
+58,,(Chocolate Milk),80,0.5,16,2
+59,Flavoured Iced Coffee,(Cream),110,6,13,1
+60,Iced Latte,,90,2,14,4
+61,,Flavoured,90,2,15,4
+62,,Chocolate,180,6,26,4
+63,Mocha Iced Capp™,,290,11,42,2
+64,Mocha Iced Coffee,,150,6,20,2
+65,Mixed Berry Fruit Smoothie,with Yogurt,150,1,35,2
+66,Mixed Berry Fruit Smoothie,,130,0,33,0
+67,Strawberry Banana Fruit Smoothie,with Yogurt,150,1,34,2
+68,Strawberry Banana Fruit Smoothie,,130,0,33,0
+69,Frozen Lemonade,,120,0.1,28,0
+70,Espresso Shot,,2,0,1,0.1
+71,Flavour Shot,,0,0,1,0
+72,Whipped Topping and Drizzle,,80,5,7,0.3
+73,Yeast Donuts,Apple Fritter,290,8,48,7
+74,,Blueberry Fritter,310,7,55,7
+75,,Caramel Apple Fritter,300,8,52,7
+76,,Chocolate Dip,190,6,31,4
+77,,Dutchie,230,6,38,5
+78,,Game Day (Vanilla Dip),250,6,46,4
+79,,Honey Dip,190,6,31,4
+80,,Maple Dip,190,6,31,4
+81,,Vanilla Dip with Coloured Sprinkles,250,6,46,4
+82,Cake Donuts,Chocolate Glazed,280,14,37,4
+83,,Chocolate Mint,280,14,36,4
+84,,Chocolate Peanut Crunch,300,17,32,5
+85,,Chocolate Toasted Coconut,310,16,39,4
+86,,Chocolate White Coconut,320,18,38,4
+87,,Cinnamon Sugar,220,10,28,3
+88,,Double Chocolate,270,14,35,4
+89,,Old Fashion Dip,250,10,36,3
+90,,Old Fashion Glazed,270,10,41,3
+91,,Old Fashion Plain,210,10,25,3
+92,,Old Fashion Sugar,240,10,33,3
+93,,Peanut Crunch,300,14,39,5
+94,,Sour Cream Cinnamon,270,16,29,3
+95,,Sour Cream Glazed,340,16,46,3
+96,,Sour Cream Plain,270,16,27,3
+97,,Sour Cream Sugar,290,16,33,3
+98,,Toasted Coconut,290,13,40,4
+99,,White Coconut,300,14,39,4
+100,Filled Donuts,Banana Cream,190,6,31,4
+101,,Blueberry,200,5,34,4
+102,,Boston Cream,220,6,37,5
+103,,Canadian Maple,210,6,37,5
+104,,Cherry,200,6,33,5
+105,,Lemon,190,5,31,4
+106,,Raspberry,200,5,33,4
+107,,Spiced Apple,190,5,32,4
+108,,Strawberry,200,5,34,5
+109,,Strawberry Bloom,230,7,39,4
+110,,Strawberry Vanilla,270,5,52,5
+111,,Venetian Cream,190,6,30,5
+112,Other,Game Day Supreme,260,6,48,5
+113,,Honey Cruller,310,18,37,2
+114,,Long John,250,7,43,5
+115,,Walnut Crunch,360,22,38,4
+116,Caramel Chocolate Pecan,,250,12,32,3
+117,Chocolate Chunk,,240,10,34,3
+118,Ginger Molasses,,210,7,35,2
+119,Oatcakes,,180,9,22,2
+120,Oatmeal Raisin Spice,,210,8,32,3
+121,Peanut Butter,,280,17,27,6
+122,Smile Cookie,,250,10,38,3
+123,Trail Mix with Fruit and Nuts,,220,8,34,4
+124,Triple Chocolate,,230,12,29,2
+125,White Chocolate Macadamia Nut,,250,13,32,3
+126,Yeast Timbits,Apple Fritter,50,1.5,9,1
+127,,Dutchie,50,1.5,9,1
+128,,Honey Dip,45,1,8,1
+129,Cake Timbits,Chocolate Glazed,70,3,10,1
+130,,Chocolate Peanut Crunch,80,4,10,1
+131,,Chocolate Toasted Coconut,80,4,10,1
+132,,Chocolate White Coconut,80,4,10,1
+133,,Cinnamon Sugar,60,2.5,8,1
+134,,Honey Cruller,60,3,8,0
+135,,Old Fashion Glazed,70,2.5,10,1
+136,,Old Fashion Plain,50,2.5,7,1
+137,,Old Fashion Sugar,60,2.5,8,1
+138,,Peanut Crunch,80,3.5,11,1
+139,,Sour Cream Cinnamon,80,4.5,8,1
+140,,Sour Cream Glazed,90,4.5,12,1
+141,,Sour Cream Plain,70,4.5,7,1
+142,,Sour Cream Sugar,70,4.5,8,1
+143,,Toasted Coconut,70,3.5,11,1
+144,,White Coconut,80,3.5,11,1
+145,Filled Timbits,Lemon,45,1,7,1
+146,,Raspberry,45,1,8,1
+147,,Spiced Apple,45,1,8,1
+148,,Strawberry,50,1,8,1
+149,,Venetian Cream,45,1.5,7,1
+150,Banana Nut,,390,18,52,6
+151,Blueberry,,330,11,54,5
+152,Chocolate Chip,,410,16,62,5
+153,Cranberry Blueberry Bran,,280,13,53,5
+154,Fruit Explosion,,350,11,57,5
+155,Lemon Poppyseed,,390,16,56,6
+156,Low Fat Double Berry,,290,2.5,59,4
+157,Oatmeal Raisin Nut,,390,14,59,6
+158,Raisin Bran,,370,12,64,5
+159,Strawberry Sensation,,360,11,57,5
+160,Triple Chocolate,,400,15,63,5
+161,Whole Grain Blueberry,,350,14,53,5
+162,Whole Grain Carrot Orange,,360,13,57,5
+163,Whole Grain Raspberry,,380,15,55,5
+164,Blueberry,,280,2,58,9
+165,Cheddar Cheese,,210,3,40,9
+166,Cinnamon Raisin,,300,2,63,9
+167,Everything,,300,3.5,57,10
+168,Onion,,290,2,59,10
+169,Plain,,290,2,58,10
+170,Sesame Seed,,300,3.5,57,10
+171,12 Grain,,350,9,55,11
+172,Wheat ‘N Honey,,290,3,58,10
+173,Jalapeno Asiago Mozzarella,,310,3.5,58,12
+174,Maple Cinamon French Toast,,350,4,67,10
+175,Sundried Tomato Asiago Parm,,320,4.5,59,12
+176,Plain Cream Cheese Spread,,140,14,2,3
+177,Light Plain Cream Cheese Spread,,100,8,2,4
+178,Light Strawberry Cream Cheese Spread,,100,6,8,3
+179,Herb and Garlic Cream Cheese Spread,,140,13,2,3
+180,Butter,,70,8,0,0
+181,Margarine,,50,6,0,0
+182,Peanut Butter,,110,9,5,3
+183,Strawberry Jam,,60,0,14,0
+184,Cinnamon Roll,Chocolate,420,22,52,4
+185,,Frosted,460,24,58,4
+186,,Glazed,410,22,49,4
+187,Croissant,Cheese,310,17,30,7
+188,,Plain,280,15,30,6
+189,Danish,Blueberry,380,16,52,6
+190,,Caramel Apple,290,16,32,5
+191,,Cherry Cheese,370,16,50,5
+192,,Chocolate,450,25,52,7
+193,,Maple Pecan,400,19,53,7
+194,Homestyle Biscuit,,210,8,29,6
+195,Strudel,Apple,150,8,18,2
+196,,Strawberry Cheese,160,3.5,18,2
+197,Tea Biscuit,Cheese,300,14,36,9
+198,,Ham & Cheese,290,13,34,9
+199,,Plain,240,9,35,5
+200,,Raisin,280,9,46,6
+201,Creamy Vanilla with Berries,,160,2,33,4
+202,Strawberry with Berries,,140,2.5,27,4
+203,Chili,,290,16,20,18
+204,Beef Noodle Soup,,130,1,24,6
+205,Cauliflower Cheese Soup,,170,12,12,6
+206,Chicken Noodle Soup,,110,1.5,19,5
+207,Clam Chowder,,190,7,23,9
+208,Cream of Broccoli Soup,,150,7,16,6
+209,Creamy Field Mushroom Soup,,150,3,29,2
+210,Creamy Sundried Tomato Soup,,210,13,19,5
+211,French Onion Soup,,230,9,26,10
+212,Hearty Potato Bacon Soup,,230,13,22,6
+213,Hearty Vegetable Soup,,80,0.4,14,4
+214,Italian Wedding Soup,,160,3,28,4
+215,Minestrone Soup,,120,1,25,4
+216,Split Pea with Ham Soup,,150,1.5,26,7
+217,Tomato Whole Grain Pasta Soup,,140,1,29,4
+218,Turkey and Wild Rice Soup,,120,1,23,5
+219,Mini Whole Wheat Buns,,110,0.5,21,4
+220,Regular White Buns,,210,1,42,7
+221,Regular Whole Wheat Buns,,200,1,40,8

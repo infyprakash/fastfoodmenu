@@ -1,0 +1,801 @@
+,Food,Serving Size,Calories,Fat,Carbs,Protein
+0,Kosher Sweet Black Pepper Veggie Bacon Breakfast Sandiwch,1 Sandwich,630,39,52,19
+1,Sweet Black Pepper Bacon Breakfast Sandwich,1 Sandwich,620,40,44,23
+2,Sweet Black Pepper Bacon Wake Up Wrap,1 Wrap,250,15,18,11
+3,Boston Dream Donut,1 Donut,310,14,42,4
+4,Brownie Batter Crumble Donut,1 Donut,360,18,48,5
+5,Choc Full o' Love Donut,1 Donut,290,16,34,3
+6,Chocolate Double Date Donut,1 Donut,360,20,41,4
+7,Cloud Nine Donut,1 Donut,320,19,33,4
+8,Crazy 4 Chocolate Donut,1 Donut,340,19,38,3
+9,Cupid's Choice Donut,1 Donut,310,15,43,4
+10,Donut Be Jelly Donut,1 Donut,270,13,36,4
+11,First Love Donut,1 Donut,290,19,28,4
+12,Forever Glazed Donut,1 Donut,260,14,30,3
+13,Lovestruck Donut,1 Donut,370,19,45,4
+14,Pillow Talk Donut,1 Donut,320,18,37,4
+15,Pretty in Pink Donut,1 Donut,290,16,35,3
+16,Roses are Red Donut,1 Donut,290,16,35,3
+17,Vanilla Truffle Donut,1 Donut,410,22,52,4
+18,Violets are Blue Donut,1 Donut,340,16,44,4
+19,Buttery Toffee Nut Swirl Frozen Coffee with Cream,Large,1050,35,176,10
+20,,Medium,790,26,132,8
+21,,Small,520,17,88,5
+22,Buttery Toffee Nut Swirl Frozen Coffee with Skim Milk,Large,760,0,180,11
+23,,Medium,570,0,135,8
+24,,Small,380,0,90,6
+25,Buttery Toffee Nut Swirl Frozen Coffee with Whole Milk,Large,810,6,180,11
+26,,Medium,610,4.5,135,8
+27,,Small,410,3,90,5
+28,Winter White Chocolate Flavored Frozen Coffee with Cream,Large,1050,35,176,10
+29,,Medium,790,26,132,8
+30,,Small,530,17,88,5
+31,Winter White Chocolate Flavored Frozen Coffee with Skim Milk,Large,770,0,180,11
+32,,Medium,580,0,135,8
+33,,Small,390,0,90,5
+34,Winter White Chocolate Flavored Frozen Coffee with Whole Milk,Large,820,6,180,11
+35,,Medium,620,4.5,135,8
+36,,Small,410,3,90,5
+37,Buttery Toffee Nut Swirl Hot Coffee,XLarge,270,0,63,5
+38,,Large,220,0,51,4
+39,,Medium,160,0,38,3
+40,,Small,110,0,25,2
+41,Buttery Toffee Nut Swirl Hot Coffee with Cream,XLarge,410,15,65,7
+42,,Large,330,12,52,6
+43,,Medium,250,9,39,4
+44,,Small,170,6,26,3
+45,Winter White Chocolate Flavored Hot Coffee,XLarge,280,0,63,5
+46,,Large,220,0,50,4
+47,,Medium,170,0,38,3
+48,,Small,110,0,25,2
+49,Winter White Chocolate Flavored Hot Coffee with Cream,XLarge,420,14,65,7
+50,,Large,340,12,52,6
+51,,Medium,250,9,39,4
+52,,Small,170,6,26,3
+53,Buttery Toffee Nut Swirl Hot Latte with Skim Milk,Large,350,0.5,71,16
+54,,Medium,260,0,54,12
+55,,Small,180,0,36,8
+56,Buttery Toffee Nut Swirl Hot Latte with Whole Milk,Large,450,12,70,15
+57,,Medium,340,9,53,11
+58,,Small,230,6,36,8
+59,Winter White Chocolate Flavored Hot Latte with Skim Milk,Large,360,0.5,71,16
+60,,Medium,270,0,54,12
+61,,Small,180,0,37,8
+62,Winter White Chocolate Flavored Hot Latte with Whole Milk,Large,460,12,70,15
+63,,Medium,340,9,53,11
+64,,Small,230,6,36,8
+65,Buttery Toffee Nut Swirl Hot Macchiato with Skim Milk,Large,310,0.5,64,12
+66,,Medium,230,0,48,9
+67,,Small,160,0,32,6
+68,Buttery Toffee Nut Swirl Hot Macchiato with Whole Milk,Large,370,5,64,11
+69,,Medium,280,3.5,48,9
+70,,Small,190,2.5,32,6
+71,Winter White Chocolate Flavored Hot Macchiato with Skim Milk,Large,310,0.5,64,12
+72,,Medium,240,0,48,9
+73,,Small,160,0,32,6
+74,Winter White Chocolate Flavored Hot Macchiato with Whole Milk,Large,380,8,63,11
+75,,Medium,280,6,48,8
+76,,Small,190,4,32,6
+77,Buttery Toffee Nut Swirl Iced Coffee,Large,230,0,52,5
+78,,Medium,170,0,39,4
+79,,Small,110,0,26,2
+80,Buttery Toffee Nut Swirl Iced Coffee with Cream,Large,340,12,54,6
+81,,Medium,250,9,40,5
+82,,Small,170,6,27,3
+83,Winter White Chocolate Flavored Iced Coffee,Large,230,0,52,5
+84,,Medium,170,0,39,4
+85,,Small,120,0,26,2
+86,Winter White Chocolate Flavored Iced Coffee with Cream,Large,340,12,53,6
+87,,Medium,260,9,40,5
+88,,Small,170,6,27,3
+89,Buttery Toffee Nut Swirl Iced Latte with Skim Milk,Large,350,0,71,16
+90,,Medium,260,0,54,12
+91,,Small,180,0,36,8
+92,Buttery Toffee Nut Swirl Iced Latte with Whole Milk,Large,450,12,70,70
+93,,Medium,340,9,53,53
+94,,Small,230,6,36,36
+95,Winter White Chocolate Flavored Iced Latte with Skim Milk,Large,360,0.5,71,16
+96,,Medium,270,0,54,12
+97,,Small,180,0,37,8
+98,Winter White Chocolate Flavored Iced Latte with Whole Milk,Large,460,12,70,70
+99,,Medium,340,9,53,53
+100,,Small,230,6,36,36
+101,Buttery Toffee Nut Swirl Iced Macchiato with Skim Milk,Large,310,0.5,64,12
+102,,Medium,230,0,48,9
+103,,Small,160,0,32,6
+104,Buttery Toffee Nut Swirl Iced Macchiato with Whole Milk,Large,370,8,64,11
+105,,Medium,280,6,48,9
+106,,Small,190,4,32,6
+107,Winter White Chocolate Flavored Iced Macchiato with Skim Milk,Large,310,0.5,64,12
+108,,Medium,240,0,48,9
+109,,Small,160,0,32,6
+110,Winter White Chocolate Flavored Iced Macchiato with Whole Milk,Large,380,8,63,11
+111,,Medium,280,6,48,8
+112,,Small,190,4,32,6
+113,Cloud Nine Munchkin,1 Munchkin,60,3.5,7,1
+114,Crazy 4 Chocolate Munchkin,1 Munchkin,70,3.5,8,1
+115,Donut Be Jelly Munchkin,1 Munchkin,70,4,9,1
+116,Forever Glazed Munchkin,1 Munchkin,70,4,7,1
+117,Lovestruck Munchkin,1 Munchkin,100,5,13,1
+118,Violets are Blue Munchkin,1 Munchkin,70,3.5,9,1
+119,Decaf Breakfast Black Packaged Tea,---,---,---,---,---
+120,Apple Cider,XLarge,320,0,80,0
+121,,Large,260,0,66,0
+122,,Medium,180,0,45,0
+123,,Small,120,0,31,0
+124,Blueberry Bagel,1 Bagel,320,1,68,11
+125,Cinnamon Raisin Bagel,1 Bagel,320,1,66,12
+126,Everything Bagel,1 Bagel,340,3,67,12
+127,Garlic Bagel,1 Bagel,330,1,69,12
+128,Multigrain Bagel,1 Bagel,350,7,63,15
+129,Onion Bagel,1 Bagel,310,1,63,11
+130,Plain Bagel,1 Bagel,310,1,64,11
+131,Poppy Seed Bagel,1 Bagel,340,3.5,66,12
+132,Salt Bagel,1 Bagel,310,1,64,11
+133,Sesame Seed Bagel,1 Bagel,350,5,65,12
+134,Sour Cream and Onion Bagel,1 Bagel,330,1.5,66,13
+135,White Cheddar Bagel Twist,1 Bagel Twist,390,8,64,16
+136,Whole Wheat Bagel,1 Bagel,320,2,61,13
+137,Chicken Bacon Ciabatta Sandwich,1 Sandwich,580,22,63,32
+138,Chicken Salad on a Croissant,1 Sandwich,580,39,42,16
+139,Deluxe Grilled Cheese with Bacon,1 Sandwich,510,29,40,22
+140,Deluxe Grilled Cheese with Ham,1 Sandwich,480,25,40,23
+141,Grilled Cheese,1 Sandwich,450,24,40,19
+142,Ham and Cheddar Ciabatta Sandwich,1 Sandwich,390,12,50,22
+143,Snack 'n Go Chicken Wrap,1 Wrap,300,17,21,17
+144,Snack 'n Go Steak Wrap,1 Wrap,250,15,15,14
+145,Tuna Melt on a Croissant,1 Sandwich,700,50,43,22
+146,Tuna Salad Sandwich on a Plain Bagel,1 Sandwich,580,25,68,22
+147,Turkey Cheddar Bacon Ciabatta Sandwich,1 Sandwich,440,17,47,26
+148,"Angus Steak, Egg and Cheese Sandwich",1 Sandwich,630,26,67,34
+149,"Bacon, Egg & Cheese Wake-Up Wrap",1 Wrap,210,13,15,9
+150,"Bacon, Egg & Cheese on Croissant",1 Sandwich,560,35,41,19
+151,"Bacon, Egg & Cheese on English Muffin",1 Sandwich,390,19,37,18
+152,"Bacon, Egg & Cheese on a Plain Bagel",1 Sandwich,550,20,67,25
+153,Big n' Toasted,1 Sandwich,630,38,43,29
+154,Chicken Biscuit,1 Sandwich,490,23,49,21
+155,Double Sausage Breakfast Sandwich,1 Sandwich,880,53,68,35
+156,Egg & Cheese Wake-Up Wrap,1 Wrap,180,10,14,7
+157,Egg & Cheese on Croissant,1 Sandwich,500,31,40,15
+158,Egg & Cheese on English Muffin,1 Sandwich,340,15,37,14
+159,Egg & Cheese on a Plain Bagel,1 Sandwich,460,13,67,19
+160,"Ham, Egg & Cheese Wake-Up Wrap",1 Wrap,190,11,15,9
+161,"Ham, Egg & Cheese on Croissant",1 Sandwich,530,32,41,19
+162,"Ham, Egg & Cheese on English Muffin",1 Sandwich,380,16,37,21
+163,"Ham, Egg & Cheese on a Plain Bagel",1 Sandwich,490,14,67,24
+164,"Sausage, Egg & Cheese Wake-Up Wrap",1 Wrap,290,20,15,11
+165,"Sausage, Egg & Cheese on Croissant",1 Sandwich,700,51,41,22
+166,"Sausage, Egg & Cheese on English Muffin",1 Sandwich,550,34,37,22
+167,"Sausage, Egg & Cheese on a Plain Bagel",1 Sandwich,680,33,68,27
+168,Spam Breakfast Sandwich,1 Sandwich,620,42,42,21
+169,Turkey Sausage Flatbread Sandwich,1 Sandwich,480,28,32,26
+170,Turkey Sausage Sandwich on English Muffin,1 Sandwich,470,21,37,25
+171,Turkey Sausage Wake Up Wrap,1 Wrap,240,14,15,13
+172,Veggie Egg White Flatbread Sandwich,1 Sandwich,330,14,33,18
+173,Veggie Egg White Sandwich on an English Muffin,1 Sandwich,310,10,38,15
+174,Veggie Egg White Wake-Up Wrap,1 Wrap,160,8,15,8
+175,Cold Brew Coffee,Large,20,0,3,1
+176,,Medium,15,0,2,1
+177,,Small,10,0,2,1
+178,Cold Brew Coffee with Cream,Large,140,12,6,3
+179,,Medium,100,9,4,2
+180,,Small,70,6,2,1
+181,Cold Brew Coffee with Cream and Sugar,Large,270,12,40,3
+182,,Medium,200,9,30,2
+183,,Small,130,6,20,1
+184,Chocolate Chip Cookie,1 Cookie,250,11,36,3
+185,Oatmeal Raisin Cookie,1 Cookie,220,7,36,3
+186,Blue Raspberry Coolatta®,Large,480,0,123,0
+187,,Medium,360,0,92,0
+188,,Small,240,0,62,0
+189,Strawberry Fruit Coolatta®,Large,490,0,117,0
+190,,Medium,370,0,88,0
+191,,Small,250,0,58,0
+192,Vanilla Bean Coolatta®,Large,840,12,184,6
+193,,Medium,630,9,138,4
+194,,Small,420,6,92,3
+195,Chive and Onion Cream Cheese Spread,1 Unit,110,10,2,2
+196,Classic Plain Cream Cheese Spread,1 Unit,120,12,3,2
+197,Garden Veggie Cream Cheese Spread,1 Unit,100,10,3,2
+198,Reduced Fat Plain Cream Cheese - 50% Less Fat than Regular Cream Cheese,1 Unit,90,7,5,3
+199,Strawberry Cream Cheese Spread,1 Unit,130,10,9,2
+200,Apple Cheese Danish,1 Danish,400,19,53,5
+201,Cheese Danish,1 Danish,420,21,52,5
+202,Strawberry Cheese Danish,1 Danish,400,19,52,5
+203,Apple 'n Spice Donut,1 Donut,260,14,29,3
+204,Apple Crumb Donut,1 Donut,320,15,42,3
+205,Apple Fritter,1 Fritter,420,19,58,6
+206,Apple Stick,1 Stick,420,25,44,4
+207,Bavarian Kreme Donut,1 Donut,270,15,30,3
+208,Bismark,1 Bismark,490,24,65,5
+209,Boston Kreme Donut,1 Donut,300,16,37,3
+210,Butternut Donut,1 Donut,410,20,55,4
+211,Chocolate Butternut Donut,1 Donut,410,20,54,4
+212,Chocolate Crème Donut,1 Donut,320,19,35,4
+213,Chocolate Dipped French Cruller,1 Donut,280,14,34,3
+214,Chocolate Frosted Donut,1 Donut,280,15,31,3
+215,Chocolate Frosted with Sprinkles Donut,1 Donut,290,16,34,3
+216,Chocolate Headlight Donut,1 Donut,330,18,39,4
+217,Chocolate Long John,1 Long John,340,17,42,5
+218,Cinnamon Donut,1 Donut,310,19,32,4
+219,Cinnamon Stick,1 Stick,380,25,35,4
+220,Coconut Donut,1 Donut,390,20,48,4
+221,Coffee Roll,1 Coffee Roll,390,18,51,7
+222,Crème Delight Donut,1 Donut,360,20,43,3
+223,Double Chocolate Donut,1 Donut,350,20,39,4
+224,Eclair,1 Eclair,380,18,51,5
+225,French Cruller,1 Donut,220,13,23,3
+226,Frosted Vanilla Crème Donut,1 Donut,360,20,43,3
+227,Frosted with DD Sprinkles Donut,1 Donut,290,16,35,3
+228,Glazed Blueberry Donut,1 Donut,340,16,44,4
+229,Glazed Chocolate Donut,1 Donut,340,19,38,3
+230,Glazed Chocolate Stick,1 Stick,410,25,42,4
+231,Glazed Donut,1 Donut,260,14,30,3
+232,Glazed Jelly Stick,1 Stick,490,25,61,4
+233,Glazed Stick,1 Stick,410,25,43,4
+234,Glazed Strawberry Donut,1 Donut,310,14,43,3
+235,Jelly Donut,1 Donut,280,14,34,3
+236,Jelly Stick,1 Stick,450,25,52,4
+237,Lemon Donut,1 Donut,260,15,29,3
+238,Lemon Stick,1 Stick,420,25,45,4
+239,Maple Crème Donut,1 Donut,320,19,36,3
+240,Maple Frosted Donut,1 Donut,280,15,32,3
+241,Maple Vanilla Crème Donut,1 Donut,360,20,43,3
+242,New Yorker Donut,1 Donut,360,20,43,3
+243,Old Fashioned Donut,1 Donut,290,19,28,4
+244,Peanut Donut,1 Donut,450,26,48,7
+245,Plain Stick,1 Stick,370,25,31,4
+246,Powdered Donut,1 Donut,320,19,33,4
+247,Powdered Stick,1 Stick,390,25,37,4
+248,Sour Cream Donut,1 Donut,350,17,47,4
+249,Strawberry Frosted Donut,1 Donut,280,15,32,3
+250,Strawberry Frosted with Sprinkles Donut,1 Donut,290,16,35,3
+251,Strawberry Long John,1 Long John,340,17,43,5
+252,Sugared Donut,1 Donut,230,14,22,3
+253,Sugared Stick,1 Stick,380,25,34,4
+254,Taillight Donut,1 Donut,340,18,39,3
+255,Toasted Coconut Donut,1 Donut,420,23,49,4
+256,Vanilla Crème Donut,1 Donut,330,20,35,3
+257,Vanilla Frosted Donut,1 Donut,280,15,32,3
+258,Vanilla Headlight Donut,1 Donut,330,18,39,3
+259,Vanilla Long John,1 Long John,340,17,43,5
+260,Blue Raspberry Dunkin' Energy Punch Powered by Monster Energy®,Large,390,0,95,0
+261,Blue Raspberry Dunkin' Energy Punch Powered by NOS®,Large,370,0,91,0
+262,Strawberry Dunkin' Energy Punch Powered by Monster Energy®,Large,320,0,78,0
+263,Strawberry Dunkin' Energy Punch Powered by NOS®,Large,310,0,74,0
+264,Caramel Swirl Frozen Dunkin' Coffee with Cream,Large,1060,35,178,9
+265,,Medium,790,26,134,7
+266,,Small,530,17,89,5
+267,Caramel Swirl Frozen Dunkin' Coffee with Skim Milk,Large,770,0,182,10
+268,,Medium,580,0,137,8
+269,,Small,390,0,91,5
+270,Caramel Swirl Frozen Dunkin' Coffee with Whole Milk,Large,820,6,182,10
+271,,Medium,620,4.5,136,7
+272,,Small,410,3,91,5
+273,French Vanilla Swirl Frozen Dunkin' Coffee with Cream,Large,1050,35,178,9
+274,,Medium,790,26,133,7
+275,,Small,530,17,89,5
+276,French Vanilla Swirl Frozen Dunkin' Coffee with Skim Milk,Large,770,0,182,10
+277,,Medium,580,0,136,8
+278,,Small,390,0,91,5
+279,French Vanilla Swirl Frozen Dunkin' Coffee with Whole Milk,Large,820,6,181,10
+280,,Medium,620,4.5,136,7
+281,,Small,410,3,91,5
+282,Frozen Dunkin' Coffee with Cream,Large,840,35,128,6
+283,,Medium,630,26,96,5
+284,,Small,420,18,64,3
+285,Frozen Dunkin' Coffee with Milk,Large,600,6,131,7
+286,,Medium,450,4.5,98,5
+287,,Small,300,3,65,4
+288,Frozen Dunkin' Coffee with Skim Milk,Large,550,0,131,8
+289,,Medium,420,0,98,6
+290,,Small,280,0,65,4
+291,Hazelnut Swirl Frozen Dunkin' Coffee with Cream,Large,1060,35,178,9
+292,,Medium,790,26,134,7
+293,,Small,530,17,89,5
+294,Hazelnut Swirl Frozen Dunkin' Coffee with Skim Milk,Large,770,0,182,10
+295,,Medium,580,0,137,8
+296,,Small,390,0,182,5
+297,Hazelnut Swirl Frozen Dunkin' Coffee with Whole Milk,Large,820,6,182,10
+298,,Medium,620,4.5,136,7
+299,,Small,410,3,182,5
+300,Mocha Swirl Frozen Dunkin' Coffee with Cream,Large,1050,35,177,9
+301,,Medium,790,27,133,6
+302,,Small,530,18,89,4
+303,Mocha Swirl Frozen Dunkin' Coffee with Skim Milk,Large,770,1,181,9
+304,,Medium,580,0.5,136,7
+305,,Small,390,0,91,5
+306,Mocha Swirl Frozen Dunkin' Coffee with Whole Milk,Large,820,7,181,9
+307,,Medium,620,5,136,7
+308,,Small,410,3.5,91,4
+309,Frozen Vanilla Chai,Large,800,14,161,9
+310,,Medium,600,10,121,7
+311,,Small,400,7,80,4
+312,Hash Browns,6 Pieces,140,8,17,2
+313,Americano,Large,15,0,2,0
+314,,Medium,10,0,2,0
+315,,Small,10,0,1,0
+316,Cappuccino,Large,160,8,13,8
+317,,Medium,120,6,10,6
+318,,Small,80,4,7,4
+319,Cappuccino with Sugar,Large,290,8,48,8
+320,,Medium,220,6,36,6
+321,,Small,140,4,24,4
+322,Almond Joy® Flavored Hot Chocolate,XLarge,550,17,98,4
+323,,Large,450,14,80,3
+324,,Medium,340,11,60,2
+325,,Small,220,7,40,1
+326,Dunkaccino®,XLarge,540,23,80,4
+327,,Large,490,21,73,4
+328,,Medium,350,15,52,3
+329,,Small,240,10,36,2
+330,Mint Hot Chocolate,XLarge,490,16,87,3
+331,,Large,400,13,72,3
+332,,Medium,300,10,52,2
+333,,Small,210,7,36,1
+334,OREO® Flavored Hot Chocolate,XLarge,550,19,97,3
+335,,Large,450,15,79,2
+336,,Medium,340,11,59,2
+337,,Small,220,8,39,1
+338,Original Hot Chocolate,XLarge,500,15,89,4
+339,,Large,460,14,82,4
+340,,Medium,330,10,59,3
+341,,Small,220,7,40,2
+342,Salted Caramel Hot Chocolate,XLarge,510,17,87,5
+343,,Large,420,14,71,4
+344,,Medium,310,10,52,3
+345,,Small,210,7,36,2
+346,Turbo Hot Chocolate,Large,400,12,71,3
+347,,Medium,280,9,51,2
+348,,Small,190,6,35,2
+349,"Almond Joy® Flavored Hot Chocolate, Frozen",Large,790,13,160,9
+350,,Medium,590,10,120,7
+351,,Small,400,7,80,4
+352,Frozen Dunkaccino®,Large,810,17,156,9
+353,,Medium,610,12,117,7
+354,,Small,400,8,78,5
+355,"Hot Chocolate, Frozen",Large,790,13,160,9
+356,,Medium,590,10,120,7
+357,,Small,400,7,80,5
+358,"Mint Hot Chocolate, Frozen",Large,790,13,159,9
+359,,Medium,590,10,119,7
+360,,Small,400,7,80,4
+361,"OREO® Flavored Hot Chocolate, Frozen",Large,790,14,160,9
+362,,Medium,590,10,120,7
+363,,Small,400,7,80,4
+364,"Salted Caramel Hot Chocolate, Frozen",Large,790,14,159,10
+365,,Medium,590,10,119,7
+366,,Small,400,7,80,5
+367,Caramel Mocha Swirl Hot Coffee,XLarge,280,0,66,4
+368,,Large,230,0,53,3
+369,,Medium,170,0,39,2
+370,,Small,110,0,26,2
+371,Caramel Mocha Swirl Hot Coffee with Cream,XLarge,430,15,68,6
+372,,Large,340,12,55,5
+373,,Medium,260,9,41,3
+374,,Small,170,6,27,2
+375,Caramel Swirl Hot Coffee with Cream,XLarge,420,15,66,7
+376,,Large,340,12,53,6
+377,,Medium,250,9,40,4
+378,,Small,170,6,27,3
+379,French Vanilla Hot Coffee,Small,10,0,1,0
+380,French Vanilla Swirl Hot Coffee,XLarge,280,0,65,4
+381,,Large,230,0,53,3
+382,,Medium,170,0,39,2
+383,,Small,110,0,26,2
+384,French Vanilla Swirl Hot Coffee with Cream,XLarge,430,15,68,6
+385,,Large,340,12,54,5
+386,,Medium,260,9,41,4
+387,,Small,170,6,27,2
+388,Hazelnut Hot Coffee,XLarge,30,0,2,1
+389,,Large,25,0,2,1
+390,,Medium,15,0,1,1
+391,,Small,10,0,1,0
+392,Hazelnut Swirl Hot Coffee,XLarge,280,0,66,4
+393,,Large,230,0,53,3
+394,,Medium,170,0,39,2
+395,,Small,110,0,26,2
+396,Hazelnut Swirl Hot Coffee with Cream,XLarge,430,15,68,6
+397,,Large,340,12,55,5
+398,,Medium,260,9,41,4
+399,,Small,170,6,27,2
+400,Hot Coffee,XLarge,15,0,2,1
+401,,Large,10,0,2,1
+402,,Medium,10,0,1,1
+403,,Small,5,0,1,0
+404,Hot Coffee with Almond Milk,XLarge,60,1.5,11,1
+405,,Large,45,5,8,1
+406,,Medium,30,0.5,6,1
+407,,Small,20,0,3,1
+408,Hot Coffee with Cream,XLarge,160,14,5,3
+409,,Large,120,11,4,2
+410,,Medium,90,9,3,2
+411,,Small,60,6,2,1
+412,Hot Coffee with Cream and Sugar,XLarge,320,14,48,3
+413,,Large,260,11,39,2
+414,,Medium,190,9,29,2
+415,,Small,120,6,19,1
+416,Hot Coffee with Milk,XLarge,60,2.5,6,3
+417,,Large,45,2,5,3
+418,,Medium,35,1.5,3,2
+419,,Small,25,1,2,1
+420,Hot Coffee with Milk and Sugar,XLarge,230,2.5,49,3
+421,,Large,200,2,44,3
+422,,Medium,140,1.5,30,2
+423,,Small,80,1,20,1
+424,Hot Coffee with Skim Milk,XLarge,40,0,6,4
+425,,Large,30,0,5,3
+426,,Medium,25,0,4,2
+427,,Small,15,0,3,2
+428,Hot Coffee with Skim Milk and Splenda® No Calorie Sweetener,XLarge,50,0,10,4
+429,,Large,40,0,8,3
+430,,Medium,30,0,5,2
+431,,Small,20,0,3,1
+432,Hot Coffee with Skim Milk and Sugar,XLarge,210,0,49,4
+433,,Large,170,0,40,3
+434,,Medium,120,0,30,2
+435,,Small,70,0,20,2
+436,Hot Coffee with Splenda® No Calorie Sweetener,XLarge,30,0,6,1
+437,,Large,20,0,5,1
+438,,Medium,15,0,3,1
+439,,Small,10,0,2,0
+440,Hot Coffee with Sugar,XLarge,180,0,46,1
+441,,Large,150,0,37,1
+442,,Medium,110,0,28,1
+443,,Small,60,0,18,0
+444,Mocha Swirl Hot Coffee,XLarge,280,1,65,3
+445,,Large,230,1,52,3
+446,,Medium,170,0.5,39,2
+447,,Small,110,0,26,1
+448,Mocha Swirl Hot Coffee with Cream,XLarge,430,16,68,5
+449,,Large,340,12,54,4
+450,,Medium,260,9,41,3
+451,,Small,170,6,27,2
+452,Espresso,Single Shot,5,0,1,0
+453,Espresso with Sugar,Single Shot,30,0,7,0
+454,Caramel Mocha Swirl Hot Latte with Milk,Large,450,12,70,14
+455,,Medium,330,9,52,11
+456,,Small,220,6,35,7
+457,Caramel Mocha Swirl Hot Latte with Skim Milk,Large,350,1,70,15
+458,,Medium,260,0.5,53,11
+459,,Small,170,0,35,7
+460,Caramel Swirl Hot Latte with Milk,Large,460,12,73,14
+461,,Medium,350,9,55,11
+462,,Small,230,6,37,7
+463,Caramel Swirl Hot Latte with Skim Milk,Large,360,0,73,15
+464,,Medium,270,0,55,11
+465,,Small,190,0,38,8
+466,French Vanilla Swirl Hot Latte with Skim Milk,Large,350,0,71,15
+467,,Medium,270,0,54,11
+468,,Small,180,0,36,8
+469,French Vanilla Swirl Hot Latte with Whole Milk,Large,450,12,71,14
+470,,Medium,340,9,53,11
+471,,Small,230,6,36,7
+472,Hazelnut Swirl Hot Latte with Skim Milk,Large,350,0,72,15
+473,,Medium,270,0,54,11
+474,,Small,180,0,37,8
+475,Hazelnut Swirl Hot Latte with Whole Milk,Large,450,12,71,14
+476,,Medium,340,9,54,11
+477,,Small,230,6,36,7
+478,Hot Latte with Almond Milk,Large,160,4.5,28,2
+479,,Medium,120,3,21,1
+480,,Small,80,2,14,1
+481,Hot Latte with Skim Milk,Large,140,0,20,13
+482,,Medium,100,0,15,10
+483,,Small,70,0,10,6
+484,Hot Latte with Skim Milk and Sugar,Large,270,0,55,13
+485,,Medium,200,0,41,10
+486,,Small,140,0,28,6
+487,Hot Latte with Whole Milk,Large,230,12,19,12
+488,,Medium,170,9,14,9
+489,,Small,120,6,10,6
+490,Hot Latte with Whole Milk and Sugar,Large,370,12,54,12
+491,,Medium,280,9,40,9
+492,,Small,170,6,27,6
+493,Mocha Swirl Hot Latte With Milk,Large,460,13,72,13
+494,,Medium,350,10,54,10
+495,,Small,230,6,37,7
+496,Mocha Swirl Hot Latte with Skim Milk,Large,360,1.5,73,14
+497,,Medium,270,1,55,11
+498,,Small,180,0.5,37,7
+499,Caramel Swirl Hot Macchiato with Skim Milk,Large,310,0,66,11
+500,,Medium,240,0,49,8
+501,,Small,160,0,33,6
+502,Caramel Swirl Hot Macchiato with Whole Milk,Large,380,8,65,10
+503,,Medium,290,6,49,8
+504,,Small,190,4,33,5
+505,French Vanilla Swirl Hot Macchiato with Skim Milk,Large,310,0,66,11
+506,,Medium,240,0,49,8
+507,,Small,160,0,33,6
+508,French Vanilla Swirl Hot Macchiato with Whole Milk,Large,380,8,65,10
+509,,Medium,280,6,49,8
+510,,Small,190,4,33,5
+511,Hazelnut Swirl Hot Macchiato with Skim Milk,Large,310,0,66,11
+512,,Medium,240,0,50,8
+513,,Small,160,0,33,6
+514,Hazelnut Swirl Hot Macchiato with Whole Milk,Large,380,8,65,10
+515,,Medium,290,6,49,8
+516,,Small,190,4,33,5
+517,Hot Macchiato with Skim Milk,Large,100,0,14,8
+518,,Medium,70,0,11,6
+519,,Small,50,0,8,4
+520,Hot Macchiato with Whole Milk,Large,160,8,14,8
+521,,Medium,120,6,11,6
+522,,Small,80,4,7,4
+523,Mocha Swirl Hot Macchiato with Skim Milk,Large,310,1,65,10
+524,,Medium,240,1,49,8
+525,,Small,160,0.5,33,5
+526,Mocha Swirl Hot Macchiato with Whole Milk,Large,380,9,65,10
+527,,Medium,280,7,49,7
+528,,Small,190,4.5,33,5
+529,Vanilla Chai,Large,450,12,75,14
+530,,Medium,340,9,56,10
+531,,Small,230,6,37,7
+532,Bold Breakfast Black Tea,Large,---,---,---,---
+533,,Medium,---,---,---,---
+534,,Small,---,---,---,---
+535,Chamomile Fields Herbal Infusion,Large,---,---,---,---
+536,,Medium,---,---,---,---
+537,,Small,---,---,---,---
+538,Cool Mint Herbal Infusion,Large,---,---,---,---
+539,,Medium,---,---,---,---
+540,,Small,---,---,---,---
+541,Decaf Breakfast Black Tea,Large,---,---,---,---
+542,,Medium,---,---,---,---
+543,,Small,---,---,---,---
+544,Harmony Leaf Green Tea,Large,---,---,---,---
+545,,Medium,---,---,---,---
+546,,Small,---,---,---,---
+547,Hibiscus Kiss Herbal Infusion,Large,---,---,---,---
+548,,Medium,---,---,---,---
+549,,Small,---,---,---,---
+550,Iced Apple Cider,Large,260,0,66,0
+551,,Medium,180,0,45,0
+552,,Small,120,0,31,0
+553,Caramel Mocha Swirl Iced Coffee,Large,230,0,54,4
+554,,Medium,180,0,41,3
+555,,Small,120,0,27,2
+556,Caramel Mocha Swirl Iced Coffee with Cream,Large,350,12,56,5
+557,,Medium,260,9,42,4
+558,,Small,180,6,28,3
+559,Caramel Swirl Iced Coffee,Large,230,0,52,5
+560,,Medium,170,0,39,4
+561,,Small,110,0,26,2
+562,Caramel Swirl Iced Coffee with Cream,Large,340,12,54,6
+563,,Medium,260,9,41,5
+564,,Small,170,6,27,3
+565,French Vanilla Swirl Iced Coffee,Large,230,0,54,4
+566,,Medium,170,0,40,3
+567,,Small,120,0,27,2
+568,French Vanilla Swirl Iced Coffee with Cream,Large,350,12,56,5
+569,,Medium,260,9,42,4
+570,,Small,170,6,28,3
+571,Hazelnut Swirl Iced Coffee,Large,230,0,54,4
+572,,Medium,170,0,41,3
+573,,Small,120,0,27,2
+574,Hazelnut Swirl Iced Coffee with Cream,Large,350,12,56,5
+575,,Medium,260,9,42,4
+576,,Small,180,6,28,3
+577,Iced Coffee,Large,20,0,3,1
+578,,Medium,15,0,2,1
+579,,Small,10,0,2,1
+580,Iced Coffee with Almond Milk,Large,50,1,9,1
+581,,Medium,35,0.5,7,1
+582,,Small,20,0,4,1
+583,Iced Coffee with Cream,Large,130,11,5,3
+584,,Medium,100,9,4,2
+585,,Small,70,6,3,1
+586,Iced Coffee with Cream and Sugar,Large,270,11,40,3
+587,,Medium,200,9,30,2
+588,,Small,120,6,20,1
+589,Iced Coffee with Milk,Large,50,2,6,3
+590,,Medium,40,1.5,5,2
+591,,Small,30,1,3,2
+592,Iced Coffee with Milk and Sugar,Large,190,2,41,3
+593,,Medium,140,1.5,31,2
+594,,Small,90,1,21,2
+595,Iced Coffee with Skim Milk,Large,40,0,6,3
+596,,Medium,30,0,5,2
+597,,Small,20,0,3,2
+598,Iced Coffee with Skim Milk and Splenda® No Calorie Sweetener,Large,50,0,10,3
+599,,Medium,40,0,7,2
+600,,Small,25,0,5,2
+601,Iced Coffee with Skim Milk and Sugar,Large,170,0,41,3
+602,,Medium,130,0,31,2
+603,,Small,80,0,21,2
+604,Iced Coffee with Splenda® No Calorie Sweetener,Large,35,0,7,1
+605,,Medium,25,0,5,1
+606,,Small,20,0,4,1
+607,Iced Coffee with Sugar,Large,150,0,38,1
+608,,Medium,110,0,29,1
+609,,Small,70,0,19,1
+610,Mocha Swirl Iced Coffee with Cream,Large,350,12,56,5
+611,,Medium,260,9,42,3
+612,,Small,180,6,28,2
+613,Caramel Mocha Swirl Iced Latte with Milk,Large,450,12,70,14
+614,,Medium,330,9,52,11
+615,,Small,220,6,35,7
+616,Caramel Mocha Swirl Iced Latte with Skim Milk,Large,350,1,70,15
+617,,Medium,260,0.5,53,11
+618,,Small,170,0,35,7
+619,Caramel Swirl Iced Latte with Milk,Large,460,12,73,14
+620,,Medium,350,9,55,11
+621,,Small,230,6,37,7
+622,Caramel Swirl Iced Latte with Skim Milk,Large,360,0,73,15
+623,,Medium,270,0,55,11
+624,,Small,190,0,38,8
+625,French Vanilla Swirl Iced Latte with Skim Milk,Large,350,0,71,15
+626,,Medium,270,0,54,11
+627,,Small,180,0,36,8
+628,French Vanilla Swirl Iced Latte with Whole Milk,Large,450,12,71,14
+629,,Medium,340,9,53,11
+630,,Small,230,6,36,7
+631,Hazelnut Swirl Iced Latte with Skim Milk,Large,350,0,72,15
+632,,Medium,270,0,54,11
+633,,Small,180,0,37,8
+634,Hazelnut Swirl Iced Latte with Whole Milk,Large,450,12,71,14
+635,,Medium,340,9,54,11
+636,,Small,230,6,36,7
+637,Iced Latte with Almond Milk,Large,160,4.5,28,2
+638,,Medium,120,3,21,1
+639,,Small,80,2,14,1
+640,Iced Latte with Skim Milk,Large,140,0,20,13
+641,,Medium,100,0,15,10
+642,,Small,70,0,11,7
+643,Iced Latte with Skim Milk and Sugar,Large,270,0,55,13
+644,,Medium,200,0,41,10
+645,,Small,130,0,28,7
+646,Iced Latte with Whole Milk,Large,230,12,19,12
+647,,Medium,170,9,14,9
+648,,Small,120,6,10,6
+649,Iced Latte with Whole Milk and Sugar,Large,370,12,54,12
+650,,Medium,280,9,40,9
+651,,Small,170,6,27,6
+652,Mocha Swirl Iced Latte with Milk,Large,460,13,72,13
+653,,Medium,350,10,54,10
+654,,Small,230,6,37,7
+655,Mocha Swirl Iced Latte with Skim Milk,Large,360,1.5,73,14
+656,,Medium,270,1,55,11
+657,,Small,180,0.5,37,7
+658,Caramel Swirl Iced Macchiato with Skim Milk,Large,310,0,66,11
+659,,Medium,240,0,49,8
+660,,Small,160,0,33,6
+661,Caramel Swirl Iced Macchiato with Whole Milk,Large,380,8,65,10
+662,,Medium,290,6,49,8
+663,,Small,190,4,33,5
+664,French Vanilla Swirl Iced Macchiato with Skim Milk,Large,310,0,66,11
+665,,Medium,240,0,49,8
+666,,Small,160,0,33,6
+667,French Vanilla Swirl Iced Macchiato with Whole Milk,Large,380,8,65,10
+668,,Medium,280,6,49,8
+669,,Small,190,4,33,5
+670,Hazelnut Swirl Iced Macchiato with Skim Milk,Large,310,0,66,11
+671,,Medium,240,0,50,8
+672,,Small,160,0,33,6
+673,Hazelnut Swirl Iced Macchiato with Whole Milk,Large,380,8,65,10
+674,,Medium,290,6,49,8
+675,,Small,190,4,33,5
+676,Iced Macchiato with Skim Milk,Large,100,0,14,8
+677,,Medium,70,0,11,6
+678,,Small,50,0,8,4
+679,Iced Macchiato with Whole Milk,Large,160,8,14,8
+680,,Medium,120,6,11,6
+681,,Small,80,4,7,4
+682,Mocha Swirl Iced Macchiato with Skim Milk,Large,310,1,65,10
+683,,Medium,240,1,49,8
+684,,Small,160,0.5,33,5
+685,Mocha Swirl Iced Macchiato with Whole Milk,Large,380,9,65,10
+686,,Medium,280,7,49,7
+687,,Small,190,4.5,33,5
+688,Blackberry Fruited Iced Tea,Large,90,0,22,1
+689,,Medium,70,0,17,1
+690,,Small,50,0,13,0
+691,Iced Green Tea Sweetened,Large,140,0,36,0
+692,,Medium,110,0,27,0
+693,,Small,70,0,18,0
+694,Iced Green Tea Unsweetened,Large,10,0,2,0
+695,,Medium,5,0,2,0
+696,,Small,5,0,1,0
+697,Iced Tea Sweetened Blueberry Flavored Tea,Large,160,0,37,0
+698,,Medium,120,0,28,0
+699,,Small,80,0,19,0
+700,Iced Tea Sweetened,Large,140,0,36,0
+701,,Medium,110,0,27,0
+702,,Small,70,0,18,0
+703,Iced Tea Sweetened Peach Flavored,Large,160,0,40,0
+704,,Medium,120,0,30,0
+705,,Small,80,0,20,0
+706,Iced Tea Sweetened Raspberry Flavored,Large,160,0,40,0
+707,,Medium,120,0,29,0
+708,,Small,80,0,20,0
+709,Iced Tea Unsweetened Blueberry Flavored Tea,Large,25,0,3,0
+710,,Medium,15,0,2,0
+711,,Small,10,0,2,0
+712,Iced Tea Unsweetened,Large,10,0,2,0
+713,,Medium,5,0,2,0
+714,,Small,5,0,1,0
+715,Iced Tea Unsweetened Peach Flavored,Large,25,0,6,0
+716,,Medium,20,0,5,0
+717,,Small,10,0,3,0
+718,Iced Tea Unsweetened Raspberry Flavored,Large,25,0,6,0
+719,,Medium,20,0,4,0
+720,,Small,10,0,3,0
+721,Mango Pineapple Fruited Iced Tea,Large,90,0,23,1
+722,,Medium,70,0,18,1
+723,,Small,50,0,13,0
+724,Sweet Tea Blueberry Flavored,Large,340,0,84,0
+725,,Medium,250,0,63,0
+726,,Small,170,0,42,0
+727,Sweet Tea,Large,310,0,80,0
+728,,Medium,230,0,60,0
+729,,Small,160,0,40,0
+730,Sweet Tea Peach Flavored,Large,340,0,87,0
+731,,Medium,260,0,66,0
+732,,Small,170,0,44,0
+733,Sweet Tea Raspberry Flavored,Large,340,0,87,0
+734,,Medium,250,0,65,0
+735,,Small,170,0,43,0
+736,Milk Chocolate Hot Cocoa K- Cup® Pod,1 K-Cup Pod,70,3,10,1
+737,Original Kolache,1 Kolache,180,9,20,10
+738,Kosher Big 'n Toasted,1 Sandwich,620,37,47,26
+739,Kosher Egg & Cheese Wake Up Wrap,1 Wrap,170,10,14,7
+740,Kosher Egg White and Cheese on an English Muffin,1 Sandwich,270,6,37,15
+741,Kosher Egg and Cheese on an English Muffin,1 Sandwich,330,14,36,14
+742,Kosher Grilled Cheese,1 Sandwich,430,23,40,18
+743,Kosher Grilled Cheese with Veggie Bacon,1 Sandwich,490,27,42,20
+744,Kosher Tuna Melt on a Croissant,1 Sandwich,570,34,43,22
+745,Kosher Tuna Salad on a Plain Bagel,1 Sandwich,440,9,69,21
+746,Kosher Veggie Bacon Egg and Cheese on a Plain Bagel,1 Sandwich,540,19,70,22
+747,Kosher Veggie Bacon Wake-Up Wrap,1 Wrap,230,14,16,9
+748,Kosher Veggie Sausage Egg and Cheese on a Croissant,1 Sandwich,580,34,43,25
+749,Kosher Veggie Sausage Wake-Up Wrap,1 Wrap,220,11,16,12
+750,Blueberry Muffin,1 Muffin,460,15,76,6
+751,Chocolate Chip Muffin,1 Muffin,550,21,83,7
+752,Coffee Cake Muffin,1 Muffin,590,24,87,7
+753,Corn Muffin,1 Muffin,460,16,72,7
+754,Honey Flavored Bran Raisin Muffin,1 Muffin,440,13,69,7
+755,Reduced Fat Blueberry Muffin - 25% Less Fat than our regular Blueberry Muffin,1 Muffin,410,10,75,7
+756,Cinnamon Munchkin,1 Munchkin,60,3.5,7,1
+757,Glazed Blueberry Munchkin,1 Munchkin,70,3.5,9,1
+758,Glazed Chocolate Munchkin,1 Munchkin,70,3.5,8,1
+759,Glazed Munchkin,1 Munchkin,70,4,7,1
+760,Glazed Old Fashioned Munchkin,1 Munchkin,70,3.5,9,1
+761,Jelly Munchkin,1 Munchkin,70,4,9,1
+762,Old Fashioned Munchkin,1 Munchkin,60,3.5,6,1
+763,Powdered Munchkin,1 Munchkin,60,3.5,7,1
+764,Multigrain Brown Sugar Oatmeal with Dried Fruit Topping,1 Cup,310,2,66,5
+765,Brownie,1 Brownie,440,23,58,3
+766,English Muffin,1 Muffin,180,2,34,6
+767,Flatbread,1 Flatbread,160,3,29,5
+768,Plain Croissant,1 Croissant,340,18,38,6
+769,Ground Dark Roast Packaged Coffee,---,---,---,---,---
+770,Ground Dunkin Decaf Packaged Coffee,---,---,---,---,---
+771,Ground French Vanilla Packaged Coffee,---,---,---,---,---
+772,Ground Hazelnut Packaged Coffee,---,---,---,---,---
+773,Ground Original Blend Packaged Coffee,---,---,---,---,---
+774,Whole Bean Original Blend Packaged Coffee,---,---,---,---,---
+775,Dark Roast K-Cup® Pod,---,---,---,---,---
+776,Dunkin’ Decaf K-Cup® Pod,---,---,---,---,---
+777,French Vanilla K-Cup® Pod,---,---,---,---,---
+778,Hazelnut K-Cup® Pod,---,---,---,---,---
+779,Original Blend K-Cup® Pod,---,---,---,---,---
+780,Bold Breakfast Black Packaged Tea,---,---,---,---,---
+781,Chamomile Fields Herbal Infusion Packaged Tea,---,---,---,---,---
+782,Cool Mint Herbal Infusion Packaged Tea,---,---,---,---,---
+783,Harmony Leaf Green Packaged Tea,---,---,---,---,---
+784,Hibiscus Kiss Herbal Infusion Packaged Tea,---,---,---,---,---
+785,Strawberry Banana Smoothie Large,Large,570,4.5,125,9
+786,,Medium,430,3.5,94,7
+787,,Small,290,14,161,9
+788,Tropical Mango Smoothie,Large,590,4.5,131,9
+789,,Medium,440,3,98,7
+790,,Small,290,2,65,5
+791,Coffee Coolatta Float,1 Size,350,18,43,7
+792,Extra Thick Shake - Chocolate,1 Size,620,20,92,19
+793,Extra Thick Shake - Coffee,1 Size,460,19,55,18
+794,Extra Thick Shake - Vanilla,1 Size,460,19,54,18
+795,M&M® Mix-In,1 Serving,660,27,89,16
+796,OREO® Mix-In,1 Serving,510,21,70,14
+797,Soft Serve Cone,1 Cone,260,9,35,9
+798,Strawberry Coolatta Float,1 Size,280,6,49,5
+799,Turbo ShotTM Small,Single Shot,5,0,1,0

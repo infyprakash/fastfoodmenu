@@ -1,0 +1,130 @@
+,Food,Size,Price
+0,Fried Wonton,,$2.50
+1,Fried or Boiled Dumplings,,$3.85
+2,Fried Baby Shrimp,,$3.50
+3,Fried Chicken Wings,,$2.50
+4,Egg Roll,,$2.50
+5,Beef Teriyaki or Chicken,,$4.25
+6,Fried Crab Rangoon,,$3.00
+7,Hot and Sour Soup,,$2.75
+8,Wonton Soup,,$2.25
+9,Seafood Delight Soup,,$4.25
+10,House Special Soup,,$3.95
+11,Egg Drop Soup,,$2.25
+12,Wonton Egg Drop Soup,,$2.75
+13,Chicken Rice or Noodle Soup,,$2.25
+14,Vegetable and Bean Curd Soup,,$2.95
+15,Express Lunch Buffet To Go,,$5.00
+16,Vegetable Fried Rice,,$5.50
+17,Beef Fried Rice,,$5.90
+18,Shrimp Fried Rice,,$6.25
+19,Chicken Fried Rice,,$5.90
+20,Pork Fried Rice,,$5.90
+21,House Special Fried Rice,,$6.95
+22,Vegetable Lo Mein,,$6.00
+23,Beef Lo Mein,,$6.50
+24,Shrimp Lo Mein,,$6.50
+25,Chicken Lo Mein,,$6.50
+26,Pork Lo Mein,,$6.50
+27,House Special Lo Mein,,$6.95
+28,Sweet and Sour Chicken or Pork,,$6.50
+29,Sum Bo,,$7.50
+30,Sweet and Sour Shrimp,,$6.95
+31,Vegetable Mei Fun,,$5.00
+32,Shrimp Chow Mei Fun,,$6.95
+33,Singapore Mei Fun,,$7.50
+34,Chow Mei Fun,,$6.25
+35,House Special Mei Fun,,$7.50
+36,Sauteed Mixed Vegetables,,$6.25
+37,Sauteed Mixed Vegetables with Bean Curd,,$6.25
+38,Sauteed Fresh Broccoli,,$6.25
+39,Sauteed String Beans,,$6.25
+40,Vegetable Egg Foo Young,,$5.95
+41,Beef or Shrimp Egg Foo Young,,$6.25
+42,Roast Pork or Chicken Egg Foo Young,,$5.95
+43,House Special Egg Foo Young,,$6.25
+44,Coconut Chicken,,$7.30
+45,Honey Chicken,,$7.30
+46,Chicken with Broccoli,,$7.30
+47,Cashew Chicken,,$7.30
+48,Szechuan Chicken,,$7.30
+49,Almond Chicken,,$7.30
+50,Chicken with Scallion,,$7.30
+51,Chicken with Mixed Vegetables,,$7.30
+52,Chicken with Black Pepper,,$7.30
+53,Moo Goo Gai Pan,,$7.30
+54,Curry Chicken,,$7.30
+55,Kung Pao Chicken,,$7.30
+56,Lemon Chicken,,$7.30
+57,Chicken with Garlic Sauce,,$7.30
+58,Chicken with Snow Peas,,$7.30
+59,Beef with Mixed Vegetable,,$7.80
+60,Beef with Broccoli,,$7.80
+61,Szechuan Beef,,$7.80
+62,Kung Pao Beef,,$7.80
+63,Beef with Garlic Sauce,,$7.80
+64,Beef with String Beans,,$7.80
+65,Beef with Snow Peas,,$7.80
+66,Mongolian Beef,,$7.80
+67,Pepper Steak with Onion,,$7.80
+68,Beef with Oyster Sauce,,$7.80
+69,Hunan Beef,,$7.80
+70,Moo Shu Beef,,$7.80
+71,Beef with Mushroom,,$7.80
+72,Pork with Mixed Vegetables,,$6.95
+73,Moo Shu Pork,,$6.95
+74,Pork with Peking Sauce,,$6.95
+75,Ginger Pork and Scallion,,$6.95
+76,Pork with Broccoli,,$6.95
+77,Pork With Garlic Sauce,,$6.95
+78,Sliced Pork Double Sauteed with Chili Sauce,,$6.95
+79,Coconut Shrimp,,$8.75
+80,Shrimp with Garlic Sauce,,$8.75
+81,Curry Shrimp,,$8.75
+82,Hunan Shrimp,,$8.75
+83,Szechuan Shrimp,,$8.75
+84,Shrimp with Lobster Sauce,,$8.75
+85,Shrimp with Cashew Nuts,,$8.75
+86,Shrimp with Mixed Vegetables,,$8.75
+87,Shrimp with Broccoli,,$8.75
+88,Scallops with Garlic Sauce,,$8.75
+89,Steamed String Bean,,$5.50
+90,Steamed Vegetable Lo Mein,,$5.95
+91,Steamed Chicken with Snow Peas,,$7.00
+92,Steamed Scallops with Mixed Vegetables,,$8.50
+93,Steamed Snow Peas,,$5.50
+94,Steamed Chicken with Broccoli,,$7.00
+95,Steamed Shrimp with Broccoli,,$8.50
+96,Steamed Seafood with Mixed Vegetables,,$8.50
+97,Orange Chicken or Beef,,$8.50
+98,Sesame Chicken (White Meat),,$8.50
+99,Four Seasons,,$9.50
+100,Seafood Combination,,$10.95
+101,Hunan Triple Delight,,$10.95
+102,Dragon and Phoenix,,$9.95
+103,General Tso's Chicken,,$8.50
+104,Triple Delight,,$9.50
+105,Happy Family,,$9.95
+106,Beef and Scallops with Garlic Sauce,,$9.95
+107,House Special Chicken,,$10.95
+108,Chicken and Shrimp with Brown Sauce,,$9.95
+109,Sauteed Mixed Vegetables,,$6.95
+110,Pepper Steak,,$6.95
+111,Beef with Vegetable,,$6.95
+112,Cashew Chicken,,$6.95
+113,Curry Chicken,,$6.95
+114,Chicken with Broccoli,,$6.95
+115,Pork With Mushrooms,,$6.95
+116,Sesame Chicken,,$6.95
+117,Hunan Shrimp,,$6.95
+118,Shrimp Egg Foo Young,,$6.95
+119,Beef with Broccoli,,$6.95
+120,Kung Pao Beef,,$6.95
+121,Sweet and Sour Chicken or Pork,,$6.95
+122,Chicken With Garlic Sauce,,$6.95
+123,Szechuan Chicken,,$6.95
+124,Pork With Garlic Sauce,,$6.95
+125,General Tso's Chicken,,$6.95
+126,Shrimp With Vegetable,,$6.95
+127,Kung Pao Shrimp,,$6.95
+128,Chicken or Beef Egg Foo Young,,$6.95

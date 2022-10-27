@@ -1,0 +1,251 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,Beer Battered Fish Taco,,230,12,26,7
+1,CrunchTada Tostada,,330,14,38,12
+2,Flatbread Taco,Carne Asada,350,15,34,17
+3,,Chicken,320,14,34,16
+4,Grilled Chicken Taco,,210,12,16,12
+5,The Del Taco,Crunchy,310,20,14,17
+6,,Soft,300,18,17,18
+7,The Turkey Del Taco,Crunchy,280,16,15,17
+8,,Soft,270,15,17,18
+9,Queso Crunch Taco,,400,23,28,20
+10,Salsa Chicken Taco,,150,5,16,10
+11,Street Taco,Carne Asada,180,7,20,11
+12,,Chicken,170,7,20,10
+13,Value Taco,Crunchy,130,8,9,6
+14,,Soft,150,7,15,7
+15,1/2lb Bean & Cheese Burrito,Green,450,10,70,21
+16,,Red,470,10,69,21
+17,Queso Bean Burrito,,480,13,70,23
+18,8 Layer Veggie Burrito,,540,18,72,18
+19,Carne Asada Wet Burrito,,700,27,63,37
+20,Chicken Roller,Chipotle,280,12,29,14
+21,,Original,250,9,30,14
+22,,Ranch,280,12,29,14
+23,,Queso,270,10,29,14
+24,Chicken Verde Wet Burrito,,620,27,67,35
+25,Classic Grilled Chicken Burrito,,530,33,40,20
+26,Del Beef Burrito™,,500,24,40,27
+27,Del Combo Burrito ™,,540,17,64,27
+28,Del Turkey Combo Burrito,,510,14,65,27
+29,Epic Cali Steak & Guac Burrito,,800,39,80,30
+30,Epic Carne Asada Burrito,,750,24,90,42
+31,Epic Chipotle Chicken Avocado Burrito,,950,48,91,38
+32,Epic Grilled Chicken Avocado Burrito,,840,36,90,38
+33,Epic Queso Chicken Burrito,,870,45,78,38
+34,Epic Steak & Potato Burrito,,1040,61,77,40
+35,"Jacked Up Value Bean, Rice & Cheese Burrito",,280,8,40,12
+36,Kid's Value Bean & Cheese Burrito,Green,310,9,45,14
+37,,Red,320,9,44,14
+38,Macho Combo Burrito™,,950,37,100,46
+39,Spicy Grilled Chicken Burrito,,530,17,71,26
+40,Avocado Veggie Bowl,,460,14,70,14
+41,Pollo Asado Avocado Bowl,,570,23,61,31
+42,Bacon Double Del Cheeseburger®,,740,51,35,33
+43,Carne Asada Fries,,810,59,46,24
+44,Cheeseburger,,400,21,35,17
+45,Chili Cheddar Fries,,570,35,42,15
+46,Crinkle-Cut Fries,Kids,160,10,17,2
+47,,Small,210,13,22,2
+48,,Medium,320,19,34,4
+49,,Macho,470,28,49,5
+50,Del Cheeseburger™,,470,28,34,17
+51,Deluxe Chili Cheddar Fries,,610,37,44,16
+52,Double Del Cheeseburger®,,690,47,35,30
+53,Kid's Hamburger,,330,15,34,13
+54,Queso Fries,,500,32,43,11
+55,Cheddar Quesadilla,,460,26,31,22
+56,Chicken Cheddar Quesadilla,,550,31,33,34
+57,Chicken Spicy Jack Quesadilla,,550,31,36,34
+58,Kid's Quesadilla,,130,6,14,5
+59,Queso Loaded Nachos,Beef,1060,55,100,43
+60,,Carne Asada,980,46,100,44
+61,,Chicken,960,46,99,41
+62,Chips & Queso Dip,,290,17,29,6
+63,Large Chips & Queso Dip,,650,39,61,16
+64,Mini Bacon Quesadilla,,170,9,14,8
+65,Mini Cheddar Quesadilla,,130,6,14,5
+66,Nachos,,300,19,30,5
+67,Spicy Jack Quesadilla,,460,27,33,23
+68,Cinnamon Churro,,180,10,27,1
+69,Caramel Cheesecake Bites,2 Peice,460,28,43,6
+70,,4 Piece,910,55,86,12
+71,Chocolate Chip Cookies,1 Cookie,200,10,27,2
+72,Mini Shake,Vanilla,220,3.5,42,7
+73,,Chocolate,250,3.5,50,7
+74,,Strawberry,240,3.5,48,7
+75,Chocolate Chip Cookies,3 Cookies,600,30,81,6
+76,,12 Cookies,2400,120,324,24
+77,Premium Shake,Chocolate,560,11,105,15
+78,,Strawberry,520,10,95,15
+79,,Vanilla,520,11,94,16
+80,,Large Chocolate,870,15,167,24
+81,,Large Strawberry,800,14,153,23
+82,,Large Vanilla,730,14,153,23
+83,Chicken Bacon Avocado Salad,,590,46,23,23
+84,Mexican Chopped Chicken Salad,,510,23,39,31
+85,Signature Taco Salad,,550,29,38,25
+86,Chicken Verde Wet Burrito,,1220,47.5,154,53
+87,Carne Asada Wet Burrito,,1300,47.5,150,55
+88,2 Street Tacos,Grilled Chicken,940,34.5,127,38
+89,,Carne Asada,960,34.5,127,40
+90,2 Beer Battered Fish Tacos,,1060,44.5,139,32
+91,Bean & Cheese Cup,,320,3.5,52,20
+92,Potato Poppers,4 Piece,240,14,20,7
+93,,6 Piece,360,21,30,11
+94,Breakfast Roller,Bacon,340,17,28,15
+95,Breakfast Burrito,,430,21,38,20
+96,,Bacon,640,36,38,32
+97,Breakfast Burrito,Carne Asada,500,24,40,28
+98,,Chorizo,520,28,39,24
+99,Breakfast Taco,Bacon,230,14,15,11
+100,,Carne Asada,240,13,16,15
+101,,Chorizo,240,15,16,11
+102,,Egg & Cheese,190,11,15,9
+103,Breakfast Roller,Chorizo,310,15,29,13
+104,,Egg & Cheese,290,13,28,13
+105,Epic Scrambler,Bacon,1040,62,71,39
+106,,Carne Asada,960,54,73,39
+107,,Chorizo,1030,62,73,36
+108,,Huevos Rancheros,1120,62,91,48
+109,Hashbrown Sticks,3 Pieces,230,17,18,0
+110,#1) Small,2 Del Tacos (+ Fries & Drink),810 - 1010,---,---,---
+111,,2 Turkey Del Tacos (+Fries & Drink),770 - 970,---,---,---
+112,#1) Medium,2 Del Tacos (+ Fries & Drink),920 - 1220,---,---,---
+113,,2 Turkey Del Tacos (+Fries & Drink),880 - 1180,---,---,---
+114,#1) Macho,2 Del Tacos (+ Fries & Drink),1070 - 1490,---,---,---
+115,,2 Turkey Del Tacos (+Fries & Drink),1030 - 1450,---,---,---
+116,#2) Small,Del Combo Burrito™,750 - 950,---,---,---
+117,#2) Medium,Del Combo Burrito™,860 - 1160,---,---,---
+118,#2) Macho,Del Combo Burrito™,1010 - 1430,---,---,---
+119,#3) Small,Classic Grilled Chicken Burrito,740 - 940,---,---,---
+120,#3) Medium,Classic Grilled Chicken Burrito,850 - 1150,---,---,---
+121,#3) Macho,Classic Grilled Chicken Burrito,1000 - 1420,---,---,---
+122,#4) Small,Double Del Cheeseburger®,900 - 1100,---,---,---
+123,#4) Medium,Double Del Cheeseburger®,1010 - 1310,---,---,---
+124,#4) Macho,Double Del Cheeseburger®,1160 - 1580,---,---,---
+125,#5) Small,2 Grilled Chicken Tacos,630 - 830,---,---,---
+126,#5) Medium,2 Grilled Chicken Tacos,740 - 1040,---,---,---
+127,#5) Macho,2 Grilled Chicken Tacos,890 - 1310,---,---,---
+128,#6) Small,The Del Taco & Quesadilla,980 - 1180,---,---,---
+129,#6) Medium,The Del Taco & Quesadilla,1090 - 1390,---,---,---
+130,#6) Macho,The Del Taco & Quesadilla,1240 - 1660,---,---,---
+131,#7) Small,2 Beer Battered Fish Tacos,670 - 870,---,---,---
+132,#7) Medium,2 Beer Battered Fish Tacos,780 - 1080,---,---,---
+133,#7) Macho,2 Beer Battered Fish Tacos,930 - 1350,---,---,---
+134,#8) Small,Spicy Grilled Chicken Burrito & Grilled,950 - 1150,---,---,---
+135,#8) Medium,Spicy Grilled Chicken Burrito & Grilled,1060 - 1360,---,---,---
+136,#8) Macho,Spicy Grilled Chicken Burrito & Grilled,1210 - 1630,---,---,---
+137,#9) Small,Del Beef Burrito & The Del Taco,1020 - 1220,---,---,---
+138,#9) Medium,Del Beef Burrito & The Del Taco,1130 -1430,---,---,---
+139,#9) Macho,Del Beef Burrito & The Del Taco,1280 - 1700,---,---,---
+140,#10) Small,Macho Combo Burrito™,1160 - 1360,---,---,---
+141,#10) Medium,Macho Combo Burrito™,1270 - 1570,---,---,---
+142,#10) Macho,Macho Combo Burrito™,1420 - 1840,---,---,---
+143,Fiesta Pack,6 Value Tacos &,3480 - 3600,---,---,---
+144,Fiesta Pack,Upgrade to Del Tacos,4560 - 4680,---,---,---
+145,Fiesta Pack,Upgrade to Grilled Chicken Tacos,3960 - 4080,---,---,---
+146,Meal (Small Fries & Small Drink),Epic Carne Asada Burrito,960 - 1160,---,---,---
+147,,Epic Grilled Chicken Avocaod Burrito,1050 - 1250,---,---,---
+148,,Epic Bacon Ranch Chicken Avocado Burrito,1190 - 1390,---,---,---
+149,,Epic Steak & Potato Burrito,1250 - 1450,---,---,---
+150,,Epic Cali Steak & Guac Burrito,1010 - 1210,---,---,---
+151,,Macho Combo Burrito,1160 - 1360,---,---,---
+152,Meal (Medium Drink Only),Epic Carne Asada Burrito,750 - 1050,---,---,---
+153,,Epic Grilled Chicken Avocaod Burrito,840 - 1140,---,---,---
+154,,Epic Bacon Ranch Chicken Avocado Burrito,980 - 1280,---,---,---
+155,,Epic Steak & Potato Burrito,1040 - 1340,---,---,---
+156,,Epic Cali Steak & Guac Burrito,800 - 1100,---,---,---
+157,,Macho Combo Burrito,950 - 1250,---,---,---
+158,Breakfast Burrito (Bacon) Combo,Small,870 - 1070,---,---,---
+159,,Medium,870 - 1170,---,---,---
+160,,Macho,870 - 1290,---,---,---
+161,Breakfast Burrito (Chorizo) Combo,Small,750 - 950,---,---,---
+162,,Medium,750 - 1050,---,---,---
+163,,Macho,750 - 1170,---,---,---
+164,Brakfast Burrito (Carne Asada) Combo,Small,730 - 930,---,---,---
+165,,Medium,730 - 1030,---,---,---
+166,,Macho,730 - 1150,---,---,---
+167,Breakfast Burrito Meal,Small,660 - 860,---,---,---
+168,,Medium,660 - 960,---,---,---
+169,,Macho,660 - 1080,---,---,---
+170,Epic Scrambler (Bacon) Combo,Small,1270 - 1470,---,---,---
+171,,Medium,1270 - 1570,---,---,---
+172,,Macho,1270 - 1690,---,---,---
+173,Epic Scrambler (Carne Asada) Combo,Small,190 - 1390,---,---,---
+174,,Medium,1190 - 1490,---,---,---
+175,,Macho,1190 - 1610,---,---,---
+176,Epic Scrambler (Chorizo) Combo,Small,1260 - 1460,---,---,---
+177,,Medium,1260 - 1560,---,---,---
+178,,Macho,1260 - 1680,---,---,---
+179,Epic Scrambler (Huevos Rancheros) Combo,Small,1350 - 1550,---,---,---
+180,,Medium,1350 - 1650,---,---,---
+181,,Macho,1350 - 1770,---,---,---
+182,Kid's Hamburger,,490 - 610,---,---,---
+183,Kid's Quesadilla,,290 - 410,---,---,---
+184,Kid's Value Taco,,290 - 410,---,---,---
+185,Kid's Value Bean & Cheese Burrito,Green,470 - 590,---,---,---
+186,,Red,480 - 600,---,---,---
+187,Prima Java Hot Coffee,,10,0,2,
+188,Prima Java Iced Coffee,,140,1.5,29,
+189,,Large,240,2,49,
+190,Milk (2%),,130,3,13,
+191,Simply Orange,,160,0,37,
+192,Bottled Water,,0,0,0,
+193,Fountain Drink (Real Strawberry Lemonade),,35,0,8,
+194,Fountain Drink (Real Strawberry Lemonade),KID'S (12 oz),120,0,33,0
+195,,SMALL (20 oz),200,0,55,0
+196,,MEDIUM (30 oz),300,0,82,0
+197,,MACHO (42 oz),420,0,0,0
+198,Fountain Drink (Cherry Coke),KID'S (12 oz),120,0,31,0
+199,,SMALL (20 oz),190,0,42,0
+200,,MEDIUM (30 oz),290,0,79,0
+201,,MACHO (42 oz),400,0,110,0
+202,Fountain Drink (Coca-Cola Zero Sugar),KID'S (12 oz),0,0,0,0
+203,,SMALL (20 oz),0,0,0,0
+204,,MEDIUM (30 oz),0,0,0,0
+205,,MACHO (42 oz),0,0,0,0
+206,Fountain Drink (Coca-Cola),KID'S (12 oz),110,0,30,0
+207,,SMALL (20 oz),180,0,50,0
+208,,MEDIUM (30 oz),280,0,75,0
+209,,MACHO (42 oz),390,0,105,0
+210,Fountain Drink (Diet Coke),KID'S (12 oz),0,0,0,0
+211,,SMALL (20 oz),0,0,0,0
+212,,MEDIUM (30 oz),0,0,0,0
+213,,MACHO (42 oz),0,0,0,0
+214,Fountain Drink (Dr Pepper),KID'S (12 oz),70,0,20,0
+215,,SMALL (20 oz),120,0,33,0
+216,,MEDIUM (30 oz),180,0,49,0
+217,,MACHO (42 oz),250,0,68,0
+218,Fountain Drink (Fanta Orange),KID'S (12 oz),120,0,33,0
+219,,SMALL (20 oz),200,0,55,0
+220,,MEDIUM (30 oz),300,0,82,0
+221,,MACHO (42 oz),420,0,115,0
+222,Fountain Drink (Fuze Raspberry Ice Tea),KID'S (12 oz),60,0,17,0
+223,,SMALL (20 oz),110,0,29,0
+224,,MEDIUM (30 oz),160,0,43,0
+225,,MACHO (42 oz),220,0,60,0
+226,Fountain Drink (Hi C Fruit Punch),KID'S (12 oz),0,0,1,0
+227,,SMALL (20 oz),5,0,2,0
+228,,MEDIUM (30 oz),10,0,2,0
+229,,MACHO (42 oz),10,0,3,0
+230,Fountain Drink (Minute Maid Light Lemonade),KID'S (12 oz),0,0,1,0
+231,,SMALL (20 oz),10,0,2,0
+232,,MEDIUM (30 oz),10,0,4,0
+233,,MACHO (42 oz),15,0,5,0
+234,Fountain Drink (Mr. Pibb Xtra),KID'S (12 oz),100,0,28,0
+235,,SMALL (20 oz),170,0,47,0
+236,,MEDIUM (30 oz),260,0,71,0
+237,,MACHO (42 oz),360,0,99,0
+238,Fountain Drink (Power Aid Blue Mountain Blast),KID'S (12 oz),60,0,16,0
+239,,SMALL (20 oz),100,0,27,0
+240,,MEDIUM (30 oz),160,0,41,0
+241,,MACHO (42 oz),220,0,58,0
+242,Fountain Drink (Sprite),KID'S (12 oz),110,0,29,0
+243,,SMALL (20 oz),180,0,48,0
+244,,MEDIUM (30 oz),270,0,72,0
+245,,MACHO (42 oz),380,0,101,0
+246,Gold Peak Tea,KID'S (12 oz),0,0,0,0
+247,,SMALL (20 oz),0,0,0,0
+248,,MEDIUM (30 oz),0,0,0,0
+249,,MACHO (42 oz),0,0,0,0

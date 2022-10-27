@@ -1,0 +1,73 @@
+,Food,Size,Calories,Fat,Carbs,Protein,Price
+0,The Culver's Deluxe Single,,570,34,41,23,See Price
+1,The Culver's Deluxe Double,,810,53,42,40,See Price
+2,The Culver's Deluxe Triple,,1050,72,43,57,See Price
+3,The Culver's Bacon Deluxe Single,,610,38,40,26,See Price
+4,The Culver's Bacon Deluxe Double,,850,56,47,64,See Price
+5,The Culver's Bacon Deluxe Triple,,1090,76,42,60,See Price
+6,ButterBurger The Original Single,,390,17,38,20,See Price
+7,ButterBurger The Original Double,,560,30,38,34,See Price
+8,ButterBurger The Original Triple,,730,43,38,48,See Price
+9,ButterBurger Cheese Single,,460,23,39,23,See Price
+10,ButterBurger Cheese Double,,700,42,40,40,See Price
+11,ButterBurger Cheese Triple,,940,61,41,57,See Price
+12,Cheddar ButterBurger Single,,472,24,38,25,See Price
+13,Cheddar ButterBurger Double,,720,44,38,44,See Price
+14,Cheddar ButterBurger Triple,,970,64,38,63,See Price
+15,Cheddar ButterBurger with Bacon Single,,510,27,37,28,See Price
+16,Cheddar ButterBurger with Bacon Double,,760,47,37,47,See Price
+17,Cheddar ButterBurger with Bacon Triple,,1010,67,37,66,See Price
+18,Mushroom And Swiss Single,,500,26,40,26,See Price
+19,Mushroom And Swiss Double,,780,47,42,47,See Price
+20,Mushroom And Swiss Triple,,1060,68,44,68,See Price
+21,Sourdough Melt Single,,490,25,42,26,See Price
+22,Sourdough Melt Double,,740,45,42,45,See Price
+23,Sourdough Melt Triple,,1010,65,47,64,See Price
+24,Wisconsin Swiss Melt Single,,470,24,39,27,See Price
+25,Wisconsin Swiss Melt Double,,720,43,40,47,See Price
+26,Wisconsin Swiss Melt Triple,,990,62,46,67,"Wisconsin-Swiss-Melt-Triple"" target=""_blank"" rel=""noopener noreferrer"">See Price"
+27,Chicken Tenders 2 Pc,,230,11,16,17,See Price
+28,Chicken Tenders 4 Pc,,460,22,32,34,See Price
+29,Chicken Sandwich Crispy,,460,14,56,26,See Price
+30,Chicken Sandwich Grilled,,390,8,40,41,See Price
+31,Butter Burger,,390,17,38,20,See Price
+32,Butter Burger Cheese,,460,23,39,23,See Price
+33,Tenders 2 Pc,,270,12,21,20,See Price
+34,Corn Dog,,240,14,23,6,See Price
+35,Grilled Cheese,,360,17,39,13,See Price
+36,Chicken Cashew Salad ,,450,24,13,46,See Price
+37,Garden Fresco Salad,,190,11,15,10,See Price
+38,Garden Fresco Salad Grilled Chicken,,350,14,15,44,See Price
+39,Cranberry Bacon Bleu Salad Grilled Chicken,,360,14,14,44,See Price
+40,George's Chili,,300,13,26,17,See Price
+41,Chili Supreme,,385,20,27,20,See Price
+42,Soft Drink Small,,200,0,0,0,See Price
+43,Soft Drink Medium,,280,0,0,0,See Price
+44,Soft Drink Large,,410,0,0,0,See Price
+45,Root Beer Float Small,,220,0,59,0,See Price
+46,Root Beer Float Medium,,300,0,81,0,See Price
+47,White or Chocolate Milk,,110,2,13,8,See Price
+48,Bottled Water,,0,0,0,0,See Price
+49,Concrete Mixers Mini,,490,26,58,7,See Price
+50,Concrete Mixers Short,,740,39,88,12,See Price
+51,Concrete Mixers Regular,,1000,53,118,15,See Price
+52,Concrete Mixers Tall,,1470,78,173,22,See Price
+53,Shakes Short,,600,32,67,10,See Price
+54,Shakes Regular,,750,38,88,12,See Price
+55,Shakes Tall,,1020,50,126,18,See Price
+56,Malts Short,,600,32,67,10,See Price
+57,Malts Regular,,720,38,88,12,See Price
+58,Malts Tall,,1020,50,126,18,See Price
+59,Turtle 1 Scoop,,640,41,60,8,See Price
+60,Turtle 2 Scoop,,1040,61,111,14,See Price
+61,Turtle 3 Scoop,,1190,71,127,17,See Price
+62,Caramel Cashew 1 Scoop,,600,33,67,10,See Price
+63,Caramel Cashew 2 Scoop,,1000,52,121,16,See Price
+64,Caramel Cashew 3 Scoop,,1150,62,137,19,See Price
+65,Crinkle Cut Fries,,240,9,35,4,See Price
+66,Cole Slaw,,200,16,15,1,See Price
+67,Mushed Potatoes,,130,1,25,4,See Price
+68,Side Salad,,50,2,5,2,See Price
+69,Onion Rings,,400,22,44,6,See Price
+70,Chili Cheddar Fries,,690,32,80,19,See Price
+71,Cheese Curds,,510,25,51,20,See Price

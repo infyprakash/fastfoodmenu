@@ -1,0 +1,257 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Apple Fritter,,210,14,18,3
+1,Baseball Doughnut,,290,17,33,4
+2,Caramel Kreme Crunch,,390,20,50,4
+3,Chocolate Iced Cake,,280,15,34,3
+4,Chocolate Iced Custard Filled,,310,17,36,4
+5,Chocolate Iced Glazed,,240,11,33,2
+6,Chocolate Iced Glazed Cruller,,260,12,38,2
+7,Chocolate Iced Glazed Football Stamp,,290,17,31,4
+8,Chocolate Iced Glazed Hearts w/ Strawberry Kreme Filling and Red Drizzle,,360,20,43,4
+9,Chocolate Iced Kreme Filling,,360,21,40,4
+10,Chocolate Iced Kreme Filling Web (Halloween),,400,20,51,4
+11,Chocolate Iced Glazed with Sprinkles,,270,11,41,2
+12,Chocolate Iced Raspberry Filled,,310,17,36,4
+13,Cinnamon Apple Filled,,290,16,33,3
+14,Cinnamon Bun,,260,16,28,3
+15,Cinnamon Twist,,240,15,23,3
+16,Doughnut Hole Glazed Blueberry Cake,4 Holes,190,8,26,2
+17,Doughnut Hole Glazed Cake,4 Holes,200,10,26,2
+18,Doughnut Hole Glazed Chocolate Cake,4 Holes,190,9,25,2
+19,Doughnut Hole Original Glazed,4 Holes,200,11,26,2
+20,Doughnut Hole Pumpkin Spice,4 Holes,210,10,29,2
+21,Dulce de Leche,,300,18,31,3
+22,Éclair - Chocolate Iced Banana Filled w/ Yellow Drizzle,,290,13,41,3
+23,Éclair - Chocolate Iced Chocolate Filled w/ Chocolate Drizzle,,290,16,39,4
+24,Éclair - White Iced Strawberries & Kreme Filling w/ Pink Drizzle,,350,16,43,3
+25,Glazed Blueberry Cake,,300,14,42,2
+26,Glazed Chocolate Cake,,300,15,41,3
+27,Glazed Cinnamon,,200,11,25,2
+28,Glazed Cruller,,220,12,27,2
+29,Glazed Kreme Filling,,340,20,38,3
+30,Glazed Lemon Filled,,290,16,35,3
+31,Glazed Raspberry Filled,,290,16,36,3
+32,Glazed Sour Cream,,310,14,43,2
+33,Jack o' Lantern,,280,13,38,3
+34,Maple Iced Glazed,,230,11,32,2
+35,Mini Chocolate Iced Glazed,,110,5,16,1
+36,Mini Chocolate Iced with Sprinkles,,130,5,20,1
+37,Mini Original Glazed,,90,5,10,1
+38,New York Cheesecake,,350,21,36,4
+39,Orignal Glazed,,190,11,21,2
+40,Powdered Blueberry Filled,,300,17,34,4
+41,Powdered Cake,,220,11,27,2
+42,Powdered Strawberry Filled,,290,16,33,3
+43,Pumpkin Spice,,300,14,42,2
+44,"Pumpkin, Football, Egg Shape Iced & Stamped",,280,17,29,3
+45,Sugar,,190,11,20,2
+46,Tennis Ball,,290,17,32,4
+47,Traditional Cake,,190,12,19,2
+48,White Iced Egg with Easter Sprinkles,,340,18,41,4
+49,White Iced Glazed Hearts,,320,17,38,3
+50,White Iced Glazed Snowman + Stamp,,280,17,29,3
+51,White Iced Heart w/Valentine Sprinkles,,300,16,35,3
+52,White Iced Shamrock with St. Patrick's Sprinkles,,300,18,31,3
+53,White Iced Star with Patriotic Sprinkles,,300,18,31,3
+54,Bold,12 fl oz,10,0.5,1,0
+55,,16 fl oz,15,1,1,1
+56,,20 fl oz,15,1,1,1
+57,Bold Brew Box,96 fl oz,80,4.5,5,4
+58,Hot Chocolate,12 fl oz,240,7,45,2
+59,,16 fl oz,320,8,63,3
+60,,20 fl oz,420,10,85,4
+61,Rich,12 fl oz,10,0.5,1,0
+62,,16 fl oz,10,1,1,0
+63,,20 fl oz,15,1,1,1
+64,Rich Brew Box,96 fl oz,70,4.5,5,3
+65,Robust Decaf,12 fl oz,5,0,1,0
+66,,16 fl oz,5,0,1,0
+67,,20 fl oz,5,0,1,0
+68,Robust Decaf Brew Box,96 fl oz,35,1,6,1
+69,Smooth,12 fl oz,10,0.5,0,0
+70,,16 fl oz,10,0.5,1,1
+71,,20 fl oz,15,1,1,1
+72,Smooth Brew Box,96 fl oz,70,4.5,5,3
+73,Espresso,1.8 fl oz,0,0,0,0
+74,Cappuccino,12 fl oz,140,5,14,9
+75,,16 fl oz,160,6,16,10
+76,,20 fl oz,190,7,19,12
+77,Latte,12 fl oz,130,5,13,8
+78,,16 fl oz,160,6,16,10
+79,,20 fl oz,190,7,19,12
+80,Mocha,12 fl oz,260,5,49,7
+81,,16 fl oz,370,8,68,11
+82,,20 fl oz,460,10,84,14
+83,Caramel Flavor Shot,1 fl oz,110,0,28,0
+84,,1.5 fl oz,170,0,43,0
+85,,2 fl oz,230,0,57,0
+86,,2.5 fl oz,290,0,71,0
+87,Chocolate Flavor Shot,1 fl oz,110,1,26,1
+88,,1.5 fl oz,160,1.5,39,1
+89,,2 fl oz,210,2,52,1
+90,,2.5 fl oz,270,0,0,0
+91,Original Kreme Flavor Shot,1 fl oz,120,0,28,0
+92,,1.5 fl oz,180,0,42,0
+93,,2 fl oz,230,0,56,0
+94,,2.5 fl oz,290,0,71,0
+95,Vanilla Flavor Shot,1 fl oz,120,0,29,0
+96,,1.5 fl oz,180,0,44,0
+97,,2 fl oz,240,0,59,0
+98,,2.5 fl oz,300,0,73,0
+99,Hazelnut Flavor Shot,1 fl oz,80,0,21,0
+100,,1.5 fl oz,120,0,31,0
+101,,2 fl oz,160,0,42,0
+102,,2.5 fl oz,210,0,52,0
+103,Berries & Kreme,12 fl oz,620,28,92,71
+104,,20 fl oz,960,40,150,115
+105,Chocolate Chocolate,12 fl oz,670,29,104,62
+106,,20 fl oz,1050,42,170,100
+107,Lemon Sherbert,12 fl oz,630,28,95,71
+108,,20 fl oz,980,40,155,115
+109,Lotta Latte,12 fl oz,670,28,49,60
+110,,20 fl oz,1050,40,79,5
+111,Mocha Dream,12 fl oz,670,28,105,3
+112,,20 fl oz,1050,41,171,5
+113,Orange You Glad,12 fl oz,180,0,43,0
+114,,20 fl oz,300,0,71,0
+115,Oranges & Kreme,12 fl oz,630,28,92,3
+116,,20 fl oz,970,40,150,3
+117,Very Berry,12 fl oz,170,0,43,0
+118,,20 fl oz,290,0,71,0
+119,Chocolate Iced Coffee,12 fl oz,330,1.5,76,2
+120,,20 fl oz,550,2.5,127,4
+121,Hazelnut Iced Coffee,12 fl oz,360,1.5,76,2
+122,,20 fl oz,540,2.5,126,4
+123,Original Iced Coffee,12 fl oz,290,0.5,69,2
+124,,20 fl oz,490,1,114,4
+125,Sweet Iced Tea,16 fl oz,240,0,0,0
+126,,20 fl oz,280,0,69,0
+127,,32 fl oz,450,0,110,0
+128,Vanilla Iced Coffee,12 fl oz,330,1.5,76,2
+129,,20 fl oz,540,2.5,127,4
+130,Coke,16 fl oz,200,0,53,0
+131,,20 fl oz,240,0,67,0
+132,,32 fl oz,390,0,106,0
+133,Diet Coke,16 fl oz,0,0,0,0
+134,,20 fl oz,0,0,0,0
+135,,32 fl oz,0,0,0,0
+136,Hi-C Pink Lemonade,16 fl oz,190,0,47,0
+137,,20 fl oz,240,0,59,0
+138,,32 fl oz,380,0,95,0
+139,Mellow Yellow,16 fl oz,210,0,57,0
+140,,20 fl oz,260,0,71,0
+141,,32 fl oz,420,0,114,0
+142,Mr. Pibb,16 fl oz,190,0,51,0
+143,,20 fl oz,240,0,64,0
+144,,32 fl oz,380,0,103,0
+145,Sprite,16 fl oz,190,0,51,0
+146,,20 fl oz,240,0,64,0
+147,,32 fl oz,380,0,103,0
+148,Arctic Avalanche - Butterfinger,12 fl oz,570,20,88,12
+149,,20 fl oz,980,35,151,20
+150,Arctic Avalanche - Chocolate Chip Cookie Dough,12 fl oz,750,27,115,12
+151,,20 fl oz,1050,38,159,17
+152,Arctic Avalanche - M&Ms,12 fl oz,520,19,78,11
+153,,20 fl oz,860,31,130,18
+154,Arctic Avalanche - Oreo,12 fl oz,510,18,78,11
+155,,20 fl oz,860,31,130,18
+156,Arctic Avalanche - Reese's Peanut Butter Cup,12 fl oz,600,25,81,14
+157,,20 fl oz,1020,45,137,24
+158,Cone - Chocolate,181g,310,9,50,8
+159,Cone - Swirl,181g,300,9,49,8
+160,Cone - Vanilla,181g,290,8,48,7
+161,Doughnut Sundae - Chocolate Cake,230g,560,21,89,8
+162,Doughnut Sundae - Original Glazed,202g,460,17,69,7
+163,Doughnut Sundae - Strawberry Cake,242g,560,20,90,7
+164,Milkshake - Banana,20 fl oz,770,21,130,17
+165,Milkshake - Blackberry 20 ox,20 fl oz,860,21,150,17
+166,Milkshake - Blueberry,20 fl oz,950,23,168,18
+167,Milkshake - Chocolate,20 fl oz,750,24,112,20
+168,Milkshake - Oreo,20 fl oz,900,32,136,19
+169,Milkshake - Pineapple,20 fl oz,700,21,110,16
+170,Milkshake - Raspberry,20 fl oz,940,23,165,18
+171,Milkshake - Strawberry,20 fl oz,800,21,137,17
+172,Milshake - Strawberry-Banana,20 fl oz,800,21,137,17
+173,Milkshake - Vanilla,20 fl oz,720,24,108,18
+174,Sundae - Banana-Chocolate,269g,450,9,86,8
+175,Sundae - Blackberry,269g,440,8,85,7
+176,Sundae - Blueberry,246g,450,8,86,7
+177,Sundae - Caramel Butterscotch w/nuts,261g,570,15,100,12
+178,Sundae - Hot Fudge,227g,460,18,68,8
+179,Sundae - Pineapple,255g,300,8,49,6
+180,Sundae - Raspberry,244g,440,8,83,7
+181,Sundae - Strawberry,269g,390,8,73,7
+182,Plain Bagel,108g,260,1,54,10
+183,Cinnamon Raisin Bagel,108g,250,1,54,9
+184,Wholegrain/Whole Wheat Bagel,108g,290,5,54,11
+185,Everything Bagel,108g,280,3.5,54,10
+186,Asiago Cheese Bagel,113g,300,3.5,57,11
+187,Blueberry Bagel,108g,270,1,57,9
+188,Plain Cream Cheese,1 oz,80,8,1,1
+189,,8 oz,670,64,12,12
+190,Reduced Fat Plain,1 oz,60,5,2,2
+191,,8 oz,490,41,14,17
+192,Garden Vegetable,1 oz,80,7,2,1
+193,,8 oz,90,8,2,2
+194,Garden Vegetable Reduced Fat,8 oz,60,5,2,2
+195,Strawberry Reduced Fat,1 oz,80,7,4,4
+196,,8 oz,510,34,38,0
+197,Salted Butter,1 tbsp,100,10,0,0
+198,Grape Jelly,0.5 oz,35,0,9,0
+199,Strawberry Jelly,0.5 oz,35,0,9,0
+200,Mixed Fruit Jelly,0.5 oz,35,0,9,0
+201,Whole Wheat Banana Nut Muffin with Oat Crisp Crunch Topping,103g,380,18,50,7
+202,Reduced Fat Triple Berry Muffin,113g,300,6,57,5
+203,Blueberry Muffin,113g,380,19,48,4
+204,Whole Wheat Blueberry Muffin with Oat Crisp Crunch Topping,103g,340,15,47,6
+205,Chocolate Chip Muffin with Oat Crisp Crunch Topping,127g,500,26,62,6
+206,Whole Wheat Corn Muffin,89g,310,13,44,6
+207,Cinnamon Roll,170g,670,38,76,7
+208,Cinnamon Roll Lite,85g,330,19,38,3
+209,Pecan Roll,101g,420,25,44,5
+210,,201g,840,51,88,9
+211,Fat Free Milk,8 fl oz,90,0,13,8
+212,0.5% Low Fat Milk,8 fl oz,100,0,13,8
+213,1% Low Fat Milk,8 fl oz,110,2.5,13,9
+214,1.5% Reduced Fat Milk,8 fl oz,120,3.5,12,8
+215,2% Reduced Fat Milk,8 fl oz,130,5,12,8
+216,3.25% Milk,8 fl oz,150,8,12,8
+217,California Fat Free Milk,8 fl oz,90,0,13,9
+218,California 1% Low Fat Milk,8 fl oz,130,2.5,16,10
+219,California 2% Reduced Fat Milk,8 fl oz,140,5,14,10
+220,California 3.5% Milk,8 fl oz,160,9,13,8
+221,Chocolate Whole Milk,8 fl oz,200,8,25,8
+222,Chocolate 1% Fat,8 fl oz,150,2.5,24,8
+223,Fat Free Chocolate Milk,8 fl oz,130,0,25,8
+224,Strawberry Reduced Fat Organic Milk Box,8 fl oz,200,4.5,31,8
+225,Chocolate Reduced Fat Organic Milk Box,8 fl oz,180,5,27,8
+226,Reduced Fat Organic Milk Box,8 fl oz,120,4.5,12,8
+227,Vanilla Reduced Fat Milk Box,8 fl oz,190,4.5,30,8
+228,Whipped Topping,7g,20,1.5,1,0
+229,,20g,60,4.5,3,0
+230,Lowfat Strawberry Yogurt,6 oz,150,1.5,29,5
+231,Lowfat Blueberry Yogurt,6 oz,150,1.5,29,5
+232,Lowfat Peach Yogurt,6 oz,150,1,30,5
+233,Lowfat Black Cherry Yogurt,6 oz,140,1.5,26,5
+234,Quaker® Organic Instant Oatmeal,1 oz,100,2,19,4
+235,Brown Sugar,13g,50,0,13,0
+236,Pecan Cranberry Mix,19.84g,100,6,11,1
+237,Apple Cinnamon Medley,21.26g,70,0,17,1
+238,1/2 Banana,63g,60,0,15,1
+239,Dried Fruit Blend,21.26g,80,0,20,0
+240,Apple,1 cup,65,0,17,0
+241,Banana,118g,105,0,27,1
+242,Tropicana 100% OJ - Hot Fill,10 fl oz,140,0,0,2
+243,Tropicana/Dole 100% Apple Juice - Hot Fill,10 fl oz,140,0,34,1
+244,"Tropicana, Twister - Tropical Fruit Fury",8 fl oz,140,0,35,0
+245,,20 fl oz,340,0,85,0
+246,Tropicana - Ruby Red Grapefruit 100%,10 fl oz,160,0,39,1
+247,Naked Orange Juice,8 fl oz,110,0,27,2
+248,Naked Berry Blast®,8 fl oz,130,0,29,1
+249,Naked Mighty Mango®,8 fl oz,150,0,36,1
+250,Naked Protein Zone®,8 fl oz,220,2,34,16
+251,Naked Strawberry Banana®,8 fl oz,120,0,29,1
+252,Naked Mango Motion®,8 fl oz,130,0,31,1
+253,Naked Blue Machine®,8 fl oz,170,0,40,1
+254,Naked Green Machine®,8 fl oz,140,0,33,2
+255,Naked Red Machine®,8 fl oz,170,4.5,31,2

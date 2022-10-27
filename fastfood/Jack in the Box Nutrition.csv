@@ -1,0 +1,196 @@
+,Food,Variety,Calories,Fat,Carbs,Protein
+0,Bacon Ultimate Cheeseburger™,,910,56,44,57
+1,Big Cheeseburger,,560,30,43,29
+2,Hamburger,Regular,280,11,32,14
+3,,with Cheese,320,14,32,16
+4,Jr. Jack™,Regular,320,15,33,14
+5,,with Cheese,370,19,33,16
+6,Jr. Bacon Cheeseburger,,390,21,32,19
+7,Jumbo Jack®,Regular,490,23,44,26
+8,,with Cheese,570,30,45,30
+9,Sirloin Cheeseburger,Regular,940,64,52,41
+10,,with Bacon,1030,71,52,48
+11,Sirloin Swiss & Grilled Onion Burger,Regular,930,63,52,41
+12,,with Bacon,1020,69,52,49
+13,Sourdough Jack®,,660,41,40,35
+14,Sourdough Cheesesteak Melt,,450,25,40,23
+15,Ultimate Cheeseburger™,,820,49,44,50
+16,Chicken Fajita Pita made with Whole Grain,(no salsa),320,11,33,24
+17,,(w/ salsa),330,11,35,24
+18,Chicken Nuggets,5 pc.,240,17,13,9
+19,,10 pc.,480,33,26,19
+20,,20 pc.,950,66,51,38
+21,Chicken Sandwich,Regular,410,21,42,15
+22,,with Bacon,470,25,42,21
+23,"Chicken Strips, Crispy",4 pc.,560,24,53,33
+24,"Chicken Strips, Grilled",4 pc.,250,7,5,43
+25,Fish Sandwich (Seasonal),,390,15,46,17
+26,Homestyle Ranch Chicken Club,,730,35,65,39
+27,Jack’s Spicy Chicken®,Regular,530,20,61,28
+28,,with Cheese,600,25,62,32
+29,Sourdough Grilled Chicken Club,,540,26,38,39
+30,Chicken Teriyaki Bow,,690,6,133,27
+31,Grilled Sandwich,Deli Trio,620,29,54,36
+32,,"Turkey, Bacon & Cheddar",660,31,53,41
+33,Chicken Club Salad,w/ Crispy Chicken Strips,510,28,36,32
+34,,w/ Grilled Chicken Strips,360,20,12,37
+35,Grilled Chicken Salad,,250,9,14,28
+36,Southwest Chicken Salad,w/ Crispy Chicken Strips,500,23,52,29
+37,,w/ Grilled Chicken Strips,350,15,28,34
+38,Bacon Ranch Dressing,,220,23,3,1
+39,Creamy Southwest Dressing,,190,19,3,1
+40,Gourmet Seasoned Croutons,,50,3,9,1
+41,Lite Ranch Dressing,,130,13,2,1
+42,Low-Fat Balsamic Vinaigrette,,25,1.5,3,0
+43,Spicy Corn Sticks,,60,3,7,1
+44,Bacon Cheddar Potato Wedges,,600,41,58,17
+45,Chiquita® Apple Bites with Caramel,,70,0,17,0
+46,Egg Roll,1 pc.,150,7,15,5
+47,,3 pc.,440,22,46,16
+48,French Fries,small,330,15,45,4
+49,,medium,450,21,61,5
+50,,large,610,28,83,7
+51,Mozzarella Cheese Sticks,3 pc.,280,16,22,12
+52,,6 pc,560,33,43,24
+53,Onion Rings,,450,28,45,6
+54,Seasoned Curly Fries,small,280,16,30,3
+55,,medium,430,25,46,5
+56,,large,580,34,63,7
+57,Stuffed Jalapeños,3 pc,220,12,21,6
+58,,7 pc.,510,29,49,14
+59,Taco,1 Taco,190,11,17,6
+60,Bacon Breakfast Jack®,,310,14,30,17
+61,"Bacon, Egg & Cheese Biscuit",,430,25,35,16
+62,Breakfast Jack®,,280,11,30,16
+63,Grilled Breakfast Sandwich,,620,29,53,36
+64,Extreme Sausage® Sandwich,,660,47,32,29
+65,Hash brown,,190,13,17,2
+66,Jumbo Breakfast Platter,Bacon,560,31,46,24
+67,,Sausage,640,40,47,23
+68,Meaty Breakfast Burrito,(no salsa),610,37,38,33
+69,,(w/ salsa),620,37,40,33
+70,Mini Pancakes,,140,1.5,28,4
+71,Sausage Biscuit,,450,29,35,11
+72,Sausage Breakfast Jack®,,430,26,30,19
+73,Sausage Croissant,,560,39,32,19
+74,"Sausage, Egg & Cheese Biscuit",,560,38,36,19
+75,Sourdough Breakfast Sandwich,,410,21,35,20
+76,Steak & Egg Burrito,(no salsa),790,50,57,33
+77,,(w/ salsa),800,50,58,33
+78,Spicy Chicken Biscuit,,540,26,53,25
+79,Supreme Croissant,,450,27,32,19
+80,Ultimate Breakfast Sandwich,,520,25,42,33
+81,Barq’s® Root Beer,16 fl oz.,180,0,54,0
+82,,20 fl oz.,250,0,68,0
+83,,32 fl oz.,400,0,109,0
+84,,42 fl oz.,520,0,131,0
+85,Coca-Cola Classic®,16 fl oz.,180,0,50,0
+86,,20 fl oz.,230,0,62,0
+87,,32 fl oz.,360,0,100,0
+88,,42 fl oz.,480,0,131,0
+89,Aquarius® Bottled Water,,0,0,0,0
+90,Diet Coke®,16 fl oz.,0,0,0,0
+91,,20 fl oz.,0,0,0,0
+92,,32 fl oz.,5,0,0,0
+93,,42 fl oz.,5,0,0,0
+94,Diet Dr Pepper®,16 fl oz.,0,0,0,0
+95,,20 fl oz.,0,0,0,0
+96,,32 fl oz.,0,0,0,0
+97,,42 fl oz.,0,0,0,0
+98,Dr Pepper®,16 fl oz.,180,0,50,0
+99,,20 fl oz.,230,0,62,0
+100,,32 fl oz.,360,0,100,0
+101,,42 fl oz.,480,0,131,0
+102,Fanta® Orange,16 fl oz.,160,0,44,0
+103,,20 fl oz.,210,0,55,0
+104,,32 fl oz.,330,0,89,0
+105,,42 fl oz.,430,0,116,0
+106,Fanta® Strawberry,16 fl oz.,160,0,44,0
+107,,20 fl oz.,210,0,56,0
+108,,32 fl oz.,330,0,89,0
+109,,42 fl oz.,430,0,117,0
+110,"Flavored Iced Tea, Mango",24 fl oz.,80,0,21,0
+111,"Flavored Iced Tea, Peach",24 fl oz.,80,0,20,0
+112,"Flavored Iced Tea, Raspberry",24 fl oz.,80,0,21,0
+113,Gold Peak® Fresh Brewed Iced Tea,16 fl oz.,5,0,1,0
+114,,20 fl oz.,5,0,2,0
+115,,32 fl oz.,10,0,3,0
+116,,42 fl oz.,10,0,4,0
+117,Hi-C® Fruit Punch,16 fl oz.,210,0,56,0
+118,,20 fl oz.,260,0,71,0
+119,,32 fl oz.,420,0,113,1
+120,,42 fl oz.,550,0,148,1
+121,Premium Roast Coffee (decaf),12 fl oz,5,0,1,0
+122,,16 fl oz,10,0,2,0
+123,Premium Roast Coffee (regular),12 fl oz,5,0,1,0
+124,,16 fl oz,10,0,2,0
+125,Minute Maid® Lemonade,16 fl oz.,180,0,45,0
+126,,20 fl oz.,220,0,57,0
+127,,32 fl oz.,350,0,91,0
+128,,42 fl oz.,460,0,119,0
+129,Minute Maid® Orange Juice,10 fl oz,140,0,33,2
+130,Reduced Fat Milk 2%,,120,4.5,12,9
+131,"Smoothie, Mango",16 fl oz.,290,0,72,2
+132,,24 fl oz,450,0,114,3
+133,"Smoothie, Strawberry",16 fl oz.,270,0,67,2
+134,,24 fl oz,400,0,99,3
+135,"Smoothie, Strawberry Banana",16 fl oz.,290,0,73,2
+136,,24 fl oz,440,0,108,3
+137,Sprite®,16 fl oz.,180,0,45,0
+138,,20 fl oz.,220,0,57,0
+139,,32 fl oz.,350,0,91,0
+140,,42 fl oz.,460,0,119,0
+141,Chocolate Overload™ Cake,,300,7,57,4
+142,Mini Cookies,,310,14,47,3
+143,,5 pc,350,18,42,4
+144,,10 pc,690,37,84,7
+145,New York Style Cheesecake,,310,17,32,7
+146,"Shake, Chocolate w/ Whipped Topping",16 fl oz.,800,38,101,13
+147,,24 fl oz,1150,55,146,19
+148,"Shake, Oreo® Cookie w/ Whipped Topping",16 fl oz.,810,43,92,13
+149,,24 fl oz,1170,61,134,19
+150,"Shake, Strawberry w/ Whipped Topping",16 fl oz.,780,38,95,12
+151,,24 fl oz,1120,54,138,17
+152,"Shake, Vanilla w/ Whipped Topping",16 fl oz.,700,38,76,12
+153,,24 fl oz,1000,54,109,17
+154,Breakfast Jack®,,280,11,30,16
+155,"Chicken Strips, Crispy",2 pc,280,12,26,17
+156,"Chicken Strips, Grilled",2 pc,130,4,2,22
+157,French Fries,(Kid’s),230,10,30,3
+158,Grilled Cheese Sandwich,,330,16,34,11
+159,Seasoned Curly Fries,(Kid’s),200,11,21,2
+160,Taco,(2 Tacos),390,22,33,13
+161,American Cheese,,40,3.5,0,2
+162,Provolone Cheese,,60,4.5,0,4
+163,Real Cheddar Cheese,,70,6,1,4
+164,Real Swiss Cheese,,70,6,0,5
+165,Swiss Style Cheese,,40,3,1,2
+166,Barbecue Dipping Sauce,,40,0,10,0
+167,Buttermilk House Dipping Sauce,,130,13,3,0
+168,Fire Roasted Salsa,,5,0,1,0
+169,Frank’s® RedHot® Buffalo Dipping Sauce,,10,0,2,0
+170,Honey Mustard Dipping Sauce,,60,2,11,0
+171,Log Cabin® Syrup,,190,0,49,0
+172,Sweet & Sour Dipping Sauce,,45,0,11,0
+173,Tartar Sauce (Seasonal),,150,16,2,0
+174,Teriyaki Dipping Sauce,,60,1,11,1
+175,Zesty Marinara Dipping Sauce,,15,0,4,0
+176,Chipotle Sauce,(0.70 oz.),110,12,1,0
+177,Creamy Italian Sauce,(0.44 oz.),70,7,1,0
+178,Creamy Ranch Sauce,(0.53 oz.),80,9,1,0
+179,Ketchup,(0.57 oz.),20,0,5,0
+180,Mayo-Onion Sauce,(0.27 oz.),45,5,0,0
+181,Mustard,(0.23 oz.),5,0,0,0
+182,Peppercorn Mayo Sauce,(1.00 oz.),190,20,1,0
+183,Sun Dried Tomato Sauce,(0.57 oz.),70,8,1,0
+184,Fire Roasted Salsa,,10,0,2,0
+185,Grape Jelly,,35,0,9,0
+186,Grilled Onions,,10,0,2,0
+187,Ketchup,,10,0,3,0
+188,Mayonnaise,,80,9,0,0
+189,Mustard,,5,0,0,0
+190,Pride® Margarine Spread,,20,2.5,0,0
+191,Sour Cream,,60,5,2,1
+192,Soy Sauce,,5,---,1,1
+193,Strawberry Jam,,35,0,9,0
+194,Taco Sauce,,0,0,0,0

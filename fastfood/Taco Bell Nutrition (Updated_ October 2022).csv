@@ -1,0 +1,312 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Breakfast Crunchwrap,Bacon,670,42,51,21
+1,,Sausage,700,46,51,21
+2,,Steak,650,39,51,24
+3,Breakfast Quesadilla,Bacon,510,29,37,26
+4,,Sausage,500,29,37,24
+5,,Steak,500,26,38,29
+6,Breakfast Soft Taco,Bacon,240,14,15,11
+7,,Egg & Cheese,170,9,15,7
+8,,Steak,230,14,15,9
+9,Cinnabon® Delights™,(12 Pack - Serves 4),930,53,104,9
+10,,(2 Pack),160,9,17,2
+11,,(4 Pack),310,18,35,3
+12,Grande Scrambler Burrito,Bacon,650,34,64,21
+13,,Sausage,640,34,64,19
+14,,Steak,630,31,65,24
+15,Grilled Breakfast Burrito,Bacon,350,17,37,13
+16,,Fiesta Potato,340,14,43,10
+17,,Sausage,340,17,36,11
+18,Hashbrown,,160,12,13,1
+19,Iced Regular Coffee,,10,0,0,2
+20,Mini Skillet Bowl,,180,11,16,5
+21,Mtn Dew® Kickstart™ Orange Citrus,,70,0,18,0
+22,Nestle® Coffee-Mate™ Sweetened Original Creamer,,25,1.5,3,0
+23,Rainforest Coffee,,10,0,0,2
+24,Rainforest Coffee with Nestle® Coffee-Mate™ Sweetened Original Creamer,,30,1.5,3,2
+25,Sausage Flatbread Quesadilla,,330,18,27,14
+26,Tropicana® Orange Juice,,140,0,33,2
+27,7-Layer Burrito,,440,16,59,14
+28,Bean Burrito,,380,11,55,14
+29,Beefy 5-Layer Burrito,,500,19,64,19
+30,Beefy Fritos® Burrito,,440,18,57,13
+31,Beefy Nacho Loaded Griller,,370,15,47,12
+32,Black Bean Burrito,,390,11,60,14
+33,Burrito Supreme®,Beef,410,15,51,17
+34,,Chicken,380,12,49,20
+35,,Steak,390,12,50,19
+36,Cheesy Bean & Rice Burrito,,430,17,57,11
+37,Cheesy Potato Burrito,,490,22,54,18
+38,Cheesy Potato Griller,,340,13,50,8
+39,Chili Cheese Burrito (regional),,370,17,40,16
+40,Chipotle Chicken Loaded Griller,,340,16,36,14
+41,Combo Burrito,,450,18,51,21
+42,Quesarito,Beef,650,33,67,21
+43,,Chicken,640,32,66,22
+44,,Steak,630,30,66,24
+45,Shredded Chicken Burrito,,420,20,47,14
+46,Smothered Burrito,Beef,700,33,71,28
+47,,Shredded Chicken,670,31,68,30
+48,,Steak,660,28,69,33
+49,XXL Grilled Stuft Burrito,Beef,870,40,96,32
+50,,Chicken,830,34,92,38
+51,,Steak,840,35,93,37
+52,Airhead® Blue Raspberry Freeze™,(16 oz),180,0,49,0
+53,,(20 oz),230,0,61,0
+54,Mtn Dew® Baja Blast Freeze™,(16 oz),180,0,51,0
+55,,(20 oz),230,0,64,0
+56,Orange Cream Pop Freeze™,(16 oz),130,0,34,0
+57,,(20 oz),160,0,44,0
+58,Fresco Bean Burrito,,350,9,56,13
+59,Fresco Burrito Supreme®,Chicken,340,8,48,18
+60,,Steak,340,9,48,17
+61,Fresco Crunchy Taco,Beef,140,7,13,6
+62,Fresco Soft Taco,Beef,160,7,18,8
+63,,Shredded Chicken,150,6,16,9
+64,,Steak,140,4,17,10
+65,Nacho Fries,Regular,320,18,35,4
+66,,Bellgrande,710,41,73,13
+67,,Supreme,420,24,40,10
+68,Power Menu Bowl,Chicken,500,20,53,28
+69,,Steak,510,21,55,27
+70,,Veggie,480,18,64,16
+71,Power Menu Burrito,Chicken,450,20,40,26
+72,,Steak,460,21,42,25
+73,,Veggie,430,18,52,14
+74,Black Beans,,80,1.5,12,4
+75,Black Beans & Rice,,190,3.5,35,6
+76,Cheesy Fiesta Potatoes,,230,12,28,3
+77,Chips and Guacamole,,230,14,23,3
+78,Chips and Nacho Cheese Sauce,,220,12,24,3
+79,Chips and Pico de Gallo,,170,8,22,2
+80,Chips and Salsa,,180,8,24,3
+81,Nacho Cheese Doritos® Chips,,140,8,16,2
+82,Pintos 'n Cheese,,190,7,22,10
+83,Seasoned Rice,,120,2,120,2
+84,Beefy Mini Quesadilla,,210,12,17,9
+85,Chalupa Supreme®,Beef,350,19,33,13
+86,,Chicken,330,16,31,16
+87,,Steak,330,16,32,15
+88,Cheesy Gordita Crunch,,500,28,41,20
+89,Cheesy Gordita Crunch Supreme®,,520,30,43,21
+90,Cheesy Roll Up,,180,9,15,9
+91,Cool Ranch® Doritos® Cheesy Gordita Crunch,,500,28,41,20
+92,Crunchwrap Supreme®,,530,21,71,16
+93,Double Tostada (regional),,270,11,32,12
+94,Express Fiesta Taco Salad (regional),,580,25,65,23
+95,Fiery Doritos® Cheesy Gordita Crunch,,500,28,40,20
+96,Fiesta Taco Salad,Beef,760,39,77,27
+97,,Chicken,720,33,73,32
+98,,Steak,730,34,75,31
+99,Gordita Supreme®,Beef,280,12,31,13
+100,,Chicken,260,9,29,16
+101,,Steak,270,9,30,16
+102,Mexican Pizza,,550,30,49,21
+103,Meximelt®,,250,13,19,14
+104,Nacho Cheese Doritos® Cheesy Gordita Crunch,,490,28,41,20
+105,Nachos BellGrande®,,760,38,84,19
+106,Nachos Supreme®,,440,23,46,13
+107,Quesadilla,Cheese,460,26,37,19
+108,,Chicken,510,28,38,27
+109,,Steak,510,28,38,27
+110,Shredded Chicken Mini Quesadilla,,200,10,15,10
+111,Spicy Tostada,,210,10,22,6
+112,Triple Layer Nachos,,320,15,41,7
+113,Caramel Apple Empanada,,280,13,38,3
+114,Cinnamon Twists,,170,6,27,1
+115,Lowfat Milk,CA (Regional),100,2,13,9
+116,,Federal (Regional),80,2,10,7
+117,Water,,0,0,0,0
+118,Cool Ranch® Doritos®,Double Decker® Taco,320,13,36,14
+119,,Locos Taco,170,10,13,8
+120,,Locos Taco Supreme®,190,11,15,8
+121,Crunchy Taco,,170,9,13,8
+122,,Supreme®,190,11,15,8
+123,Double Decker® Taco,,320,13,36,14
+124,,Supreme®,340,15,38,14
+125,Fiery Doritos®,Double Decker® Taco,320,13,36,14
+126,,Locos Taco,170,9,12,8
+127,,Locos Taco Supreme®,190,11,15,9
+128,Grilled Steak Soft Taco,,200,10,17,12
+129,Nacho Cheese Doritos®,Double Decker® Taco,320,13,36,14
+130,,Locos Taco,170,9,13,8
+131,,Locos Taco Supreme®,190,11,15,9
+132,Soft Taco,Beef,180,9,17,9
+133,,Chicken,170,8,16,10
+134,Soft Taco Supreme®,Beef,210,10,20,10
+135,Spicy Potato Soft Taco,,230,12,27,5
+136,Blue Raspberry Freeze™,(16 oz),240,0,59,0
+137,,(20 oz),300,0,75,0
+138,Caleb's Kola,(20 oz),230,0,60,0
+139,Cheesy Jalapeno Dippers,,700,31,80,26
+140,Domestic Beer - Light,(16 oz),140,0,8,1
+141,Domestic Beer - Regular,(16 oz),200,0,17,2
+142,IZZE Sparkling Clementine,(20 oz),180,0,48,0
+143,Lemonade Freeze™,(16 oz),240,0,59,0
+144,,(20 oz),300,0,75,0
+145,Margarita Freeze™,(16 oz),240,0,59,0
+146,,(20 oz),300,0,75,0
+147,Mini Quesadilla Nachos,,780,40,67,37
+148,Mtn Dew® Baja Blast Freeze™,(16 oz),180,0,51,0
+149,,(20 oz),230,0,64,0
+150,Mtn Dew® Freeze™,(16 oz),120,0,33,0
+151,,(20 oz),160,0,44,0
+152,Naked Chicken Chips - Cantina,12 Pieces,940,67,55,28
+153,Orange Cream Pop Freeze™,(16 oz),130,0,34,0
+154,,(20 oz),160,0,44,0
+155,Pepsi® Freeze™,(16 oz),110,0,31,0
+156,,(20 oz),140,0,39,0
+157,Pina Colada Freeze™,(16 oz),240,0,59,0
+158,,(20 oz),300,0,75,0
+159,Premium Beer - Light,(16 oz),140,0,8,1
+160,Premium Beer - Regular,(16 oz),200,0,17,2
+161,Prosecco Sparkling Wine,(350 mL),280,0,9,0
+162,Red Cherry Freeze™,(16 oz),240,0,59,0
+163,,(20 oz),300,0,75,0
+164,Red Sangria,(16 oz),330,0,27,0
+165,Red Wine,(6.3 fl oz),160,0,5,0
+166,Rum,(80 proof),70,0,0,0
+167,Stubborn Soda - Black Cherry Tarragon,(20 oz),240,0,61,0
+168,Stubborn Soda - Classic Root Beer,(20 oz),280,0,73,0
+169,Tequila,(80 proof),70,0,0,0
+170,Vodka,(80 proof),70,0,0,0
+171,Blue Raspberry Freeze™ - LV,(16 oz),190,0,49,0
+172,,(20 oz),300,0,75,0
+173,,(32 oz),360,0,92,0
+174,Caleb's Kola - LV,(20 oz),230,0,60,0
+175,Cherry Freeze™ - LV,(16 oz),190,0,49,0
+176,,(20 oz),300,0,75,0
+177,,(32 oz),360,0,92,0
+178,Domestic Beer - Light - LV,(16 oz),140,0,8,1
+179,Domestic Beer - Regular - LV,(16 oz),200,0,17,2
+180,IZZE Sparkling Clementine - LV,(20 oz),180,0,48,0
+181,Lemonade Freeze™ - LV,(16 oz),190,0,49,0
+182,,(20 oz),300,0,75,0
+183,,(32 oz),360,0,92,0
+184,Margarita Freeze™ - LV,(16 oz),190,0,49,0
+185,,(20 oz),300,0,75,0
+186,,(32 oz),360,0,92,0
+187,Mtn Dew® Baja Blast Freeze™ - LV,(16 oz),150,0,42,0
+188,,(20 oz),230,0,64,0
+189,,(32 oz),280,0,78,0
+190,Orange Cream Pop Freeze™ - LV,(16 oz),110,0,28,0
+191,,(20 oz),160,0,44,0
+192,,(32 oz),200,0,53,0
+193,Pepsi® Freeze™ - LV,(16 oz),90,0,26,0
+194,,(20 oz),140,0,39,0
+195,,(32 oz),180,0,48,0
+196,Pina Colada Freeze™- LV,(16 oz),190,0,49,0
+197,,(20 oz),300,0,75,0
+198,,(32 oz),360,0,92,0
+199,Premium Beer - Light - LV,(16 oz),140,0,8,1
+200,Premium Beer - Regular - LV,(16 oz),200,0,17,2
+201,Red Sangria - LV,(16 oz),330,0,27,0
+202,Red Wine - LV,(8 fl oz),200,0,6,0
+203,Rum (80 proof) - LV,Double,250,0,0,0
+204,,Single,120,0,0,0
+205,Strawberry Flavor Shot - LV,(16 oz),0,0,<1,0
+206,,(32 oz),0,0,1,0
+207,Stubborn Soda - Black Cherry Taragon - LV,(20 oz),240,0,61,0
+208,Stubborn Soda - Classic Root Beer - LV,(20 oz),280,0,73,0
+209,Tequila (80 proof) - LV,Double,250,0,0,0
+210,,Single,120,0,0,0
+211,Vanilla Flavor Shot - LV,(16 oz),0,0,<1,0
+212,,(32 oz),0,0,1,0
+213,Vodka (80 proof) - LV,Double,250,0,0,0
+214,,Sinlge,120,0,0,0
+215,Whiskey (80 proof) - LV,Double,250,0,0,0
+216,,Sinlge,120,0,0,0
+217,White Sangria - LV,(16 oz),340,0,29,0
+218,White Wine - LV,(8 fl oz),190,0,6,0
+219,Aquafina® Sparkling Berry Breeze,16 OZ,0,0,0,0
+220,Brisk® Iced Tea and Lemonade,16 OZ,80,0,22,0
+221,Brisk® Mango Iced Tea,16 OZ,100,0,26,0
+222,Brisk® No Calorie Peach Iced Green Tea,16 OZ,0,0,0,0
+223,Brisk® Raspberry Iced Tea,16 OZ,100,0,26,0
+224,Brisk® Sweet Iced Tea,16 OZ,110,0,29,0
+225,Brisk® Unsweetened No Lemon Iced Tea,16 OZ,0,0,0,0
+226,Diet Dr Pepper®,16 OZ,0,0,0,0
+227,Diet Mtn Dew®,16 OZ,5,0,1,0
+228,Diet Pepsi®,16 OZ,0,0,0,0
+229,Dr Pepper®,16 OZ,190,0,52,0
+230,G2 - Fruit Punch,16 OZ,30,0,7,0
+231,Lipton® Brewed Iced Tea Sweetened,16 OZ,140,0,36,0
+232,Lipton® Brewed Iced Tea Unsweetened,16 OZ,0,0,0,0
+233,Manzanita Sol,16 OZ,210,0,58,0
+234,Mist Twst®,16 OZ,200,0,54,0
+235,Mtn Dew®,16 OZ,220,0,59,0
+236,Mtn Dew® Baja Blast™,16 OZ,220,0,59,0
+237,Mtn Dew® Code Red,16 OZ,230,0,62,0
+238,Mtn Dew® Kickstart™ Orange Citrus,16 OZ,70,0,18,0
+239,Mtn Dew® Spiked Lemonade,16 OZ,130,0,35,0
+240,Mug® Root Beer,16 OZ,190,0,52,0
+241,Pepsi®,16 OZ,200,0,55,0
+242,Pepsi® Wild Cherry,16 OZ,210,0,56,0
+243,Pepsi® Zero Sugar,16 OZ,0,0,0,0
+244,Sobe Lifewater® Yumberry Pomegranate - 0 Cal,16 OZ,0,0,0,0
+245,Tropicana® Fruit Punch,16 OZ,230,0,60,0
+246,Tropicana® Lemonade,16 OZ,210,0,54,0
+247,Tropicana® Pink Lemonade,16 OZ,210,0,53,0
+248,Aquafina® Sparkling Berry Breeze,20 OZ,0,0,0,0
+249,Brisk® Iced Tea and Lemonade,20 OZ,110,0,28,0
+250,Brisk® Mango Iced Tea,20 OZ,120,0,32,0
+251,Brisk® No Calorie Peach Iced Green Tea,20 OZ,5,0,0,0
+252,Brisk® Raspberry Iced Tea,20 OZ,130,0,33,0
+253,Brisk® Sweet Iced Tea,20 OZ,130,0,36,0
+254,Brisk® Unsweetened No Lemon Iced Tea,20 OZ,0,0,0,0
+255,Diet Dr Pepper®,20 OZ,0,0,0,0
+256,Diet Mtn Dew®,20 OZ,10,0,1,0
+257,Diet Pepsi®,20 OZ,0,0,0,0
+258,Dr Pepper®,20 OZ,240,0,65,0
+259,G2 - Fruit Punch,20 OZ,35,0,9,0
+260,Lipton® Brewed Iced Tea Sweetened,20 OZ,170,0,45,0
+261,Lipton® Brewed Iced Tea Unsweetened,20 OZ,0,0,0,0
+262,Manzanita Sol,20 OZ,260,0,73,0
+263,Mist Twst®,20 OZ,260,0,68,0
+264,Mtn Dew®,20 OZ,270,0,73,0
+265,Mtn Dew® Baja Blast™,20 OZ,280,0,74,0
+266,Mtn Dew® Code Red,20 OZ,290,0,77,0
+267,Mtn Dew® Kickstart™ Orange Citrus,20 OZ,90,0,23,0
+268,Mtn Dew® Spiked Lemonade,20 OZ,170,0,43,0
+269,Mug® Root Beer,20 OZ,240,0,65,0
+270,Pepsi®,20 OZ,250,0,69,0
+271,Pepsi® Wild Cherry,20 OZ,260,0,70,0
+272,Pepsi® Zero Sugar,20 OZ,0,0,0,0
+273,Sobe Lifewater® Yumberry Pomegranate - 0 Cal,20 OZ,0,0,0,0
+274,Tropicana® Fruit Punch,20 OZ,280,0,75,0
+275,Tropicana® Lemonade,20 OZ,260,0,67,0
+276,Tropicana® Pink Lemonade,20 OZ,260,0,67,0
+277,Aquafina® Sparkling Berry Breeze,30 OZ,0,0,0,0
+278,Brisk® Iced Tea and Lemonade,30 OZ,160,0,42,0
+279,Brisk® Mango Iced Tea,30 OZ,180,0,48,0
+280,Brisk® No Calorie Peach Iced Green Tea,30 OZ,10,0,0,0
+281,Brisk® Raspberry Iced Tea,30 OZ,190,0,49,0
+282,Brisk® Sweet Iced Tea,30 OZ,200,0,54,0
+283,Brisk® Unsweetened No Lemon Iced Tea,30 OZ,0,0,0,0
+284,Diet Dr Pepper®,30 OZ,0,0,1,0
+285,Diet Mtn Dew®,30 OZ,10,0,1,0
+286,Diet Pepsi®,30 OZ,0,0,0,0
+287,Dr Pepper®,30 OZ,360,0,98,0
+288,G2 - Fruit Punch,30 OZ,50,0,13,0
+289,Lipton® Brewed Iced Tea Sweetened,30 OZ,260,0,68,0
+290,Lipton® Brewed Iced Tea Unsweetened,30 OZ,0,0,0,0
+291,Manzanita Sol,30 OZ,400,0,109,0
+292,Mist Twst®,30 OZ,380,0,101,0
+293,Mtn Dew®,30 OZ,410,0,110,0
+294,Mtn Dew® Baja Blast™,30 OZ,420,0,110,0
+295,Mtn Dew® Code Red,30 OZ,430,0,116,0
+296,Mtn Dew® Kickstart™ Orange Citrus,30 OZ,130,0,34,0
+297,Mtn Dew® Spiked Lemonade,30 OZ,250,0,65,0
+298,Mug® Root Beer,30 OZ,360,0,98,0
+299,Pepsi®,30 OZ,380,0,104,0
+300,Pepsi® Wild Cherry,30 OZ,390,0,105,0
+301,Pepsi® Zero Sugar,30 OZ,0,0,0,0
+302,Sobe Lifewater® Yumberry Pomegranate - 0 Cal,30 OZ,5,0,1,0
+303,Tropicana® Fruit Punch,30 OZ,420,0,113,0
+304,Tropicana® Lemonade,30 OZ,390,0,100,0
+305,Tropicana® Pink Lemonade,30 OZ,390,0,100,0
+306,Border Sauce,Diablo,0,0,0,0
+307,,Fire,0,0,<1,0
+308,,Hot,0,0,0,0
+309,,Mild,0,0,0,0
+310,Breakfast Salsa,,0,0,<1,0

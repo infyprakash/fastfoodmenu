@@ -1,0 +1,99 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,Batter Dipped Fish,1 piece,230,15,11,10
+1,Breaded Flounder,1 piece,240,15,10,15
+2,Catfish Feast,3 pieces,780,56,33,33
+3,Country-Style Fish,1 piece,190,12,11,9
+4,Southern-Style White Fish Fillet,1 fillet,560,37,26,27
+5,Southern-Style Fish Tenders,1 tender,110,8,4,5
+6,14 Pc Chicken Family Meal,1 meal,2540,158,158,125
+7,14 Pc Chicken Family Meal,1 meal,2900,189,153,142
+8,Seafood Feast,1 meal,3870,262,211,150
+9,Blackened Tilapia,1 fillet,210,7,1,34
+10,Grilled White Fish & Shrimp Skewer,1 order,280,11,3,37
+11,Lemon Pepper White Fish,1 fillet,180,8,1,25
+12,Shrimp Skewers,2 skewers,200,6,2,24
+13,Wild Alaskan Salmon,1 fillet,230,10,2,31
+14,Kid's Batter Dipped Fish,1 piece,230,15,11,10
+15,Kid's Chicken Tenders,2 tenders,360,23,23,18
+16,Kid's Grilled Fish Tenders,2 tenders,100,6,1,10
+17,Kid's Popcorn Shrimp,1 order,240,14,24,8
+18,Kid's Southern-style Fish Tenders,2 tenders,220,15,8,11
+19,Grilled Tilapia Salad,1 salad,310,13,9,41
+20,Skewer Shrimp Salad,1 salad,300,11,10,30
+21,Southern Style Breaded Chicken Salad,1 salad,290,17,20,15
+22,The Captain Sandwich,1 sandwich,1130,74,82,30
+23,The Giant Fish Sandwich,1 sandwich,1010,73,59,25
+24,Wild Alaskan Salmon Salad,1 salad,330,16,10,38
+25,15 Pc Butterfly Shrimp,1 meal,900,64,58,23
+26,2 Pc Fish & Chicken,1 meal,820,53,45,38
+27,4 Pc Chicken,1 meal,730,45,45,36
+28,Deluxe Seafood Platter,1 meal,1100,75,67,36
+29,Fish & Shrimp,1 meal,810,56,45,30
+30,Supreme Sampler,1 meal,1180,79,68,47
+31,"White Fish, Shrimp & Crab",1 meal,940,64,52,36
+32,1 Pc Batter Dipped Fish,1 piece,230,15,11,10
+33,2 Pc Chicken,2 pieces,360,23,23,18
+34,6 Pc Butterfly Shrimp,6 pieces,360,26,23,9
+35,Baked Potato,1 potato,210,0,48,6
+36,Breadstick,1 stick,150,5,22,3
+37,Broccoli,1 order,20,0,4,2
+38,Chicken Tender,1 tender,180,11,11,9
+39,Clam Strips & Butterfly Shrimp,1 order,820,56,65,21
+40,Clam Strips,1 order,580,38,49,15
+41,Cocktail Sauce,1 serving,25,--,4,--
+42,Cocktail Sauce,1 order,180,13,15,1
+43,Corn,1 cob,180,1.5,37,5
+44,Cracklins,1 oz,70,4,7,1
+45,D's Dippin' Sauce,1 serving,140,14,3,--
+46,Fat-free Italian Dressing,1 pouch,10,--,2,--
+47,French Fries,1 order,330,22,28,3
+48,Green Beans,1 order,70,2.5,5,2
+49,Grilled Shrimp Skewer,1 skewer,100,3,1,12
+50,Honey Mustard Dressing,1 pouch,160,16,4,--
+51,Hush Puppy,1 piece,80,4,9,1
+52,Jalapeno Poppers,1 order,510,36,40,6
+53,Ketchup,1 oz,30,--,9,--
+54,Loaded Baked Potato,1 potato,400,15,49,18
+55,Mac & Cheese,1 order,170,8,18,6
+56,Mozzarella Sticks,1 order,380,24,26,16
+57,Okra,1 order,320,20,31,4
+58,Ranch Dressing,1 pouch,110,12,1,1
+59,Seasoned Rice,1 order,170,1.5,35,3
+60,Side Salad (no dressing),1 salad,20,0,4,1
+61,Sweet And Sour Sauce,1 serving,35,--,10,--
+62,Tartar Sauce,1 serving,100,10,2,--
+63,Thousand Island Dressing,1 pouch,120,11,5,--
+64,Cheesecake,1 slice,410,27,36,6
+65,Cheesecake with Strawberry Topping,1 slice,460,27,49,6
+66,Chocolate Cake,1 slice,300,11,49,3
+67,Funnel Cake Stix,1 order,320,20,30,2
+68,Strawberry Topping,1 serving,50,--,13,--
+69,Coke,Kids,150,--,40,--
+70,,Large,500,--,135,--
+71,,Medium,370,--,101,--
+72,,Small,250,--,67,--
+73,Diet Coke,Kids,0,--,--,--
+74,,Large,0,--,--,--
+75,,Medium,0,--,--,--
+76,,Small,0,--,--,--
+77,Dr. Pepper,Kids,150,--,40,--
+78,,Large,500,--,132,--
+79,,Medium,370,--,99,--
+80,,Small,250,--,66,--
+81,Peach Smoothie,16 fl oz,360,--,90,--
+82,Sprite,Kids,150,--,37,--
+83,,Large,490,--,125,1
+84,,Medium,370,--,94,--
+85,,Small,250,--,62,--
+86,Strawberry Smoothie,16 fl oz,300,--,75,--
+87,Sweet Tea,Gallon,1740,--,450,--
+88,,Kids,140,--,37,--
+89,,Large,480,--,124,--
+90,,Medium,360,--,93,--
+91,,Small,240,--,62,--
+92,Tropical Mango Smoothie,16 fl oz,330,--,82,--
+93,Unsweetened Tea,Gallon,0,--,--,--
+94,,Kids,0,--,--,--
+95,,Large,0,--,--,--
+96,,Medium,0,--,--,--
+97,,Small,0,--,--,--

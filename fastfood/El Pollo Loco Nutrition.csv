@@ -1,0 +1,149 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,Chile Lime Sauce,1-4 pc,360,33,17,2
+1,,8 pc,720,66,34,3
+2,,12 pc,1080,98,51,5
+3,,16 pc,1440,131,67,6
+4,Chipotle BBQ,1-4 pc,160,0,39,1
+5,,8 pc,320,0.5,77,2
+6,,12 pc,490,1,116,3
+7,,16 pc,650,1,155,4
+8,Tropical Habanero,1-4 pc,170,1,39,0
+9,,8 pc,330,1.5,78,1
+10,,12 pc,500,2.5,117,1
+11,,16 pc,660,3,156,2
+12,"Loco Kickin’ Chicken Family Meal
+Loco Family Salad (w/o dressing)",,140,6,17,5
+13,Double Chicken Power,,520,24,26,51
+14,Double Shrimp Mango,,400,21,39,16
+15,Double Chicken Superfood,,550,22,39,50
+16,Double Chicken Fresh,,630,31,37,55
+17,Chicken Leg,,90,4,0,12
+18,Chicken Wing,,90,5,0,11
+19,Chicken Thigh,,220,15,0,21
+20,Chicken Breast,,220,9,0,36
+21,Chicken Breast,Skinless,180,3.5,0,35
+22,Pinto Beans,,200,4,29,11
+23,Rice,,170,2.5,33,3
+24,Rice,Brown,140,2,28,3
+25,Mashed Potatoes,,110,1.5,23,2
+26,Gravy,,10,0,2,0
+27,Macaroni & Cheese,,310,19,24,9
+28,Loco Side Salad,,210,18,8,3
+29,Black Beans,,140,1,24,8
+30,Cole Slaw,,130,10,9,1
+31,Cut Corn (with red peppers),,160,5,24,4
+32,Broccoli,,30,0,6,2
+33,Chicken Tortilla Soup w/o tortilla strips,Small,140,5,10,15
+34,,Large,300,11,22,32
+35,Chicken Tortilla Soup w/ tortilla strips,Small,210,9,19,16
+36,,Large,450,19,40,34
+37,Tortilla Chips,Small,200,11,22,2
+38,BRC Burrito,,430,12,64,15
+39,Tortilla Roll,,400,15,38,26
+40,Chunky Guac,Individual,220,20,13,3
+41,,Family,450,40,26,6
+42,Chips & Chunky Guac,Individual,980,64,96,11
+43,,Family,1210,84,109,14
+44,Chips & Queso (Texas restaurants only),Small,350,24,26,8
+45,,Large,1070,70,91,21
+46,Classic Salad,Chicken,240,8,19,25
+47,,Shrimp,290,14,22,19
+48,Mexican Cobb Salad,Chicken,520,25,38,37
+49,,Shrimp,560,32,40,31
+50,Double Avocado Salad – Chicken,,380,15,15,48
+51,Avocado Tortilla Wrap – Chicken,,480,20,46,35
+52,Black Bean Bowl – Chicken,,480,12,57,38
+53,Skinless Chicken Breast Meal,with Corn Tortillas,420,11,38,43
+54,,with Flour Tortillas,490,17,43,45
+55,Double Avocado Salad – Shrimp*,,380,27,15,19
+56,Avocado Tortilla Wrap – Shrimp,,510,27,47,22
+57,Black Bean Bowl – Shrimp,,490,19,57,24
+58,Tostada Salad,Chicken,860,42,77,41
+59,,Shrimp,910,49,80,34
+60,Tostada Salad w/o shell,Chicken,430,13,43,34
+61,,Shrimp,480,20,45,27
+62,Double Tostada Salad,Chicken,1030,50,82,63
+63,,Shrimp,1070,61,85,45
+64,Double Tostada Salad w/o shell,Chicken,600,21,47,56
+65,,Shrimp,640,32,51,38
+66,Original Pollo Bowl®,Chicken,610,10,87,40
+67,,Shrimp,630,18,88,27
+68,Double Bowl,Chicken,930,30,93,700
+69,,Shrimp,1010,44,97,50
+70,Grande Avocado Bowl,Chicken,850,29,97,49
+71,,Shrimp,900,36,99,42
+72,Avocado Burrito,Chicken,950,53,74,48
+73,,Shrimp,950,54,74,42
+74,Ranchero Burrito,Chicken,930,45,86,45
+75,,Shrimp,890,42,84,41
+76,Fajita Burrito,Chicken,870,38,84,46
+77,,Shrimp,870,40,84,40
+78,Chipotle Avocado Burrito,Chicken,920,41,89,49
+79,,Shrimp,920,43,89,43
+80,Classic Burrito,Chicken,520,16,66,26
+81,,Shrimp,560,22,65,24
+82,BRC Burrito,,430,12,64,15
+83,Avocado Quesadilla,Chicken,960,61,59,47
+84,,Shrimp,1020,63,67,46
+85,Fajita Avocado Quesadilla,Chicken,910,54,63,47
+86,,Shrimp,900,56,62,39
+87,Taco al Carbón,Chicken,160,6,18,10
+88,,Shrimp,160,7,17,6
+89,Crunchy Chicken Taco,,230,11,19,15
+90,Grande Avocado Taco,Chicken,340,20,20,20
+91,,Shrimp,320,18,20,18
+92,Grande Chicken Taco,,300,16,18,20
+93,Grande Shrimp Taco,,290,18,18,14
+94,Original Pollo Bowl®,Chicken,610,10,87,40
+95,,Shrimp,630,18,88,27
+96,Mexican Caesar Bowl,Chicken,440,20,38,27
+97,,Shrimp,470,28,39,14
+98,Classic Burrito,Chicken,520,16,66,26
+99,,Shrimp,560,22,65,24
+100,BRC Burrito,,430,12,64,15
+101,Chicken Legs (2),,170,8,0,25
+102,Mini Pollo Bowl,,340,6,48,23
+103,Kids’ Quesadilla,,430,23,38,20
+104,Cinnamon Churros (2),,320,22,30,3
+105,Creamy Cilantro Dressing,,320,35,2,1
+106,Light Creamy Cilantro Dressing (packet),,70,5,5,1
+107,Ranch Dressing (packet),,230,24,2,1
+108,Lowfat Citrus Vinaigrette Dressing,,70,4,8,0
+109,House Salsa (Mild),,10,0,2,0
+110,Pico de Gallo (Medium),,15,1,2,0
+111,Avocado Salsa (Hot),,30,2.5,2,0
+112,Salsa Roja (Fiery),,10,0,2,0
+113,Sour Cream,,80,7,1,1
+114,Jalapeño Hot Sauce (packet),,5,0,1,0
+115,"6"" Flour Tortillas (2) ",,190,6,29,5
+116,"6"" Corn Tortillas (2)",,110,1.5,22,2
+117,Coca-Cola®,Small,160,0,45,0
+118,,Large,260,0,71,0
+119,Diet Coke®,Small,0,0,0,0
+120,,Large,0,0,0,0
+121,Coke Zero®,Small,0,0,0,0
+122,,Large,0,0,0,0
+123,Cherry Coke®,Small,170,0,47,0
+124,,Large,270,0,75,0
+125,Sprite®,Small,160,0,43,0
+126,,Large,260,0,69,0
+127,Fanta® Orange,Small,180,0,47,0
+128,,Large,280,0,76,0
+129,Hi-C® Flashin’ Fruit Punch®,Small,170,0,46,0
+130,,Large,270,0,73,0
+131,Minute Maid® Lemonade,Small,160,0,42,0
+132,,Large,260,0,67,0
+133,Dr Pepper®,Small,170,0,43,0
+134,,Large,270,0,68,0
+135,Gold Peak® Fresh-Brewed Unsweetened Iced Tea,Small,0,0,0,0
+136,,Large,0,0,0,0
+137,Gold Peak® Fresh-Brewed Mango Passion Fruit Tea,Small,0,0,0,0
+138,,Large,0,0,0,0
+139,FUZE® Sweetened Raspberry Iced Tea,Small,100,0,27,0
+140,,Large,160,0,43,0
+141,Horchata,Small,160,6,27,0
+142,,Large,250,9,42,0
+143,VitaminWater Zero,Small,3,0,0,0
+144,,Large,5,0,0,0
+145,VitaminWater XXX,Small,80,0,11,0
+146,,Large,120,0,30,0

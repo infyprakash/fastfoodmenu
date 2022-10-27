@@ -1,0 +1,1143 @@
+,Food,Type,Size,Calories,Fat,Carbs,Protein
+0,Dual Layer Pepperoni,Original Crust,Pizza for One,240,11g,26g,9g
+1,,,Small,240,11g,26g,9g
+2,,,Medium,260,12g,27g,9g
+3,,,Large,360,17g,38g,13g
+4,,,Extra Large,380,17g,40g,14g
+5,,Thin Crust,,290,18g,20g,11g
+6,,Pan Crust,,340,16g,36g,12g
+7,,Gluten Free,,250,12g,26g,9g
+8,XL Double Topping,Original Crust,Pizza for One,N/A,N/A,N/A,N/A
+9,,,Small,N/A,N/A,N/A,N/A
+10,,,Medium,N/A,N/A,N/A,N/A
+11,,,Large,N/A,N/A,N/A,N/A
+12,,,Extra Large,400,19g,41g,15g
+13,,Thin Crust,,N/A,N/A,N/A,N/A
+14,,Pan Crust,,N/A,N/A,N/A,N/A
+15,,Gluten Free,,N/A,N/A,N/A,N/A
+16,Bacon Cheddarburger,Original Crust,Pizza for One,290,16g,26g,11g
+17,,,Small,260,13g,26g,9g
+18,,,Medium,270,14g,27g,10g
+19,,,Large,400,20g,38g,14g
+20,,,Extra Large,430,22g,41g,15g
+21,,Thin Crust,,320,22g,20g,12g
+22,,Pan Crust,,330,14g,36g,12g
+23,Double Bacon Six Cheese,Original Crust,Pizza for One,240,10g,25g,11g
+24,,,Small,230,9g,26g,11g
+25,,,Medium,240,10g,27g,12g
+26,,,Large,350,14g,38g,17g
+27,,,Extra Large,370,15g,40g,17g
+28,,Thin Crust,,280,15g,20g,14g
+29,,Pan Crust,,340,14g,36g,17g
+30,Cheese Pizza,Original Crust,Pizza for One,200,7g,25g,8g
+31,,,Small,180,6g,25g,7g
+32,,,Medium,210,7g,27g,8g
+33,,,Large,290,10g,38g,11g
+34,,,Extra Large,300,10g,40g,11g
+35,,Thin Crust,,210,11g,20g,8g
+36,,Pan Crust,,290,11g,36g,10g
+37,,Gluten Free,,130,6g,16g,5g
+38,Pepperoni Pizza,Original Crust,Pizza for One,220,10g,25g,8g
+39,,,Small,210,8g,25g,8g
+40,,,Medium,230,9g,26g,8g
+41,,,Large,320,13g,38g,12g
+42,,,Extra Large,330,13g,40g,12g
+43,,Thin Crust,,250,14g,20g,9g
+44,,Pan Crust,,340,16g,36g,12g
+45,,Gluten Free,,160,9g,16g,6g
+46,John's Favorite,Original Crust,Pizza for One,280,15g,24g,11g
+47,,,Small,260,13g,24g,11g
+48,,,Medium,280,14g,25g,11g
+49,,,Large,390,20g,36g,16g
+50,,,Extra Large,410,21g,38g,16g
+51,,Thin Crust,,320,22g,18g,13g
+52,,Pan Crust,,370,18g,36g,14g
+53,The Works,Original Crust,Pizza for One,230,10g,26g,9g
+54,,,Small,230,9g,26g,9g
+55,,,Medium,230,9g,27g,9g
+56,,,Large,340,14g,39g,13g
+57,,,Extra Large,360,15g,41g,14g
+58,,Thin Crust,,270,15g,21g,11g
+59,,Pan Crust,,320,13g,37g,12g
+60,,Gluten Free,,170,10g,16g,7g
+61,The Meats,Original Crust,Pizza for One,260,12g,26g,11g
+62,,,Small,250,12g,26g,10g
+63,,,Medium,260,11g,27g,11g
+64,,,Large,380,17g,38g,15g
+65,,,Extra Large,410,19g,41g,17g
+66,,Thin Crust,,300,19g,20g,13g
+67,,Pan Crust,,340,15g,36g,13g
+68,,Gluten Free,,200,12g,16g,8g
+69,Garden Fresh,Original Crust,Pizza for One,190,6g,26g,7g
+70,,,Small,190,6g,26g,7g
+71,,,Medium,200,7g,27g,7g
+72,,,Large,280,9g,39g,10g
+73,,,Extra Large,300,9g,41g,11g
+74,,Thin Crust,,210,10g,21g,8g
+75,,Pan Crust,,280,10g,37g,10g
+76,,Gluten Free,,140,6g,17g,5g
+77,Spicy Italian,Original Crust,Pizza for One,270,14g,26g,10g
+78,,,Small,240,11g,26g,9g
+79,,,Medium,270,13g,27g,10g
+80,,,Large,380,18g,38g,14g
+81,,,Extra Large,400,19g,40g,15g
+82,,Thin Crust,,310,20g,20g,11g
+83,,Pan Crust,,350,17g,36g,12g
+84,,Gluten Free,,190,12g,16g,7g
+85,Spinach Alfredo,Original Crust,Pizza for One,200,8g,24g,7g
+86,,,Small,190,7g,24g,7g
+87,,,Medium,200,7g,25g,7g
+88,,,Large,280,10g,36g,10g
+89,,,Extra Large,300,11g,38g,11g
+90,,Thin Crust,,210,11g,18g,8g
+91,,Pan Crust,,280,11g,34g,10g
+92,,Gluten Free,,140,7g,15g,5g
+93,BBQ Chicken Bacon,Original Crust,Pizza for One,240,8g,30g,12g
+94,,,Small,230,7g,30g,10g
+95,,,Medium,240,8g,32g,11g
+96,,,Large,340,11g,45g,16g
+97,,,Extra Large,360,11g,48g,16g
+98,,Thin Crust,,270,12g,27g,13g
+99,,Pan Crust,,340,12g,42g,13g
+100,,Gluten Free,,170,7g,20g,8g
+101,Hawaiian BBQ Chicken,Original Crust,Pizza for One,250,8g,32g,12g
+102,,,Small,230,7g,31g,10g
+103,,,Medium,250,8g,33g,11g
+104,,,Large,360,11g,47g,17g
+105,,,Extra Large,370,11g,50g,16g
+106,,Thin Crust,,280,12g,29g,13g
+107,,Pan Crust,,340,12g,44g,13g
+108,,Gluten Free,,180,7g,22g,8g
+109,Tuscan Six Cheese,Original Crust,Pizza for One,220,9g,25g,10g
+110,,,Small,220,8g,26g,9g
+111,,,Medium,230,9g,27g,10g
+112,,,Large,320,12g,38g,14g
+113,,,Extra Large,330,12g,40g,14g
+114,,Thin Crust,,250,13g,20g,11g
+115,,Pan Crust,,310,13g,36g,12g
+116,,Gluten Free,,160,8g,16g,7g
+117,Sausage Pizza,Original Crust,Pizza for One,230,10g,25g,8g
+118,,,Small,220,10g,25g,8g
+119,,,Medium,240,11g,27g,8g
+120,,,Large,330,14g,38g,12g
+121,,,Extra Large,340,15g,40g,12g
+122,,Thin Crust,,260,16g,20g,9g
+123,,Pan Crust,,340,16g,36g,11g
+124,,Gluten Free,,170,10g,16g,6g
+125,Buffalo Chicken,Original Crust,Pizza for One,280,13g,28g,10g
+126,,,Small,250,11g,27g,9g
+127,,,Medium,260,12g,27g,10g
+128,,,Large,380,17g,40g,14g
+129,,,Extra Large,400,18g,43g,14g
+130,,Thin Crust,,300,18g,22g,11g
+131,,Pan Crust,,360,17g,37g,12g
+132,Chicken Cordon Blue,Original Crust,Pizza for One,260,11g,25g,15g
+133,,,Small,240,10g,25g,12g
+134,,,Medium,260,11g,27g,14g
+135,,,Large,360,15g,38g,18g
+136,,,Extra Large,380,15g,41g,19g
+137,,Thin Crust,,290,16g,21g,16g
+138,,Pan Crust,,350,15g,37g,17g
+139,,Gluten Free,,190,10g,15g,10g
+140,Chicken BBQ,Original Crust,Pizza for One,240,8g,30g,12g
+141,,,Small,230,7g,30g,11g
+142,,,Medium,250,8g,32g,12g
+143,,,Large,350,11g,45g,17g
+144,,,Extra Large,370,11g,48g,17g
+145,,Thin Crust,,280,12g,27g,14g
+146,,Pan Crust,,260,13g,43g,16g
+147,Pepperoni and Sausage,Original Crust,Pizza for One,260,13g,25g,9g
+148,,,Small,240,11g,25g,8g
+149,,,Medium,260,13g,26g,9g
+150,,,Large,360,17g,38g,13g
+151,,,Extra Large,380,17g,40g,13g
+152,,Thin Crust,,310,20g,20g,11g
+153,,Pan Crust,,340,16g,36g,11g
+154,,Gluten Free,,190,12g,16g,7g
+155,Italian Sausage,Original Crust,Pizza for One,230,10g,25g,8g
+156,,,Small,160,7g,19g,6g
+157,,,Medium,230,10g,27g,9g
+158,,,Large,320,13g,38g,12g
+159,,,Extra Large,340,14g,40g,12g
+160,,Thin Crust,,250,15g,20g,9g
+161,,Pan Crust,,330,15g,36g,11g
+162,Mediterranean Veggie Pizza,Original Crust,Pizza for One,180,5g,26g,6g
+163,,,Small,170,4.5g,26g,5g
+164,,,Medium,180,4.5g,27g,6g
+165,,,Large,250,7g,38g,8g
+166,,,Extra Large,270,7g,41g,9g
+167,,Thin Crust,,180,8g,20g,5g
+168,,Pan Crust,,230,6g,35g,7g
+169,Chicken & Veggie Pizza,Original Crust,Pizza for One,190,6g,26g,9g
+170,,,Small,170,4.5g,26g,7g
+171,,,Medium,180,5g,27g,7g
+172,,,Large,260,7g,38g,10g
+173,,,Extra Large,280,8g,41g,12g
+174,,Thin Crust,,190,8g,20g,8g
+175,,Pan Crust,,230,6g,35g,9g
+176,Tropical Luau Pizza,Original Crust,Pizza for One,190,6g,27g,8g
+177,,,Small,170,4.5g,26g,6g
+178,,,Medium,180,4.5g,27g,7g
+179,,,Large,260,6g,39g,10g
+180,,,Extra Large,280,7g,42g,11g
+181,,Thin Crust,,180,8g,21g,7g
+182,,Pan Crust,,250,8g,36g,8g
+183,Hawaiian Chicken Pizza,Original Crust,Pizza for One,200,5g,27g,9g
+184,,,Small,180,4g,26g,8g
+185,,,Medium,190,4.5g,27g,9g
+186,,,Large,270,6g,39g,12g
+187,,,Extra Large,280,7g,41g,13g
+188,,Thin Crust,,190,7g,21g,10g
+189,,Pan Crust,,240,6g,35g,11g
+190,Grilled Chicken & Canadian Bacon Pizza,Original Crust,Pizza for One,200,6g,25g,11g
+191,,,Small,180,4.5g,25g,8g
+192,,,Medium,190,4.5g,26g,9g
+193,,,Large,270,7g,37g,13g
+194,,,Extra Large,290,7g,40g,14g
+195,,Thin Crust,,190,8g,19g,11g
+196,,Pan Crust,,260,8g,34g,11g
+197,"Bacon,Egg,Cheese",Original Crust,Pizza for One,250,12g,25g,11g
+198,,,Small,N/A,N/A,N/A,N/A
+199,,,Medium,N/A,N/A,N/A,N/A
+200,,,Large,390,20g,38g,16g
+201,,,Extra Large,N/A,N/A,N/A,N/A
+202,,Thin Crust,,N/A,N/A,N/A,N/A
+203,,Pan Crust,,N/A,N/A,N/A,N/A
+204,Big Bonanza,Original Crust,Pizza for One,260,10g,31g,11g
+205,,,Small,250,9g,31g,10g
+206,,,Medium,260,10g,32g,11g
+207,,,Large,370,14g,45g,15g
+208,,,Extra Large,400,15g,49g,17g
+209,,Thin Crust,,300,14g,27g,13g
+210,,Pan Crust,,360,14g,43g,13g
+211,,Gluten Free,,200,9g,21g,8g
+212,Chicken Bacon Ranch,Original Crust,Pizza for One,260,12g,26g,12g
+213,,,Small,240,11g,26g,10g
+214,,,Medium,260,11g,27g,11g
+215,,,Large,370,16g,38g,16g
+216,,,Extra Large,380,17g,41g,17g
+217,,Thin Crust,,290,17g,20g,13g
+218,,Pan Crust,,330,15g,35g,13g
+219,,Gluten Free,,180,11g,16g,6g
+220,Chicken Club,Original Crust,Pizza for One,230,8g,27g,12g
+221,,,Small,220,8g,26g,10g
+222,,,Medium,230,8g,28g,11g
+223,,,Large,330,11g,39g,16g
+224,,,Extra Large,340,12g,42g,16g
+225,,Thin Crust,,260,13g,21g,13g
+226,,Pan Crust,,310,12g,37g,13g
+227,,Gluten Free,,160,8g,17g,8g
+228,Chicken Veggie Lite(Chicken Delight),Original Crust,Pizza for One,200,6g,26g,10g
+229,,,Small,190,6g,26g,8g
+230,,,Medium,210,6g,27g,10g
+231,,,Large,290,9g,39g,14g
+232,,,Extra Large,310,9g,41g,14g
+233,,Thin Crust,,220,10g,21g,11g
+234,,Pan Crust,,290,10g,37g,12g
+235,Dawg Pound Deluxe,Original Crust,Pizza for One,230,10g,26g,8g
+236,,,Small,220,9g,26g,8g
+237,,,Medium,210,7g,27g,8g
+238,,,Large,330,13g,39g,12g
+239,,,Extra Large,340,14g,41g,12g
+240,,Thin Crust,,250,15g,21g,9g
+241,,Pan Crust,,310,13g,36g,11g
+242,Defender,Original Crust,Pizza for One,290,15g,26g,12g
+243,,,Small,270,14g,26g,11g
+244,,,Medium,290,15g,27g,12g
+245,,,Large,420,21g,38g,17g
+246,,,Extra Large,410,19g,41g,17g
+247,,Thin Crust,,340,22g,21g,15g
+248,,Pan Crust,,390,19g,36g,16g
+249,,Gluten Free,,220,14g,16g,9g
+250,Egg and Cheese,Original Crust,Pizza for One,240,11g,25g,10g
+251,,,Small,N/A,N/A,N/A,N/A
+252,,,Medium,N/A,N/A,N/A,N/A
+253,,,Large,340,16g,37g,13g
+254,,,Extra Large,N/A,N/A,N/A,N/A
+255,,Thin Crust,,N/A,N/A,N/A,N/A
+256,,Pan Crust,,N/A,N/A,N/A,N/A
+257,Western Omelet,Original Crust,Pizza for One,240,10g,25g,11g
+258,,,Small,N/A,N/A,N/A,N/A
+259,,,Medium,N/A,N/A,N/A,N/A
+260,,,Large,380,18g,38g,16g
+261,,,Extra Large,N/A,N/A,N/A,N/A
+262,,Thin Crust,,N/A,N/A,N/A,N/A
+263,,Pan Crust,,N/A,N/A,N/A,N/A
+264,Garden Special White,Original Crust,Pizza for One,190,7g,25g,7g
+265,,,Small,200,7g,25g,7g
+266,,,Medium,210,8g,27g,8g
+267,,,Large,300,11g,38g,11g
+268,,,Extra Large,310,11g,41g,12g
+269,,Thin Crust,,220,12g,20g,8g
+270,,Pan Crust,,290,12g,35g,10g
+271,,Gluten Free,,150,7g,16g,5g
+272,Giardineiera,Original Crust,Pizza for One,180,6g,24g,7g
+273,,,Small,180,6g,24g,6g
+274,,,Medium,190,6g,25g,7g
+275,,,Large,260,9g,36g,10g
+276,,,Extra Large,280,9g,38g,10g
+277,,Thin Crust,,190,10g,18g,7g
+278,,Pan Crust,,290,11g,36g,9g
+279,Ham Veggie Lite(Ham Delight),Original Crust,Pizza for One,200,6g,26g,8g
+280,,,Small,190,6g,26g,8g
+281,,,Medium,200,6g,27g,8g
+282,,,Large,290,9g,39g,12g
+283,,,Extra Large,300,9g,41g,13g
+284,,Thin Crust,,220,10g,21g,9g
+285,,Pan Crust,,280,10g,37g,10g
+286,"Ham,Egg,Cheese",Original Crust,Pizza for One,220,9g,24g,10g
+287,,,Small,N/A,N/A,N/A,N/A
+288,,,Medium,N/A,N/A,N/A,N/A
+289,,,Large,360,17g,37g,16g
+290,,,Extra Large,N/A,N/A,N/A,N/A
+291,,Thin Crust,,N/A,N/A,N/A,N/A
+292,,Pan Crust,,N/A,N/A,N/A,N/A
+293,Hawaiian,Original Crust,Pizza for One,210,7g,27g,9g
+294,,,Small,200,6g,27g,8g
+295,,,Medium,210,7g,28g,9g
+296,,,Large,300,9g,40g,12g
+297,,,Extra Large,310,9g,42g,13g
+298,,Thin Crust,,220,10g,22g,10g
+299,,Pan Crust,,290,10g,37g,11g
+300,,Gluten Free,,150,6g,17g,6g
+301,Hawaiian Volcano,Original Crust,Pizza for One,230,8g,27g,10g
+302,,,Small,220,8g,27g,9g
+303,,,Medium,230,8g,28g,10g
+304,,,Large,330,12g,40g,14g
+305,,,Extra Large,350,12g,43g,15g
+306,,Thin Crust,,260,13g,23g,11g
+307,,Pan Crust,,330,13g,39g,12g
+308,,Gluten Free,,110,4.5g,15g,4g
+309,Hawaiian with cream cheese,Original Crust,Pizza for One,220,8g,27g,9g
+310,,,Small,220,8g,27g,9g
+311,,,Medium,230,8g,28g,9g
+312,,,Large,320,11g,40g,13g
+313,,,Extra Large,330,11g,43g,13g
+314,,Thin Crust,,240,12g,23g,10g
+315,,Pan Crust,,310,12g,38g,12g
+316,,Gluten Free,,150,8g,16g,6g
+317,Hearty Italian Meats,Original Crust,Pizza for One,250,11g,25g,10g
+318,,,Small,240,11g,25g,10g
+319,,,Medium,270,13g,27g,12g
+320,,,Large,370,17g,38g,12g
+321,,,Extra Large,390,18g,40g,16g
+322,,Thin Crust,,300,18g,20g,13g
+323,,Pan Crust,,350,16g,35g,14g
+324,Island Fresh,Original Crust,Pizza for One,200,6g,27g,7g
+325,,,Small,190,6g,27g,7g
+326,,,Medium,200,6g,28g,8g
+327,,,Large,280,8g,40g,10g
+328,,,Extra Large,290,9g,42g,11g
+329,,Thin Crust,,210,10g,22g,8g
+330,,Pan Crust,,280,10g,37g,10g
+331,Island Fresh with Chicken,Original Crust,Pizza for One,210,6g,27g,11g
+332,,,Small,200,6g,27g,9g
+333,,,Medium,210,6g,28g,10g
+334,,,Large,300,9g,40g,14g
+335,,,Extra Large,310,9g,42g,14g
+336,,Thin Crust,,220,10g,22g,11g
+337,,Pan Crust,,290,10g,37g,12g
+338,Jack-O-Lantern,Original Crust,Pizza for One,N/A,N/A,N/A,N/A
+339,,,Small,N/A,N/A,N/A,N/A
+340,,,Medium,N/A,N/A,N/A,N/A
+341,,,Large,320,13g,38g,12g
+342,,,Extra Large,N/A,N/A,N/A,N/A
+343,,Thin Crust,,N/A,N/A,N/A,N/A
+344,,Pan Crust,,N/A,N/A,N/A,N/A
+345,Papa's St Louis,Original Crust,Pizza for One,260,13g,25g,10g
+346,,,Small,270,14g,25g,11g
+347,,,Medium,290,15g,26g,11g
+348,,,Large,410,21g,38g,16g
+349,,,Extra Large,420,21g,40g,17g
+350,,Thin Crust,,330,22g,20g,13g
+351,,Pan Crust,,380,19g,36g,15g
+352,Pepperoni Pizzazz,Original Crust,Pizza for One,240,11g,25g,10g
+353,,,Small,250,11g,25g,10g
+354,,,Medium,260,12g,26g,11g
+355,,,Large,370,17g,38g,15g
+356,,,Extra Large,390,18g,40g,16g
+357,,Thin Crust,,300,19g,20g,13g
+358,,Pan Crust,,350,17g,36g,14g
+359,Pepperoni Specialty,Original Crust,Pizza for One,N/A,N/A,N/A,N/A
+360,,,Small,230,10g,26g,9g
+361,,,Medium,250,11g,27g,10g
+362,,,Large,350,16g,38g,13g
+363,,,Extra Large,380,17g,41g,15g
+364,,Thin Crust,,280,17g,20g,11g
+365,,Pan Crust,,270,13g,27g,11g
+366,Sauerkraut Pizza,Original Crust,Pizza for One,N/A,N/A,N/A,N/A
+367,,,Small,N/A,N/A,N/A,N/A
+368,,,Medium,N/A,N/A,N/A,N/A
+369,,,Large,290,9g,38g,12g
+370,,,Extra Large,N/A,N/A,N/A,N/A
+371,,Thin Crust,,N/A,N/A,N/A,N/A
+372,,Pan Crust,,N/A,N/A,N/A,N/A
+373,"Sausage, Egg, Cheese",Original Crust,Pizza for One,260,13g,24g,10g
+374,,,Small,N/A,N/A,N/A,N/A
+375,,,Medium,N/A,N/A,N/A,N/A
+376,,,Large,410,22g,37g,15g
+377,,,Extra Large,N/A,N/A,N/A,N/A
+378,,Thin Crust,,N/A,N/A,N/A,N/A
+379,,Pan Crust,,N/A,N/A,N/A,N/A
+380,Sicilian Classic,Original Crust,Pizza for One,260,12g,25g,11g
+381,,,Small,240,10g,25g,10g
+382,,,Medium,260,12g,27g,11g
+383,,,Large,370,17g,38g,15g
+384,,,Extra Large,390,18g,40g,16g
+385,,Thin Crust,,300,18g,20g,13g
+386,,Pan Crust,,340,16g,36g,13g
+387,Smokehouse Bacon & Ham,Original Crust,Pizza for One,230,9g,27g,10g
+388,,,Small,230,8g,27g,10g
+389,,,Medium,240,9g,28g,11g
+390,,,Large,340,13g,40g,15g
+391,,,Extra Large,350,13g,42g,15g
+392,,Thin Crust,,260,14g,22g,12g
+393,,Pan Crust,,320,13g,37g,13g
+394,,Gluten Free,,170,9g,17g,8g
+395,Spinach Alfredo Chicken Tomato,Original Crust,Pizza for One,220,8g,25g,11g
+396,,,Small,200,7g,25g,9g
+397,,,Medium,210,8g,26g,10g
+398,,,Large,300,10g,37g,14g
+399,,,Extra Large,320,11g,39g,15g
+400,,Thin Crust,,230,12g,19g,11g
+401,,Pan Crust,,290,11g,34g,12g
+402,,Gluten Free,,140,7g,15g,7g
+403,Spinach Alfredo Delight,Original Crust,Pizza for One,210,8g,25g,8g
+404,,,Small,200,7g,25g,8g
+405,,,Medium,210,8g,26g,9g
+406,,,Large,290,10g,37g,12g
+407,,,Extra Large,310,11g,39g,13g
+408,,Thin Crust,,220,12g,19g,9g
+409,,Pan Crust,,310,13g,35g,12g
+410,,Gluten Free,,160,8g,15g,7g
+411,Spinach Alfredo Deluxe,Original Crust,Pizza for One,230,10g,26g,9g
+412,,,Small,220,9g,25g,9g
+413,,,Medium,230,9g,27g,9g
+414,,,Large,320,13g,38g,13g
+415,,,Extra Large,340,14g,40g,13g
+416,,Thin Crust,,250,14g,20g,10g
+417,,Pan Crust,,310,13g,35g,11g
+418,,Gluten Free,,160,9g,16g,7g
+419,Spinach Alfredo Six Cheese,Original Crust,Pizza for One,230,10g,24g,10g
+420,,,Small,220,9g,24g,9g
+421,,,Medium,240,10g,26g,10g
+422,,,Large,330,14g,36g,14g
+423,,,Extra Large,350,14g,39g,15g
+424,,Thin Crust,,260,15g,18g,12g
+425,,Pan Crust,,320,14g,34g,13g
+426,Taco Pizza,Original Crust,Pizza for One,350,18g,29g,16g
+427,,,Small,270,12g,31g,10g
+428,,,Medium,280,12g,32g,11g
+429,,,Large,410,18g,46g,16g
+430,,,Extra Large,440,19g,48g,17g
+431,,Thin Crust,,340,19g,28g,13g
+432,,Pan Crust,,360,16g,41g,13g
+433,,Gluten Free,,220,12g,21g,9g
+434,The Fiesta,Original Crust,Pizza for One,220,9g,26g,8g
+435,,,Small,220,9g,26g,8g
+436,,,Medium,220,9g,27g,8g
+437,,,Large,330,13g,38g,12g
+438,,,Extra Large,350,14g,41g,13g
+439,,Thin Crust,,250,15g,20g,9g
+440,,Pan Crust,,300,12g,36g,10g
+441,The Workin Fire,Original Crust,Pizza for One,240,11g,25g,9g
+442,,,Small,220,9g,25g,8g
+443,,,Medium,240,10g,26g,9g
+444,,,Large,340,15g,38g,13g
+445,,,Extra Large,360,16g,40g,14g
+446,,Thin Crust,,270,16g,20g,11g
+447,,Pan Crust,,330,15g,36g,12g
+448,Tuscan Garden Special,Original Crust,Pizza for One,210,8g,28g,7g
+449,,,Small,210,8g,28g,7g
+450,,,Medium,230,8g,30g,8g
+451,,,Large,320,11g,42g,11g
+452,,,Extra Large,340,12g,45g,11g
+453,,Thin Crust,,250,13g,24g,8g
+454,,Pan Crust,,310,12g,39g,10g
+455,,Gluten Free,,160,8g,19g,5g
+456,Tuscan Garlic Chicken,Original Crust,Pizza for One,280,13g,27g,12g
+457,,,Small,250,11g,27g,10g
+458,,,Medium,270,11g,28g,12g
+459,,,Large,380,16g,40g,18g
+460,,,Extra Large,410,17g,43g,19g
+461,,Thin Crust,,310,17g,22g,15g
+462,,Pan Crust,,350,15g,37g,15g
+463,,Gluten Free,,150,7g,16g,6g
+464,Ultimate Meats,Original Crust,Pizza for One,280,14g,26g,12g
+465,,,Small,270,13g,26g,11g
+466,,,Medium,270,13g,27g,11g
+467,,,Large,400,19g,39g,16g
+468,,,Extra Large,430,21g,41g,17g
+469,,Thin Crust,,330,21g,21g,14g
+470,,Pan Crust,,350,16g,36g,13g
+471,Ultimate Pepperoni,Original Crust,Pizza for One,270,13g,25g,10g
+472,,,Small,260,12g,26g,10g
+473,,,Medium,280,13g,27g,11g
+474,,,Large,390,19g,38g,15g
+475,,,Extra Large,410,20g,40g,16g
+476,,Thin Crust,,320,21g,20g,13g
+477,,Pan Crust,,360,17g,36g,13g
+478,,Gluten Free,,210,13g,16g,8g
+479,White Pizza,Original Crust,Pizza for One,180,6g,24g,7g
+480,,,Small,190,7g,25g,7g
+481,,,Medium,200,7g,26g,8g
+482,,,Large,230,8g,29g,8g
+483,,,Extra Large,300,10g,39g,11g
+484,,Thin Crust,,210,11g,19g,8g
+485,,Pan Crust,,290,12g,35g,10g
+486,,Gluten Free,,140,7g,15g,5g
+487,White Veggie,Original Crust,Pizza for One,210,9g,25g,7g
+488,,,Small,200,9g,25g,7g
+489,,,Medium,220,9g,26g,7g
+490,,,Large,310,13g,37g,10g
+491,,,Extra Large,320,13g,39g,10g
+492,,Thin Crust,,230,14g,19g,7g
+493,,Pan Crust,,380,22g,35g,9g
+494,,Gluten Free,,110,5g,14g,2g
+495,Who Dey,Original Crust,Pizza for One,240,11g,25g,9g
+496,,,Small,230,10g,25g,9g
+497,,,Medium,240,10g,26g,9g
+498,,,Large,350,15g,38g,13g
+499,,,Extra Large,360,15g,40g,14g
+500,,Thin Crust,,270,17g,20g,11g
+501,,Pan Crust,,330,15g,35g,12g
+502,Zesty Jalapeno Meats,Original Crust,Pizza for One,240,11g,25g,9g
+503,,,Small,220,9g,25g,8g
+504,,,Medium,240,10g,26g,9g
+505,,,Large,340,15g,38g,13g
+506,,,Extra Large,360,16g,40g,14g
+507,,Thin Crust,,270,16g,20g,11g
+508,,Pan Crust,,330,15g,36g,12g
+509,Benny's Italian Beef,Original Crust,Pizza for One,210,7g,25g,9g
+510,,,Small,130,7g,10g,8g
+511,,,Medium,230,8g,27g,12g
+512,,,Large,330,12g,39g,16g
+513,,,Extra Large,350,12g,41g,17g
+514,,Thin Crust,,260,13g,21g,14g
+515,,Pan Crust,,300,11g,36g,13g
+516,Bacon Cheddarsticks,,"10""",120,6g,11g,5g
+517,,,"12""",140,7g,13g,6g
+518,Garlic Knots,,1 knot,110,4.5g,14mg,2g
+519,6-Cheese Cheesesticks,,"10""",110,5g,11g,4g
+520,,,"12""",130,6g,13g,5g
+521,Bacon Cheesesticks,,"10""",110,5g,11g,4g
+522,,,"12""",130,6g,13g,5g
+523,Bacon Green Chile Cheesesticks,,"10""",110,5g,11g,4g
+524,,,"12""",130,7g,13g,5g
+525,Bacon Jalapeno Cheesesticks,,"10""",110,5g,11g,4g
+526,,,"12""",130,6g,13g,5g
+527,Garlic Parmesan Cheesesticks,,"10""",90,4g,10g,3g
+528,,,"12""",110,5g,13g,4g
+529,Green Chile Cheesesticks,,"10""",90,4g,11g,3g
+530,,,"12""",110,5g,13g,4g
+531,Jalapeno Cheesesticks,,"10""",90,4g,11g,3g
+532,,,"12""",110,5g,13g,4g
+533,Cheesesticks,,"10""",90,4g,10g,3g
+534,,,"12""",110,5g,13g,4g
+535,Bruschetta Cheesesticks,,"10""",100,5g,11g,4g
+536,,,"12""",130,6g,13g,4g
+537,Bacon Cheddar Stuffed,,"8""",210,9g,24g,8g
+538,,,"10""",210,9g,24g,8g
+539,Wisconsin Cheese Stuffed,,"8""",200,8g,23g,7g
+540,,,"10""",210,8g,24g,8g
+541,Breadsticks,,"12""",130,2g,24g,4g
+542,,,"14""",150,2g,27g,4g
+543,Garlic Parmesan Breadsticks,,"12""",160,5g,24g,4g
+544,,,"14""",170,5g,27g,4g
+545,New Chicken Poppers,,5 Pieces,270,10g,21g,16g
+546,,,6 Pieces,320,13g,25g,20g
+547,,,9 Pieces,480,19g,38g,29g
+548,,,10 Pieces,530,21g,42g,33g
+549,,,15 Pieces,800,31g,64g,49g
+550,,,30 Pieces,1560,61g,125g,96g
+551,,,45 Pieces,2390,94g,191g,147g
+552,,,60 Pieces,3180,125g,255g,196g
+553,Unsauced Roasted Wings,,8 wings,810,57g,4g,66g
+554,,,16 wings,1620,113g,8g,133g
+555,,,24 wings,2430,170g,12g,199g
+556,,,32 wings,3240,226g,16g,265g
+557,,,50 wings,5060,353g,25g,415g
+558,Spicy Buffalo Wings,,8 wings,840,58g,8g,67g
+559,,,16 wings,1670,115g,16g,133g
+560,,,24 wings,2510,173g,24g,200g
+561,,,32 wings,3340,231g,33g,267g
+562,,,50 wings,5220,360g,51g,417g
+563,BBQ Wings,,8 wings,880,57g,20g,67g
+564,,,16 wings,1750,114g,40g,134g
+565,,,24 wings,2630,170g,60g,200g
+566,,,32 wings,3500,227g,80g,267g
+567,,,50 wings,5470,355g,125g,418g
+568,Garlic Parmesan Wings,,8 wings,1040,81g,6g,68g
+569,,,16 wings,2080,162g,11g,137g
+570,,,24 wings,3120,243g,17g,205g
+571,,,32 wings,4160,324g,23g,273g
+572,,,50 wings,6500,507g,35g,427g
+573,Honey Chipotle Wings,,8 wings,900,57g,27g,67g
+574,,,16 wings,1800,113g,55g,133g
+575,,,24 wings,2710,170g,82g,200g
+576,,,32 wings,3610,227g,109g,267g
+577,,,50 wings,5640,354g,171g,417g
+578,Papa's Garden Salad,,1 Container,120,7g,10g,6g
+579,Chicken Parmesan Sandwich,,1 Sandwich,1010,50g,87g,43g
+580,Chourice Sandwich,,1 Sandwich,1580,115g,70g,60g
+581,Ham and Cheese Sandwich,,1 Sandwich,640,33g,58g,26g
+582,Italian Sandwich,,1 Sandwich,810,48g,59g,33g
+583,Meatball Sandwich,,1 Sandwich,1200,75g,73g,54g
+584,Veggie Sandwich,,1 Sandwich,680,37g,59g,25g
+585,BBQ Chicken Calzone,,1 Sandwich,320,12g,38g,15g
+586,Chicken Parm Calzone,,1 Piece,300,10g,37g,15g
+587,Hawaiian Calzone,,1 Piece,300,10g,39g,12g
+588,Meat Calzone,,1 Piece,340,15g,37g,14g
+589,Seven Cheese Calzone,,1 Piece,350,15g,37g,16g
+590,Spicy Italian Calzone,,1 Piece,330,14g,37g,12g
+591,Veggie Calzone,,1 Piece,290,10g,38g,11g
+592,BBQ Bacon Hoagie,,1 Sandwich,510,23g,46g,27g
+593,Buffalo Chicken Hoagie,,1 Sandwich,750,23g,75g,64g
+594,Mushroom Hoagie,,1 Sandwich,850,39g,76g,47g
+595,Pizza Sauce Hoagie,,1 Sandwich,880,40g,79g,48g
+596,Zesty Italian Hoagie,,1 Sandwich,980,49g,81g,51g
+597,Mozzarella Sticks,,1 Stick,80,5g,5g,4g
+598,Pepperoni Rolls,,1 roll,120,6g,12g,4g
+599,Chocolate Chip Cookie,,1 Slice,190,9g,26g,2g
+600,Double Chocolate Chip Brownie,,1 Square,240,12g,34g,2g
+601,Cinnamon Pullaparts,,1 Tray,1960,94g,264g,19g
+602,Chocolate Chip Cookie with Caramel Icing,,1 Slice,210,10g,31g,2g
+603,Double Chocolate Chip Brownie with Caramel Icing,,1 Square,260,12g,38g,2g
+604,Cinnamon Pullaparts with Caramel Icing,,1 Tray,1820,92g,231g,21g
+605,Dipping Sauces,Special Garlic,1 cup,150,17g,0g,0g
+606,,Pizza Sauce,1 cup,20,1g,3g,0g
+607,,Cheese Sauce,1 cup,40,3.5g,2g,1g
+608,,Honey Mustard,1 cup,150,15g,5g,0g
+609,,BBQ Sauce,1 cup,45,0g,11g,0g
+610,,Buffalo Sauce,1 cup,15,0.5g,3g,0g
+611,,Ranch Sauce,1 cup,100,10g,2g,1g
+612,,Blue Cheese,1 cup,160,16g,1g,1g
+613,Parmesan Cheese,,1 Packet,15,1g,0g,1g
+614,Crushed Red Pepper,,1 Packet,5,0g,1g,0g
+615,Special Seasonings,,1 Packet,5,0g,1g,0g
+616,Pepperoncinis,,10g,0,0g,0g,0g
+617,Anchovies,,14g,30,1.5g,0g,4g
+618,Banana Peppers,,14g,5,0g,1g,0g
+619,Jalapeno Peppers,,14g,5,0g,1g,0g
+620,Pepsi,,12 Oz,150,0g,42g,0g
+621,,,20 Oz,250,0g,69g,0g
+622,,,1.25 Liter,530,0g,146g,0g
+623,,,2 Liter,900,0g,246g,0g
+624,Mountain Dew,,12 Oz,170,0g,47g,0g
+625,,,20 Oz,280,0g,78g,0g
+626,,,1.25 Liter,600,0g,162g,0g
+627,,,2 Liter,930,0g,262g,0g
+628,Diet Mountain Dew,,12 Oz,5,0g,0g,0g
+629,,,20 Oz,10,0g,0g,0g
+630,,,2 Liter,35,0g,0g,0g
+631,Dr Pepper,,12 Oz,150,0g,41g,0g
+632,,,20 Oz,250,0g,68g,0g
+633,,,2 Liter,850,0g,228g,0g
+634,Brisk Sweet Tea Lemon,,12 Oz,130,0g,32g,0g
+635,,,20 Oz,210,0g,54g,0g
+636,,,2 Liter,720,0g,182g,0g
+637,Cheerwine,,12 Oz,150,0g,42g,0g
+638,,,20 Oz,250,0g,70g,0g
+639,,,2 Liter,850,0g,237g,0g
+640,Crush Cream Soda,,12 Oz,170,0g,45g,0g
+641,,,20 Oz,280,0g,75g,0g
+642,,,2 Liter,950,0g,254g,0g
+643,Crush Grape,,12 Oz,160,0g,43g,0g
+644,,,20 Oz,270,0g,72g,0g
+645,,,2 Liter,910,0g,243g,0g
+646,Crush Orange,,12 Oz,180,0g,51g,0g
+647,,,20 Oz,300,0g,85g,0g
+648,,,1.25 Liter,630,0g,180g,0g
+649,,,2 Liter,1010,0g,287g,0g
+650,Crush Strawberry,,12 Oz,170,0g,46g,0g
+651,,,20 Oz,290,0g,77g,0g
+652,,,2 Liter,980,0g,260g,0g
+653,Diet Pepsi,,12 Oz,0,0g,0g,0g
+654,,,20 Oz,0,0g,0g,0g
+655,,,1.25 Liter,0,0g,0g,0g
+656,,,2 Liter,0,0g,0g,0g
+657,Hawaiian Punch,,20 Oz,330,0g,83g,0g
+658,,,2 Liter,1100,0g,279g,0g
+659,Lipton Sparkling Iced Tea Peach,,12 Oz,70,0g,18g,0g
+660,,,20 Oz,120,0g,30g,0g
+661,Manzanita Sol,,12 Oz,160,0g,42g,0g
+662,,,20 Oz,260,0g,70g,0g
+663,,,2 Liter,890,0g,235g,0g
+664,Mug Root Beer,,12 Oz,150,0g,44g,0g
+665,,,20 Oz,250,0g,73g,0g
+666,,,2 Liter,850,0g,245g,0g
+667,Pepsi Next,,12 Oz,100,0g,27g,0g
+668,,,20 Oz,170,0g,45g,0g
+669,,,2 Liter,560,0g,152g,0g
+670,Schweppes Ginger Ale,,12 Oz,120,0g,33g,0g
+671,,,20 Oz,200,0g,55g,0g
+672,,,1.25 Liter,440,0g,116g,0g
+673,,,2 Liter,680,0g,186g,0g
+674,Seven Up,,12 Oz,150,0g,39g,0g
+675,,,20 Oz,250,0g,65g,0g
+676,,,2 Liter,850,0g,220g,0g
+677,Welch's Grape Soda,,12 Oz,200,0g,51g,0g
+678,,,20 Oz,330,0g,85g,0g
+679,,,2 Liter,1100,0g,287g,0g
+680,Wild Cherry Pepsi,,12 Oz,150,0g,42g,0g
+681,,,20 Oz,250,0g,70g,0g
+682,,,2 Liter,850,0g,237g,0g
+683,Coffee,,16 Oz,5,0g,0g,1g
+684,,,20 Oz,5,0g,0g,1g
+685,A&W Cream Soda,,20 Oz,300,0g,78g,0g
+686,,,2 Liter,1010,0g,262g,0g
+687,A&W Root Beer,,20 Oz,300,0g,78g,0g
+688,,,2 Liter,1010,0g,262g,0g
+689,Brisk Lemonade,,20 Oz,180,0g,47g,0g
+690,,,2 Liter,610,0g,159g,0g
+691,Canada Dry,,20 Oz,200,0g,55g,0g
+692,,,2 Liter,680,0g,186g,0g
+693,Cherry Dr Pepper,,20 Oz,260,0g,71g,0g
+694,,,2 Liter,880,0g,240g,0g
+695,Cherry Seven Up,,20 Oz,250,0g,65g,0g
+696,,,2 Liter,850,0g,220g,0g
+697,Cherry Vanilla Dr Pepper,,20 Oz,240,0g,65g,0g
+698,,,2 Liter,810,0g,220g,0g
+699,Coke,,20 Oz,240,0g,66g,0g
+700,,,2 Liter,820,0g,222g,0g
+701,Coke Zero,,20 Oz,0,0g,0g,0g
+702,,,2 Liter,0,0g,0g,0g
+703,Countrytime Strawberry Lemonade,,20 Oz,230,0g,60g,0g
+704,,,2 Liter,760,0g,203g,0g
+705,Crush Cherry,,20 Oz,290,0g,78g,0g
+706,,,2 Liter,980,0g,264g,0g
+707,Crush Peach,,20 Oz,310,0g,83g,0g
+708,,,2 Liter,1050,0g,281g,0g
+709,Crush Pineapple,,20 Oz,320,0g,86g,0g
+710,,,2 Liter,1080,0g,291g,0g
+711,Diet Coke,,20 Oz,0,0g,0g,0g
+712,,,2 Liter,0,0g,0g,0g
+713,Diet Dr Pepper,,20 Oz,0,0g,0g,0g
+714,,,2 Liter,0,0g,0g,0g
+715,Diet Mist TWST,,20 Oz,240,0g,65g,0g
+716,,,1.25 Liter,530,0g,137g,0g
+717,,,2 Liter,900,0g,234g,0g
+718,Mountain Dew Baja Blast,,20 Oz,280,0g,73g,0g
+719,Mountain Dew Code Red,,20 Oz,280,0g,78g,0g
+720,,,2 Liter,950,0g,260g,0g
+721,Mountain Dew Game Fuel Citrus Cherry,,20 Oz,170,0g,46g,0g
+722,,,2 Liter,570,0g,156g,0g
+723,Mountain Dew Livewire,,20 Oz,290,0g,77g,0g
+724,Mountain Dew Voltage,,20 Oz,290,0g,76g,0g
+725,,,2 Liter,980,0g,257g,0g
+726,Mug Cream Soda,,20 Oz,300,0g,80g,0g
+727,,,2 Liter,1010,0g,271g,0g
+728,Pepsi Real Sugar,,20 Oz,250,0g,66g,0g
+729,,,2 Liter,850,0g,223g,0g
+730,Diet Seven Up,,20 Oz,0,0g,0g,0g
+731,,,2 Liter,0,0g,0g,0g
+732,Diet Wild Cherry Pepsi,,20 Oz,0,0g,0g,0g
+733,,,2 Liter,0,0g,0g,0g
+734,Doc X,,20 Oz,250,0g,67g,0g
+735,,,2 Liter,850,0g,225g,0g
+736,Dr Pepper 10,,20 Oz,20,0g,5g,0g
+737,,,2 Liter,70,0g,17g,0g
+738,Dr Wham,,20 Oz,250,0g,65g,0g
+739,,,2 Liter,850,0g,220g,0g
+740,Fanta Orange,,2 Liter,930,0g,254g,0g
+741,Grapico,,20 Oz,230,0g,58g,0g
+742,,,2 Liter,790,0g,197g,0g
+743,Lipton Half & Half,,20 Oz,120,0g,31g,0g
+744,,,2 Liter,410,0g,105g,0g
+745,Mist TWST,,20 Oz,240,0g,65mg,0g
+746,,,2 Liter,810,0g,220g,0g
+747,Mountain Dew Game Fuel,,2 Liter,570,0g,156g,0g
+748,Pepsi Throwback,,2 Liter,880,0g,227g,0g
+749,Pepsi Zero Sugar,,20 Oz,0,0g,0g,0g
+750,,,2 Liter,0,0g,0g,0g
+751,Schweppes Ginger Ale Raspberry,,20 Oz,230,0g,63g,0g
+752,,,2 Liter,790,0g,214g,0g
+753,Sprite,,20 Oz,260,0g,67g,0g
+754,,,2 Liter,890,0g,227g,0g
+755,Sunkist Grape,,20 Oz,280,0g,77g,0g
+756,,,2 Liter,960,0g,259g,0g
+757,Sunkist Orange,,20 Oz,330,0g,88g,0g
+758,,,2 Liter,1100,0g,296g,0g
+759,Sunkist Peach,,20 Oz,280,0g,78g,0g
+760,,,2 Liter,960,0g,265g,0g
+761,Sunkist Strawberry,,20 Oz,280,0g,77g,0g
+762,,,2 Liter,960,0g,259g,0g
+763,Tropicana TWST Orange,,20 Oz,330,0g,83g,0g
+764,,,2 Liter,1100,0g,279g,0g
+765,Welch's Grape Soda,,20 Oz,330,0g,85g,0g
+766,,,2 Liter,1100,0g,287g,0g
+767,Wild Cherry Pepsi Real Sugar,,20 Oz,250,0g,66g,0g
+768,,,2 Liter,850,0g,223g,0g
+769,Aquafina,,20 Oz,0,0g,0g,0g
+770,Aquafina Raspberry,,20 Oz,0,0g,0g,0g
+771,Barq's Root Beer,,20 Oz,270,0g,75g,0g
+772,Brisk Fruit Punch,,20 Oz,180,0g,48g,0g
+773,Brisk Pink Lemonade,,20 Oz,180,0g,45g,0g
+774,Brisk Strawberry Melon,,20 Oz,120,0g,32g,0g
+775,Brisk Tea Raspberry,,20 Oz,120,0g,32g,0g
+776,Cherry Coke,,20 Oz,250,0g,70g,0g
+777,Dasani Water,,20 Oz,0,0g,0g,0g
+778,Diet Pepsi Max,,20 Oz,0,0g,0g,0g
+779,Gatorade Cool Blue,,20 Oz,160,0g,39g,0g
+780,Gatorade Fierce Grape,,20 Oz,500,0g,125g,0g
+781,Gatorade Fierce Blue Cherry,,20 Oz,140,0g,36g,0g
+782,Gatorade Fierce Green Apple,,20 Oz,140,0g,36g,0g
+783,Gatorade Fierce Melon,,20 Oz,130,0g,35g,0g
+784,Gatorade Fruit Punch,,20 Oz,140,0g,36g,0g
+785,,,64 Oz,450,0g,115g,0g
+786,Gatorade G2 Blueberry Pomegranate,,20 Oz,50,0g,12g,0g
+787,Gatorade G2 Fruit Punch,,20 Oz,45,0g,11g,0g
+788,Gatorade G2 Grape,,20 Oz,160,0g,39g,0g
+789,Gatorade G2 Orange,,20 Oz,50,0g,12g,0g
+790,Gatorade Glacial Cherry,,20 Oz,130,0g,35g,0g
+791,Gatorade Glacial Freeze,,20 Oz,160,0g,39g,0g
+792,Gatorade Lemon Lime,,20 Oz,130,0g,35g,0g
+793,Gatorade Lime Cucumber,,20 Oz,130,0g,34g,0g
+794,Gatorade Mango Xtreme,,20 Oz,140,0g,36g,0g
+795,Gatorade Orange,,20 Oz,140,0g,36g,0g
+796,,,64 Oz,450,0g,115g,0g
+797,Gatorade Raspberry,,20 Oz,50,0g,12g,0g
+798,Gatorade Riptide Rush,,20 Oz,130,0g,34g,0g
+799,Gatorade Tropical Mango,,20 Oz,140,0g,36g,0g
+800,Lipton Green Tea Citrus,,20 Oz,130,0g,33g,0g
+801,Lipton Green Tea Honey,,20 Oz,180,0g,48g,0g
+802,Lipton Green Tea Passionfruit Mango,,20 Oz,130,0g,33g,0g
+803,Lipton Half & Half,,20 Oz,120,0g,31g,0g
+804,Lipton Ice Tea Lemon,,20 Oz,280,0g,65g,0g
+805,Lipton Ice Tea Pomegranate Blueberry,,20 Oz,130,0g,33g,0g
+806,Mtn Dew Throwback,,20 Oz,280,0g,73g,0g
+807,Pibb Xtra,,20 Oz,250,0g,65g,0g
+808,Powerade Mountain Blast,,20 Oz,130,0g,35g,0g
+809,SoBe Blackberry Blueberry,,20 Oz,0,0g,8g,0g
+810,SoBe Energize Power Fruit Punch,,20 Oz,250,0g,65g,0g
+811,SoBe Energy Citrus,,20 Oz,250,0g,64g,0g
+812,SoBe Fuji Apple,,20 Oz,0,0g,8g,0g
+813,SoBe Pomegranate Cherry,,20 Oz,100,0g,26g,0g
+814,SoBe Strawberry Daquiri,,20 Oz,250,0g,63g,0g
+815,SoBe Strawberry Dragonfruit,,20 Oz,0,0g,8g,0g
+816,SoBe Strawberry Kiwi,,20 Oz,100,0g,26g,0g
+817,SoBe Yumberry Pomegranate,,20 Oz,0,0g,8g,0g
+818,Vanilla Pepsi,,20 Oz,250,0g,66g,0g
+819,Vanilla Pepsi Real Sugar,,20 Oz,250,0g,66g,0g
+820,Cherry Vanilla Pepsi,,20 Oz,220,0g,59g,0g
+821,,,2 Liter,740,0g,200g,0g
+822,Crystal Pepsi,,20 Oz,250,0g,69g,0g
+823,,,2 Liter,850,0g,233g,0g
+824,LIFEWTR,,23 Oz,0,0g,0g,0g
+825,Montellier Sparkling Water,,17 Oz,0,0g,0g,0g
+826,Starbucks Doubleshot Energy Vanilla,,15 Oz,210,2.5g,34g,10g
+827,Lipton Pure Leaf Half and Half,,18.5 Oz,160,42g,0g,0g
+828,Lipton Pureleaf Diet Lemon Tea,,18.5 Oz,10,0g,0g,0g
+829,Lipton Pureleaf Diet Peach Tea,,18.5 Oz,0,0g,0g,0g
+830,Lipton Pureleaf ExtraSweet Tea,,18.5 Oz,250,0g,65g,0g
+831,Lipton Pureleaf Green Tea,,18.5 Oz,100,0g,25g,0g
+832,Lipton Pureleaf Lemon,,18.5 Oz,160,0g,41g,0g
+833,Lipton Pureleaf NTS Peach Tea,,18.5 Oz,100,0g,26g,0g
+834,Lipton Pureleaf Peach Tea,,18.5 Oz,110,0g,29g,0g
+835,Lipton Pureleaf Raspberry Tea,,18.5 Oz,180,0g,46g,0g
+836,Lipton Pureleaf Sweet Tea,,18.5 Oz,160,0g,42g,0g
+837,Lipton Pureleaf Unsweet tea,,18.5 Oz,0,0g,0g,0g
+838,AMP,,16 Oz,220,0g,58g,1g
+839,Blueberry Pomegranate,,16 Oz,80,0g,20g,0g
+840,Mountain Dew Kickstart Black Cherry,,16 Oz,80,0g,20g,0g
+841,Mountain Dew Kickstart Fruit Punch,,16 Oz,80,0g,20g,0g
+842,Mountain Dew Kickstart Kiwi Strawberry,,12 Oz,60,0g,15g,0g
+843,,,16 Oz,80,0g,20g,0g
+844,Mountain Dew Kickstart Lime,,16 Oz,80,0g,20g,0g
+845,Mountain Dew Kickstart Orange Citrus,,16 Oz,80,0g,21g,0g
+846,Rockstar,,16 Oz,280,0g,61g,0g
+847,Rockstar Fruit Punch,,16 Oz,260,0g,62g,0g
+848,Rockstar Lemonade,,16 Oz,20,0g,6g,0g
+849,Rockstar Recovery,,16 Oz,20,0g,6g,0g
+850,Rockstar Sugar Free,,16 Oz,20,0g,3g,1g
+851,Rockstar Xtra,,16 Oz,280,0g,64g,0g
+852,Lipton Sparkling Tea Raspberry,,12 Oz,70,0g,18g,0g
+853,Mountain Dew Kickstart Blood Orange,,12 Oz,60,0g,15g,0g
+854,Mountain Dew Kickstart Blueberry Pomegranate,,12 Oz,60,0g,15g,0g
+855,Mountain Dew Kickstart Energizing Watermelon,,12 Oz,60,0g,16g,0g
+856,Mountain Dew Kickstart Pineapple Orange,,12 Oz,60,0g,15g,0g
+857,Mtn Dew Kickstart Pineapple Orange Mango,,12 Oz,60,0g,15g,0g
+858,Pepsi Max,,12 Oz,0,0g,0g,0g
+859,Pepsi Mexico,,12 Oz,220,0g,58g,0g
+860,Starbucks Refreshers Strawberry Lemonade,,12 Oz,90,0g,27g,0g
+861,Hawaiian Fruit Punch,,12 Oz,200,0g,50g,0g
+862,Crust,Original Crust,Pizza for One,120,2g,23g,3g
+863,,,Small,130,2g,23g,4g
+864,,,Medium,130,2g,24g,4g
+865,,,Large,190,2.5g,34g,5g
+866,,,Extra Large,200,3g,36g,6g
+867,,Thin Crust,,110,4g,16g,3g
+868,,Pan Crust,,180,2.5g,32g,5g
+869,,Gluten Free,,90,2.5g,17g,2g
+870,Cheese,Original Crust,Pizza for One,50,4g,1g,3g
+871,,,Small,45,3.5g,1g,3g
+872,,,Medium,50,4g,1g,3g
+873,,,Large,70,5g,1g,4g
+874,,,Extra Large,70,5g,1g,4g
+875,,Thin Crust,,70,5g,1g,4g
+876,,Pan Crust,,70,5g,1g,4g
+877,,Gluten Free,,45,3.5g,1g,3g
+878,Light Cheese,Original Crust,Pizza for One,40,3g,1g,2g
+879,,,Small,35,2.5g,1g,2g
+880,,,Medium,35,2.5g,1g,2g
+881,,,Large,50,4g,1g,3g
+882,,,Extra Large,50,4g,1g,3g
+883,,Thin Crust,,50,4g,1g,3g
+884,,Pan Crust,,50,4g,1g,3g
+885,,Gluten Free,,35,2.5g,1g,2g
+886,Extra Cheese,Original Crust,Pizza for One,70,5g,1g,4g
+887,,,Small,60,4.5g,1g,4g
+888,,,Medium,70,5g,1g,4g
+889,,,Large,90,6g,2g,5g
+890,,,Extra Large,80,6g,2g,5g
+891,,Thin Crust,,90,6g,2g,5g
+892,,Pan Crust,,90,6g,2g,5g
+893,,Gluten Free,,60,4.5g,1g,4g
+894,BBQ Sauce,Original Crust,Pizza for One,25,0g,6g,0g
+895,,,Small,20,0g,5g,0g
+896,,,Medium,25,0g,6g,0g
+897,,,Large,35,0g,8g,0g
+898,,,Extra Large,35,0g,9g,0g
+899,,Thin Crust,,35,0g,8g,0g
+900,,Pan Crust,,25,0g,6g,0g
+901,,Gluten Free,,20,0g,5g,0g
+902,BBQ Sauce-Light,Original Crust,Pizza for One,10,0g,3g,0g
+903,,,Small,0,0g,0g,0g
+904,,,Medium,10,0g,3g,0g
+905,,,Large,15,0g,4g,0g
+906,,,Extra Large,20,0g,5g,0g
+907,,Thin Crust,,15,0g,4g,0g
+908,,Pan Crust,,10,0g,3g,0g
+909,,Gluten Free,,0,0g,0g,0g
+910,BBQ Sauce-Extra,Original Crust,Pizza for One,30,0g,8g,0g
+911,,,Small,35,0g,8g,0g
+912,,,Medium,35,0g,8g,0g
+913,,,Large,45,0g,11g,0g
+914,,,Extra Large,45,0g,11g,0g
+915,,Thin Crust,,45,0g,11g,0g
+916,,Pan Crust,,35,0g,8g,0g
+917,,Gluten Free,,35,0g,8g,0g
+918,Original Sauce,Original Crust,Pizza for One,10,0g,1g,0g
+919,,,Small,10,0g,1g,0g
+920,,,Medium,10,0g,1g,0g
+921,,,Large,15,0.5g,2g,0g
+922,,,Extra Large,15,0.5g,2g,0g
+923,,Thin Crust,,15,0.5g,2g,0g
+924,,Pan Crust,,10,0g,1g,0g
+925,,Gluten Free,,10,0g,1g,0g
+926,Original Sauce-Light,Original Crust,Pizza for One,5,0g,1g,0g
+927,,,Small,5,0g,1g,0g
+928,,,Medium,5,0g,1g,0g
+929,,,Large,10,0g,2g,0g
+930,,,Extra Large,10,0g,2g,0g
+931,,Thin Crust,,10,0g,2g,0g
+932,,Pan Crust,,5,0g,1g,0g
+933,,Gluten Free,,5,0g,1g,0g
+934,Original Sauce-Extra,Original Crust,Pizza for One,15,0.5g,2g,0g
+935,,,Small,15,0g,2g,0g
+936,,,Medium,15,0.5g,2g,0g
+937,,,Large,20,0.5g,3g,0g
+938,,,Extra Large,20,0.5g,3g,0g
+939,,Thin Crust,,20,0.5g,3g,0g
+940,,Pan Crust,,15,0.5g,2g,0g
+941,,Gluten Free,,15,0g,2g,0g
+942,Ranch Sauce,Original Crust,Pizza for One,35,3.5g,1g,0g
+943,,,Small,35,3.5g,1g,0g
+944,,,Medium,35,3.5g,1g,0g
+945,,,Large,50,5g,1g,0g
+946,,,Extra Large,60,6g,1g,0g
+947,,Thin Crust,,50,5g,1g,0g
+948,,Pan Crust,,35,3.5g,1g,0g
+949,,Gluten Free,,35,3.5g,1g,0g
+950,Ranch Sauce-Light,Original Crust,Pizza for One,25,2.5g,0g,0g
+951,,,Small,15,2g,0g,0g
+952,,,Medium,15,1.5g,0g,0g
+953,,,Large,25,2.5g,0g,0g
+954,,,Extra Large,30,3g,0g,0g
+955,,Thin Crust,,25,2.5g,0g,0g
+956,,Pan Crust,,15,1.5g,0g,0g
+957,,Gluten Free,,15,2g,0g,0g
+958,Ranch Sauce-Extra,Original Crust,Pizza for One,75,7g,1g,0g
+959,,,Small,45,4.5g,1g,0g
+960,,,Medium,50,5g,1g,0g
+961,,,Large,70,7g,1g,0g
+962,,,Extra Large,80,8g,1g,0g
+963,,Thin Crust,,70,7g,1g,0g
+964,,Pan Crust,,50,5g,1g,0g
+965,,Gluten Free,,45,4.5g,1g,0g
+966,Spinach Alfredo Sauce,Original Crust,Pizza for One,25,2.5g,0g,1g
+967,,,Small,15,1.5g,1g,1g
+968,,,Medium,20,1.5g,1g,1g
+969,,,Large,25,2.5g,1g,1g
+970,,,Extra Large,30,3g,1g,1g
+971,,Thin Crust,,25,2.5g,1g,1g
+972,,Pan Crust,,20,1.5g,1g,1g
+973,,Gluten Free,,15,1.5g,0g,1g
+974,Spinach Alfredo Sauce-Light,Original Crust,Pizza for One,15,1g,0g,0g
+975,,,Small,10,1g,0g,0g
+976,,,Medium,10,1g,0g,0g
+977,,,Large,15,1g,0g,0g
+978,,,Extra Large,15,1.5g,0g,0g
+979,,Thin Crust,,15,1g,0g,0g
+980,,Pan Crust,,10,1g,0g,0g
+981,,Gluten Free,,10,1g,0g,0g
+982,Spinach Alfredo Sauce-Extra,Original Crust,Pizza for One,35,3g,1g,1g
+983,,,Small,25,2.5g,1g,1g
+984,,,Medium,25,2.5g,1g,1g
+985,,,Large,40,3.5g,1g,1g
+986,,,Extra Large,40,3.5g,1g,1g
+987,,Thin Crust,,40,3.5g,1g,1g
+988,,Pan Crust,,25,2.5g,1g,1g
+989,,Gluten Free,,25,2.5g,1g,1g
+990,Anchovies,Original Crust,Pizza for One,10,0g,0g,1g
+991,,,Small,10,0g,0g,1g
+992,,,Medium,10,0g,0g,1g
+993,,,Large,10,0g,0g,1g
+994,,,Extra Large,10,0g,0g,1g
+995,,Thin Crust,,10,0g,0g,1g
+996,,Pan Crust,,10,0g,0g,1g
+997,,Gluten Free,,10,0g,0g,1g
+998,Bacon,Original Crust,Pizza for One,35,2.5g,1g,2g
+999,,,Small,35,2.5g,1g,2g
+1000,,,Medium,35,3g,1g,2g
+1001,,,Large,50,3.5g,1g,3g
+1002,,,Extra Large,50,3.5g,1g,3g
+1003,,Thin Crust,,50,3.5g,1g,3g
+1004,,Pan Crust,,35,2.5g,1g,2g
+1005,,Gluten Free,,35,2.5g,1g,2g
+1006,Banana Peppers,Original Crust,Pizza for One,0,0g,0g,0g
+1007,,,Small,0,0g,0g,0g
+1008,,,Medium,0,0g,0g,0g
+1009,,,Large,0,0g,0g,0g
+1010,,,Extra Large,0,0g,0g,0g
+1011,,Thin Crust,,0,0g,0g,0g
+1012,,Pan Crust,,0,0g,0g,0g
+1013,,Gluten Free,,0,0g,0g,0g
+1014,Beef,Original Crust,Pizza for One,25,2g,0g,1g
+1015,,,Small,30,2.5g,0g,1g
+1016,,,Medium,30,2.5g,0g,2g
+1017,,,Large,40,3.5g,0g,2g
+1018,,,Extra Large,40,3.5g,0g,2g
+1019,,Thin Crust,,40,3.5g,0g,2g
+1020,,Pan Crust,,30,2.5g,0g,2g
+1021,,Gluten Free,,30,2.5g,0g,1g
+1022,Black Olives,Original Crust,Pizza for One,10,1g,0g,0g
+1023,,,Small,10,1g,0g,0g
+1024,,,Medium,10,1g,0g,0g
+1025,,,Large,15,1.5g,0g,0g
+1026,,,Extra Large,15,1.5g,0g,0g
+1027,,Thin Crust,,15,1.5g,0g,0g
+1028,,Pan Crust,,10,1g,0g,0g
+1029,,Gluten Free,,10,1g,0g,0g
+1030,Canadian Bacon,Original Crust,Pizza for One,10,0g,0g,2g
+1031,,,Small,10,0.5g,0g,2g
+1032,,,Medium,15,0.5g,0g,2g
+1033,,,Large,20,1g,0g,2g
+1034,,,Extra Large,20,1g,0g,2g
+1035,,Thin Crust,,20,1g,0g,2g
+1036,,Pan Crust,,15,0.5g,0g,2g
+1037,,Gluten Free,,10,0.5g,0g,2g
+1038,Chicken,Original Crust,Pizza for One,20,0g,0g,4g
+1039,,,Small,15,0g,0g,3g
+1040,,,Medium,15,0g,0g,4g
+1041,,,Large,20,0g,0g,5g
+1042,,,Extra Large,20,0g,0g,5g
+1043,,Thin Crust,,20,0g,0g,5g
+1044,,Pan Crust,,15,0g,0g,4g
+1045,,Gluten Free,,15,0g,0g,3g
+1046,Parmesan/Romano,Original Crust,Pizza for One,15,1g,0g,1g
+1047,,,Small,15,1g,0g,1g
+1048,,,Medium,15,1g,0g,1g
+1049,,,Large,20,1.5g,0g,2g
+1050,,,Extra Large,20,1.5g,0g,2g
+1051,,Thin Crust,,20,1.5g,0g,2g
+1052,,Pan Crust,,15,1g,0g,1g
+1053,,Gluten Free,,15,1g,0g,1g
+1054,Three Cheese Blend,Original Crust,Pizza for One,20,1.5g,0g,1g
+1055,,,Small,20,1.5g,0g,1g
+1056,,,Medium,20,1.5g,0g,2g
+1057,,,Large,25,2g,0g,2g
+1058,,,Extra Large,25,2g,0g,2g
+1059,,Thin Crust,,25,2g,0g,2g
+1060,,Pan Crust,,20,1.5g,0g,2g
+1061,,Gluten Free,,20,1.5g,0g,1g
+1062,Green Olives,Original Crust,Pizza for One,10,1g,0g,0g
+1063,,,Small,5,0.5g,0g,0g
+1064,,,Medium,10,1g,0g,0g
+1065,,,Large,10,1g,0g,0g
+1066,,,Extra Large,10,1g,0g,0g
+1067,,Thin Crust,,10,1g,0g,0g
+1068,,Pan Crust,,10,1g,0g,0g
+1069,,Gluten Free,,5,0.5g,0g,0g
+1070,Green Pepper,Original Crust,Pizza for One,0,0g,0g,0g
+1071,,,Small,0,0g,0g,0g
+1072,,,Medium,0,0g,0g,0g
+1073,,,Large,0,0g,0g,0g
+1074,,,Extra Large,0,0g,0g,0g
+1075,,Thin Crust,,0,0g,0g,0g
+1076,,Pan Crust,,0,0g,0g,0g
+1077,,Gluten Free,,0,0g,0g,0g
+1078,Italian Sausage,Original Crust,Pizza for One,40,3.5g,0g,1g
+1079,,,Small,35,3.5g,0g,1g
+1080,,,Medium,40,3.5g,0g,2g
+1081,,,Large,50,5g,0g,2g
+1082,,,Extra Large,50,5g,0g,2g
+1083,,Thin Crust,,50,5g,0g,2g
+1084,,Pan Crust,,40,3.5g,0g,2g
+1085,,Gluten Free,,35,3.5g,0g,1g
+1086,Jalapeno,Original Crust,Pizza for One,0,0g,0g,0g
+1087,,,Small,0,0g,0g,0g
+1088,,,Medium,0,0g,0g,0g
+1089,,,Large,0,0g,0g,0g
+1090,,,Extra Large,0,0g,0g,0g
+1091,,Thin Crust,,0,0g,0g,0g
+1092,,Pan Crust,,0,0g,0g,0g
+1093,,Gluten Free,,0,0g,0g,0g
+1094,Mushroom,Original Crust,Pizza for One,0,0g,0g,0g
+1095,,,Small,0,0g,0g,0g
+1096,,,Medium,0,0g,0g,0g
+1097,,,Large,5,0g,1g,0g
+1098,,,Extra Large,5,0g,1g,0g
+1099,,Thin Crust,,5,0g,1g,0g
+1100,,Pan Crust,,5,0g,0g,0g
+1101,,Gluten Free,,0,0g,0g,0g
+1102,Onion,Original Crust,Pizza for One,5,0g,1g,0g
+1103,,,Small,5,0g,1g,0g
+1104,,,Medium,5,0g,1g,0g
+1105,,,Large,5,0g,1g,0g
+1106,,,Extra Large,5,0g,1g,0g
+1107,,Thin Crust,,5,0g,1g,0g
+1108,,Pan Crust,,5,0g,1g,0g
+1109,,Gluten Free,,5,0g,1g,0g
+1110,Pineapple,Original Crust,Pizza for One,5,0g,2g,1g
+1111,,,Small,5,0g,2g,1g
+1112,,,Medium,5,0g,2g,1g
+1113,,,Large,10,0g,2g,2g
+1114,,,Extra Large,10,0g,2g,2g
+1115,,Thin Crust,,10,0g,2g,2g
+1116,,Pan Crust,,5,0g,2g,1g
+1117,,Gluten Free,,5,0g,2g,1g
+1118,Pepperoni,Original Crust,Pizza for One,40,3.5g,0g,1g
+1119,,,Small,30,3g,0g,1g
+1120,,,Medium,35,3g,0g,1g
+1121,,,Large,50,4.5g,0g,2g
+1122,,,Extra Large,50,4.5g,0g,2g
+1123,,Thin Crust,,50,4.5g,0g,2g
+1124,,Pan Crust,,50,3g,0g,1g
+1125,,Gluten Free,,30,3g,0g,1g
+1126,Sausage,Original Crust,Pizza for One,45,4.5g,0g,1g
+1127,,,Small,40,4g,0g,1g
+1128,,,Medium,45,4.5g,0g,1g
+1129,,,Large,60,6g,0g,2g
+1130,,,Extra Large,60,6g,0g,2g
+1131,,Thin Crust,,60,6g,0g,2g
+1132,,Pan Crust,,45,4.5g,0g,1g
+1133,,Gluten Free,,40,4g,0g,1g
+1134,Roma Tomatoes,Original Crust,Pizza for One,0,0g,0g,0g
+1135,,,Small,0,0g,0g,0g
+1136,,,Medium,0,0g,0g,0g
+1137,,,Large,5,0g,1g,0g
+1138,,,Extra Large,5,0g,1g,0g
+1139,,Thin Crust,,5,0g,1g,0g
+1140,,Pan Crust,,5,0g,0g,0g
+1141,,Gluten Free,,0,0g,0g,0g

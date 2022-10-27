@@ -1,0 +1,336 @@
+,Food,Size/Variety,Calories,Fat,Carbs,Protein
+0,Single Steakburger,w/ cheese,460,23,31,28
+1,,w/o cheese,410,19,31,26
+2,Double Steakburger,w/ cheese,730,43,32,52
+3,,w/o cheese,630,34,31,47
+4,Triple Steakburger,w/ cheese,1000,62,32,76
+5,,w/o cheese,850,48,31,68
+6,California Style Steakburger,Single,500,26,36,29
+7,,w/o cheese,450,22,35,26
+8,,w/o sauce,460,24,33,29
+9,,w/o cheese or sauce,410,19,33,26
+10,Double California Style Steakburger,,770,45,36,53
+11,,w/o cheese,670,36,35,48
+12,,w/o sauce,730,43,34,53
+13,,w/o cheese or sauce,630,34,33,48
+14,Triple California Style,,1030,64,37,77
+15,,w/o cheese,880,51,36,69
+16,,w/o sauce,1000,62,34,77
+17,,w/o cheese or sauce,850,48,33,69
+18,Single Bacon Steakburger with Cheese,,520,28,31,33
+19,Double Bacon Steakburger with Cheese,,790,48,32,57
+20,Triple Bacon Steakburger with Cheese,,1050,67,32,81
+21,Single Bacon Steakburger w/o Cheese,,470,24,31,31
+22,Double Bacon Steakburger w/o Cheese,,690,39,31,52
+23,Triple Bacon Steakburgerw/o Cheese,,900,53,31,73
+24,Single Patty Melt,,500,25,37,30
+25,Double Patty Melt,,760,44,37,55
+26,Triple Patty Melt,,1030,63,38,79
+27,Veggie Burger,,440,15,49,23
+28,,w/o cheese,390,10,49,21
+29,,w/o sauce,400,12,46,23
+30,,w/o cheese or sauce,350,7,46,21
+31,Grilled Chicken Breast Sandwich,,350,8,32,35
+32,Crispy Chicken Sandwich,,530,27,47,25
+33,Hot Dog,,390,21,34,14
+34,Chicago Style Hot Dog,,430,21,42,14
+35,Chili Cheese Dog,,550,34,43,29
+36,Chili Dog w/o cheese,,500,25,42,22
+37,Chicken Tenders,Regular,270,12,23,21
+38,,Large,430,18,37,33
+39,Single Steakburger,w/ cheese,280,19,3,24
+40,,w/o cheese,230,15,3,22
+41,Double Steakburger,w/ cheese,550,38,4,48
+42,,w/o cheese,450,29,3,43
+43,Triple Steakburger,w/ cheese,820,57,5,72
+44,,w/o cheese,670,44,3,65
+45,Single California Style Steakburger,,320,22,8,25
+46,,w/o cheese,270,17,7,22
+47,,w/o sauce,290,19,5,25
+48,,w/o cheese or sauce,240,15,4,2
+49,Double California Style Steakburger,,590,41,8,49
+50,,w/o cheese,490,32,7,44
+51,,w/o sauce,550,38,6,49
+52,,w/o cheese or sauce,450,29,5,44
+53,Triple California Style,,850,60,9,73
+54,,w/o cheese,700,47,7,65
+55,,w/o sauce,820,58,6,73
+56,,w/o cheese or sauce,670,44,5,65
+57,Single Bacon Steakburger with Cheese,,350,24,3,29
+58,Double Bacon Steakburger with Cheese,,610,43,4,53
+59,Triple Bacon Steakburger with Cheese,,880,62,5,77
+60,Single Bacon Steakburger w/o Cheese,,300,20,3,27
+61,Double Bacon Steakburger w/o Cheese,,510,34,3,48
+62,Triple Bacon Steakburgerw/o Cheese,,730,49,3,70
+63,Single Patty Melt,,290,21,3,25
+64,Double Patty Melt,,560,39,4,49
+65,Triple Patty Melt,,830,58,5,73
+66,Veggie Burger,,260,10,21,19
+67,,w/o cheese,210,6,21,17
+68,,w/o sauce,230,8,19,19
+69,,w/o cheese or sauce,180,3,18,17
+70,Grilled Chicken Breast Sandwich,,170,3.5,4,31
+71,Crispy Chicken Sandwich,,360,23,18,21
+72,Hot Dog,,170,14,2,8
+73,Chicago Style Hot Dog,,210,14,11,8
+74,Chili Cheese Dog,,330,23,12,20
+75,Chili Dog w/o cheese,,270,18,11,17
+76,Mustard,,0,0,0,0
+77,Ketchup,,15,0,4,0
+78,Fry Sauce (0.25 fl oz),,35,3.5,1,0
+79,Mayo,,50,5,0,0
+80,Lettuce,,0,0,1,0
+81,Tomato,,0,0,1,0
+82,Jalapenos,,0,0,1,0
+83,Sport Peppers,,5,0,0,0
+84,Sauerkraut,,5,0,1,0
+85,Pickle,,0,0,0,0
+86,Relish,,20,0,5,0
+87,Onions,,10,0,2,0
+88,Grilled Onions,,25,2,2,0
+89,American Cheese,,50,4.5,1,3
+90,Swiss Cheese,,50,4,1,3
+91,Montery-Cheddar Cheese,,50,4,0,3
+92,Cheese Sauce,,40,2.5,3,1
+93,Bacon,,80,5,0,5
+94,Chili,,50,2.5,4,5
+95,Freddy's Sauce,,35,3,3,0
+96,Hatch Green Chilis,,5,0,2,0
+97,Coleslaw,,80,4,10,1
+98,Regular order of Fries,,440,23,54,6
+99,Large order of Fries,,520,27,63,7
+100,Baked Lay's Original,,130,2,26,2
+101,Baked Lay's BBQ,,140,3.5,24,2
+102,Applesauce,,50,0,13,0
+103,Cheese Fries,,640,34,72,8
+104,Chili Cheese Fries,,690,39,76,23
+105,Chili Cup,,220,9,18,19
+106,Chili Bowl,,330,14,27,29
+107,Onion Rings,,600,35,66,6
+108,Small Fried Pickles,,230,8,37,5
+109,Large Fried Pickles,,470,15,73,10
+110,Small Cheese Curds,,610,45,22,29
+111,Large Cheese Curds,,1220,91,44,58
+112,Fry Sauce (2 fl oz),,140,14,4,0
+113,Steakburger,w/o cheese,410,19,31,25
+114,,with cheese,460,23,31,28
+115,Hot Dog,,390,21,34,14
+116,Grilled Cheese,,260,12,29,10
+117,Chicken Tenders,,180,8,15,13
+118,Vanilla cup single,,350,17,37,7
+119,Chocolate cup single,,370,17,40,9
+120,Half/half cup single,,360,17,38,8
+121,Vanilla cup double,,680,34,72,14
+122,Chocolate cup double,,720,34,78,17
+123,Half/half cup double,,700,34,75,15
+124,Vanilla cup triple,,1010,51,106,20
+125,Chocolate cup triple,,1060,51,116,25
+126,Half/half cup triple,,1040,51,111,23
+127,Vanilla cake cone single,,370,17,42,7
+128,Chocolate cake cone single,,390,17,45,9
+129,Half/half cake cone single,,380,17,43,8
+130,Vanilla cake cone double,,700,34,77,14
+131,Chocolate cake cone double,,740,34,83,17
+132,Half/half cake cone double,,720,34,80,15
+133,Vanilla cake cone triple,,1030,51,111,20
+134,Chocolate cake cone triple,,1080,51,121,25
+135,Half/half cake cone triple,,1060,51,116,23
+136,Vanilla waffle cone single,,470,18,63,9
+137,Chocolate waffle cone single,,490,18,66,11
+138,Half/half waffle cone single,,480,18,64,10
+139,Vanilla waffle cone double,,800,35,98,16
+140,Chocolate waffle cone double,,840,35,104,19
+141,Half/half waffle cone double,,820,35,101,17
+142,Vanilla waffle cone triple,,1130,52,132,22
+143,Chocolate waffle cone triple,,1180,52,142,27
+144,Half/half waffle cone triple,,1160,52,137,25
+145,Vanilla Shake,Mini,370,19,37,9
+146,,Regular,560,28,57,13
+147,,Large,770,39,78,19
+148,Vanilla Malt,Mini,390,17,46,35
+149,,Regular,630,26,78,12
+150,,Large,840,36,102,16
+151,Vanilla Concrete,Mini,420,21,44,8
+152,,Regular,700,35,74,14
+153,,Large,1020,51,107,20
+154,Chocolate Shake,Mini,380,19,40,11
+155,,Regular,590,28,62,16
+156,,Large,800,39,85,22
+157,Chocolate Malt,Mini,400,17,49,9
+158,,Regular,650,26,83,14
+159,,Large,870,36,109,20
+160,Chocolate Concrete,Mini,440,21,49,11
+161,,Regular,740,35,81,18
+162,,Large,1070,51,117,25
+163,Root Beer Float,Mini,430,17,60,7
+164,,Regular,570,21,87,8
+165,,Large,940,34,148,14
+166,Vanilla Oreo® Custard Cookie Sandwich,,260,11,37,5
+167,Vanilla Nutter Butter® Custard Cookie Sandwich,,330,15,41,6
+168,Chocolate Oreo® Custard Cookie Sandwich,,270,11,38,5
+169,Chocolate Nutter Butter® Custard Cookie Sandwich,,340,15,43,7
+170,"Per serving for a Pint/Quart, van","pint=3 servings, quart=6",310,16,33,6
+171,"Per Serving in a Pint/Quart, half","pint=3 servings, quart=6",320,16,34,7
+172,"Per Serving for a Pint/Quart, cho","pint=3 servings, quart=6",330,16,36,8
+173,Hot Fudge Sundae,Mini,480,22,58,7
+174,,Regular,810,39,92,14
+175,,Large,1270,59,148,20
+176,Turtle Sundae,Mini,760,38,90,9
+177,,Regular,1090,55,125,16
+178,,Large,1790,89,210,25
+179,PBC&B Sundae,Mini,570,29,63,10
+180,,Regular,900,45,98,17
+181,,Large,1370,69,152,26
+182,Brownie Delight Sundae,Mini,720,32,93,11
+183,,Regular,1070,48,131,19
+184,,Large,1690,75,214,29
+185,Hawaiian Delight Sundae,Mini,620,36,62,9
+186,,Regular,950,52,97,15
+187,,Large,1540,87,155,24
+188,Dirt 'n Worms Sundae,Mini,570,23,74,10
+189,,Regular,900,40,109,16
+190,,Large,1380,59,172,25
+191,Turtle Concrete,Mini,860,39,109,10
+192,,Regular,1140,50,139,16
+193,,Large,1820,83,229,24
+194,PBC&B Concrete,Mini,690,33,84,12
+195,,Regular,980,47,114,18
+196,,Large,1510,71,184,27
+197,Brownie Delight Concrete,Mini,840,37,108,12
+198,,Regular,1140,51,141,20
+199,,Large,1770,78,225,29
+200,Hawaiian Delight Concrete,Mini,740,42,74,10
+201,,Regular,1030,57,104,16
+202,,Large,1600,90,160,24
+203,Dirt 'n Worms Concrete,Mini,640,27,82,11
+204,,Regular,930,41,112,17
+205,,Large,1290,59,173,25
+206,Almonds,mini & reg,70,6,2,2
+207,,lrg,140,12,4,4
+208,Banana,mini & reg,25,0,6,0
+209,,lrg,50,0,12,0
+210,Banana Syrup,mini & reg,60,0,14,0
+211,,lrg,120,0,28,0
+212,Brownies,mini & reg,180,7,28,2
+213,,lrg,360,14,56,4
+214,Butterfinger®,mini & reg,120,4.5,19,1
+215,,lrg,240,9,38,2
+216,Butterscotch Syrup,mini & reg,90,0,21,0
+217,,lrg,180,0,42,0
+218,Caramel Fudge,mini & reg,130,1,29,1
+219,,lrg,260,2,58,2
+220,Cashews,mini & reg,60,5,4,2
+221,,lrg,120,10,8,4
+222,Cheesecake,mini & reg,60,4,7,1
+223,,lrg,120,8,14,2
+224,Cherry Topping,mini & reg,60,0,15,0
+225,,lrg,120,0,30,0
+226,Chocolate Chips,mini & reg,130,8,19,2
+227,,lrg,260,16,38,4
+228,Chocolate Fudge,mini & reg,150,5,24,0
+229,,lrg,300,10,48,0
+230,Chocolate Syrup,mini & reg,80,0,21,1
+231,,lrg,160,0,42,2
+232,Coffee Flavoring,mini & reg,5,0,1,0
+233,,lrg,10,0,2,0
+234,Cookie Dough,mini & reg,120,6,17,1
+235,,lrg,240,12,34,2
+236,Gummi Worms,mini & reg,100,0,23,2
+237,,lrg,200,0,46,4
+238,Heath® Toffee,mini & reg,120,8,14,0
+239,,lrg,240,16,28,0
+240,M&M's®,mini & reg,170,8,23,2
+241,,lrg,340,16,46,4
+242,Macadamia Nuts,mini & reg,150,14,3,1
+243,,lrg,300,28,6,2
+244,Marshmallow,mini & reg,70,0,18,0
+245,,lrg,140,0,36,0
+246,Mint Flavoring,mini & reg,130,0,31,0
+247,,lrg,260,0,62,0
+248,Oreo®,mini & reg,70,2.5,10,1
+249,,lrg,140,5,20,2
+250,Peanut Butter,mini & reg,120,11,4,4
+251,,lrg,240,22,8,8
+252,Peanuts,mini & reg,110,9,4,4
+253,,lrg,220,18,8,8
+254,Pecan Halves,mini & reg,120,12,2,2
+255,,lrg,240,24,4,4
+256,Pecan Pieces,mini & reg,80,8,2,1
+257,,lrg,160,16,4,2
+258,Pineapple Topping,mini & reg,25,0,6,0
+259,,lrg,50,0,12,0
+260,Rainbow Sprinkles,mini & reg,70,2.5,13,0
+261,,lrg,140,5,26,0
+262,Reese's® PB Cup,mini & reg,140,8,16,3
+263,,lrg,280,16,32,6
+264,Reese's® Pieces,mini & reg,160,8,19,4
+265,,lrg,320,16,38,8
+266,Snickers®,mini & reg,120,6,15,2
+267,,lrg,240,12,30,4
+268,Strawberry Topping,mini & reg,45,0,12,0
+269,,lrg,90,0,24,0
+270,Toasted Coconut,mini & reg,50,4,5,1
+271,,lrg,100,8,10,2
+272,Pepsi®,Small,160,0,41,0
+273,,Medium,260,0,69,0
+274,,Large,410,0,110,0
+275,Diet Pepsi®,Small,0,0,0,0
+276,,Medium,0,0,0,0
+277,,Large,0,0,0,0
+278,Dr. Pepper®,Small,160,0,40,0
+279,,Medium,260,0,66,0
+280,,Large,410,0,105,0
+281,Diet Dr. Pepper®,Small,0,0,0,0
+282,,Medium,0,0,0,0
+283,,Large,0,0,0,0
+284,Mug® Root Beer,Small,160,0,39,0
+285,,Medium,260,0,65,0
+286,,Large,410,0,104,0
+287,Mountain Dew®,Small,170,0,44,0
+288,,Medium,290,0,73,0
+289,,Large,460,0,117,0
+290,Mist Twist®,Small,160,0,41,0
+291,,Medium,260,0,68,0
+292,,Large,410,0,108,0
+293,Tropicana® Pink Lemonade,Small,160,0,40,0
+294,,Medium,260,0,67,0
+295,,Large,410,0,107,0
+296,Tropicana® Lemonade,Small,160,0,40,0
+297,,Medium,260,0,67,0
+298,,Large,410,0,107,0
+299,Tropicana® Light Lemonade,Small,0,0,0,0
+300,,Medium,10,0,0,0
+301,,Large,15,0,1,0
+302,Tropicana® Fruit Punch,Small,170,0,45,0
+303,,Medium,290,0,75,0
+304,,Large,460,0,120,0
+305,Pepsi® Wild Cherry,Small,160,0,42,0
+306,,Medium,260,0,70,0
+307,,Large,410,0,112,0
+308,Luzianne® Iced Tea Unsweet,Small,0,0,0,0
+309,,Medium,0,0,0,0
+310,,Large,0,0,0,0
+311,Splenda® Sugar Free Sweet Tea,Small,10,0,0,0
+312,,Medium,20,0,1,0
+313,,Large,30,0,2,0
+314,Luzianne® Sugar Sweetened Tea,Small,110,0,27,0
+315,,Medium,180,0,46,0
+316,,Large,280,0,73,0
+317,Lipton Brisk® Raspberry,Small,80,0,20,0
+318,,Medium,130,0,33,0
+319,,Large,200,0,52,0
+320,Lipton Brisk Peach,Small,0,0,0,0
+321,,Medium,5,0,0,0
+322,,Large,10,0,0,0
+323,Diet Mountain Dew®,Small,0,0,0,0
+324,,Medium,10,0,1,0
+325,,Large,15,0,1,0
+326,Mt. Dew CODE RED®,Small,170,0,46,0
+327,,Medium,290,0,77,0
+328,,Large,460,0,123,0
+329,Sobe Lifewater Yumberry Pomegranate,Small,0,0,0,0
+330,,Medium,0,0,0,0
+331,,Large,0,0,0,0
+332,Orange Twister,Small,170,0,46,0
+333,,Medium,290,0,76,0
+334,,Large,460,0,122,0

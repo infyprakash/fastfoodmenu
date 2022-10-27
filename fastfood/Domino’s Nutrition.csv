@@ -1,0 +1,627 @@
+,Ingredient Type,Food,Calories,Fat,Carbs,Protein
+0,CRUST,Hand Tossed - serving size is 1/2 of pizza,190,4.5,30,5
+1,SAUCE,Pizza Sauce,10,0,2,0
+2,,Alfredo Sauce,25,2,1,1
+3,,BBQ,15,0,4,0
+4,,Garlic Parm (White Sauce),45,4.5,1,0
+5,,Hearty Marinara,10,0,2,0
+6,CHEESE ONLY PIZZA,Regular Cheese,90,6,3,6
+7,,Light Cheese,50,3.5,1,3
+8,,Extra Cheese,130,9,4,8
+9,,Double Cheese,130,9,4,8
+10,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,60,4.5,2,4
+11,,Light Cheese,50,3.5,1,3
+12,,Extra Cheese,100,7,3,6
+13,,Double Cheese,130,9,4,8
+14,1 TOPPING PIZZA,American Cheese,50,4.5,1,3
+15,,Bacon,70,5,1,4
+16,,Beef,20,2,0,1
+17,,Black Olives,5,0,0,0
+18,,Cheddar,10,1,0,1
+19,,Chicken Grilled,15,0,0,2
+20,,Feta Cheese,5,0,0,1
+21,,Green Peppers,0,0,0,0
+22,,Ham,10,0.5,0,1
+23,,Hot Banana Peppers,0,0,0,0
+24,,Jalapeno,0,0,0,0
+25,,Mushrooms,0,0,0,0
+26,,Onions,0,0,0,0
+27,,Pepperoni,30,3,0,1
+28,,Philly Meat,15,1,1,1
+29,,Pineapple,5,0,1,0
+30,,Provolone,10,0.5,0,1
+31,,Roasted Red Pepper,0,0,0,0
+32,,Salami,20,1.5,0,1
+33,,Sausage,30,2.5,0,0
+34,,Shredded Parmesan,10,1,0,1
+35,,Spinach,0,0,0,0
+36,,Diced Tomatoes,0,0,0,0
+37,,Hot Sauce,0,0,0,0
+38,,Anchovies,30,1.5,0,4
+39,,Chorizo,15,0,0,2
+40,,Garlic,5,0,1,0
+41,,Green Chile Peppers,0,0,0,0
+42,,Green Olive,5,0,0,0
+43,CRUST,Hand Tossed - serving size is 1/2 of pizza,260,7,42,7
+44,SAUCE,Pizza Sauce,10,0,2,0
+45,,Alfredo Sauce,35,3,1,1
+46,,BBQ,25,0,6,0
+47,,Garlic Parm (White Sauce),60,7,1,0
+48,,Hearty Marinara,15,0,3,1
+49,CHEESE ONLY PIZZA,Regular Cheese,90,6,3,6
+50,,Light Cheese,50,3.5,1,3
+51,,Extra Cheese,130,9,4,8
+52,,Double Cheese,130,9,4,8
+53,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,60,4.5,2,4
+54,,Light Cheese,50,3.5,1,3
+55,,Extra Cheese,100,7,3,6
+56,,Double Cheese,130,9,4,8
+57,1 TOPPING PIZZA,American Cheese,50,4.5,1,3
+58,,Bacon,70,5,1,4
+59,,Beef,60,5,0,4
+60,,Black Olives,25,2,1,0
+61,,Cheddar,30,2.5,0,2
+62,,Chicken Grilled,30,1,1,5
+63,,Feta Cheese,15,1,0,2
+64,,Green Peppers,5,0,1,0
+65,,Ham,20,1,0,2
+66,,Hot Banana Peppers,5,0,1,0
+67,,Jalapeno,5,0,1,0
+68,,Mushrooms,5,0,1,1
+69,,Onions,5,0,1,0
+70,,Pepperoni,50,4,0,2
+71,,Philly Meat,20,1,1,2
+72,,Pineapple,15,0,4,0
+73,,Provolone,25,1.5,0,1
+74,,Roasted Red Pepper,5,0,1,0
+75,,Salami,35,3,0,2
+76,,Sausage,80,8,0,3
+77,,Shredded Parmesan,30,2,0,2
+78,,Spinach,5,0,1,0
+79,,Diced Tomatoes,5,0,1,0
+80,,Hot Sauce,0,0,0,0
+81,,Anchovies,30,1.5,0,4
+82,,Chorizo,40,1.5,1,6
+83,,Garlic,5,0,1,0
+84,,Green Chile Peppers,5,0,1,0
+85,,Green Olive,25,2,1,0
+86,CRUST,Hand Tossed - serving size is 1/6 of pizza,130,3,22,4
+87,SAUCE,Pizza Sauce,10,0,2,0
+88,,Alfredo Sauce,15,1.5,0,0
+89,,BBQ,10,0,3,0
+90,,Garlic Parm (White Sauce),30,3.5,0,0
+91,,Hearty Marinara,10,0,2,0
+92,CHEESE ONLY PIZZA,Regular Cheese,60,4,2,4
+93,,Light Cheese,30,2,1,2
+94,,Extra Cheese,90,6,3,6
+95,,Double Cheese,90,6,3,6
+96,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,45,3,1,3
+97,,Light Cheese,30,2,1,2
+98,,Extra Cheese,60,4,2,4
+99,,Double Cheese,90,6,3,6
+100,1 TOPPING PIZZA,American Cheese,35,3,1,2
+101,,Bacon,45,1,1,3
+102,,Beef,35,3,0,2
+103,,Black Olives,10,1,0,0
+104,,Cheddar,20,1.5,0,1
+105,,Chicken Grilled,20,0.5,0,3
+106,,Feta Cheese,10,0.5,0,1
+107,,Green Peppers,0,0,0,0
+108,,Ham,10,0,0,1
+109,,Hot Banana Peppers,0,0,0,0
+110,,Jalapeno,0,0,0,0
+111,,Mushrooms,5,0,0,0
+112,,Onions,5,0,1,0
+113,,Pepperoni,25,2.5,0,1
+114,,Philly Meat,15,1,0,1
+115,,Pineapple,10,0,2,0
+116,,Provolone,15,1,0,1
+117,,Roasted Red Pepper,0,0,0,0
+118,,Salami,25,2,0,1
+119,,Sausage,45,4.5,0,2
+120,,Shredded Parmesan,20,1.5,0,1
+121,,Spinach,0,0,0,0
+122,,Diced Tomatoes,0,0,0,0
+123,,Hot Sauce,0,0,0,0
+124,,Anchovies,10,0,0,1
+125,,Chorizo,20,0.5,0,3
+126,,Garlic,5,0,1,0
+127,,Green Chile Peppers,0,0,0,0
+128,,Green Olive,10,1,0,0
+129,CRUST,Gluten Free - serving size is 1/3 of pizza,130,1.5,28,2
+130,SAUCE,Pizza Sauce,15,0,3,1
+131,,Alfredo Sauce,35,3,1,1
+132,,BBQ,25,0,6,0
+133,,Garlic Parm (White Sauce),60,7,1,0
+134,,Hearty Marinara,20,0,3,1
+135,CHEESE ONLY PIZZA,Regular Cheese,120,8,4,8
+136,,Light Cheese,60,4,2,4
+137,,Extra Cheese,170,12,5,11
+138,,Double Cheese,170,12,5,11
+139,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,90,6,3,6
+140,,Light Cheese,60,4,2,4
+141,,Extra Cheese,120,8,4,8
+142,,Double Cheese,170,12,5,11
+143,1 TOPPING PIZZA,American Cheese,70,6,2,3
+144,,Bacon,90,7,2,5
+145,,Beef,70,6,0,4
+146,,Black Olives,25,2,1,0
+147,,Cheddar,40,3,0,2
+148,,Chicken Grilled,35,1,1,5
+149,,Feta Cheese,25,1.5,1,2
+150,,Green Peppers,5,0,1,0
+151,,Ham,20,1,0,2
+152,,Hot Banana Peppers,5,0,1,0
+153,,Jalapeno,5,0,1,0
+154,,Mushrooms,5,0,1,1
+155,,Onions,5,0,1,0
+156,,Pepperoni,50,4.5,0,2
+157,,Philly Meat,30,1.5,1,3
+158,,Pineapple,15,0,4,0
+159,,Provolone,30,2,1,2
+160,,Roasted Red Pepper,5,0,1,0
+161,,Salami,50,4,0,3
+162,,Sausage,90,9,0,3
+163,,Shredded Parmesan,40,2.5,1,3
+164,,Spinach,5,0,1,0
+165,,Diced Tomatoes,5,0,1,0
+166,,Hot Sauce,0,0,0,0
+167,,Anchovies,20,1,0,3
+168,,Chorizo,45,1.5,1,7
+169,,Garlic,5,0,1,0
+170,,Green Chile Peppers,5,0,1,0
+171,,Green Olive,25,2,1,0
+172,CRUST,Crunchy Thin - serving size is 1/4 of pizza,110,4.5,15,2
+173,SAUCE,Pizza Sauce,10,0,2,0
+174,,Alfredo Sauce,25,2.5,1,1
+175,,BBQ,20,0,4,0
+176,,Garlic Parm (White Sauce),50,5,1,0
+177,,Hearty Marinara,15,0,3,1
+178,CHEESE ONLY PIZZA,Regular Cheese,90,6,3,6
+179,,Light Cheese,45,3,1,3
+180,,Extra Cheese,130,9,4,8
+181,,Double Cheese,130,9,4,8
+182,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,60,4.5,2,4
+183,,Light Cheese,45,3,1,3
+184,,Extra Cheese,90,6,3,6
+185,,Double Cheese,130,9,4,8
+186,1 TOPPING PIZZA,American Cheese,50,4.5,1,3
+187,,Bacon,70,5,1,4
+188,,Beef,50,4.5,0,3
+189,,Black Olives,15,1.5,1,0
+190,,Cheddar,30,2.5,0,2
+191,,Chicken Grilled,25,1,1,4
+192,,Feta Cheese,15,1,0,2
+193,,Green Peppers,0,0,0,0
+194,,Ham,15,0.5,0,2
+195,,Hot Banana Peppers,0,0,1,0
+196,,Jalapeno,0,0,0,0
+197,,Mushrooms,5,0,1,1
+198,,Onions,5,0,1,0
+199,,Pepperoni,40,3.5,0,2
+200,,Philly Meat,20,1,1,2
+201,,Pineapple,10,0,3,0
+202,,Provolone,25,1.5,0,1
+203,,Roasted Red Pepper,5,0,1,0
+204,,Salami,35,3,0,2
+205,,Sausage,70,7,0,2
+206,,Shredded Parmesan,30,2,0,2
+207,,Spinach,0,0,0,0
+208,,Diced Tomatoes,5,0,1,0
+209,,Hot Sauce,0,0,0,0
+210,,Anchovies,15,0.5,0,2
+211,,Chorizo,35,1,0,5
+212,,Garlic,5,0,1,0
+213,,Green Chile Peppers,0,0,0,0
+214,,Green Olive,20,1.5,1,0
+215,CRUST,Hand Tossed - serving size is 1/8 of pizza,140,3,23,4
+216,SAUCE,Pizza Sauce,10,0,2,0
+217,,Alfredo Sauce,25,2.5,1,1
+218,,BBQ,15,0,3,0
+219,,Garlic Parm (White Sauce),50,5,1,0
+220,,Hearty Marinara,10,0,2,0
+221,CHEESE ONLY PIZZA,Regular Cheese,70,4.5,2,4
+222,,Light Cheese,30,2,1,2
+223,,Extra Cheese,90,6,3,6
+224,,Double Cheese,90,6,3,6
+225,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,45,3,1,3
+226,,Light Cheese,30,2,1,2
+227,,Extra Cheese,70,4.5,2,4
+228,,Double Cheese,90,6,3,6
+229,1 TOPPING PIZZA,American Cheese,40,3,1,2
+230,,Bacon,45,3.5,1,3
+231,,Beef,35,3,0,2
+232,,Black Olives,10,1,0,0
+233,,Cheddar,30,2.5,0,2
+234,,Chicken Grilled,20,0.5,0,3
+235,,Feta Cheese,15,1,0,1
+236,,Green Peppers,0,0,0,0
+237,,Ham,10,0.5,0,0
+238,,Hot Banana Peppers,0,0,0,0
+239,,Jalapeno,0,0,0,0
+240,,Mushrooms,5,0,0,0
+241,,Onions,5,0,1,0
+242,,Pepperoni,30,2.5,0,1
+243,,Philly Meat,15,0.5,0,1
+244,,Pineapple,10,0,2,0
+245,,Provolone,25,1.5,0,1
+246,,Roasted Red Pepper,0,0,0,0
+247,,Salami,30,2.5,0,1
+248,,Sausage,50,4.5,0,2
+249,,Shredded Parmesan,20,1.5,0,2
+250,,Spinach,0,0,0,0
+251,,Diced Tomatoes,5,0,0,0
+252,,Hot Sauce,0,0,0,0
+253,,Anchovies,15,0.5,0,2
+254,,Chorizo,25,0.5,0,4
+255,,Garlic,5,0,1,0
+256,,Green Chile Peppers,0,0,0,0
+257,,Green Olive,10,1,0,0
+258,CRUST,Crunchy Thin - serving size is 1/4 of pizza,150,6,21,3
+259,SAUCE,Pizza Sauce,15,0,3,1
+260,,Alfredo Sauce,50,5,1,1
+261,,BBQ,30,0,7,0
+262,,Garlic Parm (White Sauce),100,10,1,1
+263,,Hearty Marinara,20,0,4,1
+264,CHEESE ONLY PIZZA,Regular Cheese,140,9,4,9
+265,,Light Cheese,60,4.5,2,4
+266,,Extra Cheese,180,13,6,12
+267,,Double Cheese,180,13,6,12
+268,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,90,6,3,6
+269,,Light Cheese,60,4.5,2,4
+270,,Extra Cheese,140,9,4,9
+271,,Double Cheese,180,13,6,12
+272,1 TOPPING PIZZA,American Cheese,80,6,2,4
+273,,Bacon,90,7,2,5
+274,,Beef,70,6,0,4
+275,,Black Olives,25,2,1,0
+276,,Cheddar,60,4.5,0,3
+277,,Chicken Grilled,40,1,1,6
+278,,Feta Cheese,25,1.5,1,2
+279,,Green Peppers,5,0,1,0
+280,,Ham,25,1,0,3
+281,,Hot Banana Peppers,5,0,1,0
+282,,Jalapeno,5,0,1,0
+283,,Mushrooms,5,0,1,1
+284,,Onions,5,0,1,0
+285,,Pepperoni,60,5,0,3
+286,,Philly Meat,25,1.5,1,3
+287,,Pineapple,15,0,4,0
+288,,Provolone,45,3.5,1,3
+289,,Roasted Red Pepper,5,0,1,0
+290,,Salami,60,4.5,0,3
+291,,Sausage,100,9,0,3
+292,,Shredded Parmesan,45,3,1,3
+293,,Spinach,0,0,0,0
+294,,Diced Tomatoes,5,0,1,0
+295,,Hot Sauce,0,0,0,0
+296,,Anchovies,30,1.5,0,4
+297,,Chorizo,45,1.5,1,7
+298,,Garlic,5,0,1,0
+299,,Green Chile Peppers,5,0,1,0
+300,,Green Olive,25,2,1,0
+301,CRUST,Pan - serving size is 1/8 of pizza,190,8,26,5
+302,SAUCE,Pizza Sauce,5,0,1,0
+303,,Alfredo Sauce,25,2.5,1,1
+304,,BBQ,20,0,4,0
+305,,Garlic Parm (White Sauce),50,5,1,0
+306,,Hearty Marinara,5,0,1,0
+307,CHEESE ONLY PIZZA,Regular Cheese,90,6,2,6
+308,,Light Cheese,70,4.5,2,4
+309,,Extra Cheese,100,7,3,7
+310,,Double Cheese,100,7,3,7
+311,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,70,5,2,5
+312,,Light Cheese,70,4.5,2,4
+313,,Extra Cheese,90,6,2,6
+314,,Double Cheese,100,4.5,3,7
+315,1 TOPPING PIZZA,American Cheese,40,3,1,2
+316,,Bacon,45,3.5,1,3
+317,,Beef,35,3,0,2
+318,,Black Olives,10,1,0,0
+319,,Cheddar,30,2.5,0,2
+320,,Chicken Grilled,20,0.5,0,3
+321,,Feta Cheese,15,1,0,1
+322,,Green Peppers,0,0,0,0
+323,,Ham,10,0.5,0,1
+324,,Hot Banana Peppers,0,0,0,0
+325,,Jalapeno,0,0,0,0
+326,,Mushrooms,5,0,0,0
+327,,Onions,5,0,1,0
+328,,Pepperoni,30,2.5,0,1
+329,,Philly Meat,15,0.5,0,1
+330,,Pineapple,10,0,2,0
+331,,Provolone,25,1.5,0,1
+332,,Roasted Red Pepper,0,0,0,0
+333,,Salami,30,2.5,0,1
+334,,Sausage,50,4.5,0,2
+335,,Shredded Parmesan,20,1.5,0,2
+336,,Spinach,0,0,0,0
+337,,Diced Tomatoes,5,0,0,0
+338,,Hot Sauce,0,0,0,0
+339,,Anchovies,15,0.5,0,2
+340,,Chorizo,25,0.5,0,4
+341,,Garlic,5,0,1,0
+342,,Green Chile Peppers,0,0,0,0
+343,,Green Olive,10,1,0,0
+344,CRUST,Hand Tossed - serving size is 1/8 of pizza,180,3.5,31,6
+345,,Crunchy Thin - serving size is 1/8 of pizza,100,4,13,2
+346,SAUCE,Pizza Sauce,10,0,2,0
+347,,Alfredo Sauce,35,3,1,1
+348,,BBQ,20,0,5,0
+349,,Garlic Parm (White Sauce),60,7,1,0
+350,,Hearty Marinara,15,0,3,1
+351,CHEESE ONLY PIZZA,Regular Cheese,100,7,3,6
+352,,Light Cheese,45,3,1,3
+353,,Extra Cheese,130,9,4,8
+354,,Double Cheese,130,9,4,8
+355,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,60,4.5,2,4
+356,,Light Cheese,45,3,1,3
+357,,Extra Cheese,100,7,3,6
+358,,Double Cheese,130,9,4,8
+359,1 TOPPING PIZZA,American Cheese,45,4,1,2
+360,,Bacon,60,4.5,1,4
+361,,Beef,50,4.5,0,3
+362,,Black Olives,15,1.5,1,0
+363,,Cheddar,35,3,0,2
+364,,Chicken Grilled,25,1,1,4
+365,,Feta Cheese,15,1,0,2
+366,,Green Peppers,0,0,0,0
+367,,Ham,15,0.5,0,2
+368,,Hot Banana Peppers,0,0,1,0
+369,,Jalapeno,0,0,0,0
+370,,Mushrooms,5,0,1,1
+371,,Onions,5,0,1,0
+372,,Pepperoni,40,3.5,0,2
+373,,Philly Meat,20,1,1,2
+374,,Pineapple,10,0,3,0
+375,,Provolone,30,2,1,2
+376,,Roasted Red Pepper,5,0,1,0
+377,,Salami,35,3,0,2
+378,,Sausage,70,7,0,2
+379,,Shredded Parmesan,30,2,0,2
+380,,Spinach,0,0,0,0
+381,,Diced Tomatoes,5,0,1,0
+382,,Hot Sauce,0,0,0,0
+383,,Anchovies,15,0.5,0,2
+384,,Chorizo,35,1,0,5
+385,,Garlic,5,0,1,0
+386,,Green Chile Peppers,0,0,0,0
+387,,Green Olive,20,1.5,1,0
+388,CRUST,Brooklyn - serving size is 1/6 of pizza,120,1.5,22,4
+389,SAUCE,Pizza Sauce,15,0,3,1
+390,,Alfredo Sauce,45,4.5,1,1
+391,,BBQ,25,0,6,0
+392,,Garlic Parm (White Sauce),90,9,1,1
+393,,Hearty Marinara,20,0,3,1
+394,CHEESE ONLY PIZZA,Regular Cheese,100,7,3,7
+395,,Light Cheese,90,7,2,6
+396,,Extra Cheese,120,9,3,8
+397,,Double Cheese,150,10,4,10
+398,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,100,7,3,7
+399,,Light Cheese,90,7,2,6
+400,,Extra Cheese,120,9,3,8
+401,,Double Cheese,150,10,4,10
+402,1 TOPPING PIZZA,American Cheese,60,5,1,3
+403,,Bacon,80,6,1,5
+404,,Beef,70,6,0,4
+405,,Black Olives,25,2,1,0
+406,,Cheddar,50,4,0,3
+407,,Chicken Grilled,35,1,1,5
+408,,Feta Cheese,25,1.5,1,2
+409,,Green Peppers,5,0,1,0
+410,,Ham,20,1,0,2
+411,,Hot Banana Peppers,5,0,1,0
+412,,Jalapeno,5,0,1,0
+413,,Mushrooms,5,0,1,1
+414,,Onions,5,0,1,0
+415,,Pepperoni,50,4.5,0,2
+416,,Philly Meat,25,1.5,1,2
+417,,Pineapple,15,0,4,0
+418,,Provolone,40,3,1,2
+419,,Roasted Red Pepper,5,0,1,0
+420,,Salami,50,4,0,3
+421,,Sausage,90,9,0,3
+422,,Shredded Parmesan,40,2.5,1,3
+423,,Spinach,0,0,0,0
+424,,Diced Tomatoes,5,0,1,0
+425,,Hot Sauce,0,0,0,0
+426,,Anchovies,20,1,0,3
+427,,Chorizo,45,1.5,1,7
+428,,Garlic,5,0,1,0
+429,,Green Chile Peppers,5,0,1,0
+430,,Green Olive,25,2,1,0
+431,CRUST,Hand Tossed - serving size is 1/8 of pizza,240,4.5,41,7
+432,SAUCE,Pizza Sauce,15,0,3,1
+433,,Alfredo Sauce,45,4,1,1
+434,,BBQ,25,0,6,0
+435,,Garlic Parm (White Sauce),80,8,1,0
+436,,Hearty Marinara,20,0,3,1
+437,CHEESE ONLY PIZZA,Regular Cheese,120,8,4,8
+438,,Light Cheese,60,4,2,4
+439,,Extra Cheese,170,11,5,11
+440,,Double Cheese,170,11,5,11
+441,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,80,6,3,5
+442,,Light Cheese,60,4,2,4
+443,,Extra Cheese,120,8,4,8
+444,,Double Cheese,170,11,5,11
+445,1 TOPPING PIZZA,American Cheese,60,5,1,3
+446,,Bacon,90,7,2,5
+447,,Beef,70,6,0,4
+448,,Black Olives,25,2,1,0
+449,,Cheddar,50,4,0,3
+450,,Chicken Grilled,35,1,1,5
+451,,Feta Cheese,20,1.5,1,2
+452,,Green Peppers,5,0,1,0
+453,,Ham,20,1,0,2
+454,,Hot Banana Peppers,5,0,1,0
+455,,Jalapeno,5,0,1,0
+456,,Mushrooms,5,0,1,1
+457,,Onions,5,0,1,0
+458,,Pepperoni,50,4.5,0,2
+459,,Philly Meat,25,1.5,1,3
+460,,Pineapple,15,0,4,0
+461,,Provolone,40,3,1,3
+462,,Roasted Red Pepper,5,0,1,0
+463,,Salami,45,4,0,2
+464,,Sausage,90,9,0,3
+465,,Shredded Parmesan,35,2.5,0,3
+466,,Spinach,0,0,0,0
+467,,Diced Tomatoes,5,0,1,0
+468,,Hot Sauce,0,0,0,0
+469,,Anchovies,15,0.5,0,2
+470,,Chorizo,45,1.5,1,7
+471,,Garlic,5,0,1,0
+472,,Green Chile Peppers,5,0,1,0
+473,,Green Olive,25,2,1,0
+474,CRUST,Brooklyn - serving size is 1/6 of pizza,170,2,30,5
+475,SAUCE,Pizza Sauce,20,0,4,1
+476,,Alfredo Sauce,60,5,1,1
+477,,BBQ,35,0,8,0
+478,,Garlic Parm (White Sauce),110,11,1,1
+479,,Hearty Marinara,25,0,5,1
+480,CHEESE ONLY PIZZA,Regular Cheese,140,10,3,9
+481,,Light Cheese,130,9,3,8
+482,,Extra Cheese,160,12,4,11
+483,,Double Cheese,190,14,5,13
+484,CHEESE PIZZA ALONG WITH OTHER TOPPINGS,Regular Cheese,140,10,3,9
+485,,Light Cheese,130,9,3,8
+486,,Extra Cheese,160,12,4,11
+487,,Double Cheese,190,14,5,13
+488,1 TOPPING PIZZA,American Cheese,80,6,2,4
+489,,Bacon,110,9,2,7
+490,,Beef,90,8,0,5
+491,,Black Olives,30,2.5,1,0
+492,,Cheddar,70,5,1,4
+493,,Chicken Grilled,45,1.5,1,7
+494,,Feta Cheese,30,2,1,3
+495,,Green Peppers,5,0,1,0
+496,,Ham,25,1.5,0,3
+497,,Hot Banana Peppers,5,0,1,0
+498,,Jalapeno,5,0,1,0
+499,,Mushrooms,5,0,1,1
+500,,Onions,10,0,2,0
+501,,Pepperoni,70,6,0,3
+502,,Philly Meat,35,2,1,3
+503,,Pineapple,20,0,5,0
+504,,Provolone,50,4,1,3
+505,,Roasted Red Pepper,5,0,1,0
+506,,Salami,60,5,0,3
+507,,Sausage,120,11,0,4
+508,,Shredded Parmesan,45,3.5,1,4
+509,,Spinach,5,0,0,0
+510,,Diced Tomatoes,5,0,1,0
+511,,Hot Sauce,0,0,0,0
+512,,Anchovies,20,1,0,3
+513,,Chorizo,60,2,1,9
+514,,Garlic,5,0,1,0
+515,,Green Chile Peppers,5,0,1,0
+516,,Green Olive,30,3,1,0
+517,Buffalo Chicken,S (1/6 of pizza),240,11,25,11
+518,,M (1/8 of pizza),260,12,26,13
+519,,L (1/8 of pizza),340,15,35,17
+520,,XL (1/8 of pizza),450,19,46,21
+521,Cali Chicken Bacon Ranch,S (1/6 of pizza),270,13,25,12
+522,,M (1/8 of pizza),300,15,26,13
+523,,L (1/8 of pizza),400,20,36,17
+524,,XL (1/8 of pizza),520,26,47,22
+525,Honolulu Hawaiian,S (1/6 of pizza),230,9,26,10
+526,,M (1/8 of pizza),240,10,28,11
+527,,L (1/8 of pizza),330,13,38,15
+528,,XL (1/8 of pizza),430,16,49,19
+529,Memphis BBQ Chicken,S (1/6 of pizza),240,9,27,11
+530,,M (1/8 of pizza),260,10,29,12
+531,,L (1/8 of pizza),350,14,39,17
+532,,XL (1/8 of pizza),450,17,52,21
+533,Pacific Veggie,S (1/6 of pizza),210,8,25,9
+534,,M (1/8 of pizza),230,8,27,10
+535,,L (1/8 of pizza),310,11,37,13
+536,,XL (1/8 of pizza),390,14,48,17
+537,Philly Cheese Steak,S (1/6 of pizza),220,9,25,10
+538,,M (1/8 of pizza),230,10,26,10
+539,,L (1/8 of pizza),310,13,35,14
+540,,XL (1/8 of pizza),400,16,46,17
+541,Wisconsin 6 Cheese,S (1/6 of pizza),220,9,25,10
+542,,M (1/8 of pizza),250,11,27,12
+543,,L (1/8 of pizza),340,14,36,16
+544,,XL (1/8 of pizza),440,18,48,20
+545,Spinach & Feta,S (1/6 of pizza),220,9,24,10
+546,,M (1/8 of pizza),240,10,26,10
+547,,L (1/8 of pizza),320,14,35,14
+548,,XL (1/8 of pizza),410,17,46,18
+549,Deluxe,S (1/6 of pizza),220,9,25,9
+550,,M (1/8 of pizza),230,10,27,9
+551,,L (1/8 of pizza),320,13,37,12
+552,,XL (1/8 of pizza),410,17,48,16
+553,ExtravaganZZa,S (1/6 of pizza),260,12,26,11
+554,,M (1/8 of pizza),280,13,28,12
+555,,L (1/8 of pizza),390,18,38,17
+556,,XL (1/8 of pizza),510,24,50,22
+557,MeatZZa,S (1/6 of pizza),260,12,26,11
+558,,M (1/8 of pizza),270,13,27,12
+559,,L (1/8 of pizza),370,17,37,16
+560,,XL (1/8 of pizza),490,23,48,22
+561,Ultimate Pepperoni,S (1/6 of pizza),250,12,25,11
+562,,M (1/8 of pizza),270,13,26,12
+563,,L (1/8 of pizza),370,17,36,16
+564,,XL (1/8 of pizza),480,22,47,21
+565,OVEN BAKED SANDWICHES,Buffalo Chicken,420,21,37,22
+566,,Chicken Bacon Ranch,440,22,36,24
+567,,Chicken Parm,380,15,37,25
+568,,Italian,410,20,36,22
+569,,Mediterranean Veggie,350,14,38,18
+570,,Philly Cheese Steak,320,12,37,17
+571,,Sweet & Spicy Chicken Habanero,400,16,42,23
+572,EXTRAS PER SANDWICH,Extra Chicken,45,2.5,1,5
+573,,Extra Italian Meat,60,4.5,0,4
+574,,Extra Philly Meat,30,1.5,1,3
+575,,Extra Cheese,40,3,0,3
+576,PENNE PASTA,Italian Sausage Marinara 1/2 bread bowl,730,27,96,25
+577,,Italian Sausage Marinara 1 tin,690,34,70,28
+578,,Chicken Alfredo 1/2 bread bowl,690,25,91,25
+579,,Chicken Alfredo 1 tin,620,30,60,27
+580,,Chicken Carbonara 1/2 bread bowl,730,28,92,27
+581,,Chicken Carbonara 1 tin,690,35,63,32
+582,,Pasta Primavera 1/2 bread bowl,660,24,91,19
+583,,Pasta Primavera 1 tin,550,27,61,16
+584,CHICKEN,Boneless Chicken 3 pieces,170,7,18,9
+585,,"Plain Wings, No sauce 4 pieces",190,13,7,13
+586,,BBQ Wings 4 pieces,240,13,18,13
+587,,Fire Wings 4 pieces,200,13,8,13
+588,,Hot Wings 4 pieces,200,13,8,13
+589,,Mild Wings 4 pieces,200,13,8,13
+590,,Sweet Mango Habanero Wings 4 pieces,240,13,20,13
+591,,Red BBQ Wings* 4 pieces,230,13,15,13
+592,,Classic Hot Buffalo Specialty Chicken 4 pieces,180,10,14,9
+593,,Crispy Bacon & Tomato Specialty Chicken 4 pieces,250,17,15,11
+594,,Spicy Jalapeno & Pineapple Specialty Chicken 4 pieces,180,8,22,9
+595,,Sweet BBQ Bacon Specialty Chicken 4 pieces,210,10,20,11
+596,SALADS,Classic Garden Salad,200,9,17,8
+597,,Chicken Apple Pecan Salad,190,4.5,23,13
+598,,Chicken Caesar Salad,210,7,15,16
+599,DRESSINGS,Marzetti Garden Ranch Dressing,220,24,2,1
+600,,Marzetti Cardini Caesar Dressing,230,25,1,1
+601,,Marzetti Golden Italian Dressing,140,14,4,0
+602,,Marzetti Balsamic Vinaigrette Dressing,120,12,4,0
+603,,Ken's Ranch Dressing,200,21,2,1
+604,,Ken's Caesar Dressing,210,23,2,1
+605,,Ken's Golden Italian Dressing,160,17,4,0
+606,,Ken's Lite Balsamic with Olive Oil Vinaigrette,90,9,5,0
+607,BREAD,Garlic Bread Twists 2 pieces,220,11,27,5
+608,,Parmesan Bread Twists 2 Pieces,230,11,27,5
+609,,Stuffed Cheesy Bread 1 Piece,150,7,17,6
+610,,Spinach & Feta Stuffed Cheesy Bread 1 Piece,160,7,17,7
+611,,Jalapeno Bacon Stuffed Cheesy Bread 1 Piece,170,8,17,7
+612,,Parmesan Bread Bites 4 Pieces,220,10,27,5
+613,DIPPING CUPS,BBQ,60,0,14,0
+614,,Blue Cheese,200,21,2,1
+615,,Garlic,250,28,0,0
+616,,Kicker Hot,45,3.5,2,0
+617,,Marinara,30,0,6,1
+618,,Ranch,160,17,1,0
+619,,Sweet Icing,230,4,51,0
+620,,Sweet Mango Habanero,60,0,17,0
+621,,Nacho Cheese Dipping Cup,120,8,5,6
+622,DESSERTS,Chocolate Lava Crunch Cake 1 Cake,350,17,47,4
+623,,Marbled Cookie Brownie 1 Brownie,190,9,25,2
+624,,Dipped Chocolate Chunk Cookie 1 cookie,380,18,55,4
+625,,Cinnamon Bread Twists 2 Pieces,250,12,31,5

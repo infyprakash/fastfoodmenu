@@ -1,0 +1,373 @@
+,Food,Calories,Total Fat,Cholesterol,Carbs,Fiber,Sugars,Protein
+0,Big Mac,530 ,27g,85mg,47g,3g,9g,24g
+1,"Quarter
+Pounder® with
+Cheese",520 ,26g ,95mg,41g,3g,10g,30g
+2,"Bacon Clubhouse
+Burger",720 ,40 ,115 ,51 ,4 ,14,39
+3,"Quarter Pounder
+Bacon Habanero
+Ranch",610 ,31 ,105 ,46 ,3,10,47
+4,"Quarter Pounder
+Bacon &
+Cheese",600 ,29 ,105 ,48 ,3 ,12,37
+5,"Quarter Pounder
+Deluxe",540 ,27 ,85 ,45 ,3 ,9,29
+6,"Double Quarter
+Pounder with
+Cheese",750 ,43 ,160 ,42,3,10,38
+7,Hamburger,240 ,8 ,30 ,32 ,1 ,6,12
+8,Cheeseburger,290 ,11 ,45 ,33 ,2,7,15
+9,"BBQ Ranch
+Burger",340 ,15 ,50 ,37 ,3 ,7,15
+10,"Grilled Onion
+Cheddar",300 ,13,45 ,32 ,2,7,15
+11,"Double
+Cheeseburger",430 ,21 ,90 ,35 ,2,7,24
+12,McDouble,380 ,17 ,75 ,34 ,2 ,7,22
+13,Jalapeño Double,430 ,23 ,80 ,35 ,2,6,22
+14,Bacon McDouble,440 ,22 ,90 ,35 ,2,7,22
+15,Daily Double,430 ,22 ,80 ,34 ,2 ,7,22
+16,"Bacon Clubhouse
+Crispy Chicken
+Sandwich",750 ,38 ,90 ,65 ,4 ,16,36
+17,"Bacon Clubhouse
+Grilled Chicken
+Sandwich",590 ,25 ,110 ,51 ,4,16,36
+18,"Premium Crispy
+Chicken Classic
+Sandwich",510 ,22 ,45 ,55 ,3 ,10,24
+19,"Premium Grilled
+Chicken Classic
+Sandwich",350 ,9 ,65 ,42 ,3 ,8 ,28
+20,"Premium Crispy
+Chicken Club
+Sandwich",670 ,33 ,85 ,58 ,3 ,11 ,36
+21,"Premium Grilled
+Chicken Club
+Sandwich",510 ,20 ,105 ,44 ,3 ,9,40
+22,"Premium Crispy
+Chicken Ranch
+BLT Sandwich",610 ,28 ,70 ,57 ,3 ,11 ,32
+23,"Premium Grilled
+Chicken Ranch
+BLT Sandwich",450 ,15 ,90 ,43 ,3 ,9,36
+24,McChicken ®,360 ,16 ,35 ,40 ,2,5,14
+25,"Buffalo Ranch
+McChicken",360 ,16 ,35 ,40 ,2,5,14
+26,"Bacon Buffalo
+Ranch
+McChicken",430 ,21 ,50 ,41 ,2,6,20
+27,"Bacon Cheddar
+McChicken",480 ,24 ,65 ,43 ,2,6,22
+28,"Southern Style
+Crispy Chicken
+Sandwich",430 ,19 ,45 ,43 ,2,7,21
+29,Filet-O-Fish,390 ,19 ,40 ,39 ,2,5,15
+30,"Premium
+McWrap
+Southwest
+Chicken (Crispy)",670 ,33 ,60 ,68 ,5 ,12,27
+31,"Premium
+McWrap
+Southwest
+Chicken (Grilled)",520 ,20 ,80 ,55 ,5,10,31
+32,"Premium
+McWrap Chicken
+& Bacon (Crispy)",630 ,32 ,80 ,56 ,3 ,7,32
+33,"Premium
+McWrap Chicken
+& Bacon (Grilled)",480 ,19 ,95 ,42 ,3 ,6,36
+34,"Premium
+McWrap Chicken
+& Ranch (Crispy)",610 ,31 ,65 ,56 ,3 ,8,27
+35,"Premium
+McWrap Chicken
+& Ranch (Grilled)",450 ,18 ,80 ,42 ,3 ,6,40
+36,"Premium
+McWrap Chicken
+Sweet Chili
+(Crispy)",540 ,23 ,50 ,61 ,3 ,14,23
+37,"Premium
+McWrap Chicken
+Sweet Chili
+(Grilled)",380 ,10 ,65 ,47 ,3 ,12,17
+38,"Chipotle BBQ
+Snack Wrap
+(Crispy)",340 ,15 ,30 ,37 ,1 ,8,14
+39,"Chipotle BBQ
+Snack Wrap
+(Grilled)",260 ,8 ,40 ,30 ,1 ,7,16
+40,"Honey Mustard
+Snack Wrap
+(Crispy)",330 ,15 ,35 ,34 ,1,3,14
+41,"Honey Mustard
+Snack Wrap
+(Grilled)",250 ,8 ,45 ,27 ,1,2,16
+42,"Ranch Snack
+Wrap® (Crispy)",360 ,20 ,40 ,32 ,1 ,3,15
+43,"Ranch Snack
+Wrap® (Grilled)",280 ,13 ,45 ,25 ,1 ,2,16
+44,"Mac Snack
+Wrap",330 ,19 ,45 ,26 ,1 ,3,14
+45,"Chicken
+McNuggets® (4
+piece)",190 ,12 ,25 ,12 ,1,0,9
+46,"Chicken
+McNuggets® (6
+piece)",280 ,18 ,40 ,18 ,1 ,0,13
+47,"Chicken
+McNuggets® (10
+piece)",470 ,30 ,65 ,30 ,2 ,0,22
+48,"Chicken
+McNuggets® (20
+piece)",940 ,59 ,135 ,59 ,3,0,44
+49,"Chicken
+McNuggets® (40
+piece)",1880 ,118 ,265 ,118 ,6 ,1 ,87
+50,"Mighty Wings (5
+piece)",480 ,31 ,145 ,20 ,2 ,0,30
+51,"Mighty Wings (10
+piece)",960 ,63 ,295 ,40 ,4 ,0,60
+52,"Spicy Chicken
+McBites™ Snack
+Size",270 ,17 ,35 ,18 ,0,0,14
+53,"Spicy Chicken
+McBites™
+Shareable Size",910 ,55 ,120 ,61 ,1,1,46
+54,"Premium Bacon
+Ranch Salad with
+Crispy Chicken",380 ,21 ,70 ,22 ,2,5,25
+55,"Premium Bacon
+Ranch Salad with
+Grilled Chicken",220 ,8 ,85 ,8 ,2 ,4,29
+56,"Premium Bacon
+Ranch Salad
+(without chicken)",140 ,7 ,25,10,3 ,4,9
+57,"Premium
+Southwest Salad
+with Grilled
+Chicken",290 ,8 ,70 ,28 ,7 ,10,27
+58,"Premium
+Southwest Salad
+with Crispy
+Chicken",450 ,22 ,50 ,42 ,7 ,12,23
+59,"Premium
+Southwest Salad
+(without chicken)",140 ,4.5,10,20,6 ,6,6
+60,Side Salad,20,0,"0
+",4,1,2,1
+61,Egg McMuffin®,300 ,13 ,260 ,31 ,4 ,3,17
+62,"Egg White
+Delight",250 ,8 ,25 ,30 ,4 ,3 ,18
+63,"Sausage
+McMuffin®",370 ,23 ,45 ,29 ,4 ,2,14
+64,"Sausage
+McMuffin® with
+Egg",450 ,28 ,285 ,30 ,4 ,2,21
+65,"Steak & Egg
+McMuffin",430 ,23 ,300 ,31 ,4 ,3,26
+66,"Bacon, Egg &
+Cheese Biscuit
+(Regular Size
+Biscuit)",460 ,26 ,250 ,38 ,2,3,19
+67,"Sausage Biscuit
+(Regular Size
+Biscuit)",430 ,27 ,30 ,34 ,2,2,11
+68,"Sausage Biscuit
+with Egg
+(Regular Size
+Biscuit)",510 ,33 ,250 ,36 ,2,2,18
+69,"Steak & Egg
+Biscuit (Regular
+Biscuit)",540 ,32 ,280 ,38,2,3,25
+70,"Bacon, Egg &
+Cheese
+McGriddles",460 ,21 ,250 ,48 ,2,15,19
+71,"Sausage
+McGriddles®",420 ,22 ,35 ,44 ,2,15,11
+72,"Sausage, Egg &
+Cheese
+McGriddles®",550 ,31 ,265 ,48 ,2,15,20
+73,"Bacon, Egg &
+Cheese Bagel",620 ,31 ,275 ,57 ,3 ,7,30
+74,"Steak, Egg &
+Cheese Bagel",670 ,33,63 ,1510 ,56 ,3,12
+75,"Big Breakfast®
+(Regular Size
+Biscuit)",740 ,48 ,555 ,51 ,3 ,3,28
+76,"Big Breakfast
+with Hotcakes
+(Regular Size
+Biscuit)",1090 ,56 ,575 ,111 ,6 ,17,36
+77,Cinnamon Melts,460 ,19 ,15,66 ,3 ,32,6
+78,Hotcakes,350 ,9 ,20,60 ,3,14,8
+79,"Hotcakes and
+Sausage",520 ,24 ,50 ,61 ,3 ,14,15
+80,"Southern Style
+Chicken Biscuit
+(Regular Size
+Biscuit)",410 ,20 ,30 ,41 ,2,3,17
+81,Sausage Burrito,300 ,16 ,115 ,26,1,2,12
+82,Hash Brown,150 ,9 ,0,15,2,0,1
+83,"Bacon, Egg &
+Cheese Biscuit
+(Large Size
+Biscuit)",520 ,30 ,250 ,43 ,3 ,4,19
+84,"Big Breakfast
+with Hotcakes
+(Large Size
+Biscuit)",1150 ,60 ,575 ,116 ,7 ,17,36
+85,"Big Breakfast®
+(Large Size
+Biscuit)",800 ,52 ,555 ,56 ,4 ,3,28
+86,"Sausage Biscuit
+(Large Size
+Biscuit)",480 ,31 ,30 ,39 ,3 ,3,11
+87,"Sausage Biscuit
+with Egg (Large
+Size Biscuit)",570 ,37 ,250 ,42 ,3,3,18
+88,"Southern Style
+Chicken Biscuit
+(Large Size
+Biscuit)",470 ,24 ,30 ,46 ,3,4,17
+89,"Bacon, Egg &
+Cheese Bagel
+with Egg Whites",570 ,25 , 60 ,55 ,3,8,30
+90,"Bacon, Egg &
+Cheese Biscuit
+with Egg Whites
+(Large Biscuit)",470 ,25 ,35 ,42 ,42,3,12
+91,"Bacon, Egg &
+Cheese Biscuit
+with Egg Whites
+(Regular Biscuit)",410 ,20 ,35 ,36 ,2,3,20
+92,"Bacon, Egg &
+Cheese
+McGriddles with
+Egg Whites",400 ,15 ,35 ,47 ,2,16,20
+93,"Big Breakfast
+with Egg Whites
+(Large Size
+Biscuit)",690,41 ,35 ,55 ,4,4,26
+94,"Big Breakfast
+with Egg Whites
+(Regular Size
+Biscuit)",640 ,37 ,35 ,50 ,3,3,26
+95,"Big Breakfast
+with Hotcakes
+and Egg Whites
+(Large Biscuit)",1050 ,50 ,55 ,115 ,7 ,18,35
+96,"Big Breakfast
+with Hotcakes
+and Egg Whites
+(Regular Biscuit)",990 ,46 ,55 ,110 ,6 ,17,35
+97,"Fruit & Maple
+Oatmeal ",290 ,4,5,58 ,5,32,5
+98,"Fruit & Maple
+Oatmeal without
+Brown Sugar",260 ,4,5,49 ,5,18,5
+99,"Sausage Biscuit
+with Egg Whites
+(Large Size
+Biscuit)",520 ,32 ,35 ,40,3,3,18
+100,"Sausage Biscuit
+with Egg Whites
+(Regular Size
+Biscuit)",460 ,27 ,35 ,34,2,3,18
+101,"Sausage
+McMuffin with
+Egg Whites",400 ,23 ,50 ,30,4,2,21
+102,"Sausage, Egg &
+Cheese
+McGriddles with
+Egg Whites",500 ,26,50,46,2,15,21
+103,Kids Fries,110 ,5,0,15,1,0,1
+104,"Small French
+Fries","230 
+",11,0,30,2,0,2
+105,"Medium French
+Fries",340 ,16,0,44,4,0,4
+106,"Large French
+Fries",510 ,24,0,67,5,0,6
+107,Apple Slices,"15
+",0,0,4,0,3,0
+108,"Fruit 'n Yogurt
+Parfait","150 
+",2,5,30,1,23,4
+109,Coffee (Small),0,0,0,0,0,0,0
+110,"Frappe Mocha
+(Small)",450 ,18,65,65,1,57,7
+111,"Frappe Caramel
+(Small)",450 ,19,65,64,0,57,7
+112,"Frappe
+Chocolate Chip
+(Small)",530 ,23,65,76,1,67,8
+113,"Vanilla McCafé
+Shake (12 fl oz
+cup)",530 ,15,60,86,0,63,11
+114,"Chocolate
+McCafé Shake
+(12 fl oz cup)",560 ,16,60,91,1,77,12
+115,"Strawberry
+McCafé Shake
+(12 fl oz cup)",550 ,16,60,90,0,79,12
+116,"Iced Coffee--
+Caramel (Small)","130 
+",4.3,15,22,0,21,1
+117,"Iced Coffee--
+French Vanilla
+(Small)","120 
+",4.5,15,22,0,19,1
+118,"Iced Coffee--
+Hazelnut
+(Small)","130 
+",4.5,15,21,0,20,1
+119,"Iced Coffee--
+Regular (Small)","140
+",4.5,15,23,0,22,1
+120,Coffee (Large),0,0,0,0,0,0,0
+121,Coffee (Medium),0,0,0,0,0,0,0
+122,"Iced Coffee with
+Sugar Free
+French Vanilla
+Syrup (Large)",160 ,9,35,18,0,2,2
+123,"Iced Coffee with
+Sugar Free
+French Vanilla
+Syrup (Medium)","120 
+",7,25,12,0,2,1
+124,"Iced Coffee with
+Sugar Free
+French Vanilla
+Syrup (Small)","80 
+",4.5,15,9,0,1,1
+125,"Iced Coffee--
+Caramel (Large)",260 ,9,35,43,0,42,2
+126,"Iced Coffee--
+Caramel
+(Medium)","180
+",7,50,29,0,28,1
+127,"Iced Coffee--
+French Vanilla
+(Large)",240 ,9,35,41,0,39,2
+128,"Iced Coffee--
+French Vanilla
+(Medium)","170 
+",7,25,27,0,26,1
+129,"Iced Coffee--
+Hazelnut
+(Large)",250 ,9,35 ,43,0,41,2
+130,"Blueberry
+Pomegranate
+Smoothie
+(Small)","220
+",.05,5,50,3,44,2
+131,"Strawberry
+Banana
+Smoothie
+(Small)","210
+",0.5,5,47,3,44,3
+132,"Mango Pineapple
+Smoothie
+(Small)",210,0.5,5,50,1,46,2

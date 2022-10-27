@@ -1,0 +1,610 @@
+,Food,Variety,Calories,Fat,Carbs,Protein
+0,THE GRILLED HOUSE ZALAD,,260,28,33,45
+1,,Salad Base,25,0,4,2
+2,,Cucumbers,0,0,1,0
+3,,Roma Tomatoes,5,0,1,0
+4,,Cheddar/Jack Cheese,140,11,1,7
+5,,Fried Onions,80,6,5,1
+6,,Grilled Fillet,160,3.5,2,31
+7,,Texas Toast,150,7,19,4
+8,THE FRIED HOUSE ZALAD,,700,38,41,48
+9,,Salad Base,25,0,4,2
+10,,Cucumbers,0,0,1,0
+11,,Roma Tomatoes,5,0,1,0
+12,,Cheddar/Jack Cheese,140,11,1,7
+13,,Fried Onions,80,6,5,1
+14,,Chicken Fingers,300,14,10,34
+15,,Texas Toast,150,7,19,4
+16,THE GARDEN HOUSE ZALAD,,400,24,31,14
+17,,Salad Base,25,0,4,2
+18,,Cucumbers,0,0,1,0
+19,,Roma Tomatoes,5,0,1,0
+20,,Cheddar/Jack Cheese,140,11,1,7
+21,,Fried Onions,80,6,5,1
+22,,Texas Toast,150,7,19,4
+23,THE GRILLED COBB ZALAD,,680,35,34,55
+24,,Salad Base,25,0,4,2
+25,,Cucumbers,0,0,1,0
+26,,Roma Tomatoes,5,0,1,0
+27,,Cheddar/Jack Cheese,140,11,1,7
+28,,Fried Onions,80,6,5,1
+29,,Bacon,25,1.5,0,3
+30,,Hard-Boiled Egg,90,6,1,7
+31,,Grilled Fillet,160,3.5,2,31
+32,,Texas Toast,150,7,19,4
+33,THE FRIED COBB ZALAD,,820,46,42,58
+34,,Salad Base,25,0,4,2
+35,,Cucumbers,0,0,1,0
+36,,Roma Tomatoes,5,0,1,0
+37,,Cheddar/Jack Cheese,140,11,1,7
+38,,Fried Onions,80,6,5,1
+39,,Bacon,25,1.5,0,3
+40,,Hard-Boiled Egg,90,6,1,7
+41,,Chicken Fingers,300,14,10,34
+42,,Texas Toast,150,7,19,4
+43,THE GARDEN COBB ZALAD,,520,32,32,24
+44,,Salad Base,25,0,4,2
+45,,Cucumbers,0,0,1,0
+46,,Roma Tomatoes,5,0,1,0
+47,,Cheddar/Jack Cheese,140,11,1,7
+48,,Fried Onions,80,6,5,1
+49,,Bacon,25,1.5,0,3
+50,,Hard-Boiled Egg,90,6,1,7
+51,,Texas Toast,150,7,19,4
+52,THE GRILLED CAESAR ZALAD,,440,16,25,49
+53,,Caesar Base,25,0,4,2
+54,,Bacon,50,3,0,6
+55,,Grilled Fillet,160,3.5,2,31
+56,,Parmesan Cheese,90,6,1,7
+57,,Croutons,110,3,18,3
+58,THE FRIED CAESAR ZALAD,,580,26,33,52
+59,,Caesar Base,25,0,4,2
+60,,Bacon,50,3,0,6
+61,,Chicken Fingers,300,14,10,34
+62,,Parmesan Cheese,90,6,1,7
+63,,Croutons,110,3,18,3
+64,THE GARDEN CAESAR ZALAD,,280,12,23,18
+65,,Caesar Base,25,0,4,2
+66,,Bacon,50,3,0,6
+67,,Parmesan Cheese,90,6,1,7
+68,,Croutons,110,3,18,3
+69,THE BLACKENED BLUE ZALAD,,540,27,32,45
+70,,Salad Base,25,0,4,2
+71,,Roma Tomatoes,5,0,1,0
+72,,Blue Cheese,110,10,1,6
+73,,Fried Onions,80,6,5,1
+74,,Blackened Grilled Fillet,170,3.5,2,32
+75,,Texas Toast,150,7,19,4
+76,THE BUFFALO BLUE ZALAD,,690,37,43,47
+77,,Salad Base,25,0,4,2
+78,,Roma Tomatoes,5,0,1,0
+79,,Blue Cheese,110,10,1,6
+80,,Fried Onions,80,6,5,1
+81,,Chicken Fingers,300,14,10,34
+82,,Tongue Torch,15,0,3,0
+83,,Texas Toast,150,7,19,4
+84,THE GARDEN BLUE ZALAD,,370,23,30,13
+85,,Salad Base,25,0,4,2
+86,,Roma Tomatoes,5,0,1,0
+87,,Blue Cheese,110,10,1,6
+88,,Fried Onions,80,6,5,1
+89,,Texas Toast,150,7,19,4
+90,RANCH,,160,16,2,1
+91,BLUE CHEESE,,180,19,2,1
+92,HONEY FRENCH,,150,12,9,0
+93,HONEY MUSTARD,,150,13,6,0
+94,MEDITERRANEAN,,140,14,4,0
+95,LITE RANCH,,90,8,3,1
+96,CAESAR,,90,8,2,2
+97,1000 ISLAND,,230,24,3,0
+98,LITE VINAIGRETTE,,35,0,8,0
+99,KICKIN’ CHICKEN SANDWICH MEAL,,1130,57,102,46
+100,,Texas Toast,310,14,38,7
+101,,Chicken Fingers,300,14,10,34
+102,,Tongue Torch Sauce,20,0,3,0
+103,,Ranch Sauce,130,13,1,1
+104,,Crinkle Fries,370,16,50,4
+105,KICKIN’ CHICKEN SANDWICH,,760,41,52,42
+106,,Texas Toast,310,14,38,7
+107,,Chicken Fingers,300,14,10,34
+108,,Tongue Torch Sauce,20,0,3,0
+109,,Ranch Sauce,130,13,1,1
+110,CHICKEN FINGER SANDWICH MEAL,,1190,64,106,46
+111,,Brioche Bun,260,9,37,7
+112,,Zax Sauce,260,25,8,1
+113,,Iceberg Lettuce,0,0,0,0
+114,,6 x 6 Tomatoes,0,0,1,0
+115,,Chicken Fingers,300,14,10,34
+116,,Crinkle Fries,370,16,50,4
+117,CHICKEN FINGER SANDWICH,,820,48,56,42
+118,,Brioche Bun,260,9,37,7
+119,,Zax Sauce,260,25,8,1
+120,,Iceberg Lettuce,0,0,0,0
+121,,6 x 6 Tomatoes,0,0,1,0
+122,,Chicken Fingers,300,14,10,34
+123,GRILLED CHICKEN SANDWICH MEAL,,900,38,97,42
+124,,Brioche Bun,260,9,37,7
+125,,Honey Mustard Sauce,110,9,7,0
+126,,Iceberg Lettuce,0,0,0,0
+127,,6 x 6 Tomatoes,0,0,1,0
+128,,Grilled Fillet,160,3.5,2,31
+129,,Crinkle Fries,370,16,50,4
+130,GRILLED CHICKEN SANDWICH,,530,22,46,38
+131,,Brioche Bun,260,9,37,7
+132,,Honey Mustard Sauce,110,9,7,0
+133,,Iceberg Lettuce,0,0,0,0
+134,,6 x 6 Tomatoes,0,0,1,0
+135,,Grilled Fillet,160,3.5,2,31
+136,ZAXBY’S CLUB SANDWICH MEAL,,1300,75,101,54
+137,,Texas Toast,310,14,38,7
+138,,Mayonnaise,210,23,1,0
+139,,Iceberg Lettuce,0,0,0,0
+140,,6 x 6 Tomatoes,0,0,1,0
+141,,Bacon,50,3,0,6
+142,,American Cheese,60,4.5,1,3
+143,,Chicken Fingers,300,14,10,34
+144,,Crinkle Fries,370,16,50,4
+145,ZAXBY’S CLUB SANDWICH,,930,59,51,50
+146,,Texas Toast,310,14,38,7
+147,,Mayonnaise,210,23,1,0
+148,,Iceberg Lettuce,0,0,0,0
+149,,6 x 6 Tomatoes,0,0,1,0
+150,,Bacon,50,3,0,6
+151,,American Cheese,60,4.5,1,3
+152,,Chicken Fingers,300,14,10,34
+153,CAJUN CLUB SANDWICH MEAL,,1040,49,92,53
+154,,Brioche Bun,260,9,37,7
+155,,Ranch Sauce,130,13,1,1
+156,,Iceberg Lettuce,0,0,0,0
+157,,6 x 6 Tomatoes,0,0,1,0
+158,,Bacon,50,3,0,6
+159,,American Cheese,60,4.5,1,3
+160,,Blackened Grilled Fillet,170,3.5,2,32
+161,,Crinkle Fries,370,16,50,4
+162,CAJUN CLUB SANDWICH,,670,33,42,49
+163,,Brioche Bun,260,9,37,7
+164,,Ranch Sauce,130,13,1,1
+165,,Iceberg Lettuce,0,0,0,0
+166,,6 x 6 Tomatoes,0,0,1,0
+167,,Bacon,50,3,0,6
+168,,American Cheese,60,4.5,1,3
+169,,Blackened Grilled Fillet,170,3.5,2,32
+170,CHICKEN SALAD SANDWICH MEAL,,990,58,90,25
+171,,Honey Wheat Bread,180,2,35,6
+172,,Mayonnaise,210,23,1,0
+173,,Iceberg Lettuce,0,0,0,0
+174,,6 x 6 Tomatoes,0,0,1,0
+175,,Chicken Salad,230,17,3,15
+176,,Crinkle Fries,370,16,50,4
+177,CHICKEN SALAD SANDWICH,,620,42,400,21
+178,,Honey Wheat Bread,180,2,35,6
+179,,Mayonnaise,210,23,1,0
+180,,Iceberg Lettuce,0,0,0,0
+181,,6 x 6 Tomatoes,0,0,1,0
+182,,Chicken Salad,230,17,3,15
+183,(3) NIBBLERZ MEAL,,1340,69,131,49
+184,,Nibbler Buns,490,21,66,10
+185,,Zax Sauce,180,18,5,1
+186,,Chicken Fingers,300,14,10,34
+187,,Crinkle Fries,370,16,50,4
+188,(3) NIBBLERZ,,970,53,81,45
+189,,Nibbler Buns,490,21,66,10
+190,,Zax Sauce,180,18,5,1
+191,,Chicken Fingers,300,14,10,34
+192,BLT SANDWICH MEAL (OFF MENU),,1090,65,91,34
+193,,Texas Toast,310,14,38,7
+194,,Mayonnaise,210,23,1,0
+195,,Iceberg Lettuce,0,0,0,0
+196,,6 x 6 Tomatoes,0,0,1,0
+197,,Bacon,200,12,1,23
+198,,Crinkle Fries,370,16,50,4
+199,BLT SANDWICH (OFF MENU),,720,49,41,30
+200,,Texas Toast,310,14,38,7
+201,,Mayonnaise,210,23,1,0
+202,,Iceberg Lettuce,0,0,0,0
+203,,6 x 6 Tomatoes,0,0,1,0
+204,,Bacon,200,12,1,23
+205,GRILLED CHEESE SANDWICH MEAL (OFF MENU),,870,48,90,18
+206,,Texas Toast,330,18,38,6
+207,,American Cheese,170,14,2,8
+208,,Crinkle Fries,370,16,50,4
+209,GRILLED CHEESE SANDWICH (OFF MENU),,500,32,40,14
+210,,Texas Toast,330,18,38,6
+211,,American Cheese,170,14,2,8
+212,CHICKEN FINGER PLATE (4 FINGERS),,1240,70,101,55
+213,,Chicken Fingers,400,19,14,45
+214,,Zax Sauce,180,18,5,1
+215,,Crinkle Fries,370,16,50,4
+216,,Cole Slaw,140,10,13,1
+217,,Texas Toast,150,7,19,4
+218,BUFFALO CHICKEN FINGER PLATE (4 FINGERS),,1270,72,104,56
+219,,Chicken Fingers,400,19,14,45
+220,,Tongue Torch Sauce,20,0,4,0
+221,,Ranch Sauce,190,20,4,2
+222,,Crinkle Fries,370,16,50,4
+223,,Cole Slaw,140,10,13,1
+224,,Texas Toast,150,7,19,4
+225,CHICKEN FINGER PLATE (5 FINGERS),,1340,74,104,66
+226,,Chicken Fingers,500,23,17,56
+227,,Zax Sauce,180,18,5,1
+228,,Crinkle Fries,370,16,50,4
+229,,Cole Slaw,140,10,13,1
+230,,Texas Toast,150,7,19,4
+231,BUFFALO CHICKEN FINGER PLATE (5 FINGERS),,1380,96,108,67
+232,,Chicken Fingers,500,23,17,56
+233,,Tongue Torch,25,0,5,0
+234,,Ranch Sauce,190,40,4,2
+235,,Crinkle Fries,370,16,50,4
+236,,Cole Slaw,140,10,13,1
+237,,Texas Toast,150,7,19,4
+238,CHICKEN FINGER PLATE (6 FINGERS),,1620,101,117,89
+239,,Chicken Fingers,600,33,24,79
+240,,Zax Sauce,360,35,11,1
+241,,Crinkle Fries,370,16,50,4
+242,,Cole Slaw,140,10,13,1
+243,,Texas Toast,150,7,19,4
+244,BUFFALO CHICKEN FINGER PLATE (6 FINGERS),,1670,107,116,91
+245,,Chicken Fingers,600,33,24,79
+246,,Tongue Torch Sauce,30,1,6,1
+247,,Ranch Sauce,380,40,4,2
+248,,Crinkle Fries,370,16,50,4
+249,,Cole Slaw,140,10,13,1
+250,,Texas Toast,150,7,19,4
+251,BONELESS WINGS & THINGS,,1560,93,114,67
+252,,Chicken Fingers,300,14,10,34
+253,,Boneless Wings,360,18,27,23
+254,,Zax Sauce,180,18,5,1
+255,,Ranch Sauce,190,20,2,1
+256,,Celery,0,0,1,0
+257,,Crinkle Fries,370,16,50,4
+258,,Texas Toast,150,7,19,4
+259,BUFFALO BONELESS WINGS & THINGS,,1580,95,114,67
+260,,Chicken Fingers,300,14,10,34
+261,,Tongue Torch Sauce,15,0,3,0
+262,,Boneless Wings,360,18,27,23
+263,,Ranch Sauce,380,40,4,2
+264,,Celery,0,0,1,0
+265,,Crinkle Fries,370,16,50,4
+266,,Texas Toast,150,7,19,4
+267,TRADITIONAL WINGS & THINGS,,1490,94,87,74
+268,,Chicken Fingers,300,14,10,34
+269,,Traditional Wings,300,19,0,30
+270,,Zax Sauce,180,18,5,1
+271,,Ranch Sauce,190,20,2,1
+272,,Celery,0,0,1,0
+273,,Crinkle Fries,370,16,50,4
+274,,Texas Toast,150,7,19,4
+275,BUFFALO TRADITIONAL WINGS & THINGS,,1520,96,87,74
+276,,Chicken Fingers,300,14,10,34
+277,,Tongue Torch Sauce,15,0,3,0
+278,,Traditional Wings,300,19,0,30
+279,,Ranch Sauce,380,40,4,2
+280,,Celery,0,0,1,0
+281,,Crinkle Fries,370,16,50,4
+282,,Texas Toast,150,7,19,4
+283,BUFFALO BONELESS WINGS MEAL (5),,1080,61,99,32
+284,,Boneless Wings,360,18,27,23
+285,,Ranch Sauce,190,20,2,1
+286,,Celery,0,0,1,0
+287,,Crinkle Fries,370,16,50,4
+288,,Texas Toast,150,7,19,4
+289,BUFFALO TRADITIONAL WINGS MEAL (5),,1010,62,72,39
+290,,Traditional Wings,300,19,0,30
+291,,Ranch Sauce,190,20,2,1
+292,,Celery,0,0,1,0
+293,,Crinkle Fries,370,16,50,4
+294,,Texas Toast,150,7,19,4
+295,BIG ZAX SNAK MEAL,,1000,55,84,43
+296,,Chicken Fingers,300,14,10,34
+297,,Zax Sauce,180,18,5,1
+298,,Crinkle Fries,370,16,50,4
+299,,Texas Toast,150,7,19,4
+300,BUFFALO BIG ZAX SNAK,,1030,57,84,43
+301,,Chicken Fingers,300,14,10,34
+302,,Tongue Torch Sauce,15,0,3,0
+303,,Ranch Sauce,190,20,2,1
+304,,Crinkle Fries,370,16,50,4
+305,,Texas Toast,150,7,19,4
+306,Zax Sauce,,180,18,5,1
+307,Ranch Sauce,,190,20,2,1
+308,Honey Mustard Sauce,,160,13,11,1
+309,Zestable,,190,19,5,0
+310,Marinara,,90,4.5,11,1
+311,Zax Sauce (1),Served with 5 Fingers,180,18,5,1
+312,,Served with 10 Fingers,360,35,11,1
+313,,Served with 20 Fingers,730,71,22,2
+314,Wimpy,,50,1,10,1
+315,Tongue Torch Sauce,,35,1,7,1
+316,Nuclear,,30,1,4,1
+317,Insane,,45,1,7,1
+318,Original,,100,6,11,0
+319,Hot Honey Mustard,,140,9,16,1
+320,Sweet & Spicy,,140,1,32,1
+321,Teriyaki,,110,0,25,2
+322,BBQ,,100,0,24,1
+323,5 BONELESS WINGS,(No Sauce),360,18,27,23
+324,,Wimpy,380,18,31,23
+325,,Tongue Torch Sauce,370,18,29,23
+326,,Nuclear,370,18,29,23
+327,,Insane,380,19,30,23
+328,,Original,400,21,31,23
+329,,Hot Honey Mustard,430,22,35,23
+330,,Sweet & Spicy,410,19,37,23
+331,,Teriyaki,400,18,36,24
+332,,BBQ,400,18,37,23
+333,10 BONELESS WINGS,(No Sauce),720,36,53,47
+334,,Wimpy,760,37,63,48
+335,,Tongue Torch Sauce,750,36,57,47
+336,,Nuclear,740,37,57,48
+337,,Insane,760,37,58,48
+338,,Original,800,40,62,47
+339,,Hot Honey Mustard,860,44,66,48
+340,,Sweet & Spicy,810,37,73,47
+341,,Teriyaki,800,36,77,48
+342,,BBQ,800,36,73,48
+343,20 BONELESS WINGS,(No Sauce),1440,72,107,93
+344,,Wimpy,1520,74,120,94
+345,,Tongue Torch Sauce,1490,75,116,94
+346,,Nuclear,1490,74,114,94
+347,,Insane,1510,74,118,95
+348,,Original,1610,82,125,94
+349,,Hot Honey Mustard,1710,88,137,95
+350,,Sweet & Spicy,1620,74,146,94
+351,,Teriyaki,1600,72,135,95
+352,,BBQ,1600,72,147,94
+353,5 TRADITIONAL WINGS,(No Sauce),290,19,0,30
+354,,Wimpy,310,19,3,30
+355,,Tongue Torch Sauce,300,19,2,30
+356,,Nuclear,300,19,1,30
+357,,Insane,310,20,3,31
+358,,Original,320,21,3,30
+359,,Hot Honey Mustard,330,21,4,30
+360,,Sweet & Spicy,340,20,10,30
+361,,Teriyaki,320,19,7,30
+362,,BBQ,320,19,6,30
+363,10 TRADITIONAL WINGS,(No Sauce),580,38,0,60
+364,,Wimpy,620,39,6,60
+365,,Tongue Torch Sauce,610,38,4,60
+366,,Nuclear,600,38,6,60
+367,,Insane,620,39,6,60
+368,,Original,630,41,5,60
+369,,Hot Honey Mustard,650,42,8,60
+370,,Sweet & Spicy,670,39,20,60
+371,,Teriyaki,640,38,13,60
+372,,BBQ,630,39,12,60
+373,20 TRADITIONAL WINGS,(No Sauce),1160,76,0,120
+374,,Wimpy,1230,77,13,121
+375,,Tongue Torch Sauce,1210,77,9,122
+376,,Nuclear,1190,77,5,121
+377,,Insane,1240,79,13,121
+378,,Original,1260,82,10,122
+379,,Hot Honey Mustard,1300,84,15,121
+380,,Sweet & Spicy,1340,78,40,122
+381,,Teriyaki,1270,76,27,122
+382,,BBQ,1260,76,24,121
+383,CHICKEN FINGER 1,(No Sauce),100,5,3,11
+384,,Wimpy,110,5,5,11
+385,,Tongue Torch Sauce,110,5,4,11
+386,,Nuclear,110,5,4,11
+387,,Insane,110,5,4,11
+388,,Original,120,6,5,11
+389,,Hot Honey Mustard,130,7,6,11
+390,,Sweet & Spicy,120,5,8,11
+391,,Teriyaki,120,5,8,11
+392,,BBQ,130,5,9,11
+393,CHICKEN FINGER 5,(No Sauce),500,23,17,56
+394,,Wimpy,550,23,27,56
+395,,Tongue Torch Sauce,530,23,22,56
+396,,Nuclear,530,23,22,56
+397,,Insane,530,23,22,56
+398,,Original,580,28,27,56
+399,,Hot Honey Mustard,650,33,32,56
+400,,Sweet & Spicy,600,23,42,56
+401,,Teriyaki,600,23,42,56
+402,,BBQ,625,23,47,56
+403,CHICKEN FINGER 10,(No Sauce),1010,47,35,112
+404,,Wimpy,1110,47,55,112
+405,,Tongue Torch Sauce,1060,47,45,112
+406,,Nuclear,1060,47,45,112
+407,,Insane,1060,47,45,112
+408,,Original,1160,57,45,112
+409,,Hot Honey Mustard,1310,67,65,112
+410,,Sweet & Spicy,1210,47,85,112
+411,,Teriyaki,1210,47,85,112
+412,,BBQ,1260,47,95,112
+413,CHICKEN FINGER 20,(No Sauce),2020,93,69,225
+414,,Wimpy,2220,93,69,225
+415,,Tongue Torch Sauce,2120,93,89,225
+416,,Nuclear,2120,93,90,225
+417,,Insane,2120,93,90,225
+418,,Original,2320,113,109,225
+419,,Hot Honey Mustard,2620,133,130,225
+420,,Sweet & Spicy,2420,93,180,225
+421,,Teriyaki,2420,93,180,225
+422,,BBQ,2520,93,190,225
+423,CELERY AND RANCH FOR 5 WINGS BONELESS OR TRADITIONAL,,190,20,3,1
+424,,4 Celery Sticks,0,0,1,0
+425,,Ranch Sauce (1),190,20,2,1
+426,CELERY AND RANCH FOR 10 WINGS BONELESS OR TRADITIONAL,,200,20,3,0
+427,,6 Celery Sticks,5,0,1,1
+428,,Ranch Sauce (1),190,20,2,0
+429,CELERY AND RANCH FOR 20 WINGS BONELESS OR TRADITIONAL,,390,40,6,2
+430,,10 Celery Sticks,10,0,2,0
+431,,Ranch Sauce (2),380,40,4,2
+432,CELERY AND RANCH FOR 5 BUFFALO FINGERS,,190,20,3,1
+433,,4 Celery Sticks,0,0,1,0
+434,,Ranch Sauce (1),190,20,2,1
+435,CELERY AND RANCH FOR 10 BUFFALO FINGERS,,390,40,5,0
+436,,6 Celery Sticks,5,0,1,0
+437,,Ranch Sauce (2),380,40,4,2
+438,CELERY AND RANCH FOR 20 BUFFALO FINGERS,,780,80,9,3
+439,,10 Celery Sticks,10,0,2,0
+440,,Ranch Sauce (4),770,80,7,3
+441,BUFFALO DIP AND TATER CHIPS,,1020,70,77,20
+442,,Buffalo Dip,330,26,9,14
+443,,Tater Chips,690,44,68,6
+444,TATER CHIPS,,880,64,70,7
+445,,Chips,690,44,68,6
+446,,Ranch Sauce,190,20,2,1
+447,SIDE OF TATER CHIPS,,350,22,34,3
+448,ONION RINGS,,820,57,69,8
+449,,Onion Rings,630,38,64,8
+450,,Zestable Sauce,190,19,5,0
+451,SIDE OF ONION RINGS,,320,19,32,4
+452,CHEDDAR BITES,,690,42,58,22
+453,,Cheddar Bites,600,37,47,21
+454,,Marinara Sauce,90,4.5,11,1
+455,FRIED MUSHROOMS,,590,46,39,5
+456,,Mushrooms,400,27,34,0
+457,,Zestable Sauce,190,19,5,5
+458,SIDE OF CRINKLE FRIES,Regular,370,16,50,4
+459,,Large,590,36,86,8
+460,BASKET OF CRINKLE FRIES,,910,51,106,10
+461,,Basket,730,33,101,9
+462,,Zax Sauce,180,18,5,1
+463,TEXAS TOAST,1 Slice,150,7,19,4
+464,,Basket,460,22,56,11
+465,SIDE OF CELERY,,200,20,4,2
+466,,10 sticks,10,0,2,0
+467,,Ranch Sauce ( 1 Dip Cup),190,20,2,1
+468,BASKET OF CELERY,,400,40,8,3
+469,,20 sticks,20,0,4,0
+470,,Ranch Sauce ( 2 Dip Cups),380,40,4,1
+471,SIDE OF COLE SLAW,,140,10,13,1
+472,CHICKEN SALAD,,230,17,3,15
+473,BUFFALO CHICKEN DIP,,330,26,9,14
+474,SIDE SALAD,,15,0,4,1
+475,,Regular Salad Base,10,0,2,1
+476,,Cucumbers,0,0,1,0
+477,,Roma Tomatoes,5,0,1,0
+478,SIDE CAESAR SALAD,,150,8,12,9
+479,,Caesar Salad Base,10,0,2,1
+480,,Parmesan Cheese,90,6,1,7
+481,,Croutons,50,1.5,9,1
+482,CHOCOLATE CHIP COOKIE,,170,8,23,2
+483,WHITE CHOCOLATE MACADAMIA NUT COOKIE,,170,9,22,2
+484,OATMEAL RAISIN COOKIE,,160,6,23,2
+485,BROWNIE,,380,18,52,3
+486,KIDDIE FINGER,,720,41,63,28
+487,,Chicken Fingerz,200,9,7,22
+488,,Zax Sauce,180,18,5,1
+489,,Crinkle Fries,220,10,30,3
+490,,Kidz Cookies,120,3.5,21,2
+491,KIDZ NIBBLER,,670,31,78,19
+492,,Nibbler Bun,160,7,22,3
+493,,Chicken Finger,100,4.5,3,11
+494,,Zax Sauce,70,6,2,0
+495,,Crinkle Fries,220,10,30,3
+496,,Kidz Cookies,120,3.5,21,2
+497,KIDDIE CHEESE,,840,46,91,19
+498,,Texas Toast,330,18,38,6
+499,,American Cheese,170,14,2,8
+500,,Crinkle Fries,220,10,30,3
+501,,Kidz Cookies,120,3.5,21,2
+502,MILK,8 oz,110,2.5,12,9
+503,CHOCOLATE MILK,8 oz,160,2.5,25,8
+504,APPLE JUICE,8 oz,100,0,21,0
+505,SWEET TEA,12 oz,150,0,41,0
+506,,22 oz,270,0,72,0
+507,,32 oz,390,0,104,0
+508,,42 oz,510,0,137,0
+509,UNSWEET TEA,12 oz,0,0,0,0
+510,,22 oz,0,0,0,0
+511,,32 oz,0,0,0,0
+512,,42 oz,0,0,0,0
+513,COCA-COLA,12 oz (kiddie),150,0,40,0
+514,,22 oz,270,0,73,0
+515,,32 oz,390,0,107,0
+516,,42 oz,510,0,140,0
+517,DR PEPPER,12 oz (kiddie),140,0,39,0
+518,,22 oz,270,0,71,0
+519,,32 oz,390,0,103,0
+520,,42 oz,510,0,136,0
+521,SPRITE,12 oz (kiddie),150,0,39,0
+522,,22 oz,270,0,72,0
+523,,32 oz,390,0,104,0
+524,,42 oz,510,0,137,0
+525,DIET COKE,12 oz (kiddie),0,0,0,0
+526,,22 oz,0,0,0,0
+527,,32 oz,0,0,<1,0
+528,,42 oz,0,0,<1,0
+529,MINUTE MAID LEMONADE,12 oz (kiddie),160,0,44,0
+530,,22 oz,300,0,81,0
+531,,32 oz,430,0,117,0
+532,,42 oz,560,0,154,0
+533,HI-C FRUIT PUNCH,12 oz (kiddie),180,0,47,0
+534,,22 oz,330,0,86,0
+535,,32 oz,480,0,125,0
+536,,42 oz,640,0,164,0
+537,CHERRY COKE,12 oz (kiddie),160,0,42,0
+538,,22 oz,290,0,77,0
+539,,32 oz,420,0,112,0
+540,,42 oz,550,0,147,0
+541,BARQS ROOT BEER,12 oz (kiddie),170,0,45,0
+542,,22 oz,300,0,83,0
+543,,32 oz,440,0,120,0
+544,,42 oz,580,0,158,0
+545,VANILLA COKE,12 oz (kiddie),160,0,42,0
+546,,22 oz,290,0,77,0
+547,,32 oz,420,0,112,0
+548,,42 oz,550,0,147,0
+549,COCA-COLA ZERO,12 oz (kiddie),0,0,0,0
+550,,22 oz,0,0,0,0
+551,,32 oz,0,0,0,0
+552,,42 oz,0,0,0,0
+553,FANTA STRAWBERRY,12 oz (kiddie),170,0,45,0
+554,,22 oz,310,0,82,0
+555,,32 oz,450,0,120,0
+556,,42 oz,590,0,157,0
+557,DIET DR PEPPER,12 oz (kiddie),0,0,0,0
+558,,22 oz,5,0,0,0
+559,,32 oz,10,0,<1,0
+560,,42 oz,10,0,<1,0
+561,FANTA ORANGE,12 oz (kiddie),160,0,45,0
+562,,22 oz,330,0,82,0
+563,,32 oz,440,0,120,0
+564,,42 oz,580,0,157,0
+565,FANTA CHERRY,12 oz (kiddie),170,0,45,0
+566,,22 oz,310,0,82,0
+567,,32 oz,440,0,120,0
+568,,42 oz,580,0,157,0
+569,DR PEPPER CHERRY,12 oz (kiddie),150,0,39,0
+570,,22 oz,270,0,71,0
+571,,32 oz,390,0,103,0
+572,,42 oz,510,0,136,0
+573,MELLO YELLOW,12 oz,130,0,35,0
+574,,22 oz,230,0,64,0
+575,,32 oz,340,0,93,0
+576,,42 oz,450,0,122,0
+577,DR PEPPER CHERRY VANILLA,12 oz (kiddie),150,0,39,0
+578,,22 oz,270,0,71,0
+579,,32 oz,390,0,103,0
+580,,42 oz,520,0,136,0
+581,MINUTE MAID STRAWBERRY LEMONADE,12 oz (kiddie),130,0,35,0
+582,,22 oz,300,0,81,0
+583,,32 oz,440,0,117,0
+584,,42 oz,580,0,154,0
+585,BARQS ROOT BEER VANILLA,12 oz (kiddie),170,0,45,0
+586,,22 oz,310,0,83,0
+587,,32 oz,440,0,120,0
+588,,42 oz,580,0,158,0
+589,COCA-COLA CHERRY VANILLA,12 oz (kiddie),160,0,42,0
+590,,22 oz,290,0,77,0
+591,,32 oz,410,0,112,0
+592,,42 oz,540,0,147,0
+593,HI-C ORANGE,12 oz (kiddie),170,0,47,0
+594,,22 oz,320,0,86,0
+595,,32 oz,460,0,125,0
+596,,42 oz,610,0,164,0
+597,FANTA PEACH,12 oz (kiddie),170,0,45,0
+598,,22 oz,310,0,82,0
+599,,32 oz,450,0,120,0
+600,,42 oz,590,0,157,0
+601,ZENSATION ZALAD,,1220,67,99,56
+602,,Salad Base,30,0,5,2
+603,,Asain Slaw,100,7,9,1
+604,,Chicken Fingers,430,21,16,45
+605,,Honey Sesame Teriyaki Glaze,45,0,10,1
+606,,Wonton Strips,300,17,32,5
+607,,Citrus Vinaigrette,230,19,14,1
+608,,Egg Roll,90,3,13,2

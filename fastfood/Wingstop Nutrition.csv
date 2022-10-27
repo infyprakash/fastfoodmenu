@@ -1,0 +1,89 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Plain,2 Count,100,6,0,12
+1,Atomic,2 Count,105,6,1,12
+2,Mango Habanero,2 Count,119,6,5,12
+3,Cajun,2 Count,102,6,0,12
+4,Original Hot,2 Count,103,6,0,12
+5,Mild,2 Count,145,11,0,12
+6,Hickory Smoked BBQ,2 Count,132,6,8,12
+7,Garlic Parmesan,2 Count,165,13,0,13
+8,Hawaiian,2 Count,116,6,4,12
+9,Lemon Pepper,2 Count,141,10,0,12
+10,Louisiana Rub,2 Count,141,10,0,12
+11,Teriyaki,2 Count,121,6,5,12
+12,Plain,2 Count,161,8,11,11
+13,Atomic,2 Count,166,8,13,11
+14,Mango Habanero,2 Count,183,8,17,11
+15,Cajun,2 Count,163,8,12,11
+16,Original Hot,2 Count,163,8,12,11
+17,Mild,2 Count,211,14,11,11
+18,Hickory Smoked BBQ,2 Count,196,8,20,11
+19,Garlic Parmesan,2 Count,217,14,12,12
+20,Hawaiian,2 Count,179,8,16,11
+21,Lemon Pepper,2 Count,206,13,11,11
+22,Louisiana Rub,2 Count,191,11,12,11
+23,Teriyaki,2 Count,181,8,16,11
+24,Plain,2 Count,189,9,14,13
+25,Atomic,2 Count,202,10,16,13
+26,Mango Habanero,2 Count,234,9,25,13
+27,Cajun,2 Count,194,10,14,13
+28,Original Hot,2 Count,193,9,14,13
+29,Mild,2 Count,307,22,14,13
+30,Hickory Smoked BBQ,2 Count,250,9,28,13
+31,Garlic Parmesan,2 Count,325,24,15,13
+32,Hawaiian,2 Count,225,9,23,13
+33,Lemon Pepper,2 Count,289,20,14,13
+34,Louisiana Rub,2 Count,324,24,15,13
+35,Teriyaki,2 Count,231,9,24,14
+36,Plain,1 Sandwich,323,11,38,17
+37,Atomic,1 Sandwich,331,11,40,18
+38,Mango Habanero,1 Sandwich,359,11,47,18
+39,Cajun,1 Sandwich,326,11,38,18
+40,Original Hot,1 Sandwich,325,11,38,18
+41,Mild,1 Sandwich,380,18,38,17
+42,Hickory Smoked BBQ,1 Sandwich,370,11,50,18
+43,Garlic Parmesan,1 Sandwich,399,19,39,18
+44,Hawaiian,1 Sandwich,352,11,46,18
+45,Lemon Pepper,1 Sandwich,379,17,38,17
+46,Louisiana Rub,1 Sandwich,361,15,39,18
+47,Teriyaki,1 Sandwich,338,11,42,18
+48,Coleslaw,6 oz cup,197,11,24,1
+49,Potato Salad,6 oz cup,272,15,30,5
+50,Bourbon Baked Beans,6 oz cup,281,3,52,8
+51,Veggie Sticks (Celery),4 sticks,5,0,1,0
+52,Veggie Sticks (Carrot),4 sticks,17,0,4,0
+53,Ranch,3.25 oz cup,313,33,2,1
+54,Blue Cheese,3.25 oz cup,312,32,3,3
+55,Honey Mustard,3.25 oz cup,367,33,18,0
+56,Hot Chedar Cheese Sauce,3.25 oz cup,122,8,11,1
+57,Yeast Rolls,1 Roll,135,2,25,5
+58,Seasoned Fries,Large,760,34,102,13
+59,,Regular,410,18,55,7
+60,Dr. Pepper,Regular,225,0,65,0
+61,,Large,360,0,104,0
+62,Coke,Regular,225,0,68,0
+63,,Large,360,0,108,0
+64,Diet Coke,Regular,2,0,1,0
+65,,Large,3,0,2,0
+66,Sprite,Regular,243,0,65,0
+67,,Large,388,0,104,0
+68,Fanta Orange,Regular,278,0,75,0
+69,,Large,444,0,120,0
+70,Fanta Strawberry,Regular,283,0,78,0
+71,,Large,452,0,124,0
+72,Lipton Tea - Sweet,Regular,175,0,45,0
+73,,Large,280,0,72,0
+74,Lipton Tea - Plain,Regular,0,0,0,0
+75,,Large,0,0,0,0
+76,Minute Maid Lemonade,Regular,243,0,65,0
+77,,Large,388,0,104,0
+78,Nestea Raspberry Tea,Regular,195,0,52,0
+79,,Large,312,0,84,0
+80,Gold Peak Sweet Green Tea,Regular,200,0,55,0
+81,,Large,320,0,88,0
+82,Gold Peak Unsweetened Tea,Regular,2,0,1,0
+83,,Large,3,0,2,0
+84,Gold Peak Southern Tea,Regular,255,0,66,0
+85,,Large,388,0,105,0
+86,Nestle Peach Tea,Regular,202,0,50,0
+87,,Large,308,0,----,0

@@ -1,0 +1,1412 @@
+,Food,Size, 
+0,"Bacon Strips
+Calories: 100
+Fat: 8
+Carbs: 1
+Protein: 7",4 strips,Price
+1,"Buttermilk Biscuit
+Calories: 240
+Fat: 13
+Carbs: 27
+Protein: 4",1 biscuit,Price
+2,"Egg Whites
+Calories: 80
+Fat: 1
+Carbs: 1
+Protein: 13",2 egg whites,Price
+3,"Eggs, Boiled
+Calories: 130
+Fat: 8
+Carbs: 1
+Protein: 11",2 boiled eggs,Price
+4,"Eggs, Fried / Basted
+Calories: 190
+Fat: 16
+Carbs: 1
+Protein: 11",2 eggs,Price
+5,"Eggs, Scrambled
+Calories: 220
+Fat: 17
+Carbs: 1
+Protein: 14",2 eggs,Price
+6,"English Muffin w/o margarine / w/ margarine
+Calories: 140/190
+Fat: 1/6
+Carbs: 29
+Protein: 5",1 english muffin,Price
+7,"Gluten-Free English Muffin w/o margarine / w/ margarine
+Calories: 180/210
+Fat: 1.5/6
+Carbs: 36
+Protein: 4",1 english muffin,Price
+8,"Grilled Ham
+Calories: 90
+Fat: 3
+Carbs: 1
+Protein: 15",1 slice,Price
+9,"Grits w/ margarine
+Calories: 90
+Fat: 4.5
+Carbs: 12
+Protein: 1",,Price
+10,"Hash Browns
+Calories: 170
+Fat: 12
+Carbs: 15
+Protein: 1",2 hashbrowns,Price
+11,"Hearty Breakfast Sausage
+Calories: 350
+Fat: 31
+Carbs: 5
+Protein: 14",1 link,Price
+12,"Oatmeal w/ milk & brown sugar
+Calories: 240
+Fat: 2
+Carbs: 45
+Protein: 7",,Price
+13,"Pancakes, Buttermilk w/ margarine
+Calories: 450
+Fat: 11
+Carbs: 77
+Protein: 10",2 pancakes,Price
+14,"Pancakes, Hearty 9-Grain
+Calories: 410
+Fat: 11
+Carbs: 68
+Protein: 10",2 pancakes,Price
+15,"Sausage Link
+Calories: 150
+Fat: 15
+Carbs: 2
+Protein: 5",1 link,Price
+16,"Seasonal Fruit
+Calories: 110
+Fat: 0
+Carbs: 27
+Protein: 1",,Price
+17,"Toast, Sourdough, w/o margarine / w/ margarine
+Calories: 210/280
+Fat: 3/12
+Carbs: 37
+Protein: 6",1 piece,Price
+18,"Toast, Wheat, w/o margarine / w/ margarine
+Calories: 150/230
+Fat: 2/11
+Carbs: 29
+Protein: 6",1 piece,Price
+19,"Toast, White, w/o margarine / w/ margarine
+Calories: 160/240
+Fat: 1.5/10
+Carbs: 31
+Protein: 5",1 piece,Price
+20,"Turkey Bacon Strips
+Calories: 60
+Fat: 3.5
+Carbs: 1
+Protein: 7",1 piece,Price
+21,"All-American Slam w/ hash browns (add bread choice)
+Calories: 920
+Fat: 73
+Carbs: 19
+Protein: 44",,Price
+22,"Belgian Waffle Slam (add egg choice)
+Calories: 640
+Fat: 42
+Carbs: 45
+Protein: 19",,Price
+23,"Fit Slam
+Calories: 450
+Fat: 12
+Carbs: 59
+Protein: 27",,Price
+24,"French Toast Slam (add egg choice)
+Calories: 850
+Fat: 52
+Carbs: 65
+Protein: 31",,Price
+25,"Grand Slam Slugger (add egg, bread / hash browns & juice choices)
+Calories: 710
+Fat: 34
+Carbs: 79
+Protein: 22",,Price
+26,"Hearty Breakfast Slam (add egg choice)
+Calories: 970
+Fat: 54
+Carbs: 98
+Protein: 26",,Price
+27,"Lumberjack Slam (add egg & bread choices)
+Calories: 970
+Fat: 48
+Carbs: 96
+Protein: 29",,Price
+28,"Original Grand Slam (add egg choice)
+Calories: 700
+Fat: 34
+Carbs: 79
+Protein: 22",,Price
+29,"Blueberry Pancake Breakfast (add hash browns, egg & meat choices)
+Calories: 460
+Fat: 11
+Carbs: 80
+Protein: 10",,Price
+30,"Choconana Pancake Breakfast (add hash browns, egg & meat choices)
+Calories: 910
+Fat: 36
+Carbs: 143
+Protein: 16",,Price
+31,"Cinnamon Roll Pancake Breakfast (add hash browns, egg & meat
+choices)
+Calories: 1,350
+Fat: 34
+Carbs: 247
+Protein: 10",,Price
+32,"Classic Tres Leches Pancake Breakfast (add hash browns, egg & meat
+choices)
+Calories: 770
+Fat: 28
+Carbs: 112
+Protein: 14",,Price
+33,"Double Berry Banana Pancake Breakfast (add hash browns, egg &
+meat choices)
+Calories: 540
+Fat: 10
+Carbs: 103
+Protein: 12",,Price
+34,"Dulce de Leche Pancake Breakfast (add hash browns, egg & meat
+choices)
+Calories: 1,220
+Fat: 27
+Carbs: 228
+Protein: 13",,Price
+35,"Hearty 9-Grain Pancake Breakfast (add fruit, egg & meat choices)
+Calories: 410
+Fat: 11
+Carbs: 68
+Protein: 10",,Price
+36,"Salted Caramel & Banana Cream Pancake Breakfast (add hash browns,
+egg & meat choices)
+Calories: 1,140
+Fat: 27
+Carbs: 207
+Protein: 17",,Price
+37,"Loaded Veggie Omelette w/ hash browns (add bread choice)
+Calories: 620
+Fat: 44
+Carbs: 24
+Protein: 31",,Price
+38,"My Hammy & Cheese Omelette w/ hash browns (add bread choice)
+Calories: 780
+Fat: 54
+Carbs: 20
+Protein: 50",,Price
+39,"Philly Cheesesteak Omelette w/ hash browns (add bread choice)
+Calories: 880
+Fat: 64
+Carbs: 25
+Protein: 48",,Price
+40,"Ultimate Omelette® w/ hash browns (add bread choice)
+Calories: 890
+Fat: 71
+Carbs: 20
+Protein: 38",,Price
+41,"Wild West Omelette w/ hash browns (add bread choice)
+Calories: 750
+Fat: 53
+Carbs: 24
+Protein: 43",,Price
+42,"Omelette, Egg White, Plain
+Calories: 110
+Fat: 1.5
+Carbs: 1
+Protein: 20",,Price
+43,"Omelette, Plain
+Calories: 340
+Fat: 26
+Carbs: 2
+Protein: 21",,Price
+44,"American Cheese
+Calories: 80
+Fat: 7
+Carbs: 1
+Protein: 4",,Price
+45,"Cheddar Cheese
+Calories: 80
+Fat: 6
+Carbs: 0
+Protein: 5",,Price
+46,"Feta Cheese
+Calories: 80
+Fat: 5
+Carbs: 2
+Protein: 7",,Price
+47,"Italian Cheese Blend
+Calories: 70
+Fat: 6
+Carbs: 0
+Protein: 5",,Price
+48,"Pepper Jack Queso
+Calories: 100
+Fat: 7
+Carbs: 3
+Protein: 5",,Price
+49,"Swiss Cheese
+Calories: 80
+Fat: 6
+Carbs: 0
+Protein: 6",,Price
+50,"Bacon
+Calories: 100
+Fat: 8
+Carbs: 1
+Protein: 7",,Price
+51,"Chorizo Sausage
+Calories: 330
+Fat: 27
+Carbs: 4
+Protein: 17",,Price
+52,"Ham 
+Calories: 90
+Fat: 3
+Carbs: 1
+Protein: 15",,Price
+53,"Sausage
+Calories: 180
+Fat: 18
+Carbs: 1
+Protein: 6",,Price
+54,"Turkey Bacon
+Calories: 60
+Fat: 3.5
+Carbs: 1
+Protein: 7",,Price
+55,"Caramelized Onions
+Calories: 70
+Fat: 7
+Carbs: 2
+Protein: 0",,Price
+56,"Fire-Roasted Bell Peppers & Onions
+Calories: 70
+Fat: 6
+Carbs: 4
+Protein: 0",,Price
+57,"Fresh Avocado
+Calories: 45
+Fat: 4
+Carbs: 2
+Protein: 1",,Price
+58,"Fresh Spinach
+Calories: 5
+Fat: 0
+Carbs: 0
+Protein: 0",,Price
+59,"Jalapeños 
+Calories: 5
+Fat: 0
+Carbs: 1
+Protein: 0",,Price
+60,"Pico de Gallo
+Calories: 15
+Fat: 0
+Carbs: 3
+Protein: 1",,Price
+61,"Sautéed Mushrooms
+Calories: 50
+Fat: 6
+Carbs: 1
+Protein: 1",,Price
+62,"Tomatoes
+Calories: 10
+Fat: 0
+Carbs: 2
+Protein: 0",,Price
+63,"Banana Chocolate Hazelnut Crepe Breakfast 
+Calories: 400
+Fat: 19
+Carbs: 53
+Protein: 5","1 crepe - add hash browns, egg
+& meat choices",Price
+64,"Banana Chocolate Hazelnut Crepe Breakfast
+Calories: 790
+Fat: 37
+Carbs: 106
+Protein: 10","2 crepe - add hash browns, egg
+& meat choices",Price
+65,"Berry Vanilla Crepe Breakfast 
+Calories: 270
+Fat: 12
+Carbs: 36
+Protein: 4","1 crepe - add hash browns, egg
+& meat choices",Price
+66,"Berry Vanilla Crepe Breakfast
+Calories: 530
+Fat: 24
+Carbs: 73
+Protein: 7","2 crepe - add hash browns, egg
+& meat choices",Price
+67,"Country-Fried Steak & Eggs w/ hash browns
+Calories: 570
+Fat: 37
+Carbs: 39
+Protein: 20",Add egg & bread choices,Price
+68,"Fit Fare Veggie Sizzlin’ Skillet
+Calories: 390
+Fat: 16
+Carbs: 40
+Protein: 22",,Price
+69,"Moons Over My Hammy w/ hash browns
+Calories: 950
+Fat: 60
+Carbs: 57
+Protein: 44",,Price
+70,"Santa Fe Sizzlin’ Skillet
+Calories: 720
+Fat: 53
+Carbs: 35
+Protein: 27",Add egg choice,Price
+71,"Supreme Sizzlin’ Skillet 
+Calories: 590
+Fat: 44
+Carbs: 32
+Protein: 16",Add egg choice,Price
+72,"T-Bone Steak & Eggs w/ hash browns
+Calories: 660
+Fat: 42
+Carbs: 16
+Protein: 53",Add egg & bread choices,Price
+73,"The Grand Slamwich w/ hash browns
+Calories: 1,320
+Fat: 85
+Carbs: 87
+Protein: 52",,Price
+74,"Cheddar Cheese Hash Browns
+Calories: 250
+Fat: 18
+Carbs: 15
+Protein: 6",,Price
+75,"Everything Hash Browns
+Calories: 310
+Fat: 21
+Carbs: 24
+Protein: 7",,Price
+76,"Red-Skinned Potatoes
+Calories: 200
+Fat: 8
+Carbs: 26
+Protein: 4",,Price
+77,"Tortillas, Flour (3)
+Calories: 260
+Fat: 8
+Carbs: 40
+Protein: 7",,Price
+78,"Boneless Chicken Wings w/ BBQ Sauce
+Calories: 920
+Fat: 36
+Carbs: 120
+Protein: 35",,Price
+79,"Boneless Chicken Wings w/ Buffalo Sauce
+Calories: 920
+Fat: 67
+Carbs: 44
+Protein: 35",,Price
+80,"Bacon Cheddar Tots
+Calories: 300
+Fat: 15
+Carbs: 31
+Protein: 10",,Price
+81,"Beer-Battered Onion Rings
+Calories: 400
+Fat: 27
+Carbs: 35
+Protein: 4",,Price
+82,"Cheese Quesadilla
+Calories: 680
+Fat: 44
+Carbs: 47
+Protein: 22",,Price
+83,"Chips & Queso
+Calories: 570
+Fat: 34
+Carbs: 57
+Protein: 10",,Price
+84,"Mozzarella Cheese Sticks
+Calories: 280
+Fat: 100
+Carbs: 30
+Protein: 16",,Price
+85,"Premium Chicken Tenders (add sauce choice)
+Calories: 270
+Fat: 16
+Carbs: 15
+Protein: 18",,Price
+86,"Seasoned Fries
+Calories: 490
+Fat: 26
+Carbs: 57
+Protein: 7",,Price
+87,"Wavy-Cut Fries
+Calories: 400
+Fat: 22
+Carbs: 46
+Protein: 4",,Price
+88,"Dipping Sauces:Italian Sampler
+Calories: 1,250
+Fat: 71
+Carbs: 96
+Protein: 64",,Price
+89,"Loaded Nacho Tots
+Calories: 980
+Fat: 62
+Carbs: 68
+Protein: 39",,Price
+90,"Zesty Nachos
+Calories: 1,650
+Fat: 105
+Carbs: 135
+Protein: 43",,Price
+91,"Caesar Salad
+Calories: 440
+Fat: 40
+Carbs: 9
+Protein: 13",,Price
+92,"Cobb Salad (add dressing choice)
+Calories: 430
+Fat: 30
+Carbs: 20
+Protein: 22",,Price
+93,"House Salad (add dressing choice)
+Calories: 190
+Fat: 9
+Carbs: 19
+Protein: 9",,Price
+94,"Grilled Chicken
+Calories: 200
+Fat: 9
+Carbs: 0
+Protein: 29",,Price
+95,"Prime Rib
+Calories: 130
+Fat: 8
+Carbs: 3
+Protein: 13",,Price
+96,"Wild Alaska Salmon
+Calories: 310
+Fat: 19
+Carbs: 2
+Protein: 31",,Price
+97,"BBQ Chicken Tender Sandwich
+Calories: 520
+Fat: 120
+Carbs: 68
+Protein: 24",,Price
+98,"Buffalo Chicken Tender Sandwich
+Calories: 520
+Fat: 26
+Carbs: 49
+Protein: 24",,Price
+99,"Cali Club Sandwich (add side choice)
+Calories: 820
+Fat: 48
+Carbs: 55
+Protein: 43",,Price
+100,"Cali Chicken Burrito
+Calories: 1,350
+Fat: 80
+Carbs: 105
+Protein: 52",,Price
+101,"Club Sandwich (add side choice)
+Calories: 830
+Fat: 39
+Carbs: 74
+Protein: 47",,Price
+102,"Grilled Tuscan Chicken Sandwich (add side choice)
+Calories: 800
+Fat: 49
+Carbs: 43
+Protein: 50",,Price
+103,"Honey Buttermilk Chicken Tender Sandwich
+Calories: 530
+Fat: 24
+Carbs: 57
+Protein: 25",,Price
+104,"Mega Philly Cheese Melt w/ Grilled Chicken Breast (add side choice)
+Calories: 810
+Fat: 43
+Carbs: 56
+Protein: 53",,Price
+105,"Mega Philly Cheese Melt w/ Prime Rib (add side choice)
+Calories: 910
+Fat: 52
+Carbs: 62
+Protein: 50",,Price
+106,"Pot Roast Melt (add side choice)
+Calories: 870
+Fat: 46
+Carbs: 54
+Protein: 63",,Price
+107,"The Super Bird (add side choice)
+Calories: 600
+Fat: 28
+Carbs: 43
+Protein: 40",,Price
+108,"Chicken Noodle Soup - bowl / cup
+Calories: 390/260
+Fat: 15/10
+Carbs: 43/28
+Protein: 21/14",,Price
+109,"Loaded Baked Potato Soup - bowl / cup
+Calories: 470/360
+Fat: 31/24
+Carbs: 36/25
+Protein: 12/10",,Price
+110,"Vegetable Beef Soup - bowl / cup
+Calories: 310/200
+Fat: 16/11
+Carbs: 40/27
+Protein: 16/11",,Price
+111,"Bacon Cheddar Tots
+Calories: 300
+Fat: 15
+Carbs: 31
+Protein: 10",,Price
+112,"Beer-Battered Onion Rings
+Calories: 400
+Fat: 27
+Carbs: 35
+Protein: 4",,Price
+113,"Caesar Side Salad
+Calories: 260
+Fat: 20
+Carbs: 16
+Protein: 6",,Price
+114,"Garden Side Salad (add dressing choice)
+Calories: 170
+Fat: 9
+Carbs: 16
+Protein: 8",,Price
+115,"Seasonal Fruit
+Calories: 110
+Fat: 0
+Carbs: 27
+Protein: 1",,Price
+116,"Seasoned Fries
+Calories: 490
+Fat: 26
+Carbs: 57
+Protein: 7",,Price
+117,"Wavy-Cut Fries
+Calories: 400
+Fat: 22
+Carbs: 46
+Protein: 4",,Price
+118,"America's Diner Double (add side choice)
+Calories: 1,220
+Fat: 80
+Carbs: 51
+Protein: 74",,Price
+119,"Single (add side choice)
+Calories: 790
+Fat: 47
+Carbs: 50
+Protein: 41",,Price
+120,"Bacon Avocado Cheeseburger (add side choice)
+Calories: 1,000
+Fat: 66
+Carbs: 53
+Protein: 50",,Price
+121,"Bourbon Bacon Burger (add side choice)
+Calories: 910
+Fat: 51
+Carbs: 64
+Protein: 50",,Price
+122,"Double Cheeseburger (add cheese & side choice)
+Calories: 980
+Fat: 56
+Carbs: 50
+Protein: 66",,Price
+123,"Slamburger™ (add egg & side choice)
+Calories: 870
+Fat: 51
+Carbs: 55
+Protein: 48",,Price
+124,"Spicy Sriracha Burger (add side choice)
+Calories: 920
+Fat: 55
+Carbs: 55
+Protein: 49",,Price
+125,"100% Beef Patty
+Calories: 360
+Fat: 26
+Carbs: 0
+Protein: 29",,Price
+126,"Grilled Seasoned Chicken Breast
+Calories: 200
+Fat: 9
+Carbs: 0
+Protein: 29",,Price
+127,"Dr. Praeger’s® Veggie Patty
+Calories: 210
+Fat: 9
+Carbs: 25
+Protein: 8",,Price
+128,"Brioche Bun
+Calories: 250
+Fat: 4.5
+Carbs: 45
+Protein: 8",,Price
+129,"Multigrain Bun
+Calories: 200
+Fat: 3.5
+Carbs: 35
+Protein: 8",,Price
+130,"American Cheese
+Calories: 80
+Fat: 7
+Carbs: 1
+Protein: 4",,Price
+131,"Cheddar Cheese
+Calories: 80
+Fat: 6
+Carbs: 0
+Protein: 5",,Price
+132,"Swiss Cheese
+Calories: 80
+Fat: 6
+Carbs: 0
+Protein: 6",,Price
+133,"Bacon Strips
+Calories: 100
+Fat: 8
+Carbs: 1
+Protein: 7",,Price
+134,"BBQ Sauce
+Calories: 70
+Fat: 0
+Carbs: 20
+Protein: 0",,Price
+135,"Bourbon Sauce
+Calories: 110
+Fat: 0
+Carbs: 26
+Protein: 0",,Price
+136,"Caramelized Onions
+Calories: 70
+Fat: 7
+Carbs: 2
+Protein: 0",,Price
+137,"Fresh Avocado
+Calories: 45
+Fat: 4
+Carbs: 2
+Protein: 1",,Price
+138,"Jalapeños 
+Calories: 5
+Fat: 0 
+Carbs: 1
+Protein: 0",,Price
+139,"Lettuce
+Calories: 5
+Fat: 0
+Carbs: 1
+Protein: 0",,Price
+140,"Mayo
+Calories: 100
+Fat: 11
+Carbs: 0
+Protein: 0",,Price
+141,"Pickles
+Calories: 0
+Fat: 0
+Carbs: 0
+Protein: 0",,Price
+142,"Ranch
+Calories: 80
+Fat: 0
+Carbs: 0
+Protein: 0",,Price
+143,"Red Onions
+Calories: 5
+Fat: 0
+Carbs: 2
+Protein: 0",,Price
+144,"Sautéed Mushrooms
+Calories: 50
+Fat: 6
+Carbs: 1
+Protein: 1",,Price
+145,"Tomato
+Calories: 0
+Fat: 2
+Carbs: 0
+Protein: 0",,Price
+146,"Chocolate Milk (reduced fat)
+Calories: 290
+Fat: 4.5
+Carbs: 46
+Protein: 16",,Price
+147,"Coffee
+Calories: 0
+Fat: 0
+Carbs: 0
+Protein: 0",Any size black,Price
+148,"Cold Brew Coffee - unsweet / sweet
+Calories: 60/130
+Fat: 2
+Carbs: 6/25
+Protein: 4",,Price
+149,"FUZE® Raspberry Tea
+Calories: 110
+Fat: 0
+Carbs: 28
+Protein: 0",,Price
+150,"Hot Chocolate
+Calories: 190
+Fat: 3
+Carbs: 37
+Protein: 2",,Price
+151,"Hot Tea / Herbal Tea
+Calories: 0
+Fat: 0
+Carbs: 0
+Protein: 0",Any size - black,Price
+152,"Iced Tea - unsweet / sweet
+Calories: 5/160
+Fat: 0
+Carbs: 1/40
+Protein: 0",,Price
+153,"Apple juice
+Calories: 210
+Fat: 0
+Carbs: 52
+Protein: 1",,Price
+154,"Minute Maid® Orange
+Calories: 210
+Fat: 0
+Carbs: 51
+Protein: 3",,Price
+155,"Ruby Red Grapefruit
+Calories: 240
+Fat: 0
+Carbs: 60
+Protein: 2",,Price
+156,"Tomato
+Calories: 90
+Fat: 0
+Carbs: 19
+Protein: 4",,Price
+157,"Lemonade Iced Tea
+Calories: 80
+Fat: 0
+Carbs: 21
+Protein: 0",,Price
+158,"Mango Lemonade
+Calories: 210
+Fat: 0
+Carbs: 57
+Protein: 0",,Price
+159,"2% Milk 
+Calories: 230
+Fat: 9
+Carbs: 22
+Protein: 15",,Price
+160,"Minute Maid® Lemonade
+Calories: 150
+Fat: 0
+Carbs: 40
+Protein: 0",,Price
+161,"Smoothies: Groovy Mango
+Calories: 340
+Fat: 0
+Carbs: 86
+Protein: 3",,Price
+162,"Strawberry Banana Bliss
+Calories: 330
+Fat: .5
+Carbs: 82
+Protein: 4",,Price
+163,"Tropical Green
+Calories: 320
+Fat: 0
+Carbs: 81
+Protein: 4",,Price
+164,"Strawberry Lemonade
+Calories: 210
+Fat: 0
+Carbs: 55
+Protein: 0",,Price
+165,"Bourbon Chicken Sizzlin’ Skillet
+Calories: 880
+Fat: 39
+Carbs: 69
+Protein: 65",,Price
+166,"Brooklyn Spaghetti & Meatballs (add bread)
+Calories: 920
+Fat: 46
+Carbs: 85
+Protein: 36",,Price
+167,"Country-Fried Steak w/ gravy (add bread & side choices)
+Calories: 630
+Fat: 40
+Carbs: 37
+Protein: 30",,Price
+168,"Crazy Spicy Sizzlin’ Skillet (add optional egg choice)
+Calories: 1,040
+Fat: 70
+Carbs: 44
+Protein: 59",,Price
+169,"Garlic Peppercorn Sirloin (add bread & side choices) 
+Calories: 420
+Fat: 25
+Carbs: 3
+Protein: 43",,Price
+170,"Grilled Haddock (add bread & side choices)
+Calories: 290
+Fat: 14
+Carbs: 2
+Protein: 40",,Price
+171,"Homestyle Meatloaf (add bread & side choices)
+Calories: 590
+Fat: 29
+Carbs: 46
+Protein: 34",,Price
+172,"Mediterranean Grilled Chicken (add bread & side choices)
+Calories: 630
+Fat: 40
+Carbs: 6
+Protein: 65",,Price
+173,"Premium Chicken Tenders (add bread, side & sauce choices)
+Calories: 540
+Fat: 32
+Carbs: 30
+Protein: 36",,Price
+174,"Sirloin Steak (add bread & side choices)
+Calories: 350
+Fat: 17
+Carbs: 2
+Protein: 43",,Price
+175,"Slow-Cooked Pot Roast (add bread & side choices)
+Calories: 400
+Fat: 19
+Carbs: 10
+Protein: 43",,Price
+176,"T-Bone Steak (add bread & side choices)
+Calories: 490
+Fat: 30
+Carbs: 0
+Protein: 52",,Price
+177,"Wild Alaska Salmon (add bread & side choices)
+Calories: 310
+Fat: 19
+Carbs: 2
+Protein: 31",,Price
+178,"Broccoli
+Calories: 35
+Fat: 0
+Carbs: 5
+Protein: 3",,Price
+179,"Fresh Sautéed Zucchini & Squash
+Calories: 70
+Fat: 6
+Carbs: 3
+Protein: 1",,Price
+180,"Garlic Toast / Dinner Bread
+Calories: 190
+Fat: 7
+Carbs: 25
+Protein: 6",,Price
+181,"Red-Skinned Mashed Potatoes (add gravy choice)
+Calories: 120
+Fat: 5
+Carbs: 17
+Protein: 3",,Price
+182,"Red-Skinned Potatoes
+Calories: 200
+Fat: 8
+Carbs: 26
+Protein: 4",,Price
+183,"Southwest Creamed Corn
+Calories: 240
+Fat: 18
+Carbs: 13
+Protein: 3",,Price
+184,"Wavy-Cut Fries
+Calories: 400
+Fat: 22
+Carbs: 46
+Protein: 4",,Price
+185,"Whole Grain Rice
+Calories: 240
+Fat: 2.5
+Carbs: 48
+Protein: 6",,Price
+186,"Ice Cream: Chocolate
+Calories: 530
+Fat: 30
+Carbs: 60
+Protein: 10",,Price
+187,"Strawberry
+Calories: 470
+Fat: 23
+Carbs: 63
+Protein: 7",,Price
+188,"Vanilla
+Calories: 500
+Fat: 30
+Carbs: 53
+Protein: 7",,Price
+189,"Topping: Caramel
+Calories: 120
+Fat: 2
+Carbs: 24
+Protein: 1",,Price
+190,"Hot Fudge
+Calories: 120
+Fat: 3
+Carbs: 24
+Protein: 1",,Price
+191,"Strawberries
+Calories: 120
+Fat: 3
+Carbs: 23
+Protein: 2",,Price
+192,"Crunch: Chopped Nuts
+Calories: 150
+Fat: 13
+Carbs: 5
+Protein: 6",,Price
+193,"OREO® Cookie Pieces
+Calories: 110
+Fat: 4.5
+Carbs: 16
+Protein: 1",,Price
+194,"Whipped Cream
+Calories: 15
+Fat: 1
+Carbs: 1
+Protein: 0",,Price
+195,"Caramel Apple Pie Crisp
+Calories: 760
+Fat: 26
+Carbs: 126
+Protein: 8",,Price
+196,"Chocolate Lava Cake
+Calories: 700
+Fat: 34
+Carbs: 85
+Protein: 6",,Price
+197,"New York Style Cheesecake Plain or w/ Strawberry Topping & Whipped Cream
+Calories: 500/600
+Fat: 34/35
+Carbs: 42/63
+Protein: 9",,Price
+198,"Milk Shakes: Cake Batter
+Calories: 1,090
+Fat: 52
+Carbs: 137
+Protein: 13",,Price
+199,"Chocolate
+Calories: 870
+Fat: 43
+Carbs: 111
+Protein: 17",,Price
+200,"Chocolate Peanut Butter
+Calories: 1,200
+Fat: 74
+Carbs: 117
+Protein: 26",,Price
+201,"OREO®
+Calories: 1,050
+Fat: 56
+Carbs: 125
+Protein: 15",,Price
+202,"Peanut Butter Banana 
+Calories: 1,150
+Fat: 74
+Carbs: 105
+Protein: 26",,Price
+203,"Strawberry
+Calories: 760
+Fat: 34
+Carbs: 110
+Protein: 12",,Price
+204,"Vanilla
+Calories: 800
+Fat: 43
+Carbs: 97
+Protein: 12",,Price
+205,"Topping: Caramel
+Calories: 120
+Fat: 2
+Carbs: 24
+Protein: 1",,Price
+206,"Hot Fudge
+Calories: 120
+Fat: 3
+Carbs: 23
+Protein: 2",,Price
+207,"Strawberry
+Calories: 40
+Fat: 0
+Carbs: 10
+Protein: 0",,Price
+208,"OREO® Cookie Pieces
+Calories: 110
+Fat: 4.5
+Carbs: 16
+Protein: 1",,Price
+209," Whipped Cream
+Calories: 15
+Fat: 1
+Carbs: 1
+Protein: 0",,Price
+210,"Jr. Ice Cream: Chocolate
+Calories: 270
+Fat: 15
+Carbs: 30
+Protein: 5",,Price
+211,"Strawberry
+Calories: 230
+Fat: 12
+Carbs: 32
+Protein: 3",,Price
+212,"Vanilla
+Calories: 250
+Fat: 15
+Carbs: 27
+Protein: 3",,Price
+213,"Jr. Milk Shake: Cake Batter
+Calories: 730
+Fat: 37
+Carbs: 93
+Protein: 9",,Price
+214,"Chocolate
+Calories: 680
+Fat: 32
+Carbs: 89
+Protein: 12",,Price
+215,"OREO® Blender Blaster
+Calories: 760
+Fat: 41
+Carbs: 90
+Protein: 11",,Price
+216,"Strawberry
+Calories: 550
+Fat: 26
+Carbs: 77
+Protein: 9",,Price
+217,"Vanilla
+Calories: 620
+Fat: 32
+Carbs: 78
+Protein: 9",,Price
+218,"All You Can Eat Pancakes / Refill
+Calories: 650/450
+Fat: 14/11
+Carbs: 115/77
+Protein: 15/10",,Price
+219,"Biscuit & Gravy Breakfast (add egg choice)
+Calories: 520
+Fat: 34
+Carbs: 48
+Protein: 4",,Price
+220,"Build Your Own Chicken Wraps w/ Grilled Chicken (add sauce choices)
+Calories: 850
+Fat: 42
+Carbs: 74
+Protein: 44",,Price
+221,"Build Your Own Chicken Wraps w/ Premium Chicken Tenders (add sauce choices)
+Calories: 930
+Fat: 49
+Carbs: 89
+Protein: 33",,Price
+222,"Chicken Loaded Potato Sizzlin’ Skillet
+Calories: 800
+Fat: 49
+Carbs: 39
+Protein: 51",,Price
+223,"Classic BLT
+Calories: 1,130
+Fat: 71
+Carbs: 88
+Protein: 32",,Price
+224,"Country-Fried Steak & Eggs Sizzlin’ Skillet (add egg choice)
+Calories: 740
+Fat: 46
+Carbs: 53
+Protein: 28",,Price
+225,"Everyday Value Slam® (add egg & meat choices)
+Calories: 450
+Fat: 11
+Carbs: 77
+Protein: 10",,Price
+226,"French Toast Slugger™ (add egg, hash brown / bread & juice choices)
+Calories: 320
+Fat: 17
+Carbs: 32
+Protein: 10",,Price
+227,"Fried Cheese Melt
+Calories: 750
+Fat: 37
+Carbs: 74
+Protein: 31",,Price
+228,"Loaded Breakfast Sandwich (add egg choice)
+Calories: 610
+Fat: 34
+Carbs: 48
+Protein: 40",,Price
+229,"Slice of French Toast
+Calories: 320
+Fat: 17
+Carbs: 32
+Protein: 10",,Price
+230,"Southern Chicken Slugger™ (add egg, hash brown / bread & juice choices)
+Calories: 680
+Fat: 42
+Carbs: 48
+Protein: 29",,Price
+231,"Stack of Pancakes
+Calories: 450
+Fat: 11
+Carbs: 77
+Protein: 10",,Price
+232,"All-American Sauce
+Calories: 250
+Fat: 27
+Carbs: 2
+Protein: 0 ",,Price
+233,"Balsamic Vinaigrette, Low-Fat
+Calories: 60/130
+Fat: 2/4
+Carbs: 240/490
+Protein: 0",,Price
+234,"BBQ Sauce
+Calories: 110
+Fat: 0
+Carbs: 30
+Protein: 0",,Price
+235,"Blue Cheese Dressing
+Calories: 160/320
+Fat: 16/33
+Carbs: 330/650
+Protein: 0",,Price
+236,"Bourbon Sauce
+Calories: 110
+Fat: 0
+Carbs: 26
+Protein: 0",,Price
+237,"Brown Gravy
+Calories: 10
+Fat: 0
+Carbs: 2
+Protein: 0 ",,Price
+238,"Buffalo Sauce
+Calories: 110
+Fat: 12
+Carbs: 1
+Protein: 0 ",,Price
+239,"Caesar Dressing
+Calories: 210/420
+Fat: 22/44
+Carbs: 2/4
+Protein: 1/3",,Price
+240,"Country Gravy
+Calories: 45
+Fat: 3
+Carbs: 3
+Protein: 1 ",,Price
+241,"Cream Cheese Icing
+Calories: 220
+Fat: 6
+Carbs: 42
+Protein: 0",,Price
+242,"Creamer - Half & Half
+Calories: 10
+Fat: 1
+Carbs: 0
+Protein: 0 ",,Price
+243,"Creamer - Hazelnut or French Vanilla
+Calories: 30
+Fat: 1
+Carbs: 5
+Protein: 0 ",,Price
+244,"Creamy Sriracha Sauce
+Calories: 160
+Fat: 15
+Carbs: 4
+Protein: 0 ",,Price
+245,"Croutons
+Calories: 70
+Fat: 2.5
+Carbs: 11
+Protein: 2",,Price
+246,"Den Sauce
+Calories: 220
+Fat: 22
+Carbs: 4
+Protein: 0 ",,Price
+247,"French Dressing
+Calories: 130/260
+Fat: 8/17
+Carbs: 430/850
+Protein: 0/1",,Price
+248,"Honey Mustard Dressing
+Calories: 180/360
+Fat: 15/30
+Carbs: 12/25
+Protein: 0",,Price
+249,"Italian Dressing, Fat-Free
+Calories: 15/30
+Fat: 0
+Carbs: 4/8
+Protein: 0",,Price
+250,"Mango Habanero Sauce
+Calories: 100
+Fat: 0
+Carbs: 27
+Protein: 0",,Price
+251,"Maple-Flavored Syrup
+Calories: 220
+Fat: 0
+Carbs: 54
+Protein: 0",,Price
+252,"Maple-Flavored Syrup, Sugar-Free
+Calories: 15
+Fat: 0
+Carbs: 6
+Protein: 0 ",,Price
+253,"Pico de Gallo
+Calories: 15
+Fat: 0
+Carbs: 3
+Protein: 1 ",,Price
+254,"Ranch Dressing
+Calories: 200/390
+Fat: 21/42
+Carbs: 1/2
+Protein: 0",,Price
+255,"Sour Cream
+Calories: 45
+Fat: 4
+Carbs: 1
+Protein: 1 ",,Price
+256,"Thousand Island Dressing
+Calories: 160/330
+Fat: 16/33
+Carbs: 7/15
+Protein: 0",,Price
+257,"Tomato Sauce 
+Calories: 25
+Fat: 1
+Carbs: 3
+Protein: 1 ",,Price
+258,"Whipped Margarine
+Calories: 40
+Fat: 4.5
+Carbs: 0
+Protein: 0 ",,Price
+259,"Silver Dollar Pancakes
+Calories: 190
+Fat: 7
+Carbs: 29
+Protein: 4",,Price
+260,"Grilled Chicken on a Stick (add dipping sauce & side)
+Calories: 200
+Fat: 9
+Carbs: 0
+Protein: 29 ",,Price
+261,"Grilled Chicken on a Stick w/ broccoli, Appley Ever After® juice
+& w/o sauce
+Calories: 270
+Fat: 9
+Carbs: 15
+Protein: 31",,Price
+262,"Jr. Birthday Cake Pancakes (add side)
+Calories: 330
+Fat: 8
+Carbs: 60
+Protein: 5",,Price
+263,"Jr. Cheeseburger (add side)
+Calories: 490
+Fat: 26
+Carbs: 34
+Protein: 29",,Price
+264,"Jr. Chocolate Chip Pancakes (add side)
+Calories: 220
+Fat: 6
+Carbs: 38
+Protein: 4",,Price
+265,"Jr. French Toast w/ egg whites, turkey bacon
+& Appley Ever After® juice
+Calories: 360
+Fat: 13
+Carbs: 40
+Protein: 20",,Price
+266,"Jr. French Toast (add side)
+Calories: 220
+Fat: 9
+Carbs: 30
+Protein: 6",,Price
+267,"Jr. Premium Chicken Tenders (add dipping sauce & side)
+Calories: 270
+Fat: 16
+Carbs: 15
+Protein: 18",,Price
+268,"Add a Chicken Tender
+Calories: 140
+Fat: 8
+Carbs: 8
+Protein: 9 ",,Price
+269,"Jr. Spaghetti w/ broccoli, bread & Appley Ever After® juice
+Calories: 410
+Fat: 10
+Carbs: 64
+Protein: 13",,Price
+270,"Jr. Spaghetti w/ tomato sauce & bread (add side)
+Calories: 340
+Fat: 10
+Carbs: 50
+Protein: 10",,Price
+271,"Add a Meatball
+Calories: 160
+Fat: 13
+Carbs: 4
+Protein: 8 ",,Price
+272,"Mac & Cheese (add side)
+Calories: 300
+Fat: 9
+Carbs: 44
+Protein: 10",,Price
+273,"Mini Corn Dogs (add dipping sauce & side)
+Calories: 360
+Fat: 21
+Carbs: 33
+Protein: 10",,Price
+274,"Apple Dunkers w/ caramel
+Calories: 120
+Fat: 1.5
+Carbs: 26
+Protein: 1",,Price
+275,"Apple Slices
+Calories: 30
+Fat: 0
+Carbs: 8
+Protein: 0 ",,Price
+276,"Fresh Banana Slices
+Calories: 110
+Fat: 0
+Carbs: 27
+Protein: 1",,Price
+277,"Goldfish® Crackers
+Calories: 120
+Fat: 4
+Carbs: 17
+Protein: 3",,Price
+278,"Grapes
+Calories: 60
+Fat: 0
+Carbs: 14
+Protein: 1",,Price
+279,"Jr. Garden Salad (add dressing choice)
+Calories: 80
+Fat: 2.5
+Carbs: 13
+Protein: 2",,Price

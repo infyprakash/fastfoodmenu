@@ -1,0 +1,142 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,All American Cheeseburger,,360,15,37,17
+1,All American Hamburger,,310,12,37,15
+2,Bacon All American Cheeseburger,,430,22,38,21
+3,Bacon Checker/Rallyburger w/ Cheese,,440,22,40,21
+4,Bacon Cheddar Crisp,,390,17,39,20
+5,Bacon Cheddar Crisp Double,,560,30,39,32
+6,Bacon Crispy Cheese Double,,790,54,46,32
+7,Bacon Roadhouse,,680,47,37,29
+8,Baconzilla!,p,810,52,40,46
+9,BBQ Bacon Buford,,890,55,54,42
+10,Big BLT,,370,17,39,16
+11,Big Buford,,660,39,39,38
+12,BLT,,280,11,35,11
+13,"Bowl of Chili w/ Cheese,",12 FO,430,24,29,24
+14,,8 FO,270,15,18,16
+15,Bowl of Chili,12 FO,380,20,26,23
+16,,8 FO,250,14,17,15
+17,Buttery Steak,,690,46,42,24
+18,Buttery Steak & Bacon,,760,53,43,28
+19,Checker/Rallyburger,,320,12,39,15
+20,Checker/Rallyburger Burger w/ Cheese,,360,15,39,18
+21,Cheddar Burger,,310,13,34,15
+22,Cheese Champ,,430,21,39,22
+23,Cheese Double,,480,25,38,27
+24,Cheese Double Cheese,,530,29,38,29
+25,Chili Cheese Dog,,410,23,34,15
+26,Chili Cheeseburger,,340,14,36,17
+27,Chili Dog,,390,22,33,15
+28,"Chili, 1 FO",,30,1.5,2,2
+29,Double BBQ Bacon Cheeseburger,,650,40,41,31
+30,Double Checkerburger w/ Cheese,,490,25,39,27
+31,Double Fry Lover’s,,670,39,49,28
+32,Double Mushroom Swissburger,,470,25,35,28
+33,Double Olive Burger,,500,26,39,25
+34,Fry Lover’s Bacon Double,,740,45,50,32
+35,Fry Lover’s Burger,,440,20,48,18
+36,Hot Dog,,360,20,30,13
+37,Montreal Steak Burger,,680,45,45,24
+38,Montreal Steak Burger with Bacon,,760,51,45,28
+39,Mushroom Swissburger,,350,15,35,18
+40,Olive Burger,,370,17,38,15
+41,Philly Cheesesteak Sub w/ Montreal Mayo,,600,36,46,24
+42,Roadhouse,,670,40,49,29
+43,Steakzilla!,,970,65,42,51
+44,Tacos (2),,440,24,35,25
+45,Texas Bacon Buford,,840,55,41,42
+46,$2 Chicken Bites and Fries Box,,710,40,64,24
+47,5 Chicken Wings,Plain,350,23,2,35
+48,,Angry Buffalo,360,23,3,35
+49,,Asian Kick,430,23,21,35
+50,,Garlic Parmesan,510,40,3,35
+51,,Honey BBQ,430,23,19,35
+52,,Medium Buffalo,360,23,3,35
+53,10 Chicken Wings,Plain,690,44,4,68
+54,,Angry Buffalo,710,45,6,69
+55,,Asian Kick,840,45,42,69
+56,,Garlic Parmesan,1010,79,6,69
+57,,Honey BBQ,840,44,38,69
+58,,Medium Buffalo,700,45,5,69
+59,20 Chicken Wings,Plain,1380,89,8,136
+60,,Angry Buffalo,1420,91,13,137
+61,,Asian Kick,1680,89,84,138
+62,,Garlic Parmesan,2030,158,13,139
+63,,Honey BBQ,1690,89,76,138
+64,,Medium Buffalo,1410,91,10,137
+65,5 PC Chicken Nuggets,,250,16,14,12
+66,"1/4 Lb. Chicken Bites, No Sauce",,380,24,20,21
+67,Bacon Crispy Cheese Chicken,,770,51,54,22
+68,Big Chicken Deluxe,,460,22,49,18
+69,Big Chicken Sandwich,,410,18,48,16
+70,Crispy Chicken Fillet,,350,11,42,21
+71,Crispy Fish Sandwich,,530,29,52,15
+72,Deep Sea Double,,570,33,52,17
+73,Double Spicy Chicken,,550,28,48,27
+74,Franks Buffalo Chicken,,430,23,42,15
+75,Grilled Chicken Salad,,280,4.5,30,35
+76,Grilled Chicken Sandwich,,460,24,31,30
+77,Half Pound Chicken Bites,,760,48,40,41
+78,Premium Chicken Club Sandwich,,730,49,49,22
+79,Rotisserie Grilled Chicken Sandwich,,310,3.5,39,32
+80,Spicy Chicken Deluxe,,390,17,41,17
+81,Spicy Chicken Sandwich,,340,13,40,15
+82,Ultimate Crispy Chicken,,570,34,51,14
+83,Angry Buffalo,1 FO,10,0,1,0
+84,Asian Kick,1 FO,80,0,19,0
+85,Parmesan Garlic,1 FO,160,17,1,1
+86,Honey BBQ Sauce,1 FO,80,0,17,0
+87,Medium Buffalo Sauce,1 FO,5,0,1,0
+88,Blue Cheese Dipping Sauce,1 each,230,24,2,1
+89,Ranch Dipping Sauce,1 each,210,23,2,1
+90,Apple Pie,1,270,12,38,3
+91,Classic Banana,12 FO,260,8,44,5
+92,,16 FO,350,10,58,7
+93,,22 FO,460,13,77,9
+94,,32 FO,700,20,117,14
+95,Classic Chocolate,12 FO,270,8,45,6
+96,,16 FO,380,11,64,8
+97,,22 FO,470,13,79,10
+98,,32 FO,720,20,120,15
+99,Classic Strawberry,12 FO,260,8,43,5
+100,,16 FO,350,10,57,7
+101,,22 FO,460,13,75,9
+102,,32 FO,690,20,114,14
+103,Classic Vanilla,12 FO,220,8,33,5
+104,,16 FO,290,10,44,7
+105,,22 FO,390,13,57,9
+106,,32 FO,590,20,87,14
+107,Loaded Funnel Cake- Strawberry,,270,15,32,2
+108,Loaded Milkshake- Banana Split,16 oz,350,9,64,5
+109,,22 oz,540,12,101,7
+110,,32 oz,800,18,151,10
+111,Cake Cone,,20,0,4,0
+112,Soft Serve,Chocolate,140,4.5,21,3
+113,,Swirl,140,4.5,21,3
+114,,Vanilla,130,4.5,20,3
+115,"Sundae Stacker, Strawberry Cheesecake",,340,6,85,4
+116,Waffle Cone,,90,0.5,19,1
+117,"Sundae Stacker, Oreo Fudge",,350,12,56,4
+118,Mango Smoothie,16 fl oz,360,2,89,1
+119,,21 fl oz,440,2.5,107,2
+120,Orange Smoothie,16 fl oz,340,2,84,2
+121,,21 fl oz,420,3,100,3
+122,Strawberry Smoothie,16 fl oz,340,2,83,1
+123,,21 fl oz,420,2.5,99,2
+124,Caramel Cheesecake Crunch with Twix,Loaded Shake Small,460,21,60,7
+125,,Sundae Stacker,370,17,50,5
+126,Kool-Aid Slushie Tropical Punch,Regular,220,0,0,0
+127,,Large,300,0,0,0
+128,Kool-Aid Slushie Blue Raspberry,Regular,220,0,0,0
+129,,Large,300,0,0,0
+130,Large Fries,,590,29,74,8
+131,Extra Large Fries,,910,45,115,12
+132,Medium Fries,,500,24,63,7
+133,Small Fries,,390,19,49,5
+134,Value Fries,,260,13,33,3
+135,Chili Cheese Fries,,590,30,72,9
+136,Fully Loaded Fries,,870,56,72,19
+137,Onion Rings,,720,41,78,10
+138,Bacon,,70,6,1,4
+139,Cheese Sauce,,35,2.5,2,0
+140,Grilled Onions,,10,0,2,0

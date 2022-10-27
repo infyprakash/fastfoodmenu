@@ -1,0 +1,295 @@
+,Food,Size / Variety,Calories,Fat,Carbs,Protein
+0,Bacon 'n Cheese Double Steakburger™,,480,28,31,25
+1,Bacon Lovers Steakburger™,,690,43,42,33
+2,Cajun Double Steakburger,,870,63,37,37
+3,Cheddar Cheesy Double Steakburger™,,800,53,35,46
+4,Chipotle Double Steakburger™,,650,44,37,27
+5,Double Steakburger™,,390,21,30,19
+6,,with Cheese,440,25,31,22
+7,Garlic Double Steakburger™ with Cheese,,630,42,38,23
+8,Guacamole Single Steakburger™,,380,21,34,15
+9,Guacamole Double Steakburger™,,670,44,47,25
+10,Jamaican Jerk Double Steakburger™,,540,30,46,23
+11,Jalapeno Crunch Steakburger™,,700,44,54,25
+12,Meat Lovers Double Steakburger™,,700,44,44,30
+13,Philly Cheese Double Steakburger™,,810,51,59,30
+14,Portobello 'n Swiss Steakburger™,,540,29,44,27
+15,Prince of Royale,,460,26,35,24
+16,Royale Double Steakburger®,,620,37,41,30
+17,Signature Steakburger™ w/Cheese,,790,49,48,41
+18,Single Steakburger™,,280,11,30,12
+19,,with Cheese,330,16,31,15
+20,Triple Steakburger™,,510,30,30,26
+21,,with Cheese,610,39,31,32
+22,Western BBQ 'n Bacon Double Steakburger™,,700,36,65,27
+23,Wisconsin Buttery Double Steakburger™,,700,47,45,23
+24,7x7 Steakburger™,,1330,98,34,74
+25,All American Melt,,900,65,35,39
+26,Frisco Melt,,750,53,41,26
+27,Grilled Cheese Steakburger Melt,,720,51,35,28
+28,Patty Melt,,650,40,47,25
+29,BBQ,,140,6,16,6
+30,,with Cheese,170,8,16,7
+31,Chipotle,,160,9,13,6
+32,,with Cheese,180,11,13,7
+33,Frisco,,160,9,14,6
+34,,with Cheese,190,11,14,7
+35,Garlic,,250,19,13,7
+36,Ketchup and Mustard,,140,6,15,6
+37,,with Cheese,160,8,15,7
+38,Ketchup and Onion,,140,6,15,6
+39,,with Cheese,160,8,15,7
+40,Steakburger Shooter®,Plain,130,6,12,6
+41,,with Cheese,150,8,13,7
+42,"Bacon, Lettuce, 'n Tomato Sandwich",,380,18,40,14
+43,Grilled Cheese Sandwich,,410,23,37,14
+44,Grilled Cheese 'n Bacon Sandwich,,460,26,37,17
+45,Grilled Chicken Sandwich,,370,12,51,25
+46,Spicy Chicken Sandwich,,580,26,51,27
+47,Chicken Fingers (3),,370,20,26,21
+48,Chili 3-way,,830,36,94,33
+49,Chili 5-way,,1170,63,99,53
+50,Chili Bowl,,880,47,75,40
+51,Chili Cup,,440,24,38,20
+52,Chili Deluxe,Bowl,1220,74,81,61
+53,,Cup,610,37,40,31
+54,Chili Mac,,860,330,104,27
+55,,Supreme,1080,52,109,44
+56,Applesauce,,90,0,21,0
+57,Baked Beans,,290,1,62,9
+58,Cottage Cheese w/Pineapple Ring,,150,6,10,14
+59,Creamy Coleslaw,,140,11,10,<1
+60,Salsa (1oz.),,0,0,0,0
+61,Small Garden Salad,,45,1,8,2
+62,Vegetable Soup,Bowl,130,3,24,3
+63,,Cup,60,1.5,12,2
+64,Cheese French Fries,Small,330,18,38,5
+65,,Regular,620,35,69,11
+66,,Large,830,44,97,13
+67,Chili Cheese Fries,Small,450,26,45,10
+68,,Regular,800,47,81,18
+69,,Large,1190,68,120,27
+70,French Fries,Small,240,11,33,2
+71,,Regular,440,21,60,5
+72,,Large,640,30,87,7
+73,Onion Rings,Regular,440,25,48,6
+74,,Large,880,50,95,13
+75,Cajun Seasoned Fries,Small,250,11,33,3
+76,,Regular,450,21,60,5
+77,,Large,650,30,87,7
+78,Parmesan Cheese 'n Herbs Seasoned Fries,Small,250,12,33,3
+79,,Regular,450,21,60,5
+80,,Large,650,30,87,7
+81,Salt 'n Vinegar Seasoned Fries,Small,250,11,33,2
+82,,Regular,450,21,60,5
+83,,Large,650,30,88,7
+84,Sea Salt 'n Pepper Seasoned Fries,Small,250,11,33,3
+85,,Regular,450,21,60,5
+86,,Large,650,30,87,7
+87,Fresh Hand Cut Fries,Small,300,18,31,4
+88,,Large,720,43,74,10
+89,Parmesan Cheese 'n Herbs Fresh Cut Fries,Small,300,18,31,4
+90,,Large,720,43,74,10
+91,Salt 'n Vinegar Seasoned Fresh Cut Fries,Small,300,18,31,4
+92,,Large,720,43,75,10
+93,Sea Salt 'n Pepper Seasoned Fresh Cut Fries,Small,300,18,31,4
+94,,Large,720,43,74,10
+95,Fried Chicken Salad,,470,26,34,27
+96,Garden Bowl Salad,,400,27,24,19
+97,Grilled Chicken Salad,,270,10,30,26
+98,Grilled Chicken Taco Salad,,590,44,34,28
+99,Beef Taco Salad,,580,48,26,15
+100,Small Garden Salad,,45,1,8,2
+101,Blue Cheese,1 oz,130,13,1,1
+102,Honey French,1 oz,120,10,8,0
+103,Honey Mustard,1 oz,130,12,5,0
+104,Ranch,1 oz,150,16,1,0
+105,Thousand Island,1 oz,130,11,7,0
+106,Light Italian,1 oz,90,9,3,<1
+107,Banana Milkshake,Kids,420,10,77,12
+108,,Small,420,10,77,12
+109,,Regular,680,18,125,17
+110,Birthday Cake Milkshake,Kids,500,15,83,12
+111,,Small,500,16,83,12
+112,,Regular,820,27,135,16
+113,Black Raspberry Chocolate Chip Milkshake,Kids (LTO),660,31,89,14
+114,,Small (LTO),660,31,89,14
+115,,Regular (LTO),930,44,130,20
+116,Butterfinger® Milkshake,Kids,520,16,89,12
+117,,Small,520,16,89,12
+118,,Regular,740,23,126,16
+119,Chocolate Banana Milkshake,Kids,470,13,83,11
+120,,Small,470,13,83,11
+121,,Regular,690,18,126,16
+122,Chocolate Covered Strawberry Milkshake,Kids,490,18,75,12
+123,,Small,490,18,75,12
+124,,Regular,720,25,116,17
+125,Chocolate Fudge Brownie Milkshake,Kids,620,20,104,14
+126,,Small,620,20,104,14
+127,,Regular,960,31,163,19
+128,Chocolate Milkshake,Kids,410,13,70,11
+129,,Small,410,13,70,11
+130,,Regular,580,18,99,15
+131,Chocolate Peanut Butter Milkshake,Kids,540,23,74,17
+132,,Small,540,24,74,17
+133,,Regular,920,43,119,28
+134,Cookie Dough Milkshake,Kids,520,15,88,12
+135,,Small,520,15,88,12
+136,,Regular,740,23,125,16
+137,Dark Chocolate Milkshake,Kids,460,14,78,12
+138,,Small,460,14,78,12
+139,,Regular,680,22,116,16
+140,Double Chocolate Fudge Milkshake,Kids,550,17,93,13
+141,,Small,550,17,93,13
+142,,Regular,880,29,147,18
+143,Egg Nog Milkshake,Kids,380,10,66,11
+144,,Small,380,10,66,11
+145,,Regular,610,19,104,15
+146,Heath Bar Milkshake,Kids,510,18,80,13
+147,,Small,510,18,80,13
+148,,Regular,730,26,114,17
+149,M&M's® Milkshake,Kids,550,17,92,12
+150,,Small,550,17,92,12
+151,,Regular,770,25,129,16
+152,Nutella® Milkshake,Kids,490,20,70,12
+153,,Small,490,20,70,12
+154,,Regular,800,37,109,18
+155,Oreo® Cookies 'n Cream Milkshake,Kids,500,15,84,12
+156,,Small,500,15,84,12
+157,,Regular,720,23,121,15
+158,Oreo® Mint Milkshake,Kids,550,18,91,11
+159,,Small,550,18,91,11
+160,,Regular,710,23,118,15
+161,Mocha Milkshake,Kids,380,10,67,11
+162,,Small,380,10,67,11
+163,,Regular,600,18,104,15
+164,Orange Freeze,Kids,360,9,64,9
+165,,Small,360,9,64,9
+166,,Regular,580,17,102,13
+167,Peanut Butter Milkshake,Kids,530,23,71,17
+168,,Small,530,24,71,17
+169,,Regular,840,43,98,27
+170,Peanut Butter Cup Milkshake,Kids,540,19,86,13
+171,,Small,540,19,86,13
+172,,Regular,760,26,123,16
+173,Peppermint Chocolate Chip Milkshake,Kids,510,14,87,11
+174,,Small,510,14,87,11
+175,,Regular,730,22,126,15
+176,Salted Caramel Milkshake,Kids,450,13,78,36
+177,,Small,450,13,78,36
+178,,Regular,610,18,106,49
+179,Snickers Shake,Kids,450,14,74,12
+180,,Small,450,14,74,12
+181,,Regular,670,21,112,16
+182,Speculoos Cookie Butter Milkshake,Kids,580,25,80,13
+183,,Small,580,25,80,13
+184,,Regular,900,43,116,18
+185,Strawberry Banana Milkshake,Kids,400,10,71,11
+186,,Small,400,10,71,11
+187,,Regular,640,18,113,16
+188,Strawberry Milkshake,Kids,430,13,75,10
+189,,Small,430,13,75,10
+190,,Regular,600,18,102,14
+191,Turtle Caramel Nut Milkshake,Kids,570,16,99,13
+192,,Small,570,16,99,13
+193,,Regular,810,25,137,18
+194,Ultimate Banana Milkshake,Kids,440,13,77,11
+195,,Small,440,13,77,11
+196,,Regular,640,18,115,16
+197,Vanilla Milkshake,Kids,410,10,74,10
+198,,Small,410,10,74,10
+199,,Regular,600,18,104,14
+200,Very Berry Strawberry Milkshake,Kids,350,10,57,11
+201,,Small,350,10,57,11
+202,,Regular,530,18,86,14
+203,White Chocolate Milkshake,Kids,400,11,68,11
+204,,Small,400,11,68,11
+205,,Regular,620,19,105,14
+206,Chicago Style Steak Frank,,420,27,30,15
+207,Chili Cheese Steak Frank,,620,44,31,26
+208,Steak Frank,,380,27,22,14
+209,Chili Cheese Footlong Hot Dog,,720,49,43,43
+210,Classic Footlong Hot Dog,,520,35,34,19
+211,Chicken Finger (2) and Fries,,400,21,38,16
+212,Grilled Cheese and Fries,,570,30,58,15
+213,Mac and Cheese,,170,5,26,6
+214,,w/Applesauce,260,5,47,6
+215,Mini Corn Dogs 'n Fries,,200,9,23,7
+216,Steakburger™ and Fries,,430,19,51,14
+217,,w/Cheese,480,23,52,16
+218,Steakburger™ Minis (2) and Fries,,310,17,26,14
+219,,With Cheese,400,19,46,13
+220,Steak Frank and Fries,,540,34,43,15
+221,Chocolate Chip Cookie,,200,10,25,2
+222,Coke Float,,520,22,74,6
+223,Hot Fudge Sundae,,460,23,61,7
+224,Oreo® Ice Cream Sandwich,,240,10,36,4
+225,Root Beer Float,,530,22,78,6
+226,Strawberry Sundae,,300,15,40,4
+227,Brownie Fudge Sundae,,810,41,106,9
+228,Coca-Cola® Classic,20 fl oz glass w/ice,170,0,47,0
+229,Coke Zero®,20 fl oz glass w/ice,0,0,0,0
+230,Diet Coke®,20 fl oz glass w/ice,0,0,0,0
+231,Diet Coke® Caffeine-free,20 fl oz glass w/ice,0,0,0,0
+232,Sprite®,20 fl oz glass w/ice,170,0,45,0
+233,Barq's® Root Beer,20 fl oz glass w/ice,190,0,52,0
+234,Dr Pepper®,20 fl oz glass w/ice,170,0,44,0
+235,Hi-C Flashin' Fruit Punch,20 fl oz glass w/ice,180,0,48,0
+236,Cherry Limeade,20 fl oz glass w/ice,210,0,56,0
+237,Minute Maid Lemonade,20 fl oz glass w/ice,170,0,44,0
+238,Fanta® Orange,20 fl oz glass w/ice,180,0,49,0
+239,Nestle® Pure Life Bottled Water,16.9 fl oz,0,0,0,0
+240,Red Bull® Energy Drink,8.4 fl oz,110,0,28,0
+241,Red Bull® Energy drink Sugar free,8.4 fl oz,10,0,3,0
+242,Iced Tea - Unsweetened,20 fl oz glass w/ice,0,0,1,0
+243,Iced Tea - Sweetened,20 fl oz glass w/ice,170,0,44,0
+244,Hot Tea,8 fl oz mug,0,0,<1,0
+245,Hot Chocolate,8 fl oz mug,110,3.5,17,<1
+246,Premium Blend Coffee - Regular,8 fl oz mug,0,0,0,0
+247,Premium Blend Coffee - Decaf,8 fl oz mug,0,0,0,0
+248,Milk - Reduced fat,12 fl oz glass,150,6,14,10
+249,Chocolate Milk - reduced fat,12 fl oz glass,240,6,28,9
+250,Bagel Sandwich,w/bacon,450,16,51,24
+251,,w/sausage,570,29,50,26
+252,,w/Steakburger,470,18,51,24
+253,Sausage Biscuit,,520,28,30,12
+254,Egg and Cheese Biscuit,,450,30,31,13
+255,Sausage and Egg Biscuit,,600,44,31,19
+256,"Sausage, Egg and Cheese Biscuit",,650,48,31,21
+257,"Bacon, Egg and Cheese Biscuit",,520,35,32,19
+258,Breakfast Bowl,with Hash Browns,420,35,16,10
+259,Breakfast Bowl,,240,18,5,15
+260,Cheddar Scrambler (a la carte),,600,47,10,31
+261,California Skillet,Chicken,670,43,40,42
+262,,Sausage,760,58,28,31
+263,Country Skillet,,1240,94,63,31
+264,Portobello and Swiss Skillet,,1020,83,28,36
+265,Sausage Gravy and Biscuits,(full order),1070,74,86,13
+266,,(half order),540,37,43,7
+267,1 Egg,"over easy, medium, hard",80,5,0,6
+268,,scrambled,80,6,<1,6
+269,2 Eggs,"over easy, medium, hard",150,10,<1,13
+270,,scrambled,160,11,1,13
+271,Side Order Bacon,(2 slices),100,7,<1,8
+272,,(4 slices),200,14,1,16
+273,Side Order Sausage,(1 patty),200,18,0,9
+274,,(2 patties),410,36,<1,17
+275,Side Order Pancakes - a la carte,(2 incl. butter and syrup),540,16,94,6
+276,Side Order Hash Browns,(5 pieces),260,17,23,3
+277,Side Order Shredded Hash Browns,,320,26,19,2
+278,Side Order Biscuit,1,310,20,30,3
+279,Potato and Egg Taco,,120,9,5,4
+280,"Sausage, Egg and Cheese Taco",,180,10,17,6
+281,Toast,Rye (buttered),240,10,30,6
+282,,Sourdough (buttered),230,10,30,5
+283,,Thick White (buttered),260,10,36,6
+284,,Wheat (buttered),210,10,26,5
+285,Pancakes - Bread Side,(2 incl. butter and syrup),430,14,73,3
+286,Blueberry Pancakes,,810,16,150,17
+287,Chocolate Chip Pancakes,,1290,38,224,20
+288,Yogurt Parfait,,210,4,38,7
+289,Minute Maid Orange Juice,,140,0,34,0
+290,Kid's Silver Dollar Pancakes,(3 incl. butter and syrup),490,15,83,5
+291,Kid's Egg (scrambled),Bacon and Toast,250,14,16,13
+292,,Sausage and Toast,300,19,16,13
+293,Kid's Chocolate Chip Pancakes,,630,16,116,9

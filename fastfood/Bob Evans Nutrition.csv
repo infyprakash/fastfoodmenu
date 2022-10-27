@@ -1,0 +1,108 @@
+,Food,Size,Calories,Fat ,Carbs,Protein
+0,Bob Evans Homestyle Fried Chicken (2 Piece Dark),,710,45,43,33
+1,Bob Evans Homestyle Fried Chicken (2 Piece White),,810,47,42,56
+2,Bob Evans Homestyle Fried Chicken (Half Chicken),,1100,65,46,85
+3,Bob Evans Wildfire Meatloaf,,850,54,62,32
+4,Down-Home Country Fried Steak,,730,45,58,25
+5,Fork-Tender Pot Roast,,950,62,62,38
+6,Fork-Tender Pot Roast Savor Size,,620,44,37,20
+7,Heartland Chicken Pot Pie,,1430,87,106,51
+8,Herb Rubbed Turkey & Dressing,,820,40,81,37
+9,"Herb Rubbed Turkey & Dressing
+Savor Size
+",,650,32,67,23
+10,Beef Stroganoff,,740,36,77,30
+11,Chicken Parm Pasta,,630,30,58,33
+12,"Great Alaskan Cod
+",,640,39,39,32
+13,Baked Potato,,330,12,51,6
+14,Bob Evans Signature Coleslaw ,,200,14,19,<1
+15,Bread & Celery Dressing ,,340,15,42,7
+16,Broccoli,,110 ,10,5,3
+17,Carrots,,90 ,4.5,13,<1
+18,Corn,,170,10,20,3
+19,Cornmeal Mush with Butter,,120,6,16,<1
+20,French Fries ,,330,10,47,0
+21,Green Beans w/ Ham,,30,1.5,4,2
+22,Hashbrowns,,220 ,12,28,2
+23,Homefries,,250,17,24,3
+24,Macaroni & Cheese ,,250,12,25,11
+25,Mashed Potatoes & Chicken Gravy,,210,14,19,3
+26,Mashed Potatoes & Country Gravy ,,170,10,17,3
+27,"Load Your Side (Bacon, Cheddar, Sour Cream, Green Onions)
+",,240 ,20,2,13
+28,Grilled to Perfection Chicken(Includes Two Grilled Chicken Breasts),,370 ,9,0,72
+29,Baked Potato ,,330 ,12,51,6
+30,Bob Evans Signature Coleslaw ,,200 ,14,19,<1
+31,Bread & Celery Dressing,,340 ,15,42,7
+32,Broccoli ,,110,10,5,3
+33,Carrots ,,90 ,4.5,13,<1
+34,Corn ,,170,10,20,3
+35,Cornmeal Mush with Butter,,120,6,16,<1
+36,French Fries,,330,14,47,0
+37,Green Beans w/ Ham ,,30,1.5,4,2
+38,Hashbrowns,,220 ,12,28,2
+39,Homefries,,250,17,24,3
+40,Macaroni & Cheese,,250,12,25,11
+41,Mashed Potatoes & Chicken Gravy ,,210 ,14,19,3
+42,Mashed Potatoes & Country Gravy,,170,10,17,3
+43,"Load Your Side (Bacon, Cheddar, Sour Cream, Green Onions)",,240,20,560,13
+44,Cheddar Baked Potato (includes 2 Saltine Crackers),,210,12,16,9
+45,Chicken-N-Noodles (includes 2 Saltine Crackers),,150,7,13,7
+46,Farmhouse Garden Side Salad (no dressing) ,,110,4.5,13,6
+47,Hearty Beef Vegetable (includes 2 Saltine Crackers),,120,2.5,18,7
+48,Caramel Sundae,,170,6,30,3
+49,Chococlate Chunk Cookies,,530,26,68,6
+50,Chococlate Sundae ,,190,8,30,3
+51,Fruit Dish,,60,0,14,<1
+52,Chicken-N-Noodles Deep Dish Dinner,,620,33,54,26
+53,"Herb-Rubbed Turkey & Dressing: Slow Roasted Turkey Breast, Mashed Potatoes & Chicken Gravy, Cranberry
+Orange Relish, Bread & Celery Dressing",,650,32,67,23
+54,"Homestle Fried or Grilled Chicken (Mashed Potatoes and Chicken Gravy)
+",,210,14,19,3
+55,Homestyle Fried Chicken,,280,15,20,17
+56,Grilled Chicken,,190,4.5,0,36
+57,Pasta and Meat Sauce,,660,28,78,24
+58,Baked Potato,,330,12,51,6
+59,Bob Evans Signature Coleslaw,,200,14,19,<1
+60,Bread & Celery Dressing,,340,15,42,7
+61,"Broccoli
+",,110,10 ,5,3
+62,"Carrots
+",,90,4.5,13,<1
+63,Cornmeal Mush with Butter,,120,6,16,<1
+64,French Fries,,330,14,47,0
+65,"Green Beans with Ham
+",,30,1.5,4,2
+66,Hashbrowns,,220,12,28,2
+67,Homefries,,250,17,24,3
+68,Load Your Side With: Bacon,,90,7,<1,6
+69,Load Your Side With: Cheddar Cheese,,110,10,<1,7
+70,"Load Your Side With: Green Onions
+",,0,<1,<1,<1
+71,Load Your Side With: Sour Cream,,30,3,<1,<1
+72,Macaroni & Cheese,,250,12,25,11
+73,Mashed Potatoes & Chicken Gravy,,210,14,19,3
+74,Mashed Potatoes & Country Gravy,,170,10,17,3
+75,Chocolate Peanut Butter Pie Topped With Reese's,Slice ,680,41,74,7
+76,Chocolate Peanut Butter Pie Topped With Reese's,Whole,4010,252,411,40
+77,Coconut Cream Pie,Slice ,600,38,64,4
+78,Coconut Cream Pie,Whole,3610,225,381,22
+79,Chocolate Fudge Sundae,,190,8,30,3
+80,Caramel Sundae,,190,7,31,3
+81,Double-Crust Apple Pie,Slice ,530,24,77,3
+82,Double-Crust Apple Pie,Whole,2990,141,410,16
+83,Pumpkin Pie,Slice ,510,24,73,7
+84,Pumpkin Pie,Whole,3080,146,328,43
+85,Pumpkin Supreme Pie,Slice ,620,38,62,7
+86,Pumpkin Supreme Pie,Whole,3710,228,371,43
+87,Strawberry Supreme Pie,Slice ,590,38,60,38
+88,Strawberry Supreme Pie,Whole,3540,226,358,32
+89,Banana Nut Bread (Two Slices),,420,22,37,5
+90,Biscuits(Two Biscuits with Butter),,520,31,53,7
+91,"Dinner Rolls (Two Dinner Rolls with Butter
+)",,380,17,50,8
+92,Chocolate Chunk Cookie (One Cookie),,520,26,68,6
+93,Peanut Butter Cookie(One Cookie),,530,28,63,9
+94,Pumpkin Bread,Two Slices,370,13,59,5
+95,Pumpkin Bread,Whole Loaf,1840,67,293,27
